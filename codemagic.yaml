@@ -1,18 +1,29 @@
-scripts:
-  - name: Get Flutter packages
-    script: |
-      flutter pub get
+workflows:
+  ios_unsigned:
+    name: iOS Unsigned IPA
+    instance_type: mac_mini_m2
+    max_build_duration: 30
 
-  - name: Build unsigned iOS
-    script: |
-      flutter build ios --release --no-codesign
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
 
-  - name: Package unsigned IPA
-    script: |
-      mkdir -p build/ios/ipa/Payload
-      cp -R build/ios/iphoneos/Runner.app build/ios/ipa/Payload/
-      cd build/ios/ipa
-      zip -r Runner-unsigned.ipa Payload
+    scripts:
+      - name: Get Flutter packages
+        script: |
+          flutter pub get
 
-artifacts:
-  - build/ios/ipa/*.ipa
+      - name: Build unsigned iOS app
+        script: |
+          flutter build ios --release --no-codesign
+
+      - name: Create IPA
+        script: |
+          mkdir -p build/ios/ipa/Payload
+          cp -R build/ios/iphoneos/Runner.app build/ios/ipa/Payload/
+          cd build/ios/ipa
+          zip -r Runner-unsigned.ipa Payload
+
+    artifacts:
+      - build/ios/ipa/*.ipa
