@@ -1,0 +1,18 @@
+scripts:
+  - name: Get Flutter packages
+    script: |
+      flutter pub get
+
+  - name: Build unsigned iOS
+    script: |
+      flutter build ios --release --no-codesign
+
+  - name: Package unsigned IPA
+    script: |
+      mkdir -p build/ios/ipa/Payload
+      cp -R build/ios/iphoneos/Runner.app build/ios/ipa/Payload/
+      cd build/ios/ipa
+      zip -r Runner-unsigned.ipa Payload
+
+artifacts:
+  - build/ios/ipa/*.ipa
