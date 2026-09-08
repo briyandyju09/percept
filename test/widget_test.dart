@@ -1,30 +1,71 @@
-// This is a basic Flutter widget test.
-//
-// To perform an interaction with a widget in your test, use the WidgetTester
-// utility in the flutter_test package. For example, you can send tap and scroll
-// gestures. You can also use WidgetTester to find child widgets in the widget
-// tree, read text, and verify that the values of widget properties are correct.
+// Percept smoke test: boots the real app against a temp Hive directory and
+// confirms a fresh profile lands on the onboarding Welcome screen.
+import 'dart:io';
 
-import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:untitled/main.dart';
+import 'package:hive_ce_flutter/hive_ce_flutter.dart';
+import 'package:percept/app.dart';
+import 'package:percept/data/hive/hive_setup.dart';
+import 'package:percept/data/repositories/content_repository.dart';
+import 'package:percept/hive_registrar.g.dart';
+import 'package:percept/state/repository_providers.dart';
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(const MyApp());
+  late Directory tempDir;
 
-    // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
-    expect(find.text('1'), findsNothing);
-
-    // Tap the '+' icon and trigger a frame.
-    await tester.tap(find.byIcon(Icons.add));
-    await tester.pump();
-
-    // Verify that our counter has incremented.
-    expect(find.text('0'), findsNothing);
-    expect(find.text('1'), findsOneWidget);
+  setUp(() async {
+    tempDir = await Directory.systemTemp.createTemp('percept_test_hive');
+    Hive.init(tempDir.path);
+    Hive.registerAdapters();
+    await Future.wait([
+      Hive.openBox(HiveBoxes.profile),
+      Hive.openBox(HiveBoxes.assessmentResults),
+      Hive.openBox(HiveBoxes.completions),
+      Hive.openBox(HiveBoxes.streak),
+      Hive.openBox(HiveBoxes.dailyMissions),
+      Hive.openBox(HiveBoxes.savedCards),
+      Hive.openBox(HiveBoxes.caseProgress),
+      Hive.openBox(HiveBoxes.progressEntries),
+      Hive.openBox(HiveBoxes.settings),
+    ]);
   });
+
+  tearDown(() async {
+    // Note: intentionally not calling Hive.close() here — on this platform
+    // it hangs waiting on a lock-file handle that never releases inside
+    // the test harness's isolate, even though the app itself works fine
+    // (verified: the widget tree builds and renders correctly before this
+    // teardown ever runs). Each test gets a fresh temp directory via
+    // setUp, so a clean close isn't needed for test isolation here; this
+    // is a best-effort delete only.
+    try {
+      if (await tempDir.exists()) {
+        await tempDir.delete(recursive: true);
+      }
+    } catch (_) {
+      // Best-effort cleanup only.
+    }
+  });
+
+  testWidgets('fresh install lands on the onboarding welcome screen', (
+    tester,
+  ) async {
+    final content = ContentRepository();
+    await content.load();
+
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [contentRepositoryProvider.overrideWithValue(content)],
+        child: const PerceptApp(),
+      ),
+    );
+    // A bounded pump rather than pumpAndSettle(): this screen has no
+    // finite-duration animations to wait out.
+    await tester.pump();
+    await tester.pump(const Duration(milliseconds: 500));
+
+    expect(find.text('Percept'), findsWidgets);
+    expect(find.text('Get Started'), findsOneWidget);
+  }, timeout: const Timeout(Duration(seconds: 20)));
 }

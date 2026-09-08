@@ -4,8 +4,8 @@ import 'package:go_router/go_router.dart';
 
 import '../../routing/route_paths.dart';
 import '../../state/onboarding_providers.dart';
+import '../../state/profile_providers.dart';
 import '../../state/repository_providers.dart';
-import '../../theme/colors.dart';
 import '../../theme/spacing.dart';
 import '../../theme/typography.dart';
 

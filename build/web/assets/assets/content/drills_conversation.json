@@ -1,0 +1,378 @@
+[
+  {
+    "id": "conv_d01",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Pick the response that opens the conversation up rather than closing it down.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d01_q1",
+        "prompt": "A friend says, 'Work has just been a lot lately.' What's the best follow-up?",
+        "type": "multipleChoice",
+        "options": ["What's been going on?", "That sucks.", "Yeah, work is always crazy.", "Have you tried meditating?"],
+        "correctAnswer": "What's been going on?",
+        "explanation": "It's open-ended and invites them to actually say more, instead of closing the topic or redirecting to advice they didn't ask for."
+      },
+      {
+        "id": "conv_d01_q2",
+        "prompt": "A new acquaintance mentions they just moved to town. Which question invites the most useful reply?",
+        "type": "multipleChoice",
+        "options": ["What brought you here?", "Do you like it so far?", "Is it far from where you used to live?", "Did you move alone?"],
+        "correctAnswer": "What brought you here?",
+        "explanation": "It's open-ended and asks for a story, while the others only invite a yes/no or one-fact answer."
+      },
+      {
+        "id": "conv_d01_q3",
+        "prompt": "Someone says, 'I finally finished that big project at work.' Which reply keeps the conversation going best?",
+        "type": "multipleChoice",
+        "options": ["How does it feel to have it done?", "Cool.", "Was it hard?", "Nice, what's next for you then?"],
+        "correctAnswer": "How does it feel to have it done?",
+        "explanation": "It invites reflection and a real answer, staying with the moment they just shared rather than rushing past it to the future."
+      },
+      {
+        "id": "conv_d01_q4",
+        "prompt": "A coworker says, 'My commute has been rough this week.' Best open follow-up?",
+        "type": "multipleChoice",
+        "options": ["What's been going on with it?", "Do you drive or take the train?", "Is it always like that?", "That's annoying."],
+        "correctAnswer": "What's been going on with it?",
+        "explanation": "It directly invites them to explain, rather than asking for a single closed fact or just sympathizing without inviting more."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d02",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "In each exchange, choose the reply that follows the other person's thread instead of changing the subject.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d02_q1",
+        "prompt": "Coworker: 'I almost didn't make it in today, my kid was up sick all night.' Best reply?",
+        "type": "multipleChoice",
+        "options": ["Rough night — is she doing okay now?", "Oh speaking of sick, did you hear Dave has the flu?", "I hate when that happens.", "You still made it though, that's good."],
+        "correctAnswer": "Rough night — is she doing okay now?",
+        "explanation": "It stays with what they just shared and asks about the actual person involved, instead of pivoting to an unrelated topic."
+      },
+      {
+        "id": "conv_d02_q2",
+        "prompt": "Friend: 'I've been stressed about my sister's wedding, there's so much family drama.' Best reply?",
+        "type": "multipleChoice",
+        "options": ["What kind of drama, if you don't mind me asking?", "Weddings are always stressful.", "My cousin's wedding was a disaster too, let me tell you.", "When's the wedding again?"],
+        "correctAnswer": "What kind of drama, if you don't mind me asking?",
+        "explanation": "It follows up on the specific thing they raised — the drama — rather than generalizing or jumping to your own story."
+      },
+      {
+        "id": "conv_d02_q3",
+        "prompt": "Date: 'I used to play violin competitively, actually, back in high school.' Best reply?",
+        "type": "multipleChoice",
+        "options": ["Competitively? What was that like?", "I always wanted to learn guitar.", "That's a very different instrument from guitar.", "Do you still have the violin?"],
+        "correctAnswer": "Competitively? What was that like?",
+        "explanation": "It picks up on the most specific and surprising part of what they said and invites them to say more about it."
+      },
+      {
+        "id": "conv_d02_q4",
+        "prompt": "Sibling: 'Honestly the move has been way more expensive than I planned for.' Best reply?",
+        "type": "multipleChoice",
+        "options": ["What's been costing the most?", "Moving is always expensive, that's normal.", "Anyway, are you coming to the game this weekend?", "You should've budgeted better."],
+        "correctAnswer": "What's been costing the most?",
+        "explanation": "It follows their thread with genuine curiosity instead of dismissing it, changing the subject, or judging them."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d03",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the version of the story opening that's structured to actually hold someone's attention.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d03_q1",
+        "prompt": "Which opening line is structured best for a short, engaging story?",
+        "type": "multipleChoice",
+        "options": [
+          "So we were driving to the airport and everything was fine until the car just died on the highway.",
+          "So this one time our car broke down, let me tell you the whole story about our trip to the airport.",
+          "So basically a lot of stuff happened on the way to the airport that day.",
+          "So the airport trip. Yeah. It was a whole thing."
+        ],
+        "correctAnswer": "So we were driving to the airport and everything was fine until the car just died on the highway.",
+        "explanation": "It sets the scene in one clause and introduces the turn immediately, instead of announcing the story or being vague about what happened."
+      },
+      {
+        "id": "conv_d03_q2",
+        "prompt": "Which version has a clear single turning point rather than a list of events?",
+        "type": "multipleChoice",
+        "options": [
+          "We got to the venue, then we couldn't find parking, then the caterer was late, then it started raining, then eventually it was fine.",
+          "Everything was going smoothly until the caterer called to say they were stuck two hours away — that's when things got interesting.",
+          "It was a really eventful day with a lot of ups and downs, honestly.",
+          "There were multiple problems that day, parking and the caterer being two of them."
+        ],
+        "correctAnswer": "Everything was going smoothly until the caterer called to say they were stuck two hours away — that's when things got interesting.",
+        "explanation": "It isolates one clear moment where things changed, which is what gives a story shape instead of just being a sequence of events."
+      },
+      {
+        "id": "conv_d03_q3",
+        "prompt": "Which line gives away the ending too early, killing the reason to keep listening?",
+        "type": "multipleChoice",
+        "options": [
+          "So this is the story of how I somehow got my flight rebooked for free, it's pretty funny.",
+          "I was standing at the gate when they announced my flight was overbooked.",
+          "We'd just landed and everything seemed normal at first.",
+          "It was a slow Tuesday at the airport, nothing seemed off yet."
+        ],
+        "correctAnswer": "So this is the story of how I somehow got my flight rebooked for free, it's pretty funny.",
+        "explanation": "Announcing the resolution up front removes the suspense that makes a listener want to hear how it happened."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d04",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the exchange, then write a genuinely open-ended follow-up question you could ask next.",
+    "stimulusText": "You're at a work happy hour talking to someone from another team. They say: 'Honestly this year has been a weird one for me professionally.'",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d04_q1",
+        "prompt": "Write an open-ended question that invites them to explain what they meant by 'weird.'",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. What's made it feel weird?",
+        "explanation": "A strong answer uses a 'what' or 'how' opener aimed at their specific word 'weird' rather than asking a yes/no question like 'was it bad?'"
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d05",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then write a message that naturally brings up a detail this person shared with you a few months ago.",
+    "stimulusText": "Three months ago, a coworker mentioned she was training for her first half-marathon in the spring, and that she was nervous about the long-distance runs. It's now spring, and you're about to send her a quick message.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d05_q1",
+        "prompt": "Write a short message that references the half-marathon in a way that feels caring rather than like you're showing off your memory.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. Hey, isn't your half-marathon coming up soon? How's the training been going?",
+        "explanation": "A strong answer names the specific detail (half-marathon/training) and asks how it's going, framed around genuine interest in her rather than as a memory trick."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d06",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read what the other person just said, then write a reply that paraphrases and validates their feeling before adding anything else.",
+    "stimulusText": "A friend says: 'I don't know, I just feel like nobody on the team actually asked what I thought before they changed the whole plan. It's frustrating.'",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d06_q1",
+        "prompt": "Write a reply that paraphrases what you heard and validates how they feel, before offering any opinion or advice.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. That's frustrating — it sounds like you felt left out of the decision entirely, not just disagreed with.",
+        "explanation": "A strong answer restates their specific point (left out of the decision) and names the feeling (frustrating) without jumping to advice or defending the team."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d07",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the response that best builds quick rapport with a stranger.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d07_q1",
+        "prompt": "You're at a party and don't know anyone. Best opener to a stranger standing near the snacks?",
+        "type": "multipleChoice",
+        "options": ["How do you know the host?", "Crazy weather we've been having, huh?", "Do you come to these things a lot?", "This party's pretty packed, isn't it?"],
+        "correctAnswer": "How do you know the host?",
+        "explanation": "It's grounded in something you genuinely both share right now and gives them an easy, specific thing to answer with a real story."
+      },
+      {
+        "id": "conv_d07_q2",
+        "prompt": "The stranger seems a little low-energy and tired. What's the best way to match them early on?",
+        "type": "multipleChoice",
+        "options": ["Mirror their calmer energy rather than being overly loud or upbeat.", "Try to hype them up so the conversation feels more fun.", "Ask if they're okay right away.", "Keep the energy the same regardless of how they seem."],
+        "correctAnswer": "Mirror their calmer energy rather than being overly loud or upbeat.",
+        "explanation": "Matching someone's actual energy first builds trust faster than overshooting it, which can create friction instead of warmth."
+      },
+      {
+        "id": "conv_d07_q3",
+        "prompt": "You've asked a stranger three questions in a row and it's starting to feel like an interview. What should you do?",
+        "type": "multipleChoice",
+        "options": ["Share something small and real about yourself before asking anything else.", "Ask an even more personal question to go deeper.", "Apologize for asking so many questions.", "Stop talking and let them lead."],
+        "correctAnswer": "Share something small and real about yourself before asking anything else.",
+        "explanation": "Offering a piece of yourself turns the exchange back into a two-way conversation instead of a one-sided interrogation."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d08",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Choose the response that's warm and observational rather than a rehearsed performance.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d08_q1",
+        "prompt": "The waiter has refilled one guest's water glass four times during dinner. What's the most authentically charismatic thing to say?",
+        "type": "multipleChoice",
+        "options": [
+          "You have got to be the most hydrated person at this table, four refills and counting.",
+          "So here's a joke I heard about waiters last week...",
+          "Wow, great service tonight.",
+          "I have a whole bit about restaurant service, want to hear it?"
+        ],
+        "correctAnswer": "You have got to be the most hydrated person at this table, four refills and counting.",
+        "explanation": "It's a specific, in-the-moment observation delivered plainly, rather than an imported joke or generic comment that feels performed."
+      },
+      {
+        "id": "conv_d08_q2",
+        "prompt": "You want to make a joke that keeps the mood warm rather than risking someone feeling put down. Best target for the joke?",
+        "type": "multipleChoice",
+        "options": ["Yourself or the shared absurdity of the situation.", "A specific flaw of someone you just met.", "Someone's appearance.", "A mistake someone at the table just made."],
+        "correctAnswer": "Yourself or the shared absurdity of the situation.",
+        "explanation": "Self-directed or situational humor is reliably warm, while jokes at a near-stranger's expense risk making them feel smaller."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d09",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the tense exchange, then write a reply that de-escalates by validating the other person's experience first.",
+    "stimulusText": "You're having a tense conversation with your sibling. They say: 'You always take Mom's side in everything, it's like my opinion doesn't even matter to you.'",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d09_q1",
+        "prompt": "Write a reply that paraphrases their concern and validates it before defending yourself or disagreeing.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. It sounds like you feel like I dismiss your opinion when it's different from Mom's — I can see why that would bother you.",
+        "explanation": "A strong answer restates the specific concern (feeling dismissed, sided with Mom) and validates the feeling before adding a rebuttal or defense."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d10",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "timedPressure",
+    "difficulty": 5,
+    "prompt": "Rapid fire: for each conversational move, decide fast whether it's a good idea or a bad idea. Trust your gut and move quickly.",
+    "stimulusText": "You'll see a series of quick conversational moments. Judge each one as fast as you can.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d10_q1",
+        "prompt": "Someone shares bad news and immediately says 'I'm fine, don't worry about it.' Good move: press gently with 'are you sure? I'm here if you want to talk.'",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "A gentle, low-pressure check-in respects their 'I'm fine' while still leaving the door open, which is usually the right balance."
+      },
+      {
+        "id": "conv_d10_q2",
+        "prompt": "In a negotiation, immediately restating your position more firmly when the other side pushes back is the most effective response.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Escalating your own position tends to escalate theirs too; asking about their underlying need first usually works better."
+      },
+      {
+        "id": "conv_d10_q3",
+        "prompt": "Interrupting someone mid-story to correct a small, unimportant detail is a good conversational habit.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Correcting minor details mid-story derails the storyteller and signals you're tracking accuracy over connection."
+      },
+      {
+        "id": "conv_d10_q4",
+        "prompt": "Paraphrasing someone's complaint back to them before responding to it is a good move in a tense conversation.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Paraphrasing shows you understood them and often lowers the temperature of the conversation before you respond."
+      },
+      {
+        "id": "conv_d10_q5",
+        "prompt": "Saying 'you always do this' during a disagreement is more effective than 'I felt hurt when this happened.'",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "'You always' statements invite defensiveness, while naming your own experience is harder to argue with and less accusatory."
+      },
+      {
+        "id": "conv_d10_q6",
+        "prompt": "Bringing up a hard topic right when someone gets home exhausted from a long day is good timing.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Timing matters — raising a hard topic when someone is already depleted stacks the odds against a good conversation."
+      },
+      {
+        "id": "conv_d10_q7",
+        "prompt": "Asking 'what do you actually need here?' in a negotiation can uncover a solution a pure back-and-forth over positions would miss.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Underlying interests are often more flexible than stated positions, so asking about them can reveal options both sides can accept."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

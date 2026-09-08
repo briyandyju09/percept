@@ -4,7 +4,6 @@ import 'package:go_router/go_router.dart';
 
 import '../../models/dimension_scores.dart';
 import '../../models/discipline.dart';
-import '../../routing/route_paths.dart';
 import '../../state/repository_providers.dart';
 import '../../theme/colors.dart';
 import '../../theme/spacing.dart';

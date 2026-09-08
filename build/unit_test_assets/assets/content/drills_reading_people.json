@@ -1,0 +1,338 @@
+[
+  {
+    "id": "rp_d01",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario. Write one plausible hypothesis, one alternative explanation, and your confidence (as a %) that your hypothesis is correct.",
+    "stimulusText": "During the negotiation, Maya's voice got quieter and she started tapping her pen when the topic of the deadline came up.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d01_q1",
+        "prompt": "What is one plausible hypothesis for this behavior?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. She may feel anxious or pressured about the deadline being tight or unrealistic.",
+        "explanation": "This is a reasonable hypothesis because a quieter voice and a new fidgeting behavior both appeared right when the deadline was raised, suggesting the topic itself may be the trigger. It would be strengthened by seeing the same pattern recur every time deadlines come up, and weakened if she reacts the same way to unrelated topics too."
+      },
+      {
+        "id": "rp_d01_q2",
+        "prompt": "What is at least one alternative explanation?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. She may simply be concentrating hard on mental math about scheduling, or the pen-tapping may be an unrelated habit she does throughout the whole meeting.",
+        "explanation": "Pen-tapping and a quieter voice can both accompany focused thinking rather than discomfort. Without knowing whether this tapping is new or her normal baseline behavior, it's just as plausible that she's calculating logistics as it is that she's anxious."
+      },
+      {
+        "id": "rp_d01_q3",
+        "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
+        "type": "numericInput",
+        "options": [],
+        "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 30-50 range",
+        "explanation": "A single cluster of two co-occurring cues (quieter voice, new fidgeting) around one topic is suggestive but not proof — it hasn't been checked against her baseline or confirmed by other evidence. Confidence in the 30-50% range reflects 'worth a follow-up question' without overclaiming certainty. Confidence above 70% here would outrun the evidence; confidence near 0% would ignore that the timing is genuinely informative."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d02",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario. Write one plausible hypothesis, one alternative explanation, and your confidence (as a %) that your hypothesis is correct.",
+    "stimulusText": "Raj usually answers questions in one or two sentences. When his manager asked whether the client call had gone well, Raj gave a long, meandering answer full of qualifiers like 'for the most part' and 'generally speaking,' and never directly said yes or no.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d02_q1",
+        "prompt": "What is one plausible hypothesis for this behavior?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. The call may not have actually gone well, and Raj is softening or avoiding a direct negative answer.",
+        "explanation": "The shift away from his normal short, direct style, combined with hedging language and an avoided yes/no, is a real deviation from baseline worth noting — it's a reasonable read that something didn't go as planned."
+      },
+      {
+        "id": "rp_d02_q2",
+        "prompt": "What is at least one alternative explanation?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. The call may have had genuinely mixed results — some good, some bad — making a simple yes/no actually inaccurate rather than evasive.",
+        "explanation": "Hedging language sometimes reflects real nuance rather than avoidance. If the outcome truly was mixed, a long qualified answer would be the more honest response, not a less honest one."
+      },
+      {
+        "id": "rp_d02_q3",
+        "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
+        "type": "numericInput",
+        "options": [],
+        "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 35-55 range",
+        "explanation": "The deviation from Raj's baseline communication style is a meaningful signal, which nudges confidence above a coin flip, but hedged language has enough legitimate everyday uses that certainty isn't warranted. A follow-up clarifying question would do more to resolve this than raising confidence further would."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d03",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario. Write one plausible hypothesis, one alternative explanation, and your confidence (as a %) that your hypothesis is correct.",
+    "stimulusText": "During a job interview, the candidate's expression tightened briefly — a quick narrowing of the eyes and a downturned mouth — for less than a second when asked why she left her last position. It disappeared almost immediately and she answered smoothly afterward.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d03_q1",
+        "prompt": "What is one plausible hypothesis for this behavior?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. The question may have touched a sensitive or unresolved feeling about how her last job ended.",
+        "explanation": "A brief facial tightening timed exactly to a specific question is a genuine, catchable signal that something about the topic mattered emotionally, which makes this hypothesis reasonable to hold lightly."
+      },
+      {
+        "id": "rp_d03_q2",
+        "prompt": "What is at least one alternative explanation?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. She may have simply been concentrating on how to phrase a polished, professional answer to a fairly standard interview question.",
+        "explanation": "Interview questions about leaving a job are common and often rehearsed; a flicker of concentration while retrieving a prepared answer looks similar to a flicker of discomfort, and there's no way to tell them apart from the expression alone."
+      },
+      {
+        "id": "rp_d03_q3",
+        "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
+        "type": "numericInput",
+        "options": [],
+        "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 25-45 range",
+        "explanation": "A single, sub-second facial micro-change, however precisely timed, is one of the weakest standalone signals in this discipline — it tells you a moment mattered but not why. Confidence should stay modest until other channels (voice, word choice, follow-up answers) either reinforce or contradict it."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d04",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario. Write one plausible hypothesis, one alternative explanation, and your confidence (as a %) that your hypothesis is correct.",
+    "stimulusText": "Marcus, who is usually animated with his hands while talking, kept his arms folded and his posture stiff throughout the entire budget meeting, especially when the topic of layoffs came up.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d04_q1",
+        "prompt": "What is one plausible hypothesis for this behavior?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. Marcus may feel defensive, guarded, or uncomfortable about the layoffs discussion.",
+        "explanation": "Because folded arms and stiffness are a clear departure from his normal animated baseline, and they intensified around a specific sensitive topic, this is a reasonable candidate hypothesis worth exploring further."
+      },
+      {
+        "id": "rp_d04_q2",
+        "prompt": "What is at least one alternative explanation?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. The room may have been cold, or he may have been nursing a sore shoulder or simply trying to stay physically still to appear professional during a serious topic.",
+        "explanation": "Physical posture is influenced by plenty of mundane factors — temperature, minor pain, or a deliberate choice to look composed during a serious conversation — that have nothing to do with emotional guardedness."
+      },
+      {
+        "id": "rp_d04_q3",
+        "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
+        "type": "numericInput",
+        "options": [],
+        "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 35-55 range",
+        "explanation": "The clear deviation from Marcus's known baseline, plus the topic-specific timing, makes this a moderately strong single signal — stronger than an isolated cue with no baseline comparison, but still short of anything close to certain."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d05",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario. Write one plausible hypothesis, one alternative explanation, and your confidence (as a %) that your hypothesis is correct.",
+    "stimulusText": "A vendor's voice dropped in volume and he paused for nearly two seconds before answering when asked directly about the delayed shipment.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d05_q1",
+        "prompt": "What is one plausible hypothesis for this behavior?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. He may feel responsible or embarrassed about the delay and is bracing to explain it.",
+        "explanation": "A drop in volume paired with a long pause right on a pointed question is a reasonable trigger for this hypothesis, since both changes cluster on the exact moment the sensitive topic was raised."
+      },
+      {
+        "id": "rp_d05_q2",
+        "prompt": "What is at least one alternative explanation?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. He may have been mentally checking his records or timeline before giving an accurate answer, which naturally requires a pause.",
+        "explanation": "A pause before answering a factual question is exactly what you'd expect from someone being careful and accurate, independent of any embarrassment — retrieving specific details takes a moment regardless of how someone feels about the topic."
+      },
+      {
+        "id": "rp_d05_q3",
+        "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
+        "type": "numericInput",
+        "options": [],
+        "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 30-50 range",
+        "explanation": "Voice and pause changes are common across both emotional and purely cognitive explanations, so this pair of cues alone shouldn't push confidence much past the midpoint. What would help is comparing this pause length to how he normally answers factual questions."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d06",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario. Write one plausible hypothesis, one alternative explanation, and your confidence (as a %) that your hypothesis is correct.",
+    "stimulusText": "Asked directly whether she had seen the email before the meeting, Elena said, 'I mean, I generally try to stay on top of things,' rather than answering yes or no, and quickly moved the conversation to the next agenda item.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d06_q1",
+        "prompt": "What is one plausible hypothesis for this behavior?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. She may not have seen the email and is avoiding admitting that directly.",
+        "explanation": "The combination of a vague, self-referential answer that dodges the yes/no and a quick topic change is a cluster of language-avoidance patterns that reasonably supports this hypothesis."
+      },
+      {
+        "id": "rp_d06_q2",
+        "prompt": "What is at least one alternative explanation?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. She may be genuinely unsure whether she saw it (it could have been buried in a long inbox) and is speaking in generalities rather than making a claim she isn't confident is accurate.",
+        "explanation": "Vague answers sometimes reflect genuine uncertainty rather than concealment — someone who isn't sure may reasonably avoid a false-confident yes or no."
+      },
+      {
+        "id": "rp_d06_q3",
+        "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
+        "type": "numericInput",
+        "options": [],
+        "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 40-60 range",
+        "explanation": "Two independent language patterns (a qualifier replacing a direct answer, plus a fast topic change) clustering together is stronger evidence than either alone, which can justify a confidence somewhat above the midpoint — but a cluster of two is still not a cluster large enough, nor corroborated by other channels, to justify high certainty."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d07",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 5,
+    "prompt": "A colleague who is normally quiet and reserved becomes unusually quiet and short with answers every year during the same two-week period. This year that period happens to coincide with a major project deadline. A teammate says, 'It's obviously the deadline stressing him out.' What is the strongest response?",
+    "stimulusText": "A colleague who is normally quiet and reserved becomes unusually quiet and gives short answers every year during the same two-week period, and this year that period coincides with a major project deadline.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d07_q1",
+        "prompt": "Which response best reflects sound reasoning here?",
+        "type": "multipleChoice",
+        "options": [
+          "Note that this withdrawal recurs every year regardless of workload, which is at least as good an explanation as this year's deadline, and treat the deadline theory as only one competing hypothesis rather than the obvious answer.",
+          "Agree that the deadline must be the cause, since it's the most immediate and visible stressor happening right now.",
+          "Conclude he's underperforming due to stress and quietly reassign some of his work without asking him anything.",
+          "Decide the yearly pattern is just a coincidence and ignore it, focusing only on this year's deadline as the explanation."
+        ],
+        "correctAnswer": "Note that this withdrawal recurs every year regardless of workload, which is at least as good an explanation as this year's deadline, and treat the deadline theory as only one competing hypothesis rather than the obvious answer.",
+        "explanation": "This scenario is a caution against reaching for the most immediately available explanation just because it's the one on your mind. A recurring annual pattern that predates this year's deadline fits the evidence at least as well as the deadline theory, so the disciplined move is to hold the deadline hypothesis alongside a real alternative rather than treating it as settled."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d08",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "During a group presentation, one team member kept adjusting his glasses and touching his collar throughout his segment, far more than the other presenters did during theirs. Someone says, 'He's clearly nervous about this presentation.' What is the best next step?",
+    "stimulusText": "During a group presentation, one team member kept adjusting his glasses and touching his collar throughout his entire five-minute segment, far more than the other presenters did during theirs.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d08_q1",
+        "prompt": "What is the best next step after this observation?",
+        "type": "multipleChoice",
+        "options": [
+          "Treat nervousness as one plausible hypothesis, but also consider mundane causes like ill-fitting glasses or an uncomfortable collar, and look for other signals (voice, pace, content) before concluding anything.",
+          "Tell him afterward that he seemed very nervous and should work on his confidence, since the gestures were clearly more frequent than his peers'.",
+          "Conclude he doesn't know the material well, since fidgeting during a presentation usually signals a lack of preparation.",
+          "Ignore the gestures entirely, since self-touching behavior never carries any useful information."
+        ],
+        "correctAnswer": "Treat nervousness as one plausible hypothesis, but also consider mundane causes like ill-fitting glasses or an uncomfortable collar, and look for other signals (voice, pace, content) before concluding anything.",
+        "explanation": "Elevated self-touching relative to peers in the same setting is a reasonable comparison point and does make some form of nervousness a fair hypothesis. But physical discomfort from clothing or accessories can look identical, so the sound move is to hold the hypothesis loosely, name the alternative, and look for corroborating signals rather than delivering feedback as if the cause were settled."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "rp_d09",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Someone points out that a person's arms are crossed and says, 'They must be closed off and defensive.' What is the best next step?",
+    "stimulusText": "A colleague crosses their arms while listening to a proposal in a meeting.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d09_q1",
+        "prompt": "What is the best next step after this observation?",
+        "type": "multipleChoice",
+        "options": [
+          "Look for a cluster of other signals and consider alternative explanations (e.g. the room is cold, or this is simply how they always sit) before drawing any conclusion.",
+          "Announce confidently that the person disagrees with the proposal, since crossed arms are a well-known sign of resistance.",
+          "Avoid raising the proposal again for the rest of the meeting, since the person has clearly rejected it.",
+          "Assume the crossed arms are meaningless and stop paying attention to body language for the rest of the meeting."
+        ],
+        "correctAnswer": "Look for a cluster of other signals and consider alternative explanations (e.g. the room is cold, or this is simply how they always sit) before drawing any conclusion.",
+        "explanation": "A single posture cue like crossed arms has many possible causes, from being cold to simple habit to genuine discomfort with the topic. The disciplined move is to treat it as one weak data point, actively generate an alternative explanation, and look for other corroborating signals rather than either overreacting or dismissing it entirely."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "rp_d10",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "A team member avoids eye contact while answering a question about a missed deadline. A colleague says, 'He won't look me in the eye — he's definitely lying.' What's the strongest response?",
+    "stimulusText": "During a status update, a team member looks down at his notes rather than making eye contact while explaining why a deadline was missed.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "rp_d10_q1",
+        "prompt": "Which response best reflects sound reasoning about this cue?",
+        "type": "multipleChoice",
+        "options": [
+          "Point out that avoiding eye contact has many explanations (reading notes, natural shyness, cultural norms around eye contact) and that lying can't be concluded from this alone.",
+          "Agree, since avoiding eye contact is one of the most reliable signs of dishonesty across all people.",
+          "Conclude he's lying, but decide not to say anything about it directly.",
+          "Assume eye contact never means anything and ignore it as a signal entirely going forward."
+        ],
+        "correctAnswer": "Point out that avoiding eye contact has many explanations (reading notes, natural shyness, cultural norms around eye contact) and that lying can't be concluded from this alone.",
+        "explanation": "There is no single universal 'tell' for lying, and avoiding eye contact is one of the most commonly overstated cues in popular myth. It can reflect looking at notes, general shyness, cultural differences in eye contact norms, or genuine discomfort unrelated to honesty. The sound response names plausible alternatives rather than treating the cue as diagnostic, without swinging to the opposite extreme of ignoring body language altogether."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

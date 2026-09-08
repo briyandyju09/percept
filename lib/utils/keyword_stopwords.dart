@@ -17,8 +17,8 @@ const Set<String> kStopwords = {
   'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that',
   'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been',
   'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing',
-  'is', "i'm", "you're", "it's", "don't", "didn't", "isn't", "wasn't",
-  'really', 'just', 'like', 'well', 'yeah', 'okay', 'ok',
+  "i'm", "you're", "it's", "don't", "didn't", "isn't", "wasn't",
+  'really', 'like', 'well', 'yeah', 'okay', 'ok',
 };
 
 /// Lowercases, strips punctuation, and removes stopwords — the single

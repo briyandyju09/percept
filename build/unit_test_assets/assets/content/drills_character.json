@@ -1,0 +1,242 @@
+[
+  {
+    "id": "char_d01",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then write how you'd actually respond in the moment.",
+    "stimulusText": "In a team meeting, a coworker describes an idea you came up with in a private conversation last week as their own. The room reacts well to it. No one else was in that conversation.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d01_q1",
+        "prompt": "What would a response driven by integrity (not just what's easiest) look like here?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A response that raises the origin of the idea calmly and factually, in the moment or shortly after, not to punish the coworker but so the record is accurate — without exaggerating the slight or making it about ego.",
+        "explanation": "Integrity here means caring about the truth of the situation more than about being liked or avoiding an awkward moment."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d02",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Think through the scenario and describe the response that reflects patience and honest forgiveness, not just silent tolerance.",
+    "stimulusText": "A close friend cancels plans with you for the third time this month, again with only an hour's notice and a vague excuse.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d02_q1",
+        "prompt": "What does a genuinely forgiving, rather than silently resentful, response look like, and what does it not look like?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "It looks like naming the pattern honestly and directly, e.g. 'this is the third time, and it's starting to feel like I'm not a priority,' without punishing them with coldness or quietly keeping score. It doesn't look like pretending it's fine while resentment builds underneath.",
+        "explanation": "Real forgiveness is compatible with honesty about impact; it isn't the same thing as silence."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d03",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Choose the response that best demonstrates humility.",
+    "stimulusText": "A project you led just succeeded, and a colleague asks you what made it work.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d03_q1",
+        "prompt": "Which response best demonstrates humility?",
+        "type": "multipleChoice",
+        "options": [
+          "\"Honestly, it was mostly the team — Sam's late nights on the data and Priya's client relationship saved us more than once.\"",
+          "\"I built a system that just works. I knew this would succeed from the start.\"",
+          "\"I don't really deserve credit, I got lucky, I'm not good at this kind of thing.\"",
+          "\"We all worked hard, but let's be honest, without my direction this fails.\""
+        ],
+        "correctAnswer": "\"Honestly, it was mostly the team — Sam's late nights on the data and Priya's client relationship saved us more than once.\"",
+        "explanation": "Humility is accurately naming others' contributions, not self-erasure or false modesty — it's confidence that doesn't need to be the center of the story."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "char_d04",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Work through the scenario honestly before you answer.",
+    "stimulusText": "You send a client an estimate with a calculation error that undercharges them significantly. Your manager hasn't noticed, and the client hasn't responded yet. Fixing it means admitting the mistake and possibly losing the deal.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d04_q1",
+        "prompt": "What would proactive honesty require here, beyond simply not lying if asked directly?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Proactively telling your manager and the client about the error before anyone else finds it, rather than waiting to see if it goes unnoticed — because honesty isn't just refusing to lie when asked, it's volunteering the truth when staying quiet would be easier and self-serving.",
+        "explanation": "Everyday honesty is most tested in silence, not in direct questions — what you choose to volunteer reveals more than what you admit when caught."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d05",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Choose the response that best demonstrates empathy in action, not just empathy as a feeling.",
+    "stimulusText": "A coworker seems distracted and short-tempered all day. You don't know why.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d05_q1",
+        "prompt": "Which response best demonstrates empathy as an action, not just a feeling?",
+        "type": "multipleChoice",
+        "options": [
+          "Privately ask, \"You've seemed a little off today — is everything okay, or is there anything I can take off your plate?\"",
+          "Feel bad for them internally but say nothing so you don't intrude.",
+          "Tell other coworkers you're worried about them so someone else does something.",
+          "Avoid them for the day so you don't accidentally make things worse."
+        ],
+        "correctAnswer": "Privately ask, \"You've seemed a little off today — is everything okay, or is there anything I can take off your plate?\"",
+        "explanation": "Empathy that stays internal doesn't help anyone — it has to become a visible, low-pressure act of checking in."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "char_d06",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "This one takes real thought. Sit with it before you answer.",
+    "stimulusText": "In a group decision at work, everyone seems to be agreeing quickly on a plan you think has a serious flaw. Pointing it out means slowing things down, looking difficult, and possibly being wrong in front of everyone.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d06_q1",
+        "prompt": "What does ordinary courage look like in this exact moment, and what excuse would you be tempted to use to avoid it?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Courage here looks like saying, calmly and specifically, 'before we lock this in, can I raise one concern?' and stating the flaw plainly, even if you turn out to be wrong — not staying silent under cover of 'everyone else seems fine with it' or 'it's not my place.'",
+        "explanation": "Most courage isn't dramatic — it's the small discomfort of being the one voice that slows a room down."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "char_d07",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Picture the moment in detail, then answer.",
+    "stimulusText": "A family member makes an offhand comment that hits a sore spot for you, in front of other people. Your first instinct is to snap back.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d07_q1",
+        "prompt": "What would a composed, self-aware response look like in the five seconds after the comment lands?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Noticing the flash of irritation without acting on it immediately — pausing, letting the urge to retaliate pass, and then either letting the comment go or addressing it calmly later in private, rather than escalating in the moment in front of others.",
+        "explanation": "Self-awareness is noticing the emotion as it happens; composure is the discipline of not being run by it."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d08",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Pick the example of genuine, practiced gratitude, not the performative version.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d08_q1",
+        "prompt": "Which of these best reflects genuine, practiced gratitude rather than a performed mood?",
+        "type": "multipleChoice",
+        "options": [
+          "Texting a mentor a specific detail about how their advice actually changed a decision you made, months after they gave it.",
+          "Posting \"grateful for my amazing life\" with a sunset photo after a great weekend.",
+          "Saying \"thanks so much\" reflexively to everyone, including people who didn't really do anything.",
+          "Feeling thankful internally when things go well, without ever mentioning it to anyone."
+        ],
+        "correctAnswer": "Texting a mentor a specific detail about how their advice actually changed a decision you made, months after they gave it.",
+        "explanation": "Practiced gratitude is specific and effortful — it names exactly what someone did and why it mattered, on an ordinary day, not just when you're already feeling good."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "char_d09",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Consider the scenario honestly, including the version of yourself that would rather stay quiet.",
+    "stimulusText": "Your team finishes a project and gets praised in front of leadership. In reality, two other teammates did most of the difficult work while you handled a smaller, easier piece — but the praise is directed mostly at you because you presented the final result.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d09_q1",
+        "prompt": "What does integrity require here, when no one would ever find out if you just accepted the credit?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Actively redirecting the credit in the moment, naming which teammates did the harder work specifically, in front of the same leadership, rather than passively accepting praise you know is misplaced, even though staying quiet costs you nothing visible.",
+        "explanation": "Integrity is most visible in the moments where the only enforcement mechanism is your own conscience."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d10",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Choose the response that best demonstrates resilience after rejection, not denial or bitterness.",
+    "stimulusText": "You didn't get a job or opportunity you prepared hard for and genuinely wanted.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d10_q1",
+        "prompt": "Which response best demonstrates resilience, as opposed to denial or bitterness?",
+        "type": "multipleChoice",
+        "options": [
+          "Letting yourself feel disappointed, then asking for honest feedback on what you could improve, and applying it to the next attempt.",
+          "Deciding the process was rigged and the people who chose someone else don't know what they're doing.",
+          "Telling yourself you didn't really want it anyway so it doesn't have to hurt.",
+          "Avoiding similar opportunities going forward so you can't be rejected again."
+        ],
+        "correctAnswer": "Letting yourself feel disappointed, then asking for honest feedback on what you could improve, and applying it to the next attempt.",
+        "explanation": "Resilience isn't refusing to feel the loss — it's feeling it fully and still choosing to extract something useful from it."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

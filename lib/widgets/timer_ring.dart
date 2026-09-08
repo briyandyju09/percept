@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:flutter/cupertino.dart';
-import '../theme/colors.dart';
+import '../theme/typography.dart';
 
 /// A calm countdown ring used by Observation Sprints, breathing drills,
 /// and pressure drills. No urgency-red flashing — the ring simply drains,

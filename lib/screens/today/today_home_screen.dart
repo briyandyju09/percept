@@ -4,7 +4,6 @@ import 'package:go_router/go_router.dart';
 
 import '../../routing/route_paths.dart';
 import '../../state/daily_mission_providers.dart';
-import '../../state/repository_providers.dart';
 import '../../theme/colors.dart';
 import '../../theme/spacing.dart';
 import '../../theme/typography.dart';
@@ -18,7 +17,6 @@ class TodayHomeScreen extends ConsumerWidget {
     final items = ref.watch(dailyMissionProvider);
     final notifier = ref.read(dailyMissionProvider.notifier);
     final streak = ref.watch(streakRecordProvider);
-    final content = ref.read(contentRepositoryProvider);
 
     return CupertinoPageScaffold(
       backgroundColor: context.perceptBackground,

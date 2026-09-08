@@ -1,0 +1,167 @@
+[
+  {
+    "id": "assess_mem01",
+    "dimension": "memory",
+    "type": "memoryRecall",
+    "prompt": "Study this list of 10 everyday objects for 30 seconds. When you're ready, look away and write down as many as you can recall, in any order.",
+    "stimulus": "",
+    "stimulusList": ["red umbrella", "brass key", "wool scarf", "ceramic mug", "silver whistle", "leather wallet", "green kite", "wooden spoon", "glass marble", "canvas backpack"],
+    "options": [],
+    "correctAnswer": "red umbrella, brass key, wool scarf, ceramic mug, silver whistle, leather wallet, green kite, wooden spoon, glass marble, canvas backpack (partial recall is scored proportionally; order does not matter)",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_mem02",
+    "dimension": "memory",
+    "type": "memoryRecall",
+    "prompt": "Study this list of 12 words for 30 seconds, paying attention to the order. Then look away and answer: what was the 5th word in the list?",
+    "stimulus": "",
+    "stimulusList": ["lantern", "river", "pencil", "tiger", "anchor", "violin", "pepper", "compass", "ladder", "frost", "turtle", "copper"],
+    "options": [],
+    "correctAnswer": "anchor",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_mem03",
+    "dimension": "memory",
+    "type": "memoryRecall",
+    "prompt": "Study this list of 9 grocery items for 30 seconds. Then, without looking back, count backward from 20 to 1 in your head, and only after that try to recall the list.",
+    "stimulus": "",
+    "stimulusList": ["oat milk", "cinnamon", "garlic", "spinach", "salmon", "walnuts", "yogurt", "basil", "lemons"],
+    "options": [],
+    "correctAnswer": "oat milk, cinnamon, garlic, spinach, salmon, walnuts, yogurt, basil, lemons (partial recall after the distractor task is scored proportionally)",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_obs01",
+    "dimension": "observation",
+    "type": "observationRecall",
+    "prompt": "Read the scene once, then look away and answer: what was written on the chalkboard menu?",
+    "stimulus": "You walk into a small cafe. A barista in a green apron is steaming milk behind the counter. Near the window, a man in a gray coat reads a folded newspaper, his coffee untouched beside him. Two students share a table, one typing on a laptop with a cracked corner, the other scrolling on her phone. A dog leash is looped around a chair leg near the door, but no dog is visible. A chalkboard menu lists 'Today's soup: tomato basil.' The clock on the wall reads 10:15.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "Today's soup: tomato basil",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_obs02",
+    "dimension": "observation",
+    "type": "observationRecall",
+    "prompt": "Read the scene once, then look away and answer: what detail in the scene is inconsistent or doesn't quite fit?",
+    "stimulus": "A jogger runs past a parked delivery van with its hazard lights blinking. The van's back doors are open, and a stack of unmarked boxes sits on the curb. Fifteen feet away, a parking meter reads 'EXPIRED' in red, though a ticket is tucked under the van's wiper. A store window behind the van advertises '50% off winter coats,' though the mannequins in the window are dressed in short sleeves. A cyclist waits at the crosswalk, one earbud in, checking his watch.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "The store advertises a winter coat sale, but the mannequins in the display window are dressed in short sleeves — a seasonal mismatch.",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_obs03",
+    "dimension": "observation",
+    "type": "observationRecall",
+    "prompt": "Read the scene once, then look away and answer: how many chairs line the wall, and what color pattern do they follow?",
+    "stimulus": "In a waiting room, six chairs line the wall, alternating blue and gray. A woman in the second chair from the left reads a paperback with a torn cover. Next to her, an empty chair holds a folded newspaper. A man near the door taps his foot and checks his phone every few seconds. A reception desk sits opposite the chairs, with a bell and a sign-in clipboard. A potted plant with yellowing leaves stands in the corner nearest the window.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "Six chairs, alternating blue and gray.",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_soc01",
+    "dimension": "socialIntelligence",
+    "type": "socialResponse",
+    "prompt": "Write, in 2-4 sentences, how you would approach this situation.",
+    "stimulus": "A coworker you don't know well seems to be avoiding eye contact and giving unusually short answers today, which isn't like them. You need to ask them for a small favor this afternoon.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "e.g., A strong response acknowledges the shift without diagnosing it aloud (\"hey, you doing okay today?\") before making any ask, stays genuinely open to a brief \"I'm fine,\" and either delays the favor or frames it as easily declinable (\"no worries if today's bad timing\"). It shows attentiveness to the coworker's state rather than pursuing the original agenda regardless.",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_soc02",
+    "dimension": "socialIntelligence",
+    "type": "socialResponse",
+    "prompt": "Write, in 2-4 sentences, what you would do, if anything, in the next few minutes.",
+    "stimulus": "At a group dinner, you tell a story and notice one friend, normally talkative, has said almost nothing for the last ten minutes and is looking at their phone under the table. Everyone else at the table is engaged and laughing.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "e.g., A strong response might involve a low-key private check-in later, or a brief inclusive gesture in the moment (\"what do you think?\") without singling the friend out publicly. It avoids the two extremes of ignoring it entirely or calling it out in front of the group in a way that would embarrass them.",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_soc03",
+    "dimension": "socialIntelligence",
+    "type": "socialResponse",
+    "prompt": "Write, in 2-4 sentences, how you would respond.",
+    "stimulus": "A friend asks for your honest opinion on a business idea you think is genuinely weak. They seem excited and have already quit a stable freelance job to pursue it.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "e.g., A strong response is specific about the actual weaknesses rather than vague discouragement or false enthusiasm, acknowledges the real risk they've already taken, and separates \"the idea has gaps\" from \"you were foolish to try\" — respecting their agency while still giving them real information instead of comfortable agreement.",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_emo01",
+    "dimension": "composure",
+    "type": "emotionalReaction",
+    "prompt": "What would your instinctive first reaction be, and what would you actually say or do? Answer in 2-3 sentences.",
+    "stimulus": "You've been waiting 40 minutes past a scheduled meeting time with a colleague. When they finally arrive, they offer no apology or explanation and immediately start talking about the agenda as if nothing happened.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "e.g., A composed response separates the instinctive irritation (privately naming it: \"I'm annoyed about the wait\") from the outward action, which might be a brief neutral note (\"let's dive in, though I do want a few minutes at the end\") rather than either silently stewing through the whole meeting or opening with a confrontation about the lateness.",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_emo02",
+    "dimension": "composure",
+    "type": "emotionalReaction",
+    "prompt": "What would your first instinct be, and what would you actually do? Answer in 2-3 sentences.",
+    "stimulus": "In a group text, someone shares an update that includes a factual error about something you contributed to, making your work look sloppy. Several people have already replied with sympathetic comments to the wrong version.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "e.g., A strong response corrects the factual record clearly and without heat (\"quick correction, the actual numbers were X\") rather than either letting the misinformation stand out of conflict-avoidance, or responding with visible defensiveness or anger in the group thread.",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_emo03",
+    "dimension": "composure",
+    "type": "emotionalReaction",
+    "prompt": "What's your instinctive reaction, and what, if anything, would you say?",
+    "stimulus": "A stranger cuts sharply in front of you in a long line, then acts as if they were always standing there when another person questions it.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "e.g., A composed answer separates the flash of anger from the action taken, and if anything is said, keeps it low-key and factual (\"the line actually starts back there\") rather than escalating into a public argument over something low-stakes.",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_rsn01",
+    "dimension": "reasoning",
+    "type": "reasoningPuzzle",
+    "prompt": "Read the two facts below and determine which single meeting time can be assigned with certainty, and to whom.",
+    "stimulus": "Three colleagues, Priya, Marcus, and Wren, each prefer a different meeting time: morning, midday, or evening. Fact 1: Priya refuses anything before noon. Fact 2: Marcus always meets earlier in the day than Wren.",
+    "stimulusList": [],
+    "options": ["Priya meets in the morning", "Marcus meets in the morning", "Wren meets in the morning", "Cannot be determined from these facts"],
+    "correctAnswer": "Marcus meets in the morning. Priya can't take morning (she refuses anything before noon), and Wren can't take morning either, since Marcus must be earlier than Wren, and morning is the earliest slot available. By elimination, Marcus must be the one meeting in the morning.",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_rsn02",
+    "dimension": "reasoning",
+    "type": "reasoningPuzzle",
+    "prompt": "Explain the minimum number of weighings needed to guarantee finding the counterfeit coin, and describe your first weighing.",
+    "stimulus": "You have 8 identical-looking coins. Exactly one is counterfeit and slightly lighter than the rest. You have a balance scale with no weights, only two pans.",
+    "stimulusList": [],
+    "options": [],
+    "correctAnswer": "2 weighings. First, weigh 3 coins against 3 coins, setting the remaining 2 aside. If the two sides balance, the counterfeit is one of the 2 set-aside coins; weigh those two against each other to find the lighter one. If one side is lighter, the counterfeit is among that group of 3; weigh any 2 of those 3 against each other (if they balance, the third coin is the counterfeit; if not, the lighter one is).",
+    "scoringWeight": 1
+  },
+  {
+    "id": "assess_rsn03",
+    "dimension": "reasoning",
+    "type": "reasoningPuzzle",
+    "prompt": "Solve the puzzle below.",
+    "stimulus": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
+    "stimulusList": [],
+    "options": ["$0.05", "$0.10", "$1.00", "$0.55"],
+    "correctAnswer": "$0.05. If the ball costs x, the bat costs x + $1.00, and together they total 2x + $1.00 = $1.10, so x = $0.05. (The common but incorrect intuitive answer is $0.10.)",
+    "scoringWeight": 1
+  }
+]

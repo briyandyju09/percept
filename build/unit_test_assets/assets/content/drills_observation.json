@@ -1,0 +1,261 @@
+[
+  {
+    "id": "obs_d01",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "prompt": "Study the desk scene below for 15 seconds. When it disappears, answer what you remember.",
+    "stimulusText": "A wooden desk sits by a window. On its surface: a closed laptop with a silver cover, a white ceramic mug half-full of coffee sitting on a cork coaster, and a stack of three paperback books, the top one with a bright red cover. A green desk lamp is switched off. To the left of the laptop lies a black ballpoint pen. A single potted succulent sits in the far corner of the desk, near a small brass alarm clock reading 9:15.",
+    "stimulusFacts": [
+      "the laptop has a silver cover and is closed",
+      "the mug is white ceramic and sits on a cork coaster",
+      "there are three paperback books stacked",
+      "the top book has a red cover",
+      "the desk lamp is green and switched off",
+      "a black pen lies to the left of the laptop",
+      "a potted succulent sits in the far corner of the desk",
+      "the brass alarm clock reads 9:15"
+    ],
+    "stimulusSeconds": 15,
+    "questions": [
+      {"id": "obs_d01_q1", "prompt": "How many paperback books were stacked on the desk?", "type": "numericInput", "options": [], "correctAnswer": "3", "explanation": "The scene described a stack of three paperbacks with a red-covered book on top."},
+      {"id": "obs_d01_q2", "prompt": "What color was the top book's cover?", "type": "multipleChoice", "options": ["Red", "Blue", "Green", "Black"], "correctAnswer": "Red", "explanation": "Bright colors on top of a stack are easy anchor points — naming them as you scan makes them stick."},
+      {"id": "obs_d01_q3", "prompt": "What time did the alarm clock read?", "type": "textInput", "options": [], "correctAnswer": "9:15", "explanation": "Small numeric details like clock faces are often skipped in a first glance because they take an extra beat to read."},
+      {"id": "obs_d01_q4", "prompt": "True or False: the desk lamp was switched on.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "The lamp was described as switched off — noticing the absence of light is as useful as noticing its presence."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "obs_d02",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "prompt": "Study the street corner scene below for 15 seconds, then answer from memory.",
+    "stimulusText": "At a quiet street corner, a red stop sign stands beside a blue mailbox. A woman in a yellow raincoat waits at the curb, holding a black umbrella that is closed. Behind her, a bicycle with a wicker basket leans against a lamppost. Two pigeons peck at the ground near a storm drain. A green sedan is parked directly beneath a 'No Parking' sign.",
+    "stimulusFacts": [
+      "the stop sign is red and the mailbox is blue",
+      "the woman's raincoat is yellow",
+      "her umbrella is black and closed",
+      "a bicycle with a wicker basket leans against a lamppost",
+      "two pigeons peck near a storm drain",
+      "a green sedan is parked beneath a 'No Parking' sign"
+    ],
+    "stimulusSeconds": 15,
+    "questions": [
+      {"id": "obs_d02_q1", "prompt": "What color was the woman's raincoat?", "type": "multipleChoice", "options": ["Yellow", "Red", "Blue", "Green"], "correctAnswer": "Yellow", "explanation": "Clothing color is one of the fastest details to register — and one of the fastest to forget without a deliberate label."},
+      {"id": "obs_d02_q2", "prompt": "How many pigeons were near the storm drain?", "type": "numericInput", "options": [], "correctAnswer": "2", "explanation": "Small counts of background animals or objects are a common blind spot when attention is on the person in the foreground."},
+      {"id": "obs_d02_q3", "prompt": "What was parked beneath the 'No Parking' sign?", "type": "multipleChoice", "options": ["A bicycle", "A green sedan", "A mailbox", "A motorcycle"], "correctAnswer": "A green sedan", "explanation": "Pairing an object with the sign or landmark nearest it gives you a location anchor that's easy to recall later."},
+      {"id": "obs_d02_q4", "prompt": "True or False: the woman's umbrella was open.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "The umbrella was closed — a state easy to assume incorrectly if you register 'umbrella' without registering its condition."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "obs_d03",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 2,
+    "prompt": "Study this description of a man's appearance for 12 seconds, then answer from memory.",
+    "stimulusText": "A man stands near the office entrance wearing a charcoal-gray suit jacket over a light-blue dress shirt, no tie. His shoes are brown leather oxfords, slightly scuffed at the left toe. A silver watch sits on his left wrist, and he carries a black leather messenger bag over his right shoulder. A small enamel pin shaped like a compass is fastened to his lapel. His hair is closely cropped and graying at the temples.",
+    "stimulusFacts": [
+      "suit jacket is charcoal-gray, shirt is light-blue, no tie",
+      "shoes are brown leather oxfords, scuffed at the left toe",
+      "a silver watch is on his left wrist",
+      "a black leather messenger bag hangs over his right shoulder",
+      "a compass-shaped enamel pin is on his lapel",
+      "his hair is closely cropped and graying at the temples"
+    ],
+    "stimulusSeconds": 12,
+    "questions": [
+      {"id": "obs_d03_q1", "prompt": "What shape was the lapel pin?", "type": "multipleChoice", "options": ["Compass", "Star", "Anchor", "Feather"], "correctAnswer": "Compass", "explanation": "Small accessories are exactly the kind of detail a rushed glance skips — they reward a deliberate second pass."},
+      {"id": "obs_d03_q2", "prompt": "Which shoulder was the messenger bag worn on?", "type": "multipleChoice", "options": ["Left shoulder", "Right shoulder", "Across his chest", "He wasn't carrying one"], "correctAnswer": "Right shoulder", "explanation": "Noting which side of the body carries an item is a habit worth building before you ever try to interpret it."},
+      {"id": "obs_d03_q3", "prompt": "Which wrist was the watch on?", "type": "textInput", "options": [], "correctAnswer": "left", "explanation": "Left-right details are easy to reverse in memory unless you tag them explicitly as you look."},
+      {"id": "obs_d03_q4", "prompt": "True or False: he was wearing a tie.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "The shirt was open-collared with no tie — absence of an expected item is a detail worth noticing, not just presence."},
+      {"id": "obs_d03_q5", "prompt": "Which shoe had the scuff mark?", "type": "multipleChoice", "options": ["Left toe", "Right toe", "Left heel", "Right heel"], "correctAnswer": "Left toe", "explanation": "This is what to notice, not what it means: a scuff is a fact about wear, not evidence of character."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d04",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 2,
+    "prompt": "Study the living room scene for 12 seconds, then answer from memory.",
+    "stimulusText": "A living room holds a gray sectional sofa with four throw pillows — two navy, one mustard yellow, one striped. A glass coffee table sits atop a round jute rug, holding a stack of magazines and a lit candle in a black jar. Above the fireplace hangs a framed painting of mountains. A tall bookshelf against the far wall holds exactly twelve books and a small brass telescope on its middle shelf. A gray cat sleeps on the windowsill.",
+    "stimulusFacts": [
+      "the sofa is gray with four throw pillows: two navy, one mustard yellow, one striped",
+      "the glass coffee table sits on a round jute rug",
+      "the coffee table holds magazines and a lit candle in a black jar",
+      "the painting above the fireplace shows mountains",
+      "the bookshelf holds twelve books and a brass telescope on the middle shelf",
+      "a gray cat sleeps on the windowsill"
+    ],
+    "stimulusSeconds": 12,
+    "questions": [
+      {"id": "obs_d04_q1", "prompt": "How many throw pillows were on the sofa?", "type": "numericInput", "options": [], "correctAnswer": "4", "explanation": "Counting items in a cluster is easier if you group them by feature (color, pattern) rather than counting one by one."},
+      {"id": "obs_d04_q2", "prompt": "How many books were on the bookshelf?", "type": "numericInput", "options": [], "correctAnswer": "12", "explanation": "Exact counts of many similar objects are hard to hold in peripheral awareness — this is a genuinely difficult recall, not a careless miss."},
+      {"id": "obs_d04_q3", "prompt": "What sat on the middle shelf besides books?", "type": "multipleChoice", "options": ["A brass telescope", "A candle", "A cat", "A clock"], "correctAnswer": "A brass telescope", "explanation": "An object that doesn't belong with its surroundings (a telescope among books) is naturally easier to recall than one that blends in."},
+      {"id": "obs_d04_q4", "prompt": "What was the subject of the painting above the fireplace?", "type": "multipleChoice", "options": ["Mountains", "Ocean", "A portrait", "Abstract shapes"], "correctAnswer": "Mountains", "explanation": "Wall art tends to sit in peripheral vision during a scan — this question rewards widening your gaze, not just fixating on furniture."},
+      {"id": "obs_d04_q5", "prompt": "True or False: the candle jar was black.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "True", "explanation": "Small color details on small objects are a common place peripheral awareness training pays off."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d05",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "recallQuiz",
+    "difficulty": 2,
+    "prompt": "Memorize the order of the eight items below. You'll be asked to recall specific positions.",
+    "stimulusText": "You are shown a delivery checklist, read top to bottom: 1) umbrella, 2) flashlight, 3) rope, 4) canteen, 5) map, 6) whistle, 7) matches, 8) compass.",
+    "stimulusFacts": [
+      "position 1: umbrella",
+      "position 2: flashlight",
+      "position 3: rope",
+      "position 4: canteen",
+      "position 5: map",
+      "position 6: whistle",
+      "position 7: matches",
+      "position 8: compass"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {"id": "obs_d05_q1", "prompt": "Which item was fourth on the list?", "type": "multipleChoice", "options": ["Rope", "Canteen", "Map", "Whistle"], "correctAnswer": "Canteen", "explanation": "Anchoring a list to a known sequence, like counting on your fingers, helps you hold position numbers rather than just item names."},
+      {"id": "obs_d05_q2", "prompt": "What was the first item listed?", "type": "textInput", "options": [], "correctAnswer": "umbrella", "explanation": "The first item in a list is usually the easiest to recall — a useful checkpoint for whether your memory of the whole sequence is intact."},
+      {"id": "obs_d05_q3", "prompt": "Which item came immediately after 'rope'?", "type": "multipleChoice", "options": ["Map", "Canteen", "Whistle", "Matches"], "correctAnswer": "Canteen", "explanation": "Recalling adjacency (what came right after something) is a different skill from recalling absolute position, and both are worth practicing."},
+      {"id": "obs_d05_q4", "prompt": "What was the last item on the list?", "type": "textInput", "options": [], "correctAnswer": "compass", "explanation": "Like the first item, the last item benefits from a recency effect — it's worth noticing when your recall relies on that rather than genuine encoding."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d06",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 3,
+    "prompt": "Study the café scene for 10 seconds. There are more objects here than in earlier drills — expect to miss a few, and notice which ones.",
+    "stimulusText": "Inside a busy cafe, a barista in a green apron steams milk behind the counter. At the nearest table, a woman types on a silver laptop next to a half-eaten croissant on a white plate. A man across from her reads a folded newspaper, a pair of round tortoiseshell glasses pushed up on his forehead. On the counter sits a chalkboard menu listing 'Espresso - $3, Latte - $4, Cold Brew - $5.' A yellow bicycle courier bag hangs from a hook by the door. Three stacked paper cups sit near the register, and a tip jar holds a handful of coins and one folded five-dollar bill.",
+    "stimulusFacts": [
+      "the barista wears a green apron",
+      "the laptop on the nearest table is silver, next to a half-eaten croissant on a white plate",
+      "the man's round tortoiseshell glasses are pushed up on his forehead",
+      "the chalkboard lists Espresso $3, Latte $4, Cold Brew $5",
+      "a yellow courier bag hangs on a hook by the door",
+      "three paper cups are stacked near the register",
+      "the tip jar holds coins and one folded five-dollar bill"
+    ],
+    "stimulusSeconds": 10,
+    "questions": [
+      {"id": "obs_d06_q1", "prompt": "What was the price of a Latte on the chalkboard?", "type": "numericInput", "options": [], "correctAnswer": "4", "explanation": "Text embedded in a busy scene (menu prices) is often skipped entirely when attention is drawn to people in the foreground."},
+      {"id": "obs_d06_q2", "prompt": "What color was the courier bag hanging by the door?", "type": "multipleChoice", "options": ["Yellow", "Red", "Blue", "Black"], "correctAnswer": "Yellow", "explanation": "Objects at the edge of a scene, like the bag by the door, test whether your scan reached beyond the central table."},
+      {"id": "obs_d06_q3", "prompt": "Where were the man's glasses?", "type": "multipleChoice", "options": ["Pushed up on his forehead", "On his nose", "In his pocket", "On the table"], "correctAnswer": "Pushed up on his forehead", "explanation": "This is exactly the kind of small posture-adjacent detail worth training yourself to register before ever trying to interpret it."},
+      {"id": "obs_d06_q4", "prompt": "How many paper cups were stacked near the register?", "type": "numericInput", "options": [], "correctAnswer": "3", "explanation": "Small counts near a busy focal point (the register) get crowded out by more prominent details unless you deliberately scan past them."},
+      {"id": "obs_d06_q5", "prompt": "True or False: the tip jar contained a folded five-dollar bill.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "True", "explanation": "A single distinctive item among many similar ones (one bill among coins) is a natural anchor point once you notice it."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d07",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Each question below shows four sequences. Three follow the same rule — find the one that breaks it.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "obs_d07_q1", "prompt": "Which of these four number sequences breaks the pattern followed by the others?", "type": "multipleChoice", "options": ["2, 5, 8, 11", "4, 7, 10, 13", "6, 9, 12, 16", "1, 4, 7, 10"], "correctAnswer": "6, 9, 12, 16", "explanation": "The other three sequences all increase by a constant 3; this one increases by 3, 3, then jumps by 4, breaking the rule."},
+      {"id": "obs_d07_q2", "prompt": "Which letter sequence breaks the pattern followed by the others?", "type": "multipleChoice", "options": ["ACE", "BDF", "GIK", "MPR"], "correctAnswer": "MPR", "explanation": "ACE, BDF, and GIK each skip exactly one letter between steps; MPR skips two letters then one, breaking the consistent skip."},
+      {"id": "obs_d07_q3", "prompt": "Which of these four sequences breaks the pattern followed by the others?", "type": "multipleChoice", "options": ["3, 6, 12, 24", "5, 10, 20, 40", "2, 4, 8, 16", "7, 14, 21, 28"], "correctAnswer": "7, 14, 21, 28", "explanation": "The first three sequences double at each step; this one adds a constant 7 instead, following an entirely different rule."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "obs_d08",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 4,
+    "prompt": "Study the street scene for 8 seconds. Details here are subtler and time is shorter — focus on scanning rather than fixating.",
+    "stimulusText": "The street is crowded at midday. A cyclist in a bright orange jacket weaves between a delivery van marked 'Halden & Co.' and a parked motorcycle with a cracked side mirror. A street vendor sells pretzels from a silver cart, its umbrella striped red and white. Above the vendor, a store awning reads 'Merrow Books, Est. 1972' in faded gold letters. A traffic light hangs mid-change from yellow to red. On the far corner, a woman walks three dogs - a beagle, a poodle, and a dachshund - on a single tangled leash. A discarded newspaper page rests against a fire hydrant painted yellow with a chipped cap.",
+    "stimulusFacts": [
+      "the delivery van is marked 'Halden & Co.'",
+      "the parked motorcycle has a cracked side mirror",
+      "the vendor cart is silver with a red and white striped umbrella",
+      "the awning reads 'Merrow Books, Est. 1972' in gold letters",
+      "the traffic light is mid-change from yellow to red",
+      "a woman walks a beagle, a poodle, and a dachshund on one leash",
+      "the fire hydrant is yellow with a chipped cap"
+    ],
+    "stimulusSeconds": 8,
+    "questions": [
+      {"id": "obs_d08_q1", "prompt": "What name was printed on the delivery van?", "type": "textInput", "options": [], "correctAnswer": "Halden & Co.", "explanation": "Business names in a busy scene are easy to lose when attention is split between multiple moving elements."},
+      {"id": "obs_d08_q2", "prompt": "What year was Merrow Books established, according to the awning?", "type": "numericInput", "options": [], "correctAnswer": "1972", "explanation": "Small printed text above eye level is one of the first things a fast, low-time scan tends to drop."},
+      {"id": "obs_d08_q3", "prompt": "Which three dogs was the woman walking?", "type": "multipleChoice", "options": ["Beagle, poodle, and dachshund", "Labrador, pug, and terrier", "Beagle, terrier, and poodle", "Dachshund, pug, and collie"], "correctAnswer": "Beagle, poodle, and dachshund", "explanation": "Grouped items like a set of three dogs are best remembered as a labeled group rather than three separate facts."},
+      {"id": "obs_d08_q4", "prompt": "What was cracked on the parked motorcycle?", "type": "multipleChoice", "options": ["The side mirror", "The windshield", "The seat", "The headlight"], "correctAnswer": "The side mirror", "explanation": "A single damaged detail on an otherwise ordinary object is exactly the kind of thing a three-pass scan is built to catch."},
+      {"id": "obs_d08_q5", "prompt": "What color was the fire hydrant?", "type": "multipleChoice", "options": ["Yellow", "Red", "Blue", "Green"], "correctAnswer": "Yellow", "explanation": "Fire hydrants are usually assumed to be red by default — this one breaks that assumption, which is exactly why it's worth double-checking assumptions during a scan."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "obs_d09",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "recallQuiz",
+    "difficulty": 5,
+    "prompt": "A dealer lays out ten cards in a row. Study the order for 15 seconds, then recall specific positions.",
+    "stimulusText": "A dealer lays out ten cards face-up in a single row, left to right: 7 of clubs, Queen of hearts, 2 of diamonds, King of spades, 9 of clubs, Ace of hearts, 4 of spades, 10 of diamonds, Jack of clubs, 6 of hearts.",
+    "stimulusFacts": [
+      "position 1: 7 of clubs",
+      "position 2: Queen of hearts",
+      "position 3: 2 of diamonds",
+      "position 4: King of spades",
+      "position 5: 9 of clubs",
+      "position 6: Ace of hearts",
+      "position 7: 4 of spades",
+      "position 8: 10 of diamonds",
+      "position 9: Jack of clubs",
+      "position 10: 6 of hearts"
+    ],
+    "stimulusSeconds": 15,
+    "questions": [
+      {"id": "obs_d09_q1", "prompt": "Which card was in the fifth position?", "type": "multipleChoice", "options": ["9 of clubs", "Queen of hearts", "King of spades", "Ace of hearts"], "correctAnswer": "9 of clubs", "explanation": "With ten items, chunking the row into groups of two or three cards makes individual positions far easier to recover."},
+      {"id": "obs_d09_q2", "prompt": "What card immediately followed the King of spades?", "type": "textInput", "options": [], "correctAnswer": "9 of clubs", "explanation": "Adjacency recall (what came right after a landmark card) is often easier than recalling an absolute position number."},
+      {"id": "obs_d09_q3", "prompt": "Which position was the Ace of hearts in?", "type": "numericInput", "options": [], "correctAnswer": "6", "explanation": "The Ace is a naturally distinctive card, which makes it a good landmark for anchoring the positions around it."},
+      {"id": "obs_d09_q4", "prompt": "What was the last card in the row?", "type": "multipleChoice", "options": ["6 of hearts", "Jack of clubs", "10 of diamonds", "4 of spades"], "correctAnswer": "6 of hearts", "explanation": "The final item in a sequence usually benefits from a recency effect — worth noting if that's the only reason you recalled it correctly."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "obs_d10",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 5,
+    "prompt": "Study the cluttered desk for only 6 seconds. This is the hardest sprint in the set — expect to miss details, and treat every correct answer as a real win.",
+    "stimulusText": "A cluttered office desk holds a chaos of items: a laptop open to a spreadsheet, a mug with a chipped handle reading 'World's Okayest Boss,' a tangle of three charging cables (one red, one white, one braided gray), a stack of seven manila folders with one labeled 'URGENT' in red marker, a pair of scissors stuck point-down into a pen cup, a sticky note reading '3pm - call Dana' stuck to the monitor's bottom-left corner, a half-empty water bottle with a cracked cap, and a small potted cactus missing one spine on its left side. A calendar on the wall behind shows the month of March with the 14th circled in blue ink.",
+    "stimulusFacts": [
+      "the mug reads 'World's Okayest Boss' and has a chipped handle",
+      "three charging cables are tangled together: one red, one white, one braided gray",
+      "there is a stack of seven manila folders, one labeled 'URGENT' in red marker",
+      "scissors are stuck point-down into a pen cup",
+      "a sticky note reads '3pm - call Dana' on the monitor's bottom-left corner",
+      "the water bottle is half-empty with a cracked cap",
+      "the potted cactus is missing one spine on its left side",
+      "the wall calendar shows March with the 14th circled in blue ink"
+    ],
+    "stimulusSeconds": 6,
+    "questions": [
+      {"id": "obs_d10_q1", "prompt": "What did the mug say?", "type": "textInput", "options": [], "correctAnswer": "World's Okayest Boss", "explanation": "Text on an object competes with a dozen other details for the same fraction of a second — catching it at all is the point of this drill."},
+      {"id": "obs_d10_q2", "prompt": "How many manila folders were stacked on the desk?", "type": "numericInput", "options": [], "correctAnswer": "7", "explanation": "Exact counts under six seconds are genuinely difficult; the goal is to notice you're estimating rather than assume you counted precisely."},
+      {"id": "obs_d10_q3", "prompt": "What did the sticky note say?", "type": "textInput", "options": [], "correctAnswer": "3pm - call Dana", "explanation": "A sticky note tucked in a corner of the monitor is a classic missed detail — it rewards scanning the full frame, not just the desk surface."},
+      {"id": "obs_d10_q4", "prompt": "Which date was circled on the calendar?", "type": "numericInput", "options": [], "correctAnswer": "14", "explanation": "Background details on a wall, away from the main clutter, are exactly what a widened, non-fixated gaze is trained to catch."},
+      {"id": "obs_d10_q5", "prompt": "True or False: the cactus was missing a spine on its right side.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "The missing spine was on the left side — a reminder that left/right details are the easiest to flip in memory under time pressure."}
+    ],
+    "estimatedMinutes": 6
+  }
+]

@@ -5,6 +5,7 @@ import '../../models/knowledge_card.dart';
 import '../../state/practice_providers.dart';
 import '../../state/repository_providers.dart';
 import '../../theme/spacing.dart';
+import '../../theme/typography.dart';
 import '../../widgets/empty_state.dart';
 import '../../widgets/knowledge_card_view.dart';
 

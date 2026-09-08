@@ -126,7 +126,7 @@ class ContentRepository {
         for (final contradictedId in ev.contradicts) {
           if (!caseFile.evidence.any((e) => e.id == contradictedId)) {
             problems.add(
-              'Case ${caseFile.id} evidence ${ev.id} contradicts missing ${contradictedId}',
+              'Case ${caseFile.id} evidence ${ev.id} contradicts missing $contradictedId',
             );
           }
         }

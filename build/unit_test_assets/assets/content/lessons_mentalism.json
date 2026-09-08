@@ -1,0 +1,151 @@
+[
+  {
+    "id": "ment_l01",
+    "disciplineId": "mentalism",
+    "title": "The Free Choice That Isn't",
+    "hook": "Ask someone to 'pick any card, any number' and most performers have already decided what you'll pick — before you ever felt like you were choosing.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "Psychological forcing is the engineering of a choice so that the person making it experiences full freedom while the range of possible outcomes has already been narrowed to one. It is not hypnosis and it is not mind control — it is applied statistics, timing, and language. A magic square force pre-calculates which number will produce a target sum regardless of small variations in input. An equivoque (or 'magician's choice') uses a branching script where every possible answer is quietly relabeled to lead to the same result. A number force exploits the fact that most people asked to 'name a number between 1 and 10' overwhelmingly say 7, because it feels the most 'random' to the human brain — a well-documented quirk of how we simulate randomness."},
+      {"type": "keyPoint", "text": "TAGS: 🎭 Performance · 🧠 Psychological principle · ⚠️ Manipulation risk: this is a real psychological mechanism (statistical bias in 'random' choices, or scripted equivoque) and it is easy to misuse — the same tactics appear in manipulative sales and coercive persuasion, which is why forcing belongs strictly inside a framed, consenting performance where the goal is wonder, not advantage."},
+      {"type": "paragraph", "text": "The craft skill is not the statistics — it's the framing. A performer must ask the question in a way that feels genuinely open ('really, whatever you like, take your time') while the actual mechanics do the narrowing. If the audience later suspected the choice wasn't free, the trick collapses into a trick of language rather than a moment of astonishment. This is why professional mentalists rehearse the *out* for every branch: what do you say if someone picks the 'wrong' card in an equivoque? The best performers never need it, because the phrasing has already made the other options feel unappealing without the spectator noticing they were nudged."},
+      {"type": "keyPoint", "text": "A force only works when the spectator can't locate the moment they were steered — which is exactly why performers must be able to explain it afterward if asked, rather than letting anyone walk away believing something paranormal occurred."},
+      {"type": "paragraph", "text": "Where the line sits: forcing is ethical entertainment when it happens inside a clearly framed performance, when no real-world decision or belief is being manipulated, and when the performer would happily explain the mechanism to a curious audience member afterward. It becomes a manipulation risk the moment it's exported outside that frame — used to steer a real negotiation, a real vote, or a vulnerable person's real decision. The craft is identical in both cases; the consent and the stakes are what separate a magic trick from a con."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["psychological force", "equivoque", "ethics"],
+    "relatedDrillIds": ["ment_d01", "ment_d07"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l02",
+    "disciplineId": "mentalism",
+    "title": "Where the Eyes Don't Go",
+    "hook": "The hand is faster than the eye only when the eye has already been told to look somewhere else.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "A performer named Dai Vernon used to say the secret wasn't speed — it was that the audience's attention had already left the hand before anything happened to it. Misdirection is the deliberate management of where attention goes, and it works because human attention is a single, narrow spotlight, not a wide floodlight. Vision researchers call the failure to notice an unexpected event while attention is engaged elsewhere 'inattentional blindness' — the same mechanism that lets a driver miss a cyclist while scanning for cars. A performer glancing sharply at their own left hand pulls dozens of pairs of eyes with it, because gaze-following is nearly involuntary in humans; the right hand, doing the actual work, becomes invisible by comparison."},
+      {"type": "keyPoint", "text": "TAGS: 🎭 Performance · 🧠 Psychological principle: misdirection exploits well-studied limits of human attention (inattentional blindness, involuntary gaze-following) purely to stage a moment of surprise inside a performance the audience has agreed to watch — there is no deception about real-world facts or stakes involved."},
+      {"type": "paragraph", "text": "There are two broad families. Physical misdirection moves the eyes: a dropped prop, a raised eyebrow, a step to one side. Psychological misdirection moves the mind: a joke that gets a laugh at the exact moment a card is switched, or a question that makes the spectator think inward for half a second. The best performers layer both — timing a physical motion to land inside a psychological gap, such as the tiny cognitive lull right after a laugh, when working memory is briefly occupied elsewhere."},
+      {"type": "paragraph", "text": "None of this requires deceiving anyone about anything real. The audience knows they're watching a magic act; the only thing being managed is where a spotlight of attention points for two seconds. That distinction — an agreed frame of 'we both know this is a performance' — is what keeps misdirection a craft skill rather than a covert manipulation. Practicing it well means studying your own hands on video, noticing which motions naturally pull the eye, and building a script of small justified actions (adjusting a sleeve, gesturing to make a point) that give attention somewhere honest-looking to land."},
+      {"type": "keyPoint", "text": "Misdirection doesn't hide the method by being fast — it hides the method by making the audience choose, on their own, to look somewhere else."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["misdirection", "attention management"],
+    "relatedDrillIds": ["ment_d02"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l03",
+    "disciplineId": "mentalism",
+    "title": "Planting the Expectation",
+    "hook": "Tell someone what they're about to feel, and their brain often obliges — this is suggestion, and it's the quietest tool in the mentalist's kit.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Suggestion is the practice of using language and framing to shape what someone expects to perceive, which in turn shapes what they actually report perceiving. It rests on a real cognitive effect: expectation biases perception. If you tell someone a rope will feel 'strangely warm' before they touch it, a meaningful fraction will report warmth even from room-temperature material — not because they're lying, but because expectation genuinely colors sensory interpretation. In mentalism, this shows up in phrasing like 'you'll feel a pulling sensation' before a suggestibility test, or 'most people picture something round' before a supposed object-reading."},
+      {"type": "keyPoint", "text": "TAGS: 🎭 Performance · 🧠 Psychological principle · ⚠️ Manipulation risk: expectation-driven perception is a documented effect in cognitive psychology, and the same wording tricks used to plant a harmless sensation can just as easily plant a false memory or belief outside a performance frame — the line is using it only for a temporary, disclosed theatrical experience, never to convince someone of something false about their own life."},
+      {"type": "paragraph", "text": "The craft is in calibration, not force. Overselling a suggestion ('you will feel your arm rising uncontrollably!') invites failure and skepticism; skilled performers use soft, permissive language ('see if you notice anything at all') so that whatever the spectator experiences — even nothing dramatic — can be folded into the presentation as a success. This soft framing is itself a performance skill, distinct from the psychological mechanism it rides on."},
+      {"type": "paragraph", "text": "Suggestion should always be released at the end of a routine: a good performer breaks the frame clearly ('and there we go, back to normal') so no one leaves the interaction still half-convinced something uncanny is lingering. That closing beat is what keeps suggestion a piece of stagecraft rather than an open loop in someone's head."},
+      {"type": "paragraph", "text": "There's a useful rehearsal habit here: write two versions of every suggestive line, a strong one and a soft one, and default to the soft one on stage. 'You'll feel a distinct pull toward the left' commits you to a specific, falsifiable outcome; 'notice which direction feels even slightly more comfortable' gives almost any honest response a way to count as a hit. This isn't about hedging your bets to avoid embarrassment — it's about respecting that you're working with real, variable human perception rather than a mechanical prop, and building a script flexible enough to honor whatever someone actually experiences."},
+      {"type": "keyPoint", "text": "The best suggestion work doesn't tell someone what to feel — it offers a frame loose enough that almost any real reaction fits inside it."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["suggestion", "expectation", "perception"],
+    "relatedDrillIds": ["ment_d03"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l04",
+    "disciplineId": "mentalism",
+    "title": "Predicting the Present, Not the Future",
+    "hook": "Almost no prediction effect actually predicts anything — it reveals information that was fixed after the 'prediction' was already sealed, or reveals a range wide enough to always contain the outcome.",
+    "mode": "caseStudy",
+    "blocks": [
+      {"type": "paragraph", "text": "Consider a classic case: a performer seals an envelope at the top of the show and asks an audience member to freely name a city, a color, and a number. At the end, the envelope is opened and matches perfectly. Structurally, there are only a few honest mechanisms behind any prediction effect: the choice was actually forced earlier (see psychological forcing), the 'prediction' was written or altered after the choice was made (a switched envelope, a nail-writer, a late reveal), the prediction is broad enough that it technically covers many likely answers ('you'll think of something you associate with warmth'), or the performer used a legitimate memory/calculation system to derive the answer from information given earlier in the show."},
+      {"type": "keyPoint", "text": "TAGS: 🎭 Performance · 🧠 Psychological principle: prediction effects work through forcing, timed reveals, or broad phrasing — real mechanisms worth understanding as craft, presented here purely to explain how a performance illusion is built, not to claim any of it involves real future-sight."},
+      {"type": "paragraph", "text": "Studying prediction effects case by case is useful precisely because it inoculates a performer against overclaiming. A performer who understands that their 'prediction' was actually a delayed force can present it honestly as astonishing theater rather than internalizing (or implying to an audience) that something paranormal happened. The most respected mentalists are explicit in interviews and books that their art is 'psychological magic,' not fortune-telling — a distinction the audience deserves, even if it's never stated mid-show."},
+      {"type": "paragraph", "text": "The design challenge, then, is dramatic structure: making a mechanically simple method (a force, a switch, a broad statement) feel inevitable and clean in performance. That's genuinely hard theatrical work — pacing the reveal, choosing when the envelope gets shown as sealed, deciding how long to let the 'impossible' moment breathe before moving on — and it's where the craft actually lives."},
+      {"type": "paragraph", "text": "Take a second case: a performer 'predicts' which of three shuffled envelopes an audience member will hand back, sight unseen. The honest mechanism might be a one-ahead structure, where the performer already knows the contents of whichever envelope gets returned because all three were secretly loaded to say something compatible, or the reveal is written only after the choice is made using a concealed writing method. Neither case involves foreseeing anything; both involve careful preparation and confident, unhurried delivery of an outcome that was arranged, not divined. Studying several cases side by side — sealed envelope, sight-unseen selection, book test — makes the shared pattern obvious: every prediction effect trades on the audience's inability to see when, exactly, the 'prediction' became true."},
+      {"type": "keyPoint", "text": "A prediction effect never predicts the future — it reveals, at a chosen moment, something that was arranged to already be true."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["prediction", "structure", "presentation"],
+    "relatedDrillIds": ["ment_d04", "ment_d08"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l05",
+    "disciplineId": "mentalism",
+    "title": "Memory Feats Are Built, Not Born",
+    "hook": "Memorizing a shuffled deck in under two minutes isn't a superpower — it's a structure anyone can learn, called a memory palace, plus a lot of rehearsal.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "Stage memory demonstrations — naming every card in a shuffled deck, recalling fifty audience-shouted words in order, matching names to faces after one pass through a room — rely on well-documented encoding techniques, not innate superhuman recall. The core method, the 'memory palace' or method of loci, converts abstract items into vivid images placed along a familiar mental route (your childhood house, a walk to school). Recall becomes a matter of mentally walking the route and 'seeing' what you placed there. Competitive memory athletes use the same technique for far less theatrical purposes, which is good evidence it's a trainable skill rather than a gift."},
+      {"type": "keyPoint", "text": "TAGS: 🎭 Performance · 🧠 Psychological principle: encoding strategies like the method of loci are established, teachable cognitive techniques — presented here as exactly what they are (a skill you can build) rather than as evidence of paranormal memory."},
+      {"type": "paragraph", "text": "As a coaching path: start small. Assign a vivid, slightly absurd image to each playing card (a system many performers call a 'PAO' — person/action/object — set), practice recalling 10 cards in order, then 20, then a full deck, timing yourself weekly. The performance skill sits on top of the memory skill: a good memory act paces the reveal so it doesn't feel like watching someone silently recite a list — patter, audience interaction, and strategic 'thinking' pauses turn a genuinely impressive cognitive feat into theater."},
+      {"type": "paragraph", "text": "Because the method is real and effortful, memory demonstrations are one of the few mentalism effects worth explaining to a curious audience member in some detail — doing so builds credibility for the performer as a skilled practitioner rather than costing them mystery, and it models honest self-improvement rather than implying an unearned gift."},
+      {"type": "keyPoint", "text": "The most impressive thing about a memory act isn't that it looks impossible — it's that it's genuinely learnable, and telling the audience that afterward tends to land better than staying silent."},
+      {"type": "paragraph", "text": "Progression matters more than talent here. Most people who attempt a full-deck memorization on day one give up, because they're trying to skip the boring middle stretch where the images stop feeling vivid and start feeling like homework. Treat it like any other trainable skill — log your times, notice which image system slows you down (usually numbers, since they have no natural picture), and build a personal reference sheet for the images you keep forgetting. The performers who can casually recall fifty shouted words in order didn't start there; they started at five, got bored at twenty, and kept going anyway."}
+    ],
+    "estimatedMinutes": 9,
+    "tags": ["memory palace", "method of loci", "training"],
+    "relatedDrillIds": ["ment_d05"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l06",
+    "disciplineId": "mentalism",
+    "title": "Cold Reading, On Stage Only",
+    "hook": "Cold reading can be a clever, funny, technically skilled performance — or it can be a con that preys on grief. The technique is identical; the framing is everything.",
+    "mode": "socratic",
+    "blocks": [
+      {"type": "paragraph", "text": "What actually happens when a performer 'reads' a stranger? Mostly: Barnum statements (broad claims that feel personal because most people share them — 'you're more sensitive than people realize'), high-probability guesses tuned to visible cues (age, clothing, wedding ring, posture), and careful listening that lets the performer fold the audience member's own words back to them as if newly discovered. Ask yourself: if you removed all the visible cues and the audience member's own verbal feedback, would any specific information remain? In an honest performance-cold-reading routine, the answer is no — and a skilled performer will often say so if pressed."},
+      {"type": "keyPoint", "text": "TAGS: 🎭 Performance · 🧠 Psychological principle · ⚠️ Manipulation risk: Barnum statements and cue-reading are real, well-studied persuasion mechanisms, and this exact technique is the backbone of fraudulent psychic and medium performances that exploit grief for money — the line is whether the performer frames it as a skill demonstration or lets an audience believe a real supernatural claim, especially around death, illness, or loss."},
+      {"type": "paragraph", "text": "Ask a second question: what does the performer do when they're wrong? In performance cold reading, being wrong is turned into a laugh or folded gracefully into the next statement ('no? interesting — hold that thought'). In predatory 'psychic' cold reading, being wrong is often reframed as the client's fault ('you're blocking me') — a manipulative move that protects the performer's claimed ability at the client's expense. That single difference in how errors are handled is a strong tell for which frame you're in."},
+      {"type": "paragraph", "text": "This is why Percept treats cold reading strictly as a performance-skill module: the goal is a demonstrably sharp, entertaining read of a stranger for a willing audience who knows it's a show — never a technique for convincing someone you have real psychic insight into their life, their future, or their deceased relatives. Practicing it ethically means always naming it, when asked, as observation and inference, not as any form of genuine extrasensory perception."},
+      {"type": "keyPoint", "text": "🤝 Ethical use, added explicitly: performance cold reading stays ethical only when the frame is disclosed as showmanship if ever questioned, when no claim of contacting the dead or predicting real medical or financial outcomes is made, and when the performer would rather lose a dramatic moment than let someone walk away genuinely believing they witnessed real psychic contact."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["cold reading", "barnum statements", "ethics"],
+    "relatedDrillIds": ["ment_d06", "ment_d09"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l07",
+    "disciplineId": "mentalism",
+    "title": "The Script Behind the Spontaneity",
+    "hook": "The moments that feel most improvised in a mentalism act are usually the most rehearsed.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "Scripting in mentalism is the discipline of pre-writing not just what you say, but the shape of the scene: the setup that establishes stakes, the rising uncertainty that makes the audience lean in, and the reveal that resolves it. Even 'off the cuff' banter is typically a bank of rehearsed lines a performer can drop into different moments depending on how a spectator reacts — a structure closer to a stand-up comedian's callback material than to true improvisation. Theatrical presentation matters because the exact same method, performed flatly versus performed with real pacing, produces wildly different audience reactions; craft, not just mechanism, is what makes an effect land as astonishing rather than merely clever."},
+      {"type": "keyPoint", "text": "TAGS: 🎭 Performance: scripting and pacing are pure stagecraft — there is no psychological technique being applied to the audience here beyond ordinary storytelling, and no ethical risk beyond the normal standards of honest theater."},
+      {"type": "paragraph", "text": "A useful scripting framework: hook (why should anyone care about this moment), commitment (a visible, undoable choice — a sealed envelope, a signed card), rising doubt (patter that makes the outcome feel genuinely uncertain, even if it never was), and release (a reveal paced with a beat of silence before the punchline, not rushed through). Performers often over-explain method during rehearsal and under-explain drama; recording yourself and cutting every sentence that doesn't build one of these four beats is one of the fastest ways to tighten a routine."},
+      {"type": "paragraph", "text": "Good scripting also protects the performer: a well-built script has a graceful line ready for when a trick doesn't go perfectly ('the mind is a strange thing — let's try that differently'), turning a flubbed method into a performance beat instead of an exposed secret. That resilience is itself a scripted, rehearsed skill, not a lucky save."},
+      {"type": "paragraph", "text": "Theatrical presentation extends beyond words to the whole physical frame: where you stand relative to the audience, how long you hold a silence before speaking, whether you sit or stand for a reveal, how you handle a prop so it reads as ordinary rather than suspicious. None of this is incidental decoration bolted onto a 'real' trick — for the audience, presentation and method are inseparable, since the only thing they ever actually witness is the presentation. A technically identical routine performed with confident, unhurried pacing and one performed while rushing through the method will be remembered as two completely different experiences, which is why serious performers treat script-writing and rehearsal with the same seriousness as the secret mechanics themselves."},
+      {"type": "keyPoint", "text": "Audiences don't remember your method — they remember your pacing, so rehearse the silence around the reveal as carefully as the reveal itself."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["scripting", "pacing", "presentation"],
+    "relatedDrillIds": ["ment_d10"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l08",
+    "disciplineId": "mentalism",
+    "title": "Two Truths in One Room",
+    "hook": "Dual reality lets one audience member experience something that looks entirely different to everyone else watching — without either group being deceived about anything that matters.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Dual reality is a structural technique where a performer privately sets something up with one spectator (a whispered instruction, a private peek at information) so that, from the rest of the room's point of view, an effect appears to happen entirely differently — often more impossibly — than it actually did. Managed well, both groups leave satisfied: the insider knows exactly what happened and enjoys watching the room misread it; the outsiders see a clean, impossible-looking effect with no sense that anyone was treated unfairly."},
+      {"type": "keyPoint", "text": "TAGS: 🎭 Performance · 🧠 Psychological principle: dual reality relies on managing two audiences' differing information states simultaneously, a real feat of live audience management, used only to shape a shared entertainment experience where no one is being misled about anything beyond the show itself."},
+      {"type": "paragraph", "text": "The operational skill is audience management: quietly identifying who needs private information, delivering it without the rest of the room noticing the aside, and timing the public reveal so both realities resolve at once. This requires reading a room continuously — who's watching whom, whether a whispered instruction was seen by a neighbor, whether the 'insider' spectator's face is giving something away — and adjusting the script live."},
+      {"type": "paragraph", "text": "Dual reality only stays ethical when the insider spectator is a willing participant in on the structure (even if not the specific outcome) and when nothing about the 'private' information could embarrass or expose them publicly. Used carelessly — planting private information a spectator didn't agree to have surfaced, or using the technique to make someone look foolish in front of a room — it curdles from clever staging into public humiliation, which is a real risk worth designing against from the first draft of the script."},
+      {"type": "paragraph", "text": "A practical example: a performer secretly tells one spectator, during an earlier unrelated moment, to think of a specific word rather than a free one. To that spectator, the later 'reading' is a fun private joke — they know exactly why it worked. To the rest of the room, who never saw the aside, the same reading looks like a genuine, impossible piece of mind-reading performed on a free choice. Building this well means rehearsing the private delivery until it's brief and natural enough to pass unnoticed, and rehearsing the public reveal separately, so each audience gets a clean, well-paced experience rather than one half-built compromise trying to serve both at once."},
+      {"type": "keyPoint", "text": "Dual reality doesn't create two different truths — it creates two different views of the same true event, which is exactly what keeps it honest."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["dual reality", "audience management"],
+    "relatedDrillIds": ["ment_d09", "ment_d10"],
+    "relatedCardIds": []
+  }
+]

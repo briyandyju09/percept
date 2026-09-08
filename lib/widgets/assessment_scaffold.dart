@@ -1,5 +1,4 @@
 import 'package:flutter/cupertino.dart';
-import '../theme/colors.dart';
 import '../theme/spacing.dart';
 import '../theme/typography.dart';
 

@@ -1,0 +1,294 @@
+[
+  {
+    "id": "psy_l01",
+    "disciplineId": "psychology",
+    "title": "Anchors You Never Agreed To",
+    "hook": "A number you barely noticed can quietly reset your sense of what's reasonable — and once your mind picks a theory, it gets remarkably good at finding support for it.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Anchoring bias is the tendency for an initial number or reference point to distort every judgment that follows it, even when that number is arbitrary, irrelevant, or known to be misleading. In classic demonstrations, people asked to spin a wheel of fortune before estimating an unrelated quantity — like the percentage of African countries in the United Nations — gave higher estimates after seeing a high number on the wheel, and lower estimates after a low one, despite the wheel obviously having nothing to do with the answer. The first figure you encounter in a negotiation, a price tag, or a performance review becomes a silent reference frame that later numbers get measured against, usually without anyone noticing it happened."
+      },
+      {
+        "type": "paragraph",
+        "text": "Confirmation bias works alongside anchoring in a related but distinct way: once you've formed a belief or a first impression, you tend to search for, notice, and remember information that supports it, while overlooking or discounting information that doesn't. This isn't necessarily dishonesty — it's a byproduct of how attention and memory are structured. If you decide early that a colleague is unreliable, you'll register the missed deadline more vividly than the five times they delivered on time, and each future interaction gets filtered through that lens."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "A single early number or first impression doesn't reveal someone's true value or character — it just changes how the observer weighs everything after it.",
+        "meta": {
+          "myth": "If you know about anchoring, you can simply 'correct for it' and judge each new number completely on its own merits.",
+          "fact": "Studies show anchors continue to bias estimates even in people who are warned about the effect beforehand and even when the anchor is obviously random or irrelevant. Awareness reduces the effect somewhat but rarely eliminates it — no single moment of realization fixes it, and judging any one estimate requires deliberately generating several independent reference points rather than trusting the first one your mind reached."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "The first number you hear is never neutral — treat it as a data point to interrogate, not a fact to build on."
+      },
+      {
+        "type": "paragraph",
+        "text": "Confirmation bias and anchoring compound each other in daily decision-making: an anchor creates an early hypothesis, and confirmation bias then works to protect that hypothesis from revision. Because both operate silently and outside conscious control, the practical defense isn't willpower — it's structural. Deliberately generating a range of reference points before committing to a number, and deliberately asking 'what evidence would prove me wrong?' before finalizing a judgment, are the two habits with the most consistent research support."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["cognitive bias", "anchoring", "confirmation bias", "heuristics"],
+    "relatedDrillIds": ["psy_d01", "psy_d02"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l02",
+    "disciplineId": "psychology",
+    "title": "Why Rare Things Feel Common",
+    "hook": "Plane crashes dominate the news and your imagination — even though flying is safer than driving nearly every measurable way.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The availability heuristic is the mental shortcut of judging how likely or common something is by how easily examples come to mind, rather than by actual frequency. Vivid, recent, or emotionally charged events are easier to recall than statistically more common but less dramatic ones, so people routinely overestimate the odds of shark attacks, plane crashes, and terrorist incidents while underestimating the odds of car accidents, falls, and chronic disease — even though the latter are far more common causes of harm. News coverage amplifies this: a story doesn't need to be typical to be memorable, it just needs to be unusual."
+      },
+      {
+        "type": "paragraph",
+        "text": "A closely related shortcut is the halo effect: the tendency for one positive trait — often something as superficial as attractiveness, confidence, or a firm handshake — to bias your overall impression of someone's other, unrelated qualities, like their competence or honesty. Interviewers rate physically attractive candidates as more likely to be capable before a single interview question is asked; students rate charismatic lecturers as more knowledgeable independent of what was actually taught."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "How easily you can recall an example of something says more about its emotional vividness than its actual frequency, and one appealing trait doesn't confirm someone's overall competence or character.",
+        "meta": {
+          "myth": "If a story or example comes to mind quickly, it's probably common, and if someone seems impressive in one respect, they're probably impressive across the board.",
+          "fact": "Ease of recall tracks vividness, recency, and media coverage far more reliably than it tracks base-rate frequency, and a positive first trait predicts unrelated traits far less than intuition suggests. Treating one memorable example or one strong impression as a settled read on frequency or character is what turns a mental shortcut into a mistake — the corrective is deliberately seeking base rates and multiple independent data points, not trusting the first impression that comes easily."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "If an example came to mind fast, ask whether it's common — or just memorable."
+      },
+      {
+        "type": "paragraph",
+        "text": "Both shortcuts are adaptive most of the time — recalling vivid dangers usually did keep our ancestors safer, and quick trait inference is efficient for a species built for fast social judgments. The goal isn't to distrust every gut impression, but to notice when a decision has real stakes and deliberately slow down: pull actual statistics instead of a mental tally of memorable stories, and separate the trait you're actually being asked to judge from the unrelated trait that's coloring your view."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["availability heuristic", "heuristics", "risk perception", "halo effect"],
+    "relatedDrillIds": ["psy_d03", "psy_d04"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l03",
+    "disciplineId": "psychology",
+    "title": "The Witness Who Was Certain",
+    "hook": "She was completely confident about what she saw — and completely wrong. Confidence and accuracy, it turns out, are not the same thing.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "In a well-known case from the 1980s, a young woman was assaulted in her apartment. During the crime, she deliberately studied her attacker's face, determined to remember every detail so she could identify him later. Weeks after, she confidently identified a man in a police lineup. He was convicted and served over a decade in prison — before DNA evidence proved he had never been at the scene. The actual perpetrator, it turned out, resembled the man she identified enough that her memory, formed under extreme stress and later reinforced by repeated recall, had substituted one face for another. She wasn't lying. She was certain, and she was wrong."
+      },
+      {
+        "type": "paragraph",
+        "text": "Memory doesn't work like a recording that plays back unchanged. Each time you recall an event, you reconstruct it, and that reconstruction is vulnerable to suggestion, to the questions asked of you, to images you saw afterward, and to your own expectations. Attention compounds the problem: humans have a limited capacity to notice detail, and under stress that capacity narrows further, often fixating on a single salient feature — a weapon, a raised voice — at the cost of everything else in the scene, a well-documented narrowing sometimes called weapon focus."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "A witness's confidence in a memory tells you almost nothing on its own about whether that memory is accurate.",
+        "meta": {
+          "myth": "If someone remembers something vividly and states it with total confidence, they're almost certainly right.",
+          "fact": "Confidence and accuracy are only weakly and inconsistently correlated, particularly for memories formed under stress or recalled after repeated questioning; a single vivid, confident recollection is not sufficient evidence on its own, and reliable identification requires corroborating detail, unbiased procedures, and independent evidence rather than trusting one witness's certainty as a stand-alone signal."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "Certainty is a feeling your brain generates — it is not a measurement of accuracy."
+      },
+      {
+        "type": "paragraph",
+        "text": "This isn't a reason to distrust memory entirely, or to treat every witness as unreliable. It's a reason to separate two different questions that get collapsed into one: 'how sure does this person feel?' and 'how accurate is this account likely to be?' The second question depends on conditions — how much attention was available at the time, how soon the memory was recorded, how many times it's been retold — that have nothing to do with how confident the telling feels."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["memory", "attention", "perception", "eyewitness testimony"],
+    "relatedDrillIds": ["psy_d05"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l04",
+    "disciplineId": "psychology",
+    "title": "The Cost of What You've Already Spent",
+    "hook": "You've sat through forty minutes of a bad movie. Do you leave, or stay because you've 'already invested' the time? The answer reveals a well-documented flaw in how humans weigh decisions.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Consider a case: a company has spent two years and eight million dollars developing a product. Midway through, market research reveals a competitor has released something better and cheaper. Continuing the project will cost another three million with no clear advantage; stopping means writing off the eight million already spent as a loss. Rationally, the eight million is gone either way — it should have no bearing on the decision, which should turn entirely on whether the remaining three million is well spent given the current landscape. Yet in study after study, and in boardrooms, people overwhelmingly choose to continue, specifically citing what they've 'already put in.'"
+      },
+      {
+        "type": "paragraph",
+        "text": "This is the sunk cost fallacy: weighing past, unrecoverable investments — of money, time, or effort — as though they were reasons to continue, when only future costs and benefits are actually relevant to a rational decision. It's closely tied to loss aversion, the broader finding that losses tend to be felt more intensely than equivalent gains, which makes 'admitting the loss' by stopping feel disproportionately painful compared to the abstract possibility of future gains from stopping."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Continuing to invest in something because of what you've already put in doesn't reveal how good the decision is — it reveals a documented, near-universal decision-making bias, not personal virtue.",
+        "meta": {
+          "myth": "Sticking with something you've already invested heavily in shows commitment and grit, and is usually the wiser choice.",
+          "fact": "Whether continuing is wise depends entirely on the remaining costs and benefits going forward, not on the size of the past investment; treating persistence itself as proof of good judgment, or treating a single instance of quitting as weakness, ignores the specific numbers involved that should be judged case by case, rather than assumed from a general rule about grit or commitment."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "The only question that should matter is: knowing what I know now, would I start this today?"
+      },
+      {
+        "type": "paragraph",
+        "text": "The case above is disguised but based on a real, common pattern documented across corporate, personal finance, and even relationship decisions. The practical habit that research finds most effective isn't 'try harder to ignore sunk costs' — it's reframing the decision explicitly as a fresh choice: writing out what you would do if you were starting from zero right now, with no history attached, and comparing that answer to what you're currently doing."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["decision-making", "sunk cost fallacy", "loss aversion"],
+    "relatedDrillIds": ["psy_d06"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l05",
+    "disciplineId": "psychology",
+    "title": "Why Did You Go Along With It?",
+    "hook": "Ask yourself honestly: have you ever agreed with a group, obeyed an instruction, or returned a favor — and only later wondered why?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Here's a question worth sitting with: when a room full of people confidently gives an answer you privately believe is wrong, how much does it take before you say so out loud? Solomon Asch's classic conformity experiments found that a large majority of participants conformed to an obviously incorrect group answer at least once, even on a simple, unambiguous perceptual task — comparing line lengths — where the correct answer was visually clear. Most later said they knew the group was wrong but didn't want to stand out."
+      },
+      {
+        "type": "paragraph",
+        "text": "Now a second question: how much does a person's authority — a lab coat, a job title, a badge — change what you're willing to do at their instruction, independent of whether the instruction makes sense? Milgram's controversial obedience studies, and the more everyday version of this pattern in workplaces and institutions, both point to the same uncomfortable answer: surface markers of authority shift behavior more than most people predict about themselves in advance."
+      },
+      {
+        "type": "paragraph",
+        "text": "A third question: why do you feel obligated to return a favor, even a small unsolicited one, from someone you don't particularly like or trust? Reciprocity is one of the most reliably documented forces in social psychology — receiving something, even something trivial and unrequested, creates a felt obligation to give something back, and that obligation can be, and often is, deliberately engineered by marketers, negotiators, and salespeople."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Going along with a group, an authority figure, or a favor doesn't mean you agree, and none of it should be read as a verdict on someone's character from a single instance.",
+        "meta": {
+          "myth": "If someone conforms to a group, obeys an instruction, or reciprocates a favor, that single act tells you they're weak-willed, submissive, or easily manipulated.",
+          "fact": "Conformity, obedience, and reciprocity are near-universal responses to social pressure that show up across ages, cultures, and personality types — situational factors like group size, perceived authority, and the specific favor typically predict the behavior far better than any individual trait does, so one instance of any of these reveals little about a person's disposition without looking at the pattern across many different situations."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "Before agreeing, obeying, or repaying, ask: would I choose this if the room, the title, or the gift weren't in the picture?"
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["social psychology", "conformity", "authority bias", "reciprocity"],
+    "relatedDrillIds": ["psy_d08"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l06",
+    "disciplineId": "psychology",
+    "title": "The Frame Decides Before the Facts Do",
+    "hook": "'90% survival rate' and '10% mortality rate' describe the exact same outcome — but they don't land the same way. Time to practice catching the difference.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Framing effects describe how the same factual information produces different judgments and decisions depending on how it's phrased — as a gain or a loss, a percentage or a raw number, a default you opt out of or an option you opt into. A medical treatment described as having a '90% survival rate' is chosen more often than the identical treatment described as having a '10% mortality rate,' even by physicians reviewing the exact same data. Neither phrasing is false. The frame simply directs attention toward gains or losses, and people tend to weigh losses more heavily, so the loss-framed version reads as scarier even though the underlying numbers are identical."
+      },
+      {
+        "type": "paragraph",
+        "text": "A related mechanism, priming, suggests that exposure to a word, image, or concept can nudge later thoughts and behavior in that concept's direction, sometimes without the person noticing the connection — though the size and reliability of many classic priming demonstrations has been genuinely contested and only partly replicated in later research, so it's a real phenomenon that's smaller and more context-dependent than early popular accounts suggested."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Noticing that a message uses gain or loss framing, or a suggestive prime, doesn't tell you the underlying facts are wrong — and no single framed statement or subtle cue proves someone is trying to manipulate you.",
+        "meta": {
+          "myth": "If a claim is framed to sound more positive or negative, or if you spot one 'primed' word choice, it's a manipulation tactic and you should distrust the source.",
+          "fact": "Framing is close to unavoidable — every statement of a fact requires some framing — and priming effects, where genuine, tend to be modest and easily overwhelmed by context; the useful skill is checking whether the underlying numbers or facts change under the opposite frame, not treating one instance of loss-framing or one suggestive word as proof of manipulative intent, since responsible communicators and dishonest ones both use frames constantly."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "Before reacting to a framed statement, translate it into its opposite frame and see if your judgment changes."
+      },
+      {
+        "type": "paragraph",
+        "text": "Practice noticing frames in your own week: a subscription price shown 'per day' instead of 'per year,' a request phrased as avoiding a loss rather than gaining a benefit, a statistic given as a percentage instead of a number of people. Each time, do the translation exercise deliberately — restate it the other way — until checking the frame becomes closer to automatic."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["framing effect", "persuasion", "priming"],
+    "relatedDrillIds": ["psy_d07"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l07",
+    "disciplineId": "psychology",
+    "title": "The Shape of How You Feel and Attach",
+    "hook": "Emotional regulation isn't suppressing feeling — and attachment style isn't a life sentence. Both are more flexible, and more misunderstood, than the popular versions suggest.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Emotional regulation refers to the strategies people use to influence which emotions they have, when they have them, and how they experience and express them. Contrary to a common assumption, effective regulation is rarely about suppression — actively pushing a feeling down tends to increase physiological arousal and can paradoxically make the suppressed emotion more accessible later. The strategy with the most consistent research support is cognitive reappraisal: reinterpreting the meaning of a situation before the emotional response fully forms, such as reframing a stranger's curt reply as 'they might be having a hard day' rather than 'they're being rude to me.'"
+      },
+      {
+        "type": "paragraph",
+        "text": "Attachment theory, originally developed to describe the bond between infants and caregivers, is often popularized as a fixed adult personality typing system — 'I'm anxious attachment, you're avoidant.' The underlying research is more provisional than that framing suggests: attachment patterns show meaningful continuity from early life but are also measurably responsive to relationship experience, therapy, and context, and a person can show different attachment behavior in different relationships rather than one fixed style everywhere."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "A single anxious or distant moment in a relationship doesn't reveal someone's fixed attachment style, and no isolated emotional outburst proves someone can't regulate their emotions.",
+        "meta": {
+          "myth": "Someone's attachment style is a fixed label that explains their relationship behavior, and if they react strongly once, that's just who they are emotionally.",
+          "fact": "Attachment researchers increasingly describe attachment as a set of tendencies that vary by relationship and life stage rather than an immovable category, and emotional reactivity in one moment reflects that moment's stress, sleep, and context as much as any stable trait — a single data point, whether it's one clingy text or one emotional outburst, is not enough to diagnose a pattern; patterns require watching behavior recur across different relationships and circumstances over time."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "Regulation is a practiced skill, not a fixed trait — and attachment is a pattern you can shift, not a permanent label."
+      },
+      {
+        "type": "paragraph",
+        "text": "The practical takeaway for observing yourself or others is the same one that runs through this whole discipline: don't diagnose a single moment. A person who reacts anxiously once during a stressful week is not necessarily 'anxiously attached,' and a single successfully calm response doesn't prove mastery of regulation either. What's actually informative is the trend across many instances and contexts — which is exactly the kind of pattern this app's practice drills and reflection log are built to help you track over time, in yourself rather than in your snap judgments of others."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["emotional regulation", "attachment", "personality"],
+    "relatedDrillIds": ["psy_d09"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l08",
+    "disciplineId": "psychology",
+    "title": "Nobody Decided Anything, and Yet Everyone Moved",
+    "hook": "A crowd can make a decision that no single person in it actually chose. That's not a metaphor — it's measurable group psychology.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "In 1895, sociologist Gustave Le Bon described crowds as capable of a kind of collective mind, where individuals lose personal responsibility and adopt the emotional temperature of the group. Modern research has revised much of Le Bon's original theory — crowds don't actually erase individual identity or reasoning as completely as he claimed — but the core observation survives in a more precise form: group settings reliably shift risk-taking, responsibility, and decision-making away from what any individual member would choose alone, through documented mechanisms like diffusion of responsibility, social loafing, and groupthink, where a group under pressure to reach consensus suppresses dissenting views before they're even voiced."
+      },
+      {
+        "type": "paragraph",
+        "text": "Personality and motivation research offers a caution about the story above: how much a given person conforms to group pressure is not uniform — traits like a need for social approval and situational factors like group size, unanimity, and status all measurably change how strongly the pattern shows up, and someone who conforms readily in a work meeting might be the lone dissenter in a group of close friends. Motivation itself splits meaningfully into intrinsic drives — curiosity, mastery, genuine interest — and extrinsic ones — money, approval, avoiding punishment — and a substantial body of research finds that adding strong extrinsic rewards to an already intrinsically motivating task can measurably reduce a person's later interest in doing it unprompted."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "A person's behavior in one group, or their response to one incentive, doesn't reveal a fixed personality trait — situational forces and individual variation both matter, and no single group episode tells you who someone 'really' is.",
+        "meta": {
+          "myth": "If someone goes along with the crowd, or changes their effort based on a reward, that single episode reveals their true personality — a conformist, or someone 'only in it for the money.'",
+          "fact": "The same person conforms in some groups and not others, and responds to some incentives and not others, largely as a function of the specific situation — group size, stakes, relationship to other members — rather than a single fixed trait; drawing a personality conclusion from one group episode ignores the substantial body of research showing situational variables predict the behavior at least as well as any personal disposition does."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "Groups change behavior more than most people expect — which means one episode in one group tells you less about a person than it feels like it does."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["personality", "motivation", "group behavior", "conformity"],
+    "relatedDrillIds": ["psy_d10"],
+    "relatedCardIds": []
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "comp_d01",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 1,
+    "prompt": "Box breathing. Inhale through your nose for 4 seconds, hold for 4 seconds, exhale through your mouth for 4 seconds, hold empty for 4 seconds. That is one cycle. Repeat for 6 cycles (about 96 seconds). Sit upright, shoulders down, and let the timer pace you instead of counting in your head.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 100,
+    "questions": [
+      {
+        "id": "comp_d01_q1",
+        "prompt": "Compare your body right now to before you started: heart rate, jaw tension, and the pace of your thoughts. What changed?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "there is no single right answer — this is a reflection prompt",
+        "explanation": "Box breathing works by extending your exhale and adding holds, which nudges the vagus nerve and slows heart rate — noticing the shift is what teaches your brain the tool actually works, so you'll reach for it under real pressure."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d02",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 1,
+    "prompt": "Physiological sigh. Take a full inhale through your nose, then before exhaling, take a second short, sharp inhale on top of it to fully top off your lungs. Then exhale slowly and completely through your mouth. That is one cycle. Repeat for 5 cycles (about 60-75 seconds). This is the fastest known way to calm an activated nervous system in real time.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 75,
+    "questions": [
+      {
+        "id": "comp_d02_q1",
+        "prompt": "Did the double-inhale feel awkward at first? Rate your tension before and after on a 1-10 scale, and note how quickly the drop happened.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "there is no single right answer — this is a reflection prompt",
+        "explanation": "The double inhale pops open collapsed alveoli and maximizes CO2 offload on the long exhale, which is why this pattern drops physiological arousal faster than any other single breath you can take — useful the moment before a hard conversation, not just in practice."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d03",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 2,
+    "prompt": "Extended exhale breathing. Inhale through your nose for 4 seconds, then exhale slowly through your nose for 8 seconds — twice as long as the inhale, no holds. Keep the exhale smooth, not forced. Repeat for 8 cycles (about 96 seconds). Use this one specifically when you notice irritation rising and need to buy time before you speak.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 100,
+    "questions": [
+      {
+        "id": "comp_d03_q1",
+        "prompt": "Picture the last time you snapped at someone. If you'd done 8 cycles of this first, what do you think you would have said instead?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "there is no single right answer — this is a reflection prompt",
+        "explanation": "A long exhale relative to the inhale is the single biggest lever for down-regulating arousal — rehearsing the counterfactual response trains you to actually reach for the breath next time, instead of just knowing it exists."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d04",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 2,
+    "prompt": "Rapid-fire judgment calls on emotional regulation. You'll see 20 statements, one at a time, with a visible timer. Answer True or False as fast as you honestly can — don't overthink, don't stall. Speed under mild pressure is the point.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 90,
+    "questions": [
+      {"id": "comp_d04_q1", "prompt": "True or false: pausing before responding to an insult always looks weak.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "A brief pause reads as control, not weakness — instant reactions are what actually look rattled."},
+      {"id": "comp_d04_q2", "prompt": "True or false: naming an emotion out loud ('I'm feeling defensive right now') tends to reduce its intensity.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "Affect labeling is one of the most replicated findings in emotion regulation research — putting words to a feeling engages the prefrontal cortex and dampens the amygdala response."},
+      {"id": "comp_d04_q3", "prompt": "True or false: the goal of composure is to stop feeling strong emotions.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Composure is about what you do with the emotion, not suppressing it — trying to feel nothing usually backfires and leaks out sideways."},
+      {"id": "comp_d04_q4", "prompt": "True or false: reframing a situation means pretending the bad thing didn't happen.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Reframing changes the interpretation or meaning of a real event, not the facts of the event itself — it's honest, not denial."},
+      {"id": "comp_d04_q5", "prompt": "True or false: physically clenching your jaw or fists tends to amplify anger rather than release it.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "Muscle tension feeds back into your emotional state — deliberately relaxing your face and hands is a real, physiological way to lower anger's intensity."},
+      {"id": "comp_d04_q6", "prompt": "True or false: someone who never gets embarrassed has better composure than someone who feels embarrassed but recovers quickly.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Composure is measured by recovery speed and behavior, not by the absence of the feeling — everyone gets embarrassed."},
+      {"id": "comp_d04_q7", "prompt": "True or false: it's best to respond to a rejection immediately so the other person knows exactly how you feel.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Immediate reactions to rejection are usually the rawest, least considered version of your response — a short delay almost always improves it."},
+      {"id": "comp_d04_q8", "prompt": "True or false: tolerating uncertainty means you stop trying to figure out what's true.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Tolerating uncertainty means you keep functioning well while the answer is still unclear — it's not giving up on finding out."},
+      {"id": "comp_d04_q9", "prompt": "True or false: interrupting your own racing thoughts to focus on five things you can currently see is a legitimate grounding technique.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "This is a real sensory grounding technique (often taught as 5-4-3-2-1) that pulls attention out of rumination and into the present physical environment."},
+      {"id": "comp_d04_q10", "prompt": "True or false: a racing heart during a stressful conversation always means you're about to lose control.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Physiological arousal and behavioral control are separate things — you can have a pounding heart and still speak calmly and clearly."},
+      {"id": "comp_d04_q11", "prompt": "True or false: rehearsing an angry conversation in your head right before it happens usually calms you down.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Rehearsing the confrontation tends to rehearse the anger too, priming you to arrive already activated — a calming routine works better right before."},
+      {"id": "comp_d04_q12", "prompt": "True or false: silence in a conversation is always a sign something has gone wrong.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Silence is often just processing time — treating every pause as a crisis is what makes people rush to fill it with something worse."},
+      {"id": "comp_d04_q13", "prompt": "True or false: slowing your speech down when you're anxious makes you sound less credible.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Deliberately slowed, steady speech generally reads as more credible and composed — rapid speech is what tends to signal anxiety to listeners."},
+      {"id": "comp_d04_q14", "prompt": "True or false: the '5-second pause' technique means waiting five seconds before responding when you feel provoked.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "That's exactly the technique — a short, deliberate delay that gives your prefrontal cortex time to catch up to your amygdala's first reaction."},
+      {"id": "comp_d04_q15", "prompt": "True or false: someone with strong composure skills should be reading everyone around them for hidden motives at all times.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "That's paranoia, not composure — high awareness paired with low reactivity means noticing without constantly suspecting."},
+      {"id": "comp_d04_q16", "prompt": "True or false: apologizing quickly after an embarrassing moment always makes the moment worse.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "A brief, genuine acknowledgment usually diffuses embarrassment faster than either over-apologizing or ignoring it entirely."},
+      {"id": "comp_d04_q17", "prompt": "True or false: 'delaying a reaction' is the same thing as 'suppressing an emotion forever.'", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Delaying buys time to choose a response; the emotion is still felt and can be processed later — it's not permanent suppression."},
+      {"id": "comp_d04_q18", "prompt": "True or false: if you feel your face getting hot during an argument, that's a useful cue to slow down.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "Physical cues like flushing or a tight chest are early-warning signals — treating them as a prompt to slow down, not ignore, is the whole point of noticing them."},
+      {"id": "comp_d04_q19", "prompt": "True or false: mindfulness in this context means adopting a specific spiritual belief system.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Here, mindfulness is trained as a practical attention-control skill — noticing where your focus is and redirecting it — with no belief system required."},
+      {"id": "comp_d04_q20", "prompt": "True or false: composure is a fixed trait some people are simply born with and others aren't.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Composure is trainable — the breathing, pausing, and reframing skills in this discipline improve with practice like any other skill."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d05",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 3,
+    "prompt": "Rapid-fire judgment calls on pressure situations and social recovery. 18 quick questions, mostly true/false with a few multiple choice. Answer fast under the timer — this trains snap judgment, not deep analysis.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 90,
+    "questions": [
+      {"id": "comp_d05_q1", "prompt": "True or false: in a rapid-fire Q&A, admitting 'I don't know' immediately is always worse than guessing confidently.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "A calm, brief 'I don't know, let me find out' usually reads as more trustworthy than a confident guess that turns out wrong."},
+      {"id": "comp_d05_q2", "prompt": "You're mid-sentence in front of a group and completely lose your train of thought. What's the composed move?", "type": "multipleChoice", "options": ["Keep talking and hope it comes back", "Pause silently, take a breath, then say 'let me pick that thought back up' or briefly recap your last point", "Apologize repeatedly and rush to the next slide", "Ask someone in the audience to remind you"], "correctAnswer": "Pause silently, take a breath, then say 'let me pick that thought back up' or briefly recap your last point", "explanation": "A short, calm pause followed by a brief recap looks controlled; audiences forget lapses fast but remember panic."},
+      {"id": "comp_d05_q3", "prompt": "True or false: in conflict, matching the other person's raised volume and pace tends to de-escalate things.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Matching escalation almost always escalates further — deliberately staying slower and quieter is what tends to bring the temperature down."},
+      {"id": "comp_d05_q4", "prompt": "True or false: an unexpected, awkward social situation (like being introduced with the wrong name) is best handled by immediately, visibly correcting the error in detail.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "A light, brief correction lands better than a detailed one — over-explaining draws more attention to the awkwardness than the mistake itself did."},
+      {"id": "comp_d05_q5", "prompt": "True or false: when someone asks you a hostile question in public, repeating their question back calmly before answering can buy useful time.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "Restating the question slows the pace, signals you heard it clearly, and gives you a few extra seconds to compose an answer — all without looking evasive."},
+      {"id": "comp_d05_q6", "prompt": "True or false: the best way to handle being put on the spot with a question you can't answer is to fill the silence with filler words until something comes to you.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Filler words broadcast the scramble; a short silence while you actually think reads as far more composed."},
+      {"id": "comp_d05_q7", "prompt": "In a rapid back-and-forth, you realize you just misspoke and stated something factually wrong. What's the composed fix?", "type": "multipleChoice", "options": ["Ignore it and hope no one noticed", "Correct it briefly and immediately, then continue", "Wait until the very end to correct it", "Blame the confusion on the question"], "correctAnswer": "Correct it briefly and immediately, then continue", "explanation": "A quick, matter-of-fact correction in the moment reads as honest and in control; leaving it or blaming others erodes trust further."},
+      {"id": "comp_d05_q8", "prompt": "True or false: someone interrupting you repeatedly is best met by interrupting them back at the same rate.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Holding your pace and finishing your point calmly (even if it takes an extra beat) demonstrates more control than trading interruptions."},
+      {"id": "comp_d05_q9", "prompt": "True or false: in public speaking, a few seconds of silence before answering a hard question always reads as incompetence.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Brief, intentional silence before a considered answer generally reads as thoughtfulness, not incompetence — rushed answers are the ones that read poorly."},
+      {"id": "comp_d05_q10", "prompt": "True or false: if you're being timed and pressured with rapid questions, slowing your own speaking pace down (even slightly) usually helps rather than hurts.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "Slowing your own pace counteracts the pressure to rush, reduces verbal stumbles, and often makes the questioner's pace feel less frantic too."},
+      {"id": "comp_d05_q11", "prompt": "True or false: laughing at your own visible mistake in front of others is always a sign of low composure.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "A brief, genuine laugh at a small mistake can actually signal high composure — it shows the error didn't destabilize you."},
+      {"id": "comp_d05_q12", "prompt": "True or false: when someone tries to provoke you with a personal jab in front of others, responding with the same tone they used is the strongest move.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Refusing to match their tone and instead responding evenly denies them the reaction they were fishing for — that's usually the stronger position."},
+      {"id": "comp_d05_q13", "prompt": "True or false: being rejected from something you wanted badly is best processed by immediately deciding exactly why it happened.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Rushing to a firm explanation right after a rejection usually means settling on whatever story is most emotionally available, not the most accurate one — it's fine to sit with 'I don't fully know yet.'"},
+      {"id": "comp_d05_q14", "prompt": "True or false: a visibly shaking hand while speaking automatically undermines your message.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Audiences focus far more on your words, pace, and eye contact than on small physical tells — composure is judged mostly by behavior, not by suppressing every visible sign of nerves."},
+      {"id": "comp_d05_q15", "prompt": "True or false: in a tense negotiation, being the first person to go quiet after making an offer is a weak position.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Silence after an offer is a classic, deliberate negotiation tactic — tolerating it rather than rushing to fill it usually strengthens your position."},
+      {"id": "comp_d05_q16", "prompt": "True or false: rapid-fire pressure situations get easier mainly because you memorize the 'right' answers to every possible question.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "They get easier mainly because your nervous system gets used to the tempo and stops treating it as a threat — composure under pressure is a state skill, not a script."},
+      {"id": "comp_d05_q17", "prompt": "True or false: composure training means you should try to never feel nervous before a high-pressure moment again.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "The goal is functioning well despite the nerves, not eliminating them — expecting zero nerves sets an unrealistic bar that itself creates more anxiety."},
+      {"id": "comp_d05_q18", "prompt": "True or false: the healthiest mindset for pressure training is 'high awareness, low reactivity' — noticing everything, reacting to little.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "That phrase is the core philosophy behind this discipline: stay observant and informed, but don't let every observation trigger an emotional response."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d06",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 4,
+    "prompt": "Rapid-fire judgment calls on reframing, reading situations, and the line between awareness and paranoia. 16 quick questions under a visible timer — answer on instinct, then check the explanation.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 85,
+    "questions": [
+      {"id": "comp_d06_q1", "prompt": "True or false: reframing a frustrating traffic jam as 'extra time to listen to something good' is dishonest self-deception.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Reframing doesn't deny the frustration is real — it just chooses a true, workable interpretation among several honest ones available."},
+      {"id": "comp_d06_q2", "prompt": "A coworker seems distant today. The high-awareness, low-reactivity response is to:", "type": "multipleChoice", "options": ["Assume they're upset with you and start avoiding them", "Notice the change, stay open, and ask directly if something's up", "Analyze every past interaction for what you did wrong", "Ignore it completely and assume nothing changed"], "correctAnswer": "Notice the change, stay open, and ask directly if something's up", "explanation": "Noticing a real signal and checking it directly is awareness without reactivity; spiraling into assumptions is the paranoia this discipline explicitly guards against."},
+      {"id": "comp_d06_q3", "prompt": "True or false: constantly scanning people's faces and words for hidden meaning is the mark of a highly composed person.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Constant scanning for hidden meaning is closer to hypervigilance than composure — the goal is calm attentiveness, not suspicion of everyone."},
+      {"id": "comp_d06_q4", "prompt": "True or false: tolerating uncertainty about a situation means acting as if you're 100% certain, just to feel settled.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Manufacturing false certainty to feel better is exactly the trap this skill avoids — tolerating uncertainty means staying functional while genuinely not knowing yet."},
+      {"id": "comp_d06_q5", "prompt": "True or false: a good reframe changes how you feel about a situation without changing what actually happened.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "That's precisely what reframing is — a shift in interpretation and meaning, with the underlying facts left intact."},
+      {"id": "comp_d06_q6", "prompt": "True or false: someone canceling plans last minute should generally be assumed to be a sign they don't value the relationship.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Jumping to the worst-case explanation for one ambiguous event is the over-analysis this discipline trains you away from — most cancellations have mundane causes."},
+      {"id": "comp_d06_q7", "prompt": "True or false: grounding techniques (like naming things you can see, hear, and touch) are mainly useful for falling asleep, not for staying composed mid-conversation.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Grounding techniques are directly useful mid-conversation — they pull your attention back to the present moment whenever your mind starts spiraling."},
+      {"id": "comp_d06_q8", "prompt": "You feel your anger spiking during an argument. The most useful first move is to:", "type": "multipleChoice", "options": ["State your point louder to make sure you're heard", "Silently name the emotion to yourself ('this is anger') before responding", "Leave the room without a word", "Bring up an unrelated past grievance"], "correctAnswer": "Silently name the emotion to yourself ('this is anger') before responding", "explanation": "Naming the emotion before acting on it is the core regulation move — it creates a beat of separation between feeling and behavior."},
+      {"id": "comp_d06_q9", "prompt": "True or false: reframing should never be used on genuinely serious problems, only minor annoyances.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Reframing scales to serious situations too (e.g. 'this failure taught me something specific') — it's a general tool, not limited to small annoyances."},
+      {"id": "comp_d06_q10", "prompt": "True or false: noticing a pattern in someone's behavior over time is different from being paranoid about their motives in the moment.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "Awareness built from real, repeated evidence over time is different from reflexively assuming hidden motives from a single ambiguous moment — the former is observation, the latter is paranoia."},
+      {"id": "comp_d06_q11", "prompt": "True or false: attention control means you should try to think about nothing at all.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Attention control means directing your focus deliberately (to your breath, the present conversation, a task), not achieving a blank mind."},
+      {"id": "comp_d06_q12", "prompt": "True or false: it's possible to be highly perceptive about people and situations while still staying emotionally calm and non-reactive.", "type": "trueFalse", "options": [], "correctAnswer": "True", "explanation": "That combination — high awareness, low reactivity — is exactly the philosophy this discipline is built around."},
+      {"id": "comp_d06_q13", "prompt": "True or false: a person who over-analyzes every text message for hidden meaning is practicing good awareness skills.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Over-analyzing ambiguous, low-stakes signals is closer to anxiety or paranoia than to the deliberate, evidence-based awareness this discipline teaches."},
+      {"id": "comp_d06_q14", "prompt": "True or false: the point of pressure training (rapid Q&A, conflict simulation) is to make you enjoy conflict.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "The point is to make you functional and steady under pressure, not to make pressure enjoyable — discomfort during the drill is expected and fine."},
+      {"id": "comp_d06_q15", "prompt": "True or false: embarrassment is a signal you did something objectively wrong.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "Embarrassment often fires over harmless social missteps that violate no real rule — it tracks perceived judgment, not actual wrongdoing."},
+      {"id": "comp_d06_q16", "prompt": "True or false: reacting slowly to provocation always means the provocation didn't affect you.", "type": "trueFalse", "options": [], "correctAnswer": "False", "explanation": "You can be affected and still choose a delayed, deliberate response — low reactivity is a choice about behavior, not proof of numbness."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d07",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the tense exchange below, then write the response you would actually give if you were the one being spoken to. Aim for something composed: acknowledges what was said, doesn't escalate, and moves things forward.",
+    "stimulusText": "You're presenting a project update in a team meeting. A senior colleague cuts in: \"Honestly, this is the same half-finished thing you showed us two weeks ago. I don't get why we're still looking at this.\" The room goes quiet. Everyone is looking at you, waiting to see how you respond.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d07_q1",
+        "prompt": "Write exactly what you would say next, out loud, in that room.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. \"Fair point on the pace — let me be specific about what's actually changed since then.\" (short pause) \"Since the last update, we've fixed X and tested Y; what's still open is Z, and here's the plan to close it by [date]. Happy to take it offline in more detail after this if that's useful.\"",
+        "explanation": "A composed response does three things in order: briefly acknowledges the criticism without conceding it's fully fair or getting defensive, replaces vague reassurance with specific facts, and redirects to a forward-looking next step — this denies the provocation an emotional payoff while still giving the room real information."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d08",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the exchange below, then write the composed reply you'd actually send or say. There's no single correct wording — you're being evaluated on tone and de-escalation, not on matching an exact script.",
+    "stimulusText": "A friend texts you: \"Wow, so you just decided not to invite me to the trip? Cool. Good to know where I stand with you.\" You had genuinely forgotten to loop them in — it wasn't intentional, but you can tell from the message they're hurt and looking for a reaction.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d08_q1",
+        "prompt": "Write your actual reply, word for word.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. \"You're right that you should've been looped in and I dropped the ball — that's on me, not a decision about where you stand with me. I genuinely just forgot to add you when we were planning. Can I call you in a bit so this doesn't turn into a back-and-forth over text?\"",
+        "explanation": "This response validates the real hurt without accepting a false accusation of intent, takes ownership of the actual mistake plainly, and moves the conversation to a slower medium (a call) rather than continuing an escalating text exchange — all signs of low reactivity paired with genuine accountability."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d09",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 3,
+    "prompt": "Public speaking challenge. Topic: \"Explain why a skill you're currently bad at is still worth practicing.\" Speak or write continuously about this topic for the full timer — don't stop, don't restart, don't pre-plan for more than a few seconds. The point is sustaining composure through an unscripted stretch of talking, not delivering a polished answer.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 60,
+    "questions": [
+      {
+        "id": "comp_d09_q1",
+        "prompt": "Where did you stumble or want to stop, and what did you do in that moment instead of stopping?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "there is no single right answer — this is a reflection prompt",
+        "explanation": "The skill being trained is tolerating the discomfort of an unscripted pause or stumble without panicking — noticing exactly where you wanted to bail is what lets you recognize and manage that same urge next time it happens for real."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d10",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 5,
+    "prompt": "Public speaking challenge, higher pressure. Topic: \"Defend an unpopular opinion you don't actually hold, as if it were your own.\" Speak or write continuously for the full timer with no pre-planning time. This deliberately puts you in a slightly uncomfortable, put-on-the-spot position — the goal is staying composed while your usual talking points don't apply.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 90,
+    "questions": [
+      {
+        "id": "comp_d10_q1",
+        "prompt": "How did arguing a position you don't hold change your pace, tone, or confidence compared to talking about something you actually believe? What would you do differently next time you're caught off guard like this?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "there is no single right answer — this is a reflection prompt",
+        "explanation": "Unexpected social and intellectual pressure (being asked to defend something unfamiliar or uncomfortable) is exactly the kind of surprise composure training exists for — reflecting on the specific friction points turns one uncomfortable drill into a reusable insight."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "card_001",
+    "disciplineId": "observation",
+    "hook": "Most of what passes in front of your eyes, you never actually register.",
+    "concept": "Attention, not the eyes, decides what gets encoded into memory. When attention is occupied elsewhere, even large, unexpected things in plain view routinely go unnoticed — this is inattentional blindness.",
+    "tryIt": "The next time you walk into a familiar room, pick one object you've never consciously noticed before and study it for ten full seconds.",
+    "whyExplanation": "Vision feels complete and automatic, but the brain only deeply processes what attention selects. Everything else is filtered out before it ever reaches memory, which is why people can look directly at something and still not see it.",
+    "sourceCitation": "From research on inattentional blindness (Simons & Chabris)",
+    "tags": ["attention", "perception"]
+  },
+  {
+    "id": "card_002",
+    "disciplineId": "observation",
+    "hook": "You can't spot what's unusual about someone until you know what's usual for them.",
+    "concept": "Deviation detection requires a stable baseline. A change only registers as meaningful once you've stored a reference point for how a specific person or place normally looks and behaves.",
+    "tryIt": "Pick a coworker or family member you see daily. Note three small baseline details about them today — posture, pace of speech, typical volume — and watch for any shift over the next week.",
+    "whyExplanation": "Without a baseline, unusual behavior and normal variation look identical. Trained observers spend more time building baselines than hunting for anomalies, because the anomaly is only visible against a known backdrop.",
+    "sourceCitation": null,
+    "tags": ["baseline", "detail"]
+  },
+  {
+    "id": "card_003",
+    "disciplineId": "observation",
+    "hook": "Faces are rehearsed. Hands usually aren't.",
+    "concept": "People devote conscious effort to managing their facial expressions, since faces are what others watch during conversation. Hands receive far less monitoring, so they tend to move in ways that more directly track internal state.",
+    "tryIt": "In your next conversation, spend one full minute watching the other person's hands instead of their face.",
+    "whyExplanation": "Self-presentation is a limited resource, and most of it gets spent on the face because that's where attention is expected to go. Less-watched channels are harder to consciously edit in real time.",
+    "sourceCitation": null,
+    "tags": ["hands", "nonverbal"]
+  },
+  {
+    "id": "card_004",
+    "disciplineId": "observation",
+    "hook": "A room keeps a record of habits that memory doesn't.",
+    "concept": "Physical wear, arrangement, and clutter in a space accumulate from repeated behavior over time — worn armrests, a favorite mug left in one spot, a well-used doorway. These traces persist even when no one is around to describe the habit.",
+    "tryIt": "Next time you're in someone's home or office, scan for the single most obviously used object or surface in the room before you look at anything else.",
+    "whyExplanation": "Memory is reconstructive and fades, but physical wear is cumulative and doesn't require anyone to recall anything. Environments are a more permanent record of behavior than the people who made them.",
+    "sourceCitation": null,
+    "tags": ["environment", "inference"]
+  },
+  {
+    "id": "card_005",
+    "disciplineId": "observation",
+    "hook": "You noticed more than you can currently say.",
+    "concept": "Recognition — picking the correct detail out of a set of options — is consistently easier than free recall, where you have to generate the detail from nothing. A lot of what you 'missed' is actually stored, just not retrievable on demand.",
+    "tryIt": "After leaving any room, before looking back, write down everything you can remember about it. Then return and check what you missed versus what you'd recognize if shown.",
+    "whyExplanation": "Encoding and retrieval are separate processes. Information can be stored perfectly well and still fail to surface without the right cue, which is why recall tests routinely underestimate what someone actually observed.",
+    "sourceCitation": "General principle from memory research on recognition versus recall",
+    "tags": ["memory", "recall"]
+  },
+  {
+    "id": "card_006",
+    "disciplineId": "observation",
+    "hook": "Random glancing misses things that a fixed routine catches.",
+    "concept": "Scanning a space in a consistent, deliberate order — corners, exits, hands, then faces — catches more relevant detail than looking wherever attention happens to drift.",
+    "tryIt": "The next time you enter a new space, spend five seconds scanning it in the same fixed order every time: exits first, then hands of anyone present, then faces.",
+    "whyExplanation": "A structured routine removes the randomness that causes attention to repeatedly land on the same few salient things while ignoring the rest. Consistency is what turns observation into a repeatable skill rather than luck.",
+    "sourceCitation": null,
+    "tags": ["scanning", "routine"]
+  },
+  {
+    "id": "card_007",
+    "disciplineId": "psychology",
+    "hook": "You judge their character. You explain away your own behavior.",
+    "concept": "The fundamental attribution error describes a consistent asymmetry: we tend to explain other people's actions by their personality or character, while explaining our own actions by the situation we were in.",
+    "tryIt": "Next time you catch yourself judging someone's behavior, name two plausible situational explanations before you allow yourself any conclusion about their character.",
+    "whyExplanation": "We see other people's behavior but rarely see the constraints acting on them, while we're intimately aware of our own constraints. The visible half of the picture gets mistaken for the whole explanation.",
+    "sourceCitation": "From research on the fundamental attribution error (Lee Ross)",
+    "tags": ["bias", "attribution"]
+  },
+  {
+    "id": "card_008",
+    "disciplineId": "psychology",
+    "hook": "Liking someone often has less to do with effort than with repetition.",
+    "concept": "The mere exposure effect shows that repeated, neutral contact with something or someone tends to increase how much we like it, even with no new information exchanged.",
+    "tryIt": "If you want to build rapport with someone, prioritize showing up around them more consistently over trying harder in any single interaction.",
+    "whyExplanation": "Familiarity reduces the brain's threat assessment of something unfamiliar, and that reduced vigilance gets misread as positive feeling. It operates below conscious awareness, which is why simple repeated presence works.",
+    "sourceCitation": "From research on the mere exposure effect (Robert Zajonc)",
+    "tags": ["familiarity", "liking"]
+  },
+  {
+    "id": "card_009",
+    "disciplineId": "psychology",
+    "hook": "Success is 'me.' Failure is 'the circumstances.'",
+    "concept": "The self-serving bias describes a common pattern where people credit their successes to their own ability and attribute their failures to external circumstances, rather than applying the same standard both ways.",
+    "tryIt": "Next time something goes badly, before blaming circumstances, write down specifically what was actually within your control.",
+    "whyExplanation": "This asymmetry protects self-image by keeping personal identity tied only to the good outcomes. Noticing it in yourself doesn't remove the bias, but it does make your own account of events more reliable.",
+    "sourceCitation": null,
+    "tags": ["bias", "self-perception"]
+  },
+  {
+    "id": "card_010",
+    "disciplineId": "psychology",
+    "hook": "People change their beliefs to match their actions more often than the reverse.",
+    "concept": "Cognitive dissonance theory describes how, once someone has committed to a decision or action, they tend to adjust their attitudes to feel consistent with it, rather than reconsidering the action itself.",
+    "tryIt": "Notice the next time you find yourself justifying a past decision that isn't working out. Ask directly whether you'd still choose it today, knowing what you know now.",
+    "whyExplanation": "Holding a belief and an action that contradict each other is uncomfortable, and the mind resolves that discomfort by revising the belief — usually without announcing that it's doing so.",
+    "sourceCitation": "From research on cognitive dissonance (Leon Festinger)",
+    "tags": ["dissonance", "belief"]
+  },
+  {
+    "id": "card_011",
+    "disciplineId": "psychology",
+    "hook": "The first number you hear quietly sets the range for every number after it.",
+    "concept": "Anchoring shows that an initial figure — even an arbitrary or irrelevant one — pulls subsequent estimates and judgments toward it, because people adjust from the anchor rather than starting fresh.",
+    "tryIt": "In your next negotiation or estimate, notice the first number stated out loud, then deliberately re-derive your own number from scratch before comparing.",
+    "whyExplanation": "Adjustment away from an anchor is typically insufficient — the mind treats the anchor as a starting point rather than irrelevant noise, so the final judgment stays biased toward it.",
+    "sourceCitation": "From research on anchoring (Tversky & Kahneman)",
+    "tags": ["anchoring", "judgment"]
+  },
+  {
+    "id": "card_012",
+    "disciplineId": "psychology",
+    "hook": "Naming the feeling can quiet it before you've done anything else.",
+    "concept": "Affect labeling — putting a strong emotion into a single specific word — is associated with reduced intensity of the emotional response, an effect sometimes summarized as 'name it to tame it.'",
+    "tryIt": "Next time you notice a strong emotional reaction rising, silently label it with one precise word before you do anything else.",
+    "whyExplanation": "Translating a raw feeling into language appears to engage regulatory brain regions that dampen the more reactive ones, turning a diffuse surge into something more specific and manageable.",
+    "sourceCitation": "From research on affect labeling",
+    "tags": ["emotion regulation", "labeling"]
+  },
+  {
+    "id": "card_013",
+    "disciplineId": "reading_people",
+    "hook": "There is no single gesture that reliably means 'lying.'",
+    "concept": "Despite popular claims, no isolated behavior — avoiding eye contact, touching the face, crossing arms — reliably indicates deception on its own. Deception cues are weak, inconsistent across people, and easily confused with unrelated stress or discomfort.",
+    "tryIt": "Instead of hunting for 'the tell,' compare a person's behavior across an entire conversation against their own baseline, and treat any single cue as a question, not an answer.",
+    "whyExplanation": "Deception research consistently finds that trained lie-detection accuracy from isolated cues is barely better than chance. Real signal, if it exists, comes from clusters of deviation from someone's normal pattern, not one gesture.",
+    "sourceCitation": "Consistent with meta-analyses on deception detection accuracy",
+    "tags": ["deception", "myth-busting"]
+  },
+  {
+    "id": "card_014",
+    "disciplineId": "reading_people",
+    "hook": "One signal is a guess. Three that agree are worth acting on.",
+    "concept": "Reliable behavioral reading comes from clusters of corroborating cues — posture, tone, timing, word choice — that point the same direction, rather than any single gesture treated as conclusive.",
+    "tryIt": "Before concluding someone is uncomfortable or being evasive, identify at least three separate, independent signals that all point the same way.",
+    "whyExplanation": "Any single cue has many innocent alternative explanations. Convergence across several independent channels narrows the range of plausible explanations far more than any one channel could alone.",
+    "sourceCitation": null,
+    "tags": ["clusters", "signal"]
+  },
+  {
+    "id": "card_015",
+    "disciplineId": "reading_people",
+    "hook": "In a group, watch where the feet are pointing.",
+    "concept": "Because people devote conscious effort to managing their face and upper body during conversation, the feet and lower body are often the least monitored channel — and tend to orient toward where a person's attention or intention actually lies.",
+    "tryIt": "In your next group conversation, glance down occasionally and notice which direction people's feet are angled, especially relative to what their face is doing.",
+    "whyExplanation": "Self-presentation effort is limited and gets allocated to the parts of the body other people are actually looking at. The feet, rarely watched, often leak information the face has been trained to withhold.",
+    "sourceCitation": null,
+    "tags": ["body language", "feet"]
+  },
+  {
+    "id": "card_016",
+    "disciplineId": "reading_people",
+    "hook": "Sometimes it's not what they said — it's how fast they said it.",
+    "concept": "Paralanguage — pace, pitch, and volume — often carries information that word choice doesn't, especially under stress, because tone is harder to consciously control than vocabulary.",
+    "tryIt": "On your next phone call, pay attention to whether the other person's pace speeds up or their pitch rises at certain moments, independent of what they're actually saying.",
+    "whyExplanation": "People rehearse and edit their words far more than they monitor their voice. Shifts in pace or pitch tend to track real-time internal state more closely than the carefully chosen words riding on top of it.",
+    "sourceCitation": null,
+    "tags": ["tone", "paralanguage"]
+  },
+  {
+    "id": "card_017",
+    "disciplineId": "reading_people",
+    "hook": "A genuine reaction usually arrives on time. A performed one sometimes arrives a beat late.",
+    "concept": "Spontaneous emotional expressions tend to onset promptly in response to a triggering moment and fade in a natural arc. An expression that seems to switch on slightly after the moment it's supposedly reacting to is worth noting, without treating it as proof of anything on its own.",
+    "tryIt": "In your next few conversations, notice the timing between an event and someone's visible reaction to it, more than the reaction itself.",
+    "whyExplanation": "Automatic affective responses and deliberately composed ones run on different timelines, because one is reflexive and the other requires a decision first. Timing is a subtler and often more honest signal than the expression's content.",
+    "sourceCitation": null,
+    "tags": ["expression", "timing"]
+  },
+  {
+    "id": "card_018",
+    "disciplineId": "reading_people",
+    "hook": "Crossed arms might mean defensiveness. It might also mean a cold room.",
+    "concept": "The same posture or gesture can have entirely different meanings depending on context — temperature, chair design, an old injury, or simple comfort can all produce a posture that's easy to misread as an emotional signal.",
+    "tryIt": "Before interpreting any posture as meaningful, first rule out the boring situational explanations: room temperature, seating, physical discomfort.",
+    "whyExplanation": "Body language only carries information once the obvious environmental and physical alternatives are ruled out. Skipping that step is the most common way confident-sounding readings turn out to be wrong.",
+    "sourceCitation": null,
+    "tags": ["context", "body language"]
+  },
+  {
+    "id": "card_019",
+    "disciplineId": "conversation",
+    "hook": "Most people aren't listening to you. They're rehearsing what they'll say next.",
+    "concept": "In everyday conversation, a large share of mental effort during someone else's turn goes toward preparing a reply rather than fully processing what's being said, simply because working memory can't do both at full capacity.",
+    "tryIt": "In your next conversation, try to silently repeat the last sentence someone said, word for word, before you let yourself respond.",
+    "whyExplanation": "Listening and composing a response draw on the same limited attentional resources. Prioritizing the reply necessarily means some of the incoming message gets processed only partially.",
+    "sourceCitation": null,
+    "tags": ["listening", "attention"]
+  },
+  {
+    "id": "card_020",
+    "disciplineId": "conversation",
+    "hook": "'What was that like?' gets you further than 'Was that hard?'",
+    "concept": "Open-ended questions, which can't be answered with a single word, consistently draw out more detail and more genuine information than closed yes/no questions.",
+    "tryIt": "In your next conversation, replace your next three questions with versions that start with 'what' or 'how' instead of ones that invite a yes or no.",
+    "whyExplanation": "A closed question supplies its own easy exit — a one-word answer that ends the topic. An open question leaves no such shortcut, so the other person has to actually construct an answer.",
+    "sourceCitation": null,
+    "tags": ["questions", "elicitation"]
+  },
+  {
+    "id": "card_021",
+    "disciplineId": "conversation",
+    "hook": "The best follow-up question is often no question at all.",
+    "concept": "People are generally uncomfortable with silence and tend to fill it, which means a brief pause after someone finishes answering often prompts them to elaborate further, unprompted.",
+    "tryIt": "After someone finishes answering a question, silently count two full seconds before you say anything, and notice whether they add more on their own.",
+    "whyExplanation": "Silence after an answer reads as an implicit invitation to keep going. Filling that gap immediately with your own words removes the pressure that would otherwise draw more out of them.",
+    "sourceCitation": null,
+    "tags": ["silence", "elicitation"]
+  },
+  {
+    "id": "card_022",
+    "disciplineId": "conversation",
+    "hook": "People want to feel understood before they want to be fixed.",
+    "concept": "Naming what someone appears to be feeling, before offering any advice or solution, tends to reduce their defensiveness and make them more receptive to what you say next.",
+    "tryIt": "Before giving advice in your next hard conversation, say back in one sentence what you think the other person is feeling, and wait for confirmation.",
+    "whyExplanation": "Advice offered before someone feels heard reads as dismissal of the feeling itself, which triggers a need to defend it. Naming the feeling first removes that need before it starts.",
+    "sourceCitation": null,
+    "tags": ["validation", "empathy"]
+  },
+  {
+    "id": "card_023",
+    "disciplineId": "conversation",
+    "hook": "'Great job' is interchangeable. One specific detail isn't.",
+    "concept": "Specific, concrete praise lands more convincingly than generic praise, because generic compliments could be said to anyone and therefore signal less real attention.",
+    "tryIt": "The next time you want to compliment someone, replace a generic phrase like 'nice work' with one concrete detail you actually noticed.",
+    "whyExplanation": "Specificity is evidence that you actually paid attention, while generic flattery requires none. People can tell the difference even when they can't articulate exactly why one compliment felt real and another didn't.",
+    "sourceCitation": null,
+    "tags": ["compliments", "rapport"]
+  },
+  {
+    "id": "card_024",
+    "disciplineId": "conversation",
+    "hook": "Rapport shows up as pace drifting together, not as pace being copied.",
+    "concept": "A subtle, unforced convergence in speaking pace and energy between two people correlates with genuine comfort and rapport — but deliberately performing this by mimicking someone's gestures usually reads as unnatural rather than as connection.",
+    "tryIt": "Notice your own pace relative to the person you're talking with, and let it drift closer naturally rather than consciously mirroring their movements.",
+    "whyExplanation": "Natural convergence is a byproduct of genuine engagement, while forced mimicry is a performance layered on top of it — and people are generally good at sensing which one they're getting, even without being able to name it.",
+    "sourceCitation": null,
+    "tags": ["rapport", "mirroring"]
+  },
+  {
+    "id": "card_025",
+    "disciplineId": "mentalism",
+    "hook": "'Mind reading' is often just knowing which answer most people give.",
+    "concept": "Much of mentalism performance relies on statistical forcing: when asked to name something quickly under time pressure, most people gravitate toward a small handful of common defaults, not a random spread of options.",
+    "tryIt": "Ask five friends to name a color and a number between one and ten as fast as they can, and notice how often their answers cluster on the same few choices.",
+    "whyExplanation": "Under time pressure, people default to whatever comes to mind most easily — the cognitively available option — rather than searching the full space of possibilities. That predictability is the actual mechanism, not insight into any individual mind.",
+    "sourceCitation": "Consistent with documented biases in forced-choice psychology",
+    "tags": ["forcing", "probability"]
+  },
+  {
+    "id": "card_026",
+    "disciplineId": "mentalism",
+    "hook": "A statement vague enough to fit anyone will feel like it was written just for you.",
+    "concept": "The Barnum effect describes how vague, generally applicable statements — 'you're sometimes more sociable than people realize' — are rated as strikingly accurate by nearly everyone, because listeners unconsciously supply their own specifics.",
+    "tryIt": "Read a generic horoscope or personality description and notice how much of it feels 'exactly right,' then reread it looking for the parts that are actually specific versus vague.",
+    "whyExplanation": "Vague statements leave room for the listener to fill in matching personal detail, and confirmation bias then makes the fit feel uncanny. The accuracy is manufactured by the listener, not delivered by the statement.",
+    "sourceCitation": "From research on the Barnum/Forer effect",
+    "tags": ["barnum effect", "cold reading"]
+  },
+  {
+    "id": "card_027",
+    "disciplineId": "mentalism",
+    "hook": "Misdirection isn't about distracting you. It's about giving you somewhere more interesting to look.",
+    "concept": "Effective misdirection works by drawing attention toward a genuinely more relevant or engaging focal point, not through some separate trick of distraction layered on top.",
+    "tryIt": "Next time you watch any performer, notice where their own eyes are pointing during a key moment, and notice whether your eyes followed.",
+    "whyExplanation": "Humans automatically track other people's gaze and social cues as a default behavior. A performer directing their own attention is often enough to redirect an entire audience's attention along with it.",
+    "sourceCitation": null,
+    "tags": ["misdirection", "attention"]
+  },
+  {
+    "id": "card_028",
+    "disciplineId": "mentalism",
+    "hook": "What looks like a sudden insight is often information gathered minutes earlier.",
+    "concept": "Performers often gather small real details — clothing, objects, offhand remarks — during ordinary conversation, then present an inference built from those details later as if it arrived spontaneously.",
+    "tryIt": "In your first sixty seconds with a stranger, notice how much genuine information about them you can pick up without asking a single direct question.",
+    "whyExplanation": "Naming this honestly matters: this is inference from real observed evidence, not clairvoyance. The skill is attentive observation and quick synthesis, both of which are ordinary and learnable.",
+    "sourceCitation": null,
+    "tags": ["technique", "inference"]
+  },
+  {
+    "id": "card_029",
+    "disciplineId": "mentalism",
+    "hook": "A confident guess is often believed more than an accurate but hesitant one.",
+    "concept": "How fluently and confidently a statement is delivered influences how believable it seems, somewhat independent of whether it's actually correct — a pattern related to processing fluency and illusory truth.",
+    "tryIt": "Notice how differently you react to a hesitant guess versus a confidently delivered one in the same conversation, and check whether the confidence tracked any real accuracy.",
+    "whyExplanation": "Fluent delivery is easier for the brain to process, and that ease of processing gets misattributed to the truth of the content itself, rather than to the manner of delivery.",
+    "sourceCitation": "From research on processing fluency and truth judgments",
+    "tags": ["fluency", "confidence"]
+  },
+  {
+    "id": "card_030",
+    "disciplineId": "composure",
+    "hook": "Your body can't tell the difference between excitement and dread.",
+    "concept": "The physical sensations of anxiety and excitement — racing heart, quick breath, alertness — are nearly identical. Relabeling the sensation as excitement rather than anxiety can shift how the mind interprets the situation and how well someone performs in it.",
+    "tryIt": "Right before your next stressful moment, silently say 'I'm excited' instead of 'I'm nervous,' and notice whether your framing of the situation shifts.",
+    "whyExplanation": "The label attached to a bodily sensation determines whether the mind treats the situation as a threat to survive or a challenge to meet, which changes subsequent behavior even though the physiology is the same.",
+    "sourceCitation": "From research on anxiety reappraisal (Alison Wood Brooks)",
+    "tags": ["reappraisal", "anxiety"]
+  },
+  {
+    "id": "card_031",
+    "disciplineId": "composure",
+    "hook": "A longer exhale tells your nervous system the danger has passed.",
+    "concept": "Extending the exhale so it's longer than the inhale activates the parasympathetic nervous system, which slows heart rate and counteracts the body's stress response.",
+    "tryIt": "In a tense moment, inhale for a count of four and exhale for a count of six to eight, repeated four times.",
+    "whyExplanation": "Breathing is one of the few automatic bodily processes a person can directly and deliberately control, and doing so provides a real lever into the otherwise involuntary stress response.",
+    "sourceCitation": null,
+    "tags": ["breathing", "physiology"]
+  },
+  {
+    "id": "card_032",
+    "disciplineId": "composure",
+    "hook": "The angriest you'll feel is usually in the first few seconds.",
+    "concept": "Emotional reactions tend to peak quickly and then begin to fade within seconds, so a brief deliberate delay before responding lets the initial spike pass before you speak or act.",
+    "tryIt": "Next time something provokes you, silently count to three before you say anything back.",
+    "whyExplanation": "The physiological surge behind a strong emotional reaction subsides faster than most people expect. A short delay means your response comes from after the peak rather than during it.",
+    "sourceCitation": null,
+    "tags": ["emotion regulation", "delay"]
+  },
+  {
+    "id": "card_033",
+    "disciplineId": "composure",
+    "hook": "Stillness reads as control, even when it isn't concealing anything.",
+    "concept": "Unnecessary movement — fidgeting, adjusting clothing, shifting posture — signals discomfort to onlookers even when the person moving isn't consciously aware of it, while relative stillness is read as composure.",
+    "tryIt": "In your next stressful meeting, notice any unnecessary movements you're making and let your hands rest instead.",
+    "whyExplanation": "This is about not adding noise for an outside observer to interpret, not about hiding anything — reducing unnecessary movement simply gives others less ambiguous material to misread as distress.",
+    "sourceCitation": null,
+    "tags": ["stillness", "nonverbal"]
+  },
+  {
+    "id": "card_034",
+    "disciplineId": "composure",
+    "hook": "Vague dread is scarier than a concrete worst case.",
+    "concept": "Naming the actual worst realistic outcome of a feared situation, in specific terms, tends to shrink its emotional weight compared to leaving it as vague, undefined dread.",
+    "tryIt": "Next time you're anxious about an upcoming event, write down the actual worst realistic outcome, and one concrete step you'd take if it happened.",
+    "whyExplanation": "Uncertainty itself amplifies threat perception more than almost any concrete bad outcome does, because the mind fills an undefined gap with worse possibilities than reality usually offers. A defined outcome, even a bad one, is easier to plan around.",
+    "sourceCitation": null,
+    "tags": ["anxiety", "reframing"]
+  },
+  {
+    "id": "card_035",
+    "disciplineId": "composure",
+    "hook": "Composure under pressure is trained, not simply inherited.",
+    "concept": "The ability to stay composed under provocation or stress can be built through repeated, deliberate exposure to manageable amounts of discomfort, rather than treated as a fixed personality trait some people just have.",
+    "tryIt": "This week, deliberately place yourself in one mildly uncomfortable social situation on purpose, rather than avoiding it.",
+    "whyExplanation": "Repeated exposure to a manageable stressor gradually raises the threshold at which a person loses composure, in much the same way physical training raises tolerance for physical exertion.",
+    "sourceCitation": "Consistent with stress inoculation training research",
+    "tags": ["training", "exposure"]
+  },
+  {
+    "id": "card_036",
+    "disciplineId": "character",
+    "hook": "Character shows up most clearly when no one is checking.",
+    "concept": "The most reliable evidence of someone's actual character is whether their behavior stays consistent whether or not anyone is watching — not what they say they value.",
+    "tryIt": "Identify one small rule you tend to follow only when someone might notice, and follow it once today when no one will ever know.",
+    "whyExplanation": "Public behavior is filtered through reputation concerns, but private behavior has no audience to perform for, which makes it the more unbiased signal of what someone actually does, not just what they claim.",
+    "sourceCitation": null,
+    "tags": ["integrity", "consistency"]
+  },
+  {
+    "id": "card_037",
+    "disciplineId": "character",
+    "hook": "Watch how someone treats a person who can't do anything for them.",
+    "concept": "How a person treats someone with no power over their outcomes — service staff, a stranger, a subordinate — tends to be a more honest signal of character than how they treat people who can help or harm them.",
+    "tryIt": "Today, pay attention to how you treat someone who can offer you nothing in return.",
+    "whyExplanation": "Behavior toward people who have leverage over you is shaped by strategic incentive as much as character. Behavior toward the powerless removes that incentive, leaving something closer to the unfiltered signal.",
+    "sourceCitation": null,
+    "tags": ["character", "behavior"]
+  },
+  {
+    "id": "card_038",
+    "disciplineId": "character",
+    "hook": "Trust is built more from small kept promises than from one grand gesture.",
+    "concept": "Reliability accumulates primarily through many small commitments kept exactly, more than through occasional large but isolated gestures of goodwill.",
+    "tryIt": "Today, make one small, specific promise — a time, a task — and keep it exactly as stated.",
+    "whyExplanation": "A pattern of small kept commitments compounds into calibrated, well-founded trust, because each instance gives concrete evidence, while a single grand gesture provides only one data point.",
+    "sourceCitation": null,
+    "tags": ["reliability", "trust"]
+  },
+  {
+    "id": "card_039",
+    "disciplineId": "character",
+    "hook": "Owning a small mistake quickly usually preserves more trust than defending it.",
+    "concept": "Quickly and directly admitting a genuine mistake, without excessive over-apologizing, tends to preserve trust better than deflecting or minimizing it — though constant self-blame for things that aren't errors is its own separate problem worth avoiding.",
+    "tryIt": "Next time you're wrong about something small, say so directly in one plain sentence, without adding qualifiers or excuses.",
+    "whyExplanation": "Visible honesty about a real error signals that a person's account of everything else is also likely to be honest, which is worth more over time than the small cost of admitting the mistake itself.",
+    "sourceCitation": null,
+    "tags": ["accountability", "trust"]
+  },
+  {
+    "id": "card_040",
+    "disciplineId": "character",
+    "hook": "Anyone can state a value for free. Only cost proves it's real.",
+    "concept": "A real value reveals itself at the moment it costs something — time, money, status, comfort — while a merely stated preference costs nothing to claim and reveals nothing about actual priorities.",
+    "tryIt": "Name one value you claim to hold, then find one place this week where honoring it costs you something small, and follow through on it anyway.",
+    "whyExplanation": "Cost is the discriminator between a value someone genuinely holds and a value they simply enjoy describing, because only the version that survives real cost tells you anything about what actually gets prioritized.",
+    "sourceCitation": null,
+    "tags": ["values", "cost"]
+  }
+]

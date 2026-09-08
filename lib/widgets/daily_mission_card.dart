@@ -72,12 +72,13 @@ class DailyMissionCard extends StatelessWidget {
                   const SizedBox(height: 2),
                   Text(
                     item.title,
-                    style: PerceptTypography.bodyEmphasis(context.textPrimary),
+                    style: PerceptTypography.bodyEmphasis(context.textPrimary).copyWith(
+                      decoration: item.completed
+                          ? TextDecoration.lineThrough
+                          : TextDecoration.none,
+                    ),
                     maxLines: 2,
                     overflow: TextOverflow.ellipsis,
-                    decoration: item.completed
-                        ? TextDecoration.lineThrough
-                        : TextDecoration.none,
                   ),
                   if (item.subtitle.isNotEmpty) ...[
                     const SizedBox(height: 2),

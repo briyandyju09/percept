@@ -1,0 +1,320 @@
+[
+  {
+    "id": "conv_s01",
+    "title": "The Distracted Party Guest",
+    "setup": "You're at a friend's birthday party. You strike up a conversation with someone who keeps glancing at their phone, seeming a little checked-out.",
+    "openingLine": "Hey, sorry — yeah, hi. It's been a long week, I'm a little fried. Anyway, how do you know Sam?",
+    "npcTurns": [
+      {
+        "text": "Oh, college roommates, way back. Feels like forever ago. Honestly work has just been swallowing my whole week, I almost didn't come tonight.",
+        "keyTerms": ["work", "week", "swallowing", "almost", "didn't come"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "It's just been nonstop deadlines, one after another. I keep telling myself it'll slow down but it hasn't yet. What about you, how do you know Sam?",
+        "keyTerms": ["deadlines", "nonstop", "slow down"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["work", "friend", "met", "school", "through"]
+      },
+      {
+        "text": "That's a good way to know someone. Honestly I could use a night where I actually put the phone down, I keep checking it out of habit at this point.",
+        "keyTerms": ["phone", "habit", "put down"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Yeah... it's more than habit if I'm being honest, there's a work thing hanging over me tonight. Anyway — sorry, what were you saying?",
+        "keyTerms": ["work thing", "hanging over", "honest"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "You know what, thanks for actually asking instead of just letting me disappear into the phone. It's a big presentation Monday I'm dreading.",
+        "keyTerms": ["presentation", "monday", "dreading"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "conv_s02",
+    "title": "The Tense Work One-on-One",
+    "setup": "Your manager pulled you aside for an unscheduled one-on-one. Their tone is clipped and something feels off.",
+    "openingLine": "Thanks for making time. I wanted to talk about the client deck — a couple of things landed wrong in the review yesterday.",
+    "npcTurns": [
+      {
+        "text": "The numbers on slide four didn't match what finance sent over, and it went out to the client before anyone caught it. I had to do damage control this morning.",
+        "keyTerms": ["numbers", "slide four", "finance", "client", "damage control"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "I appreciate that. I'm not trying to pile on, I just need to understand what happened so it doesn't happen again. What's your read on where it broke down?",
+        "keyTerms": ["understand", "broke down", "happen again"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["mistake", "checked", "process", "rushed", "sorry"]
+      },
+      {
+        "text": "Okay, that's fair, and honestly a second check would've caught it. I was more frustrated because I heard about it from the client before I heard it from you.",
+        "keyTerms": ["frustrated", "heard from client", "before you"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "That actually matters a lot to me, hearing it directly. I don't need this to be a whole thing, I just needed to know you were on top of it. Are you doing okay otherwise, workload-wise?",
+        "keyTerms": ["workload", "okay otherwise", "on top of it"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["busy", "fine", "stressed", "manageable", "okay"]
+      },
+      {
+        "text": "Good to know. Let's do a quick check before anything client-facing goes out from now on, just as a habit. Sound fair?",
+        "keyTerms": ["check", "client-facing", "habit"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "sounds good", "fair", "agree", "sure"]
+      }
+    ],
+    "difficulty": 4
+  },
+  {
+    "id": "conv_s03",
+    "title": "Meeting Her Parents for the First Time",
+    "setup": "You're meeting your partner's mother for the first time, over dinner at her house. She's polite but clearly sizing you up.",
+    "openingLine": "So. My daughter tells me you two met at work. What is it you do there, exactly?",
+    "npcTurns": [
+      {
+        "text": "Interesting. And how long have you two been seeing each other now? She doesn't tell me much.",
+        "keyTerms": ["how long", "seeing each other", "doesn't tell me much"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["months", "year", "while", "since", "started"]
+      },
+      {
+        "text": "Hm. That's longer than I realized. She's always been private like that, even as a kid — kept things close until she was sure about them.",
+        "keyTerms": ["private", "as a kid", "sure about them"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "You'd have liked her at ten years old, she was fearless, climbing everything in sight. Different person these days, more careful. Do you get to see that side of her much?",
+        "keyTerms": ["fearless", "climbing", "careful", "different person"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "sometimes", "adventurous", "see it", "occasionally"]
+      },
+      {
+        "text": "Good. I worry she's too guarded these days. Anyway — tell me honestly, what do your own parents think of all this?",
+        "keyTerms": ["guarded", "your own parents", "think of all this"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["happy", "excited", "support", "haven't told", "like her"]
+      },
+      {
+        "text": "Fair enough. Well, you've held up better under questioning than the last one did, I'll give you that.",
+        "keyTerms": ["held up", "questioning", "last one"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      }
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "conv_s04",
+    "title": "\"I'm Fine\" (She's Not Fine)",
+    "setup": "You've noticed your friend has been quiet all day. You ask what's wrong and she says she's fine, but her tone says otherwise.",
+    "openingLine": "I'm fine, really. Just tired I guess.",
+    "npcTurns": [
+      {
+        "text": "It's nothing, honestly. Just a long week. You don't need to worry about it.",
+        "keyTerms": ["long week", "nothing", "worry"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "...Okay. It's my mom, actually. Her test results came back and it's not great news. I didn't want to make it a whole thing tonight.",
+        "keyTerms": ["mom", "test results", "not great news"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "We find out more next week. I keep telling myself it's probably fine but I don't actually know that. I'm scared, honestly.",
+        "keyTerms": ["next week", "scared", "don't know"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Thank you for not just letting me say 'I'm fine' and moving on. Most people just take it at face value.",
+        "keyTerms": ["face value", "thank you", "moving on"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Would you mind just sitting with me for a bit? I don't really want advice, I just don't want to be alone with it right now.",
+        "keyTerms": ["sitting with me", "don't want advice", "alone"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "of course", "here", "stay", "course"]
+      }
+    ],
+    "difficulty": 4
+  },
+  {
+    "id": "conv_s05",
+    "title": "The Networking Event Wall",
+    "setup": "You're at an industry networking event. The person you've approached is giving short, guarded answers and seems hard to draw out.",
+    "openingLine": "Yeah, I'm in ops. Been doing it a while.",
+    "npcTurns": [
+      {
+        "text": "A few years now. It's fine.",
+        "keyTerms": ["few years", "fine"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Honestly these events aren't really my thing. I'm more of a heads-down, get-the-work-done type.",
+        "keyTerms": ["events", "not my thing", "heads-down"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "That's actually true, yeah — I built an internal tool last year that cut our reporting time in half. Nobody really asks about that stuff at these things.",
+        "keyTerms": ["internal tool", "reporting time", "cut in half"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "It started as just a personal fix for my own headache, honestly, then other people wanted it. What kind of stuff do you work on?",
+        "keyTerms": ["personal fix", "own headache", "wanted it"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["work on", "project", "team", "job", "role"]
+      },
+      {
+        "text": "Oh, nice, that's a lot more interesting than what I expected to talk about tonight. Want to grab a coffee sometime and actually compare notes?",
+        "keyTerms": ["compare notes", "coffee", "interesting"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "sure", "sounds good", "would like", "definitely"]
+      }
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "conv_s06",
+    "title": "The Sibling Blowup",
+    "setup": "A disagreement with your sibling about splitting care for your aging parent has escalated into a heated argument over the phone.",
+    "openingLine": "You always do this — you disappear for months and then show up acting like you know best about what Mom needs!",
+    "npcTurns": [
+      {
+        "text": "Easy for you to say, you're not the one driving over there three times a week. I'm exhausted and you're not even here.",
+        "keyTerms": ["driving over", "three times a week", "exhausted", "not here"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "I don't want an apology, I want actual help. Do you have any idea what her schedule even looks like right now?",
+        "keyTerms": ["actual help", "her schedule", "apology"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["no", "not really", "tell me", "don't know", "sorry"]
+      },
+      {
+        "text": "That's the problem — you don't know, because you haven't been asking. She has physical therapy twice a week now on top of everything else.",
+        "keyTerms": ["physical therapy", "twice a week", "haven't been asking"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "...Okay. I didn't realize it had gotten to that point. I've been buried at work but that's not really an excuse.",
+        "keyTerms": ["buried at work", "not an excuse", "didn't realize"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "I don't need you to feel guilty, I need you to actually take one of the days. Could you take Tuesdays?",
+        "keyTerms": ["feel guilty", "take one of the days", "tuesdays"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "tuesdays", "can do", "okay", "sure"]
+      },
+      {
+        "text": "Okay. Thank you. I'm sorry for snapping at you, I've just been carrying this alone for a while.",
+        "keyTerms": ["carrying this alone", "snapping", "sorry"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      }
+    ],
+    "difficulty": 5
+  },
+  {
+    "id": "conv_s07",
+    "title": "Comforting a Friend After Bad News",
+    "setup": "Your friend just called to tell you he didn't get the job he'd been counting on for months. He sounds flat and deflated.",
+    "openingLine": "Yeah, they went with someone else. Guess I wasn't what they wanted.",
+    "npcTurns": [
+      {
+        "text": "I don't know, man. I really thought this one was it. I'd already kind of pictured my life with it, you know?",
+        "keyTerms": ["pictured my life", "thought it was it"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "The worst part is I have to go back and tell my wife tonight. She was so excited for me, more than I even was.",
+        "keyTerms": ["wife", "tonight", "excited"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Yeah. I don't even know what I'm going to say to her. What do you even say after something like this?",
+        "keyTerms": ["what to say", "wife", "after this"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["honest", "truth", "just tell her", "together", "support"]
+      },
+      {
+        "text": "That's actually helpful, thank you. I think I've just been trying to figure out how to make it sound less bad than it is.",
+        "keyTerms": ["make it sound", "less bad", "figure out"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Would it be weird if I just came over for a bit before I go home? I don't think I want to sit with this alone right now.",
+        "keyTerms": ["come over", "sit with this", "alone"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "come over", "of course", "sure", "anytime"]
+      }
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "conv_s08",
+    "title": "The First Date Gone Quiet",
+    "setup": "You're on a first date at a coffee shop. The conversation was flowing at first but has now stalled into an awkward silence.",
+    "openingLine": "Sorry, I think I just went quiet there for a second. It's not you, I promise, I've just had a weird day.",
+    "npcTurns": [
+      {
+        "text": "It's nothing crazy, just my roommate situation is a mess right now and it's been on my mind all day.",
+        "keyTerms": ["roommate", "mess", "on my mind"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "She's moving out with basically no notice and I have no idea how I'm going to cover rent alone next month.",
+        "keyTerms": ["moving out", "no notice", "cover rent"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Sorry, I know this is not exactly first-date material. What about you, is your living situation less of a disaster than mine?",
+        "keyTerms": ["living situation", "disaster", "first-date material"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["roommate", "apartment", "alone", "fine", "good"]
+      },
+      {
+        "text": "That actually sounds nice, honestly. Okay, I promise I can talk about literally anything other than my rent troubles now.",
+        "keyTerms": ["rent troubles", "talk about anything", "promise"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "So — better question. What's something you've been genuinely excited about lately, that has nothing to do with any of this?",
+        "keyTerms": ["genuinely excited", "lately", "nothing to do"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["excited", "trip", "hobby", "project", "recently"]
+      }
+    ],
+    "difficulty": 2
+  }
+]

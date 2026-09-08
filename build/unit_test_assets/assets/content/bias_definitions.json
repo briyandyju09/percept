@@ -1,0 +1,86 @@
+[
+  {
+    "id": "anchoring_bias",
+    "name": "Anchoring Bias",
+    "myth": "The first suspect you consider is probably the right one, since your instincts flagged them immediately for a reason.",
+    "fact": "Whichever suspect, number, or idea a person encounters first becomes a hidden reference point that later evidence gets measured against, even when the person consciously knows the first impression could be misleading. Trusting it more than later options is not insight — it's a well-documented artifact of the order information arrived in, not a signal of who is actually correct.",
+    "explanation": "You showed signs of anchoring bias: you fixated on the first suspect you considered and gave later evidence less weight than it deserved. Once that person became your working theory, new information had to work harder to change your mind than it would have if you'd considered every suspect with equal weight from the start. The fix isn't distrusting your first instinct entirely — it's deliberately re-weighing all the evidence against every suspect once, at the end, rather than letting the order you learned things in decide the outcome."
+  },
+  {
+    "id": "premature_closure",
+    "name": "Premature Closure",
+    "myth": "A confident, decisive read on 'who did it' after just one or two strong clues shows sharp instincts and good judgment.",
+    "fact": "Confidence in a conclusion and the amount of evidence that actually supports it are only loosely related; deciding early, before alternative suspects have been meaningfully ruled out, produces a conclusion that feels decisive but is frequently wrong, since it was never actually tested against the full set of available evidence.",
+    "explanation": "You showed signs of premature closure: you settled on a suspect and stopped investigating before you had enough evidence to rule out the alternatives. Feeling sure early in a case is not the same as being right — it just means your mind stopped generating and checking other explanations sooner than the evidence justified. Next time, treat a strong early hunch as one hypothesis to test rather than a conclusion, and deliberately ask what each remaining suspect would need to be innocent, or guilty, before you close the case."
+  },
+  {
+    "id": "confirmation_bias",
+    "name": "Confirmation Bias",
+    "myth": "Asking questions that support your leading theory and getting answers that back it up is good detective work — it means you're on the right track.",
+    "fact": "A theory that only gets tested with questions designed to confirm it will almost always appear to be supported, regardless of whether it's actually true, because disconfirming evidence was never given a fair chance to surface; a theory only earns credibility once it survives questions that were genuinely capable of ruling it out.",
+    "explanation": "You showed signs of confirmation bias: many of your questions were aimed at supporting your favorite suspect rather than genuinely testing whether they were guilty. That pattern will make almost any suspect look guilty, since you weren't asking the kind of question that could have proven them innocent. A stronger approach is to spend at least as much effort trying to clear your leading suspect as you spend trying to implicate them — if the theory survives that, it's actually earned your confidence."
+  },
+  {
+    "id": "belief_perseverance",
+    "name": "Belief Perseverance",
+    "myth": "Once you've built a solid case against someone, a little bit of contradicting evidence doesn't need to change your conclusion — you already did the hard work of figuring it out.",
+    "fact": "Beliefs, once formed, tend to persist even after the evidence that originally supported them is undermined or contradicted, because people are more motivated to explain away disconfirming evidence than to revise a conclusion they've already committed to; a conclusion is only as good as its willingness to update against new evidence, not the effort that went into forming it.",
+    "explanation": "You showed signs of belief perseverance: you held onto your chosen suspect even after evidence surfaced that contradicted your theory. Discounting or explaining away that contradiction, rather than letting it update your confidence, is exactly how a theory can survive well past the point it stopped being supported by the facts. The fix is treating disconfirming evidence as at least as important as confirming evidence — if you notice yourself working hard to explain a piece of evidence away, that's the moment to slow down and reconsider, not push through."
+  },
+  {
+    "id": "availability_heuristic",
+    "name": "Availability Heuristic",
+    "myth": "If a type of crime or suspect comes to mind easily — because it's dramatic, recent, or reminds you of a movie or news story — it's probably what actually happened here.",
+    "fact": "How easily an explanation comes to mind reflects how vivid, recent, or emotionally memorable it is, not how likely it is to be true in this specific case; the most easily-imagined suspect or motive is often just the most available one in memory, not the best-supported one by the actual evidence in front of you.",
+    "explanation": "This pattern shows up when a person favors the most vivid or memorable explanation over the one the evidence actually supports — for instance, assuming a dramatic motive because it resembles a familiar story, rather than checking what the case-specific facts point to. The corrective is to deliberately list the explanations that fit the evidence, separately from the ones that simply come to mind fastest, and compare the two lists before deciding."
+  },
+  {
+    "id": "halo_effect",
+    "name": "Halo Effect",
+    "myth": "A polite, well-dressed, likeable suspect probably isn't the guilty one — you can just tell from how they carry themselves.",
+    "fact": "One positive trait, like charm, appearance, or politeness, measurably biases judgments of a person's unrelated qualities, including honesty or guilt, even though there's no established, reliable link between likeability and truthfulness; a single favorable impression is not evidence of innocence, just as a single unfavorable one is not evidence of guilt.",
+    "explanation": "This pattern shows up when someone's demeanor — confident, likeable, well-presented — quietly shifts judgment about their honesty or involvement, independent of the actual evidence against or for them. Likeability and guilt are separate questions; the corrective is to evaluate the evidence for each suspect as if their manner and presentation were invisible, then check whether your conclusion changes."
+  },
+  {
+    "id": "fundamental_attribution_error",
+    "name": "Fundamental Attribution Error",
+    "myth": "If someone acted nervous, evasive, or defensive under questioning, that's a reflection of their guilty character, not the situation.",
+    "fact": "People consistently over-attribute others' behavior to personality and character while under-weighting the surrounding situation, even though nervousness, evasiveness, and defensiveness are also common, well-documented reactions to the simple stress of being questioned or suspected, regardless of guilt or innocence.",
+    "explanation": "This pattern shows up when nervous or defensive behavior under questioning gets read as a character trait or a guilt signal, without considering how an innocent person under suspicion might behave identically. The corrective is to ask what an innocent person in this exact situation, under this exact pressure, would look like, before treating the behavior itself as diagnostic of anything."
+  },
+  {
+    "id": "framing_effect",
+    "name": "Framing Effect",
+    "myth": "How a piece of testimony or evidence is worded doesn't matter — facts are facts, so the phrasing shouldn't change how you weigh it.",
+    "fact": "Identical information leads people to different conclusions depending on whether it's phrased as a gain or a loss, a percentage or a raw count, or in terms of what was present versus what was missing — the same testimony described as 'she failed to mention the meeting' versus 'she chose not to bring up the meeting' can shift how suspicious it sounds despite conveying the same fact.",
+    "explanation": "This pattern shows up when the way evidence or testimony is phrased shifts a conclusion more than the underlying facts justify. The corrective is to restate the key evidence in its opposite framing — as a gain instead of a loss, an omission instead of a choice — and check whether your read of it changes; if it does, the wording was doing more work than the facts were."
+  },
+  {
+    "id": "sunk_cost_fallacy",
+    "name": "Sunk Cost Fallacy",
+    "myth": "You've already spent this much time building the case against one suspect, so switching theories now would mean that effort was wasted.",
+    "fact": "Time and effort already spent on a theory are gone regardless of whether the investigation continues down that path or changes direction; the only relevant question is which theory the remaining evidence actually supports going forward, not how much work has already gone into the current one.",
+    "explanation": "This pattern shows up when someone sticks with a suspect or theory mainly because of how much investigative effort has already gone into building it, rather than because the remaining evidence still supports it. The corrective is a simple reframe: if you were starting the investigation today, with no prior effort invested, would this still be your leading theory? If not, the sunk time is the only thing keeping it in place."
+  },
+  {
+    "id": "authority_bias",
+    "name": "Authority Bias",
+    "myth": "If a senior detective, expert, or official confidently says who's guilty, that's strong enough evidence on its own to trust the conclusion.",
+    "fact": "A confident assertion from someone with authority or seniority measurably increases how readily a conclusion is accepted, independent of how much actual evidence backs it up; expertise and authority make a claim worth taking seriously, but they don't substitute for checking the underlying evidence yourself.",
+    "explanation": "This pattern shows up when a conclusion gets accepted mainly because someone with authority or seniority stated it confidently, rather than because the evidence was independently checked. The corrective is to treat an authority's conclusion as a hypothesis worth testing rather than a verdict — ask what evidence they're basing it on, and check that evidence yourself before adopting the conclusion as your own."
+  },
+  {
+    "id": "in_group_bias",
+    "name": "In-Group Bias",
+    "myth": "Someone who's part of your team, community, or social circle deserves more benefit of the doubt in an investigation than an outsider would.",
+    "fact": "People reliably judge in-group members more favorably and out-group members more harshly for identical behavior, a well-documented pattern that operates automatically and independent of the actual evidence; fair evaluation requires deliberately applying the same standard of evidence to everyone involved, regardless of group membership.",
+    "explanation": "This pattern shows up when a suspect connected to your team, workplace, or social circle gets a more lenient read than an equally-evidenced outsider would. The corrective is to explicitly check: would this same piece of evidence, from this same behavior, be treated as more suspicious if it came from someone outside your group? If the answer is yes, the group membership, not the evidence, is doing some of the work."
+  },
+  {
+    "id": "hindsight_bias",
+    "name": "Hindsight Bias",
+    "myth": "Once you know how the case turned out, it's obvious in retrospect that the clues were pointing there all along — you basically knew it before the reveal.",
+    "fact": "After learning an outcome, people reliably overestimate how predictable that outcome actually was beforehand, misremembering their own prior uncertainty; the clues that look obvious in hindsight were genuinely ambiguous at the time, mixed in with equally plausible clues pointing elsewhere.",
+    "explanation": "This pattern shows up as the comforting feeling, after a case is solved, that the solution was obvious all along — a feeling that rewrites how uncertain things actually felt in the moment. The corrective is to compare your actual, recorded suspicions during the investigation, not your memory of them after the reveal, with the outcome — the gap between the two is usually much larger than hindsight makes it feel."
+  }
+]

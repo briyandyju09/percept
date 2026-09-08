@@ -1,0 +1,68 @@
+[
+  {
+    "id": "goal_observant",
+    "label": "More observant",
+    "icon": "👁",
+    "mappedDimensions": {"observation": 3, "memory": 1}
+  },
+  {
+    "id": "goal_charismatic",
+    "label": "More charismatic",
+    "icon": "✨",
+    "mappedDimensions": {"socialIntelligence": 3, "communication": 2, "performance": 1}
+  },
+  {
+    "id": "goal_communicator",
+    "label": "Better communicator",
+    "icon": "💬",
+    "mappedDimensions": {"communication": 3, "socialIntelligence": 1}
+  },
+  {
+    "id": "goal_calmer",
+    "label": "Calmer",
+    "icon": "🧘",
+    "mappedDimensions": {"composure": 3}
+  },
+  {
+    "id": "goal_leader",
+    "label": "Better leader",
+    "icon": "🧭",
+    "mappedDimensions": {"communication": 2, "composure": 2, "socialIntelligence": 1}
+  },
+  {
+    "id": "goal_understanding_people",
+    "label": "Better at understanding people",
+    "icon": "🔍",
+    "mappedDimensions": {"socialIntelligence": 3, "observation": 2}
+  },
+  {
+    "id": "goal_disciplined",
+    "label": "More disciplined",
+    "icon": "⏱",
+    "mappedDimensions": {"composure": 3, "reasoning": 1}
+  },
+  {
+    "id": "goal_thinker",
+    "label": "Better thinker",
+    "icon": "🧠",
+    "mappedDimensions": {"reasoning": 3, "observation": 1}
+  },
+  {
+    "id": "goal_performer",
+    "label": "Better performer",
+    "icon": "🎭",
+    "mappedDimensions": {"performance": 3, "composure": 1}
+  },
+  {
+    "id": "goal_confident",
+    "label": "More confident",
+    "icon": "🦁",
+    "mappedDimensions": {"composure": 2, "performance": 2}
+  },
+  {
+    "id": "goal_better_human",
+    "label": "Better human",
+    "icon": "🌱",
+    "mappedDimensions": {"socialIntelligence": 2, "composure": 1, "communication": 1}
+  }
+]

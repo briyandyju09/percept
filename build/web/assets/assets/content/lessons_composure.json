@@ -1,0 +1,155 @@
+[
+  {
+    "id": "comp_l01",
+    "disciplineId": "composure",
+    "title": "Name It Before It Drives",
+    "hook": "The half-second between feeling something and acting on it is the only place composure actually lives. Here's how to find that half-second on purpose.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "An emotion doesn't ask permission before it shows up. Anger tightens your jaw before you've decided anything about the situation that caused it. Anxiety speeds your speech before you've chosen a single word. This isn't a flaw in you — it's how the nervous system is built, fast systems reacting before slow ones get a vote. The problem isn't that emotions arrive uninvited. The problem is what happens in the gap right after: whether the emotion simply drives the next few seconds of behavior unchallenged, or whether you get a say in it at all."},
+      {"type": "paragraph", "text": "The single most reliable way to get a say is absurdly simple and easy to underrate: name the emotion, silently, the moment you notice it. Not 'I'm fine' or 'this is annoying' — a specific, honest label. 'This is anger.' 'This is embarrassment.' 'This is the feeling of being cornered.' Naming isn't a therapy exercise tacked onto real skill-building; brain-imaging studies on affect labeling consistently show that putting a feeling into words measurably reduces activity in the amygdala, the brain's fast threat-detection center, and increases activity in the regions responsible for deliberate control. The label itself does the work."},
+      {"type": "keyPoint", "text": "You can't out-argue an emotion you haven't named yet. Naming it is what gives you something to argue with."},
+      {"type": "paragraph", "text": "This only works if the naming happens early and honestly. Waiting until you've already snapped at someone to notice you were angry is naming after the fact — useful for the debrief, useless for the moment itself. The skill is catching the very first physical signal: the heat in your face, the tightness behind your eyes, the urge to interrupt. Those signals show up before the full emotional wave does, and they're your actual warning system. Most people only notice the emotion once it's already steering; the trained move is noticing the steering wheel turning."},
+      {"type": "paragraph", "text": "Practically, this looks unglamorous. You feel your chest tighten in a meeting. You think, silently and specifically, 'this is frustration, and it's about being interrupted, not about the topic.' That's it. You haven't fixed anything yet. But you've done the one thing that makes fixing anything possible: you've put a small gap between the feeling and whatever you were about to do about it. Everything else in this discipline — the pause, the breathing, the reframe — depends on that gap existing at all."},
+      {"type": "keyPoint", "text": "Naming an emotion doesn't make it smaller. It makes it something you're carrying instead of something carrying you."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["emotional regulation", "affect labeling", "self-awareness"],
+    "relatedDrillIds": ["comp_d04", "comp_d01"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l02",
+    "disciplineId": "composure",
+    "title": "The Five-Second Pause",
+    "hook": "You don't need to become a calmer person to handle provocation better. You just need five seconds you didn't used to take.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "Here's the drill, and it really is this specific. The next time someone says something that lands like a provocation — a jab, an unfair accusation, a tone that makes your stomach drop — count five seconds, silently, before you say a single word back. Not five seconds of glaring. Five seconds of actually counting, in your head, while you decide what you want to say instead of what your first instinct handed you."},
+      {"type": "paragraph", "text": "Five seconds sounds small. It is small, and that's the point — it's short enough to be usable in a real conversation without turning into an awkward, obvious silence, but long enough to let your prefrontal cortex, the slower and more deliberate part of your brain, catch up to the amygdala's much faster first reaction. Your first response to provocation is almost never your best one. It's the reaction your nervous system assembled in a fraction of a second using the least information and the most adrenaline. A five-second delay doesn't erase that reaction. It just stops you from acting on the roughest draft of it."},
+      {"type": "keyPoint", "text": "Your first response to provocation is a rough draft. Five seconds is your only editing pass."},
+      {"type": "paragraph", "text": "Try it in low-stakes moments first: someone cuts you off in a conversation, a comment section reply gets under your skin, a family member says something needling over dinner. Count. Notice what you were about to say at second zero, and notice whether it's still what you want to say at second five. Often the words are similar but the tone has changed — less clipped, less designed to wound back. Sometimes the whole plan changes entirely, because the five seconds gave you time to realize the comment wasn't really about you."},
+      {"type": "paragraph", "text": "This is not the same as suppressing the reaction forever, and it's not about looking unbothered when you're not. You can still address exactly what upset you — the pause just means you're choosing to, rather than being driven to. Composure isn't measured by whether you felt something. It's measured by whether the five seconds happened before you acted on it."},
+      {"type": "keyPoint", "text": "Pausing before you respond to an insult isn't weakness. Reacting instantly is the version that actually looks out of control."}
+    ],
+    "estimatedMinutes": 4,
+    "tags": ["five-second pause", "delayed reaction", "provocation"],
+    "relatedDrillIds": ["comp_d03", "comp_d04"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l03",
+    "disciplineId": "composure",
+    "title": "The Facts Don't Change, the Meaning Can",
+    "hook": "Reframing gets dismissed as denial with a smile. It's actually the opposite — it's what happens when you refuse to settle for the first, angriest interpretation of an honest fact.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "A traffic jam is a fact. 'This is ruining my whole day' is one interpretation of that fact. 'This is forty extra minutes to listen to something I actually want to hear' is a different interpretation of the exact same fact. Neither interpretation changes what happened — you're still stuck in traffic. What changes is which honest story you're telling yourself about it, and that story is doing more work on your mood than the traffic itself is."},
+      {"type": "paragraph", "text": "This is the core mechanic of reframing, and it's worth being precise about what it isn't. Reframing is not deciding the bad thing didn't happen. It's not forcing positivity onto a situation that's genuinely bad, and it's not a substitute for actually solving a solvable problem. A frustrating situation usually supports more than one true reading at the same time — 'my coworker embarrassed me in that meeting' and 'my coworker is under real pressure right now and it came out sideways' can both be accurate descriptions of the same event. Reframing is choosing to hold the reading that leaves you functional over the reading that leaves you stewing, when both are equally supported by the facts."},
+      {"type": "keyPoint", "text": "Reframing doesn't change what happened. It changes which true story about what happened you decide to carry around."},
+      {"type": "paragraph", "text": "The skill has a simple structure you can run in real time. First, state the bare fact without any interpretation attached — 'the project got rejected,' not 'the project got rejected because they think I'm incompetent.' Second, generate at least two other plausible readings of that same fact, even ones that feel like a stretch at first. Third, ask which reading you can actually act on. 'They think I'm incompetent' gives you nothing to do except feel bad. 'The timing was wrong for what they needed right now' gives you an actual next move: ask what they needed, and try again."},
+      {"type": "paragraph", "text": "The failure mode to watch for is using reframing to avoid a real problem that needs fixing rather than just avoiding a distortion of it. If the honest, fact-based reading really is 'I made a mistake here,' the composed response is to reframe the meaning of the mistake — 'this taught me something specific I can use next time' — not to reframe away the mistake itself. Reframing changes interpretation. It was never supposed to change the truth."},
+      {"type": "keyPoint", "text": "If your reframe requires ignoring a fact, it isn't a reframe. It's just avoidance wearing a calmer outfit."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["reframing", "cognitive flexibility", "interpretation"],
+    "relatedDrillIds": ["comp_d06", "comp_d07"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l04",
+    "disciplineId": "composure",
+    "title": "The Meeting Where Everyone Was Watching",
+    "hook": "A short story about the exact moment a room goes quiet and waits to see what you'll do — and why the recovery matters more than the mistake ever did.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "She was three slides into a project update when a senior colleague cut in, loud enough for the whole room to hear: 'Honestly, this looks the same as what you showed us two weeks ago. I don't get why we're still looking at this.' The room went quiet in that specific way rooms go quiet — not empty silence, but a dozen people simultaneously deciding not to look directly at her, waiting to see what would happen next."},
+      {"type": "paragraph", "text": "Her first instinct, she said afterward, was to defend every hour of work that comment had just erased with one sentence. Her second instinct was to go red and stop talking altogether. She did neither. She paused — visibly, for maybe two full seconds, which felt to her like twenty — and said, 'Fair point on the pace. Let me be specific about what's actually changed.' Then she listed three concrete things, plainly, without heat. The meeting moved on. Nobody remembered the comment by lunch. Several people remembered how she'd handled it."},
+      {"type": "keyPoint", "text": "Nobody grades you on whether you got embarrassed. They notice how long the embarrassment ran the room."},
+      {"type": "paragraph", "text": "Embarrassment and rejection both trigger the same basic instinct: make the discomfort stop, right now, by any available exit. Over-apologize. Over-explain. Go silent and small. Lash out to make someone else feel it too. All four feel like relief in the first second and cost you credibility in every second after. The alternative isn't feeling nothing — she was embarrassed, genuinely — it's letting the feeling pass through you without it writing your next line of dialogue for you."},
+      {"type": "paragraph", "text": "What actually helped her wasn't confidence she'd faked in the moment. It was a habit built well before that meeting: treat the first few seconds after embarrassment as ones to survive quietly, not ones to fix loudly. A brief, plain acknowledgment — 'fair point,' 'you're right, let me clarify' — does more repair work than a long defense ever does, because it signals the moment didn't destabilize you. Rejection works the same way. The instinct to immediately explain why it happened, or immediately prove it was wrong, usually just extends the discomfort for everyone in the room, including you."},
+      {"type": "keyPoint", "text": "Recovery, not avoidance, is the actual skill. You don't get to skip the sting — you only get to decide how long you let it run the room."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["embarrassment", "rejection", "social recovery"],
+    "relatedDrillIds": ["comp_d08", "comp_d05"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l05",
+    "disciplineId": "composure",
+    "title": "Sitting With Not Knowing Yet",
+    "hook": "A few questions worth asking yourself the next time you feel the urge to decide something you don't actually have enough information to decide.",
+    "mode": "socratic",
+    "blocks": [
+      {"type": "paragraph", "text": "A friend cancels plans with a one-line text. A colleague seems distant for no obvious reason. A decision you're waiting on stalls with no explanation. In every one of these moments there's a strong, immediate pull to fill the blank with a firm answer — usually the worst plausible one — because a bad certainty feels more bearable than an open question. Tolerating uncertainty is the skill of resisting that pull without pretending the uncertainty isn't uncomfortable. Ask yourself these questions the next time you catch that pull happening."},
+      {"type": "question", "text": "What's the actual evidence for the explanation you've just landed on, versus how quickly your mind reached for it?"},
+      {"type": "question", "text": "If you're wrong about this explanation, what would you be giving up by acting on it anyway right now?"},
+      {"type": "question", "text": "Is there a genuinely neutral explanation available that you dismissed only because it felt less dramatic?"},
+      {"type": "question", "text": "What would it look like to simply not decide yet, and check back in a day, instead of resolving this feeling immediately?"},
+      {"type": "keyPoint", "text": "The goal here is high awareness paired with low reactivity — not paranoia. Notice everything; don't let every ambiguous signal detonate a verdict."},
+      {"type": "paragraph", "text": "That last line matters more than it might first appear. This entire discipline exists as the counterbalance to skills elsewhere that train you to read people closely — expressions, tone, hesitation, inconsistency. Read closely enough, without this counterweight, and it's easy to slide from perceptive into suspicious: treating every unreturned message as a verdict on the relationship, every flicker of hesitation as proof of a hidden motive. That's not sharper awareness. It's awareness with no brakes."},
+      {"type": "paragraph", "text": "Genuine composure under uncertainty looks almost boring from the outside: you notice the ambiguous thing, you don't pretend you didn't notice it, and you also don't force it into a conclusion it can't support yet. 'I don't know why they canceled, and I'm not going to decide it means something specific until I have more to go on' is a complete, honest, functional response — not a cop-out. Most situations resolve themselves with more information within a day or two. The discomfort of waiting for that information is the actual cost of this skill, and it's a much smaller cost than the one you pay for guessing wrong and acting on it."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["uncertainty tolerance", "high awareness low reactivity", "ambiguity"],
+    "relatedDrillIds": ["comp_d06", "comp_d05"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l06",
+    "disciplineId": "composure",
+    "title": "Two Breathing Patterns Worth Actually Learning",
+    "hook": "Most breathing advice is vague enough to be useless under real pressure. These two patterns aren't — they're specific, fast, and backed by how your nervous system actually works.",
+    "mode": "caseStudy",
+    "blocks": [
+      {"type": "paragraph", "text": "'Just breathe' is not instruction, it's a shrug dressed up as advice. What actually calms a spiked nervous system is specific: how long you inhale, how long you exhale, and the ratio between them. Two patterns are worth knowing well enough to use without thinking, because you won't have time to think when you need them."},
+      {"type": "paragraph", "text": "The first is box breathing: inhale for four seconds, hold for four, exhale for four, hold empty for four, then repeat. It's used by, among others, military and emergency personnel specifically because it's simple enough to run under real stress and because the equal, structured count gives a racing mind something concrete to hold onto instead of spinning. Six cycles takes about ninety seconds and is enough to noticeably slow a racing heart before a hard conversation, a presentation, or a confrontation you didn't choose."},
+      {"type": "keyPoint", "text": "You can't think your way out of a spiked nervous system. You can breathe your way out of one — but only with a pattern specific enough to actually work."},
+      {"type": "paragraph", "text": "The second, faster option is the physiological sigh: one full inhale through the nose, then — before exhaling — a second short, sharp inhale on top of it to fully top off the lungs, followed by one slow, complete exhale through the mouth. This isn't folk wisdom; research out of Stanford identified it as the quickest reliably documented way to lower physiological arousal in real time, faster than standard deep breathing alone. The double inhale reopens collapsed air sacs in the lungs and maximizes how much carbon dioxide you offload on the long exhale that follows, which is what drives the calming effect. Three to five cycles, done quietly, can be run in the thirty seconds before you walk into a room."},
+      {"type": "paragraph", "text": "The mechanism behind both patterns is the same idea even though the shape is different: a slow, extended exhale activates the vagus nerve and shifts your body out of the fight-or-flight state and toward a calmer one. Box breathing is better when you have ninety seconds and want a steady, repeatable rhythm — before a meeting, during a wait. The physiological sigh is better when you have thirty seconds and need the fastest possible drop — right before you're called on, right after a jarring comment lands. Neither pattern is a trick. Both are simple physiology, and both only work if you've practiced them enough times in low-stakes moments that your body already knows the shape when a high-stakes one arrives."},
+      {"type": "keyPoint", "text": "The breathing pattern you've never practiced won't be there for you the one time you actually need it."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["breathing", "box breathing", "physiological sigh", "nervous system"],
+    "relatedDrillIds": ["comp_d01", "comp_d02"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l07",
+    "disciplineId": "composure",
+    "title": "Attention Is a Muscle, Not a Mood",
+    "hook": "Mindfulness gets sold as a vague feeling of peace. Trained properly, it's something much more useful and much less mystical: the practical skill of pointing your attention where you actually want it.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Strip away the incense and the vague promises of enlightenment, and mindfulness is a specific, learnable skill: noticing where your attention currently is, and redirecting it on purpose when it's somewhere unhelpful. That's the whole mechanic. No particular belief system is required to use it, and no particular belief system is being sold here — this is attention control, trained the same way you'd train any other skill, through short, repeated, deliberate reps."},
+      {"type": "paragraph", "text": "Grounding is the fastest practical version of this. The well-known 5-4-3-2-1 technique works exactly as it sounds: silently name five things you can see, four things you can physically feel, three things you can hear, two things you can smell, and one thing you can taste. The content of the list barely matters. What matters is that naming concrete, present sensory details forcibly pulls your attention out of a spiraling thought and back into the room you're actually standing in. It takes under a minute and requires nothing but your own senses, which is exactly why it works in a hallway before a hard conversation just as well as it works at 3am."},
+      {"type": "keyPoint", "text": "Grounding doesn't stop the spiral. It gives your attention somewhere else, real and specific, to stand instead."},
+      {"type": "paragraph", "text": "The broader skill underneath grounding is attention control: the ability to notice, without judgment, that your focus has drifted into rumination or anticipation, and to move it back to the present task or conversation. This is trainable the same way physical balance is trainable — not by achieving a permanently blank, quiet mind, which isn't a realistic goal for almost anyone, but by getting faster at noticing the drift and shorter about the time it takes to correct it. Someone with a well-trained version of this skill still has intrusive, distracting thoughts. They just catch the drift sooner and return sooner."},
+      {"type": "paragraph", "text": "Used this way, mindfulness pairs directly with everything else in this discipline. A grounding pass takes the racing quality out of a spiked emotional moment enough to let the five-second pause actually happen, and it gives you something concrete to do in the silence you're trying to tolerate instead of filling it with nervous words. It's not a separate, softer add-on to composure. It's the attention-control layer the rest of the skill runs on top of."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["mindfulness", "grounding", "attention control"],
+    "relatedDrillIds": ["comp_d03"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l08",
+    "disciplineId": "composure",
+    "title": "Slow Down. Let the Silence Sit There.",
+    "hook": "A short account of the pressure to fill every gap in a conversation — and why the person who can tolerate a pause usually ends up sounding like the most composed one in the room.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "During a negotiation, one side made an offer and then said nothing else. Not a follow-up justification, not a nervous 'so, what do you think' — just silence, held for what felt, by everyone's account afterward, like an unbearably long stretch of time. It was eleven seconds. The other side, uncomfortable with the gap, filled it by talking themselves partway toward agreement before anyone on the first side said another word."},
+      {"type": "paragraph", "text": "This wasn't a trick exactly, or at least not only a trick — it was someone who had trained themselves out of the near-universal reflex to rescue silence the instant it appears. Most people experience even a few seconds of quiet in a conversation as something going wrong, a signal to be fixed immediately with more words, faster words, any words. That reflex is exactly what makes rushed, run-on explanations, over-apologies, and verbal stumbles happen under pressure. The person who can simply let a pause exist, without racing to end it, keeps access to whatever they were actually going to say instead of whatever came out first to end the discomfort."},
+      {"type": "keyPoint", "text": "Silence in a conversation usually isn't a problem to fix. It's often just thinking, happening at a pace someone finally allowed."},
+      {"type": "paragraph", "text": "The companion skill is deliberately slowing your own speech, especially right when the pressure to speed up is highest. Rapid, clipped speech is one of the clearest tells of a spiked nervous system, and it tends to compound itself — talking faster raises arousal further, which pushes speech even faster. Slowing your pace on purpose, even slightly, interrupts that loop directly. It also does something for how you're perceived that's easy to underestimate: measured, unhurried speech consistently reads as more credible and more composed than quick, anxious speech, even when the content is identical. Slower isn't a performance of calm. In a real, physiological sense, it's closer to actually being calm."},
+      {"type": "paragraph", "text": "None of this requires becoming a naturally quiet, unhurried person if that isn't you. It requires noticing, in the specific moment silence starts to feel unbearable, that the discomfort is the thing being trained here — not a sign something has gone wrong. The next time a pause opens up in a hard conversation, try letting it run two full seconds longer than instinct wants. Nothing bad happens in those two seconds. Usually something useful does."},
+      {"type": "keyPoint", "text": "The fastest way to sound rattled is to talk at rattled speed. Slowing down is available to you at any moment — it's just rarely the instinct."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["slowing speech", "tolerating silence", "pressure conversations"],
+    "relatedDrillIds": ["comp_d09", "comp_d05"],
+    "relatedCardIds": []
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "id": "char_l01",
+    "disciplineId": "character",
+    "title": "The Empathy Gap: Feeling Isn't Enough",
+    "hook": "You already feel for other people more often than you act on it. This lesson is about closing that gap.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Most people don't have an empathy problem. They have an empathy-into-action problem. You notice a coworker seems off. You feel a flicker of concern. And then... nothing happens. The feeling stays exactly where it started — inside you — and the other person goes through their hard day with no idea anyone noticed at all. Empathy that never leaves your head isn't really empathy yet. It's just a private emotion, and private emotions don't help anybody. The gap between noticing and doing something about it is small, but almost nobody closes it by accident."
+      },
+      {
+        "type": "paragraph",
+        "text": "The reason we stall is almost never coldness. It's uncertainty — about what to say, whether it's our place, whether we'll make it awkward. So we wait for a 'better moment' that rarely comes. But acting on empathy doesn't require the perfect words or solving someone's problem. It requires one small, specific, low-pressure move: naming what you noticed, out loud, and leaving room for them to say as much or as little as they want. 'You've seemed a little quiet today — everything okay?' costs you nothing and tells the other person, concretely, that they were seen."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Empathy that never leaves your head helps no one — it has to become a sentence you actually say out loud."
+      },
+      {
+        "type": "paragraph",
+        "text": "There's a second half to this, and it's the part people skip: once you ask, actually listen to the answer instead of using the time to plan what supportive thing to say next. Real listening means you could repeat back the specific thing they said, not just the general mood of it. If they mention something real — a hard meeting, a sick parent, a rough night — resist the urge to immediately relate it back to your own experience. Let their situation stay theirs for a moment before you respond."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do this today: pick one specific person you've noticed seems off, tired, or distracted recently — not a hypothetical, an actual name. Say something direct and low-pressure to them before the day ends, and then listen to the full answer without steering the conversation back to yourself. That's the whole exercise. It's small. It's also the entire difference between feeling empathy and practicing it."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["empathy", "listening", "socialIntelligence"],
+    "relatedDrillIds": ["char_d05"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l02",
+    "disciplineId": "character",
+    "title": "Humility Is What You Do With Credit",
+    "hook": "Anyone can say they're humble. Humility shows up in the two seconds after you're praised.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Humility gets talked about like it's a personality trait — some people have it, some don't. But it's really a decision you make in a specific, recurring moment: the two or three seconds right after someone praises something you did. What you do in that window is the whole test. Do you let the praise land on you alone, or do you actively redirect some of it to the people who made it possible?"
+      },
+      {
+        "type": "paragraph",
+        "text": "The redirect matters more than it seems, because vague credit doesn't count. Saying 'oh, it was a team effort' when you're the only name anyone remembers isn't humility — it's a throwaway line that changes nothing about who gets remembered next time. Real humility is specific: naming an actual person and an actual thing they did. 'Priya's the reason the client didn't walk — she handled that call when I was ready to give up.' That sentence costs you a little spotlight and gives someone else something they can actually point to later, in a review, in their own sense of whether their work matters."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Humility isn't thinking less of yourself — it's accurately remembering everyone else who made the outcome possible."
+      },
+      {
+        "type": "paragraph",
+        "text": "It's worth separating this from false modesty, which looks similar but isn't the same thing. Denying that you did good work, deflecting every compliment, insisting you got lucky — that's not humility, it's a different kind of self-focus, just aimed at the negative instead of the positive, and it's often just as inaccurate. Humility holds two things at once: an honest, undistorted view of what you actually contributed, and an equally honest, undistorted view of what everyone else contributed. Neither one gets inflated and neither gets erased."
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's the actual test, not a hypothetical one: a project you led just succeeded, and someone asks what made it work. There's a version of the answer that's all you, a version that's falsely self-erasing, and a version that's accurate — 'honestly, it was mostly the team, Sam's late nights on the data and Priya's client relationship saved us more than once.' That third version is the one worth practicing until it's automatic."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do this today: the next time someone compliments something you did that involved other people at all, name one specific person and one specific thing they did — before you say anything else about your own part in it. Don't wait for a big moment. A small one, today, is exactly the practice."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["humility", "credit", "teamwork"],
+    "relatedDrillIds": ["char_d03", "char_d09"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l03",
+    "disciplineId": "character",
+    "title": "The Lies We Tell By Staying Quiet",
+    "hook": "Most dishonesty isn't a lie you tell. It's a truth you decide not to volunteer.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Maya sends a client an estimate on a Friday afternoon. Monday morning, re-reading it with fresh eyes, she catches it: a formula error that undercharges the client by almost 20%. Her manager hasn't seen the mistake. The client hasn't responded yet. For about four seconds, Maya considers just... waiting. If the client doesn't notice, nothing has to happen. No awkward call, no explaining herself, no risk of losing a deal her team worked hard to get close on."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is the actual test of honesty, and it has almost nothing to do with lying. Nobody asked Maya a direct question she'd have to answer falsely. The dishonesty option here is pure silence — just letting a wrong number sit there and hoping the world sorts itself out without her having to do anything uncomfortable. Most of us are fairly good at not lying when someone asks us something directly. Far fewer of us are good at volunteering an inconvenient truth when the alternative is total, risk-free silence."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Honesty is easy when you're asked a direct question. It's tested in the moments no one's asking anything at all."
+      },
+      {
+        "type": "paragraph",
+        "text": "This shows up constantly in smaller, less dramatic versions than Maya's invoice. It's telling a friend 'I actually forgot to send that' instead of quietly hoping they don't ask. It's saying 'I didn't get a chance to read the full report, just the summary' before you weigh in, instead of nodding along like you did. It's correcting someone who complimented you based on a misunderstanding of what you actually did. None of these are lies in the technical sense. All of them are small tests of whether you'll choose an accurate, slightly uncomfortable truth over a comfortable, convenient gap."
+      },
+      {
+        "type": "paragraph",
+        "text": "Maya calls her manager that morning, flags the error before the client responds, and they fix it together before it becomes a bigger problem. It costs her twenty uncomfortable minutes. It would have cost her a lot more, later, if the client had found it first. Do this today: find one small thing — a mistake, a thing you didn't get to, a misunderstanding working in your favor — that you'd normally just let slide, and say it out loud to the person it affects, before they ask."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["honesty", "transparency", "integrity"],
+    "relatedDrillIds": ["char_d04"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l04",
+    "disciplineId": "character",
+    "title": "Discipline Is a Chain, Not a Mood",
+    "hook": "You don't need more motivation. You need to stop breaking the chain with yourself.",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Ask yourself a question most people avoid: how many small promises have you made to yourself this week, and how many did you actually keep? Not the big resolutions — the tiny ones. I'll go to bed by 11. I'll answer that email today, not tomorrow. I'll do ten minutes of that thing I said I'd start. Discipline isn't really about willpower in some big, dramatic sense. It's about whether that ledger — the one only you can see — tends to come out even."
+      },
+      {
+        "type": "question",
+        "text": "Here's the harder question: if a stranger only had access to that private ledger — every small promise you made to yourself and whether you kept it — what would they conclude about how much your word is worth?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most people build their sense of self-discipline around the big, visible commitments — the marathon, the diet, the new job. But the actual chain that builds discipline is made of much smaller, more boring links: the promise to text back when you said you would, the ten push-ups you said you'd do before checking your phone, the fifteen minutes of reading instead of scrolling. Break one link and nothing visible happens. Break enough of them and you quietly stop trusting your own word, which is a much bigger problem than missing one workout, because every future promise you make to yourself now has to fight through that accumulated doubt."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Discipline isn't intensity in a single moment — it's a long, boring chain of small promises kept, one link at a time."
+      },
+      {
+        "type": "question",
+        "text": "So: what's one promise you made to yourself recently — today, even — that you're currently on track to break?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Do this today: pick exactly one small promise you've made to yourself, notice if you're drifting toward breaking it, and keep it anyway, on time, without negotiating it down. Not a new promise — an existing one you're tempted to let slide. The chain only strengthens one kept link at a time. It won't feel significant while you're doing it, and that's exactly the point: discipline is built almost entirely out of moments too small to feel significant."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["discipline", "selfTrust", "habits"],
+    "relatedDrillIds": ["char_d07"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l05",
+    "disciplineId": "character",
+    "title": "Ordinary Courage: Speaking Up and Owning Mistakes",
+    "hook": "Most courage isn't dramatic. It's the moment before you say the uncomfortable thing out loud.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Dan is in a planning meeting where the group is converging fast on an approach he thinks has a real flaw — not a nitpick, an actual gap that could cause problems two months from now. Everyone else seems satisfied. Slowing things down means looking difficult, possibly being wrong in front of people whose opinion of him matters, and definitely making the meeting run long. He has maybe ten seconds before the conversation moves on to decide whether to say anything."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is what ordinary courage actually looks like, almost all of the time — not a single heroic stand, but a ten-second window where staying quiet is easy and speaking is mildly uncomfortable. Dan raises his hand and says, 'before we lock this in, can I flag one concern?' He states the flaw plainly, in one or two sentences, without over-apologizing for bringing it up or over-explaining to justify himself. Maybe he's right and the plan changes. Maybe he's wrong and someone explains what he missed. Either way, the room is better off for someone having actually said the thing."
+      },
+      {
+        "type": "paragraph",
+        "text": "The same muscle gets used in a completely different scenario: admitting a mistake before anyone's caught it. It's genuinely harder to say 'I got this wrong' out loud than to just quietly fix it and hope no one asks. The fear isn't really about consequences — it's about being seen, for a moment, as less competent than you'd like to appear. Courage here is tolerating that discomfort on purpose, because the alternative (hoping it goes unnoticed) usually costs more later and always costs you a little self-respect in the meantime."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Courage is rarely a single dramatic stand — it's the small, repeated choice to say the uncomfortable true thing in the ten seconds before it becomes easier to stay quiet."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do this today: find one situation where you've been quietly holding back a concern, a disagreement, or an admission because speaking up felt slightly awkward, and say it, plainly and without over-explaining, before the day ends. Notice, afterward, that the discomfort you were avoiding lasted about ten seconds — and that it was smaller than the discomfort of carrying it around unsaid."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["courage", "speakingUp", "honesty"],
+    "relatedDrillIds": ["char_d06", "char_d04"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l06",
+    "disciplineId": "character",
+    "title": "Gratitude Is a Practice, Not a Mood",
+    "hook": "Feeling thankful when things go well is easy. Practicing gratitude on an ordinary day is the actual skill.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Gratitude has a branding problem: it gets treated like a mood you either happen to feel or don't, usually triggered by something going unusually well — a sunset, a win, a lucky break. That version of gratitude is real, but it's also passive. It shows up when conditions are good and disappears the rest of the time, which means it isn't actually training anything in you. The useful version of gratitude is a practice you run on an ordinary day, independent of your mood, aimed at a specific person."
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's what separates practiced gratitude from the performative kind: specificity, and timing. 'Grateful for my life' posted with a sunset photo costs nothing and asks nothing of you. A text to a mentor, months after the fact, naming the exact piece of advice they gave you and the exact decision it changed — that costs a small amount of effort and vulnerability, and it's the version that actually means something to the person receiving it. The performative version is about how you look. The practiced version is about accurately telling someone the effect they had."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Gratitude that's specific and unprompted is worth more than gratitude that's vague and well-timed for an audience."
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's how to actually run this: think of one person, not a category of people — a specific name. Recall one specific thing they did, not a general vibe of them being 'great.' Then say what it actually changed for you — a decision, a hard week, a skill you now have. Send it as a direct message or say it in person, today, for no occasion at all. No anniversary, no holiday, no reason except that it's true and you haven't said it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do this today: pick one specific person who did something for you — recently or a long time ago — that you never properly thanked in detail, and send them a specific, unprompted message naming exactly what they did and why it mattered. Not a general 'thanks for everything.' The specific thing. If it feels slightly awkward to send, that's usually a sign it's the real version and worth sending anyway."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["gratitude", "habits", "relationships"],
+    "relatedDrillIds": ["char_d08"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l07",
+    "disciplineId": "character",
+    "title": "Integrity Is What You Do When the Room Is Empty",
+    "hook": "Nobody would ever have known. That's exactly why it mattered.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "After a big project wraps, leadership singles out Jordan for the win — he's the one who presented the final result, so he's the name people remember. In reality, two teammates did most of the genuinely hard work; Jordan handled a smaller, more visible piece. No one in the room knows the actual breakdown of effort except Jordan. He could simply accept the praise, say a generic 'thanks, team effort,' and let the misunderstanding stand. Nothing would ever come of it. No one would ever check."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is integrity in its purest, least dramatic form: a choice made entirely for an audience of one, with zero chance of external consequence either way. There's no rule being enforced, no one keeping score, no risk of getting caught later, because there's nothing to get caught for — staying quiet isn't even technically dishonest. It's just a comfortable gap between what people believe and what's actually true, and only Jordan can see it."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Integrity is what you do when literally nothing is checking on you — when the only person who would ever know is the one deciding."
+      },
+      {
+        "type": "paragraph",
+        "text": "This version of integrity shows up in far smaller, less noble-sounding places too: logging the honest number on a self-reported form when a slightly better one would go unquestioned, doing the full rep instead of the shortcut when no one's watching your form, marking a task 'done' only when it's actually done. None of these have an audience. All of them are exactly the moments that reveal, to you if no one else, what you actually value when nothing external is enforcing it. Do this enough times and it stops being a series of individual choices and starts being simply who you are, whether or not anyone is around to see it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Jordan redirects the credit specifically, in front of the same leadership, naming which teammates did the harder work — not because anyone would have found out otherwise, but because the accurate version was worth more to him than the comfortable one. Do this today: find one place where you could quietly take an easier, unearned outcome and nobody would ever know, and choose the accurate, harder one instead, purely because it's true."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["integrity", "honesty", "selfAwareness"],
+    "relatedDrillIds": ["char_d09", "char_d01"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l08",
+    "disciplineId": "character",
+    "title": "What Rejection Is Actually Trying to Teach You",
+    "hook": "The feeling of rejection is data. What you do with it next is character.",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "You prepared hard for something — a job, a project, a relationship, an opportunity — and it didn't work out. There are three common responses to this, and only one of them actually builds anything. You can decide the process was unfair and the people who chose otherwise don't know what they're doing. You can decide you didn't really want it anyway, so it can't really hurt. Or you can let yourself feel the disappointment fully, and then go looking for whatever honest, useful information is sitting inside it."
+      },
+      {
+        "type": "question",
+        "text": "Before you read further, think of something specific — a real rejection or setback from the last year, not a hypothetical one. Which of those three responses did you actually have?"
+      },
+      {
+        "type": "paragraph",
+        "text": "The honest version requires a kind of self-awareness that's uncomfortable on purpose: separating what was actually in your control from what wasn't, without collapsing the two into either 'it was all my fault' or 'none of it was my fault.' Maybe the timing was bad and there's nothing to learn. Maybe there's one real, specific, useful piece of feedback in there — a skill gap, a way you came across, a mismatch you can now see clearly. Resilience isn't skipping the disappointment to get to the lesson faster. It's staying with the disappointment long enough to find out if there's a real lesson in it at all, and being willing to hear an answer that's a little uncomfortable."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Resilience isn't refusing to feel the loss — it's feeling it fully and still choosing to look for something useful inside it."
+      },
+      {
+        "type": "question",
+        "text": "So: what is the one honest, specific thing — not a vague 'I need to try harder' — that this setback is actually trying to tell you?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Do this today: go back to that specific rejection or setback you thought of earlier, and write down one honest, specific, actionable thing you'd do differently next time — not as self-punishment, just as information. Then do one small thing today that applies it, even in a completely unrelated situation. That's the actual difference between a setback that shapes you and one that just hurts."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["resilience", "selfAwareness", "rejection"],
+    "relatedDrillIds": ["char_d10"],
+    "relatedCardIds": []
+  }
+]

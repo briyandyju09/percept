@@ -1,0 +1,149 @@
+[
+  {
+    "id": "obs_l01",
+    "disciplineId": "observation",
+    "title": "The First Five Seconds: Noticing Under Time Pressure",
+    "hook": "Most of what you'll ever need to notice happens in a glance you didn't know was timed. Here's how to make that glance count.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Most real-world observation doesn't happen in a museum with a plaque and unlimited time. It happens in the four seconds after someone opens a door, the glance across a crowded platform, the first handshake before a negotiation begins. In these moments your attention is already being spent — the only question is whether you're spending it on purpose. Time pressure doesn't have to make you observe less; it forces you to decide, in advance, what actually deserves your attention. Untrained attention wanders evenly across a scene. Trained attention front-loads its priorities before the scene even appears."},
+      {"type": "keyPoint", "text": "Under pressure, you don't get to look longer — you only get to decide better, sooner."},
+      {"type": "paragraph", "text": "A useful discipline is the three-pass scan. The first pass takes in the whole scene at once — mood, scale, the general shape of what's happening — before your eye locks onto any single detail. The second pass moves to fixed anchor points: hands, feet, exits, the position of people relative to each other. These rarely lie and rarely change quickly. The third pass hunts for the one thing that doesn't belong — an object out of place, a reaction that lands a half-second late, a detail that contradicts the story the room is telling. Each pass takes under a second once it's rehearsed; the point isn't speed for its own sake, it's not wasting the speed you already have."},
+      {"type": "paragraph", "text": "None of this makes you observe everything — nobody does, and claiming otherwise is the first sign of someone overselling the skill. What it does is shift the ratio: more of your limited attention lands on details that matter, and less gets spent on details that were never going to be useful. That ratio, repeated across hundreds of ordinary moments, is what separates someone who is 'good with people' from someone who just happened to get lucky a few times."},
+      {"type": "keyPoint", "text": "The goal isn't total awareness. It's making your first look count more than your second one used to."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["time pressure", "attention triage", "quick observation"],
+    "relatedDrillIds": ["obs_d01", "obs_d02"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l02",
+    "disciplineId": "observation",
+    "title": "The Edges of Your Vision: Training Peripheral Awareness",
+    "hook": "The most famous experiment in attention research proves a simple, uncomfortable point: you can look directly at a task and still not see what's happening right in front of you.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "Central vision is sharp but narrow — a small cone where you resolve fine detail. Peripheral vision is wide but low-resolution, tuned less for detail than for motion. Most people train, without meaning to, on the first and ignore the second: they fixate on whatever is directly in front of them and let everything at the edges blur into background. That's a habit, not a limit of the eye, and it means most of the room or street around you is going almost entirely unprocessed."},
+      {"type": "paragraph", "text": "In 1999, researchers Daniel Simons and Christopher Chabris asked participants to watch a short video and silently count how many times players in white shirts passed a basketball. Partway through, a person in a full gorilla suit walked into the middle of the scene, faced the camera, thumped its chest, and walked off. About half the participants, focused entirely on counting passes, never noticed the gorilla at all. This is called inattentional blindness: when attention is narrowly committed to a specific task, even a large, plainly visible, unexpected object can go completely unseen. It doesn't mean those participants have bad eyesight or bad general awareness — the effect is specific to how narrowly their attention was already occupied, and it varies with how demanding the counting task is."},
+      {"type": "keyPoint", "text": "You don't fail to see because your eyes are weak. You fail to see because your attention already had a job."},
+      {"type": "paragraph", "text": "The practical lesson isn't 'try harder to notice everything' — that's not how attention works, and the gorilla study is really a caution against overconfidence in your own noticing, not a party trick. The useful move is to deliberately loosen narrow, single-task focus in situations where you don't need it: widen your gaze rather than fixating on one point, and practice registering motion at the edges of vision without turning your head toward it. This is exactly what lets you read the general shape of a room while still following a conversation in front of you, instead of having to choose between the two."},
+      {"type": "paragraph", "text": "Drills that hide a scene with a busy foreground and a quieter background are a direct way to build this: if you can only ever answer questions about the obvious, central objects, your peripheral awareness isn't being exercised at all."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["peripheral vision", "inattentional blindness", "selective attention"],
+    "relatedDrillIds": ["obs_d04", "obs_d06"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l03",
+    "disciplineId": "observation",
+    "title": "Building a Memory That Holds a Room",
+    "hook": "Visual memory isn't a fixed trait you either have or don't — it responds directly to how deliberately you rehearse it.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "Most detail from a glanced scene fades within seconds unless something anchors it. Left alone, a visual impression is fragile: vivid the instant after you look away, mostly gone a minute later. The fix isn't staring longer — it's converting what you see into something stickier than a raw image. Here are three concrete steps to build that habit."},
+      {"type": "keyPoint", "text": "You don't remember what you saw. You remember what you named."},
+      {"type": "paragraph", "text": "Step one: practice the naming pass. When you scan a room, silently narrate five to eight nouns paired with one distinguishing detail each — 'red mug,' 'cracked mirror,' 'blue folder on top.' Naming converts a visual impression into a verbal hook, and verbal hooks survive in memory far longer than pure images do. This takes seconds and can be done without anyone noticing you're doing it."},
+      {"type": "paragraph", "text": "Step two: use anchors and sequence. Borrow the basic idea behind the method of loci — link the items you want to remember to a path you already know well, like the corners of a familiar room or the turns of a regular walk. Order imposed on a list is far easier to hold onto than the same list floating free, which is exactly why the recall drills in this app present items in a sequence rather than a scattered pile."},
+      {"type": "paragraph", "text": "Step three: rehearse on a delay. Testing yourself immediately after looking away is misleadingly easy — the impression hasn't faded yet. Real training means checking your recall a few minutes later, or at the end of the day, which is a harder and far more honest test of what actually stuck."},
+      {"type": "keyPoint", "text": "Most people's visual memory isn't bad. It's simply never been asked to work."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["visual memory", "memory technique", "recall training"],
+    "relatedDrillIds": ["obs_d05", "obs_d09"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l04",
+    "disciplineId": "observation",
+    "title": "What Are You Actually Scanning For?",
+    "hook": "Ask yourself these questions every time you walk into a room, and scanning stops being a vague good habit and starts being a specific one.",
+    "mode": "socratic",
+    "blocks": [
+      {"type": "paragraph", "text": "Environmental scanning works best as a habit you run on every entry into a space, not something reserved for moments you already feel unsettled. The value comes from consistency, not intensity. Ask yourself these five questions, in order, the next few times you walk into somewhere new."},
+      {"type": "question", "text": "When you walked into the last room you entered, could you name where every exit was without turning your head again to check?"},
+      {"type": "question", "text": "What in this space would tell you something is about to change — a phone lighting up on a table, a door left not quite closed, a chair angled toward the exit rather than the room?"},
+      {"type": "question", "text": "Which person here is positioned to see the whole room, and which person has their back to most of it?"},
+      {"type": "question", "text": "If you had to leave in the next ten seconds, what's the fastest route, and does it require getting past anyone?"},
+      {"type": "keyPoint", "text": "A scanning habit isn't paranoia rehearsed daily — it's orientation rehearsed daily, and orientation is just good manners toward your own attention."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["environmental scanning", "situational habits", "spatial awareness"],
+    "relatedDrillIds": ["obs_d08", "obs_d10"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l05",
+    "disciplineId": "observation",
+    "title": "The Chair That Moved Two Inches",
+    "hook": "A short illustration of the most ordinary skill in this discipline: noticing that today, quietly, doesn't match yesterday.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "Consider a café regular who worked the same counter for six years. He could tell you, without ever consciously trying, when a customer's usual order shifted, when a familiar coat sleeve had picked up a new stain, when two coworkers who always sat together sat one table apart instead. None of this came from unusual perception. It came from baseline — thousands of ordinary afternoons that gave him something to quietly compare today against."},
+      {"type": "paragraph", "text": "One afternoon, a regular who always came in loud and always left his change in the tip jar came in quiet, left no tip, and sat facing the door instead of his usual seat with his back to the wall. No single detail was alarming on its own. But three small changes landing at once was enough that the barista, without making a scene of it, asked how his week was going rather than assuming nothing was different."},
+      {"type": "keyPoint", "text": "You don't notice the change itself — you notice that today doesn't match your file for how this always goes."},
+      {"type": "paragraph", "text": "This is the real mechanism behind change detection: it requires a stored baseline. It has less to do with sharper eyes in the moment and more to do with deliberately keeping loose mental records of how a person or place behaves when nothing is wrong — a file you build without realizing you're building it."},
+      {"type": "paragraph", "text": "One honest caution belongs here too: noticing a change is a prompt to look closer or ask a question, never a verdict on its own. Most changes have mundane explanations — a bad night's sleep, new shoes that hurt, a rough morning that has nothing to do with you. Jumping straight from 'something's different' to a confident conclusion about why abandons the honesty this whole discipline depends on."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["change detection", "baseline awareness", "noticing shifts"],
+    "relatedDrillIds": ["obs_d03", "obs_d06"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l06",
+    "disciplineId": "observation",
+    "title": "Five Channels, Zero Conclusions: What to Notice Before You Interpret",
+    "hook": "Before you ever try to read what a gesture 'means,' you need to reliably notice that it happened at all. This is the inventory, not the analysis.",
+    "mode": "caseStudy",
+    "blocks": [
+      {"type": "paragraph", "text": "A hiring manager once described interviewing two nearly identical candidates for the same role — same resume strength, same well-rehearsed answers. What she remembered afterward wasn't what either of them said. It was that one candidate's voice had gotten noticeably quieter on a single question, and the other had, without seeming to notice, turned his whole torso toward the door the moment the conversation reached his last job. Neither observation told her anything on its own. Both were worth having noticed."},
+      {"type": "paragraph", "text": "There are five channels worth building a habit of scanning, purely as an inventory of what happened — not yet what it means. Face: whether an expression appears and fades quickly, or is held and posed, and whether one side moves differently from the other. Posture: overall lean, how open or closed the torso is, and orientation relative to another person or the exit. Gesture: whether the hands are visible, and whether their movement matches the rhythm of speech or lags behind it. Clothing and grooming: what looks deliberate and put-together versus what looks unplanned or recently changed. Voice: pace, volume, and pitch relative to that same person's own baseline earlier in the conversation — not against some universal chart of what a tone 'should' mean."},
+      {"type": "keyPoint", "text": "This lesson is inventory, not interpretation — reading what any of it means is a separate, harder discipline, and jumping straight there is how most people get it wrong."},
+      {"type": "paragraph", "text": "A single cue is almost never diagnostic on its own. The same crossed arms can mean cold, comfortable, or closed off, and treating any one channel as a lie detector is one of the most common and most damaging mistakes in this field. The job of this lesson is only to make sure you're collecting the raw material accurately, so that whatever interpretation you eventually attempt is at least built on something real."},
+      {"type": "paragraph", "text": "The hiring manager didn't 'know' anything from the quiet voice or the turned torso. She knew she had two honest data points, and she asked one more question before deciding what, if anything, they meant."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["nonverbal observation", "facial cues", "posture and gesture", "voice"],
+    "relatedDrillIds": ["obs_d03"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l07",
+    "disciplineId": "observation",
+    "title": "The Grammar of Ordinary Things: How Pattern Recognition Actually Works",
+    "hook": "Pattern recognition sounds like a talent for spotting the extraordinary. In practice, it's almost entirely a talent for knowing the ordinary so well that the exception announces itself.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Pattern recognition is fundamentally an act of comparison against expectation, not innate hyper-perception. Someone who 'just notices things' usually has a strong internalized model of a specific domain — a nurse reading a monitor, a mechanic hearing an engine — and the anomaly is loud against that model even though it would be invisible to a novice with no model at all."},
+      {"type": "paragraph", "text": "There are two honest failure modes worth naming. An under-built pattern sense has no real baseline, so everything looks equally random and signal can't be told from noise. An over-built one sees patterns in pure noise — superstition, coincidence mistaken for meaning. Claiming to see meaningful patterns everywhere is itself a warning sign, not a skill."},
+      {"type": "keyPoint", "text": "A trained eye doesn't see more patterns. It sees fewer false ones."},
+      {"type": "paragraph", "text": "The practical building method is narrow and patient: study one specific domain — a particular commute, a particular colleague's habits, a particular kind of document — long enough to build a real baseline before trusting your gut about anomalies in it. Pattern recognition doesn't transfer for free from one domain to an unrelated one; expertise in reading faces doesn't make you good at reading spreadsheets."},
+      {"type": "paragraph", "text": "Abstract sequence puzzles — numbers, letters, simple rules with one item that breaks them — are a simplified gym for the underlying skill: quickly identifying the rule everyone else is quietly following, and noticing which item doesn't follow it. It's the same basic move as noticing which person in a meeting isn't following the room's unspoken norms."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["pattern recognition", "baseline expectation", "anomaly detection"],
+    "relatedDrillIds": ["obs_d07"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l08",
+    "disciplineId": "observation",
+    "title": "Three Rooms: A Situational Awareness Routine You Can Actually Keep",
+    "hook": "Situational awareness fails most often not because people can't do it, but because nobody gave them a routine simple enough to survive a Tuesday.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "Situational awareness collapses into three recurring contexts — a room, a street, a conversation — and each one deserves its own short checklist rather than one vague instruction to 'pay attention.'"},
+      {"type": "paragraph", "text": "In a room: on entry, locate the exits, note who's positioned to see the whole space versus whose back is turned to most of it, and register the general noise and energy level as a baseline you can quietly check against later."},
+      {"type": "paragraph", "text": "On a street: before you step into the flow of foot traffic, register what's moving toward you versus what's standing still, keep peripheral awareness open rather than fixed on a phone, and pick one landmark you could navigate back to if you got turned around."},
+      {"type": "paragraph", "text": "In a conversation: track not just the words but whether the other person's energy is rising, falling, or flat relative to how they started, and notice when a particular question changes their pace before you decide it means anything at all."},
+      {"type": "keyPoint", "text": "Situational awareness isn't vigilance held all day. It's three short checklists, run on entry, everywhere you go."},
+      {"type": "paragraph", "text": "The goal of all of this is calm orientation, not anxiety. Someone practicing this well should look and feel more relaxed in a room, not more suspicious of it — because they've already answered the basic questions and can stop asking them."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["situational awareness", "everyday practice", "routine"],
+    "relatedDrillIds": ["obs_d01", "obs_d10"],
+    "relatedCardIds": []
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "id": "rp_l01",
+    "disciplineId": "reading_people",
+    "title": "Why We Read People Wrong",
+    "hook": "Confident readings of other people feel accurate. That feeling is not evidence. This lesson sets the ground rules for everything else in this discipline.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "There is a seductive idea that some people can 'read' others the way you'd read a book — a crossed arm here, a glance there, and suddenly you know what's really going on inside someone's head. It makes for great television. It is not how attention to people actually works, and treating it as though it were will make you worse at understanding others, not better."},
+      {"type": "paragraph", "text": "What careful observers actually do is notice specific, describable behavior, propose a plausible internal explanation for it, immediately propose at least one other plausible explanation, and then hold their confidence in check. This is slower and less dramatic than 'reading' someone. It is also the only version of this skill that survives contact with reality, because people are not transparent, and the same behavior can spring from a dozen different causes."},
+      {"type": "keyPoint", "text": "This discipline is not about certainty. It is about generating better hypotheses, faster, while staying honest about how wrong you could be."},
+      {"type": "paragraph", "text": "Here is the reasoning chain you'll practice throughout every lesson and drill: Observation, then Hypothesis, then Alternative explanation, then Confidence. Worked example — Observation: 'He stopped smiling when money was mentioned.' Hypothesis: 'Money may be uncomfortable for him.' Alternative: 'He may simply have become more serious because the conversation shifted to a more consequential topic.' Confidence: 42%. Notice that the confidence is not 90% or 10% — it sits in a range that acknowledges real uncertainty, because a single moment of behavior almost never proves what's happening internally."},
+      {"type": "paragraph", "text": "As you move through the lessons on face, body, voice, and language, you will keep returning to this same four-step chain. The goal is never to land on 'the' answer. The goal is to get comfortable holding two or three plausible stories about a person at once, and to get better at estimating how much weight each one deserves."},
+      {"type": "paragraph", "text": "One more thing worth naming up front: this approach is not a compromise or a watered-down version of 'real' mind reading. It is the more accurate skill. People who insist on certainty about others' internal states are usually just confident, not correct — and their confidence tends to make them worse listeners, because once you 'know' what someone is feeling, you stop actually checking. Staying in the 30-60% range on most single observations keeps you curious, keeps you asking follow-up questions, and keeps you open to being wrong, which is exactly the posture that makes you better at this over time."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["method", "confidence calibration", "foundations"],
+    "relatedDrillIds": ["rp_d01", "rp_d09"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l02",
+    "disciplineId": "reading_people",
+    "title": "Baselines Before Cues",
+    "hook": "There is no universal facial expression, gesture, or tone that always means the same thing. The only meaningful comparison is a person against themselves.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "Most popular advice about reading people treats cues as universal dictionaries: crossed arms mean defensiveness, avoiding eye contact means dishonesty, a raised eyebrow means surprise. Almost none of this holds up. People differ enormously in their resting posture, their natural eye contact habits, their pace of speech, and their default level of animation. A cue only becomes informative when you compare it to what is normal for that specific person, in that specific kind of situation."},
+      {"type": "paragraph", "text": "This is why establishing a baseline matters more than memorizing any list of 'tells.' A baseline is your working sense of how someone typically behaves when they are relatively at ease — their usual speaking pace, how often they gesture, whether they naturally look away while thinking, how still or fidgety they tend to be. Once you have that baseline, what matters is not the behavior itself but the *change* from it: a normally animated talker going flat, a normally still person suddenly touching their face repeatedly, a fast talker slowing to a crawl."},
+      {"type": "paragraph", "text": "Baselines take time to build and they can be wrong. Someone might be tired, sick, caffeinated, or simply having an unusual day, and any of these can look like a 'change' when it's really just noise. This is part of why a single observed change is weak evidence on its own — it could reflect a shift relevant to the topic at hand, or it could reflect something entirely unrelated to the moment you're paying attention to."},
+      {"type": "keyPoint", "text": "A cue means little in isolation. What means something is a change from this specific person's own baseline — and even that change needs an alternative explanation before you trust it."},
+      {"type": "paragraph", "text": "Worked example: Observation — 'Priya, who usually talks quickly and interrupts herself with jokes, spoke slowly and gave short, flat answers during the performance review.' Hypothesis — 'She may be anxious or unhappy about how the review is going.' Alternative — 'She may be tired from a late night, or simply speaking carefully because she's choosing her words in a formal setting.' Confidence — 38%. The shift from her baseline is a real signal worth noting, but on its own it still supports several different stories about what's happening."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["baseline", "body", "foundations"],
+    "relatedDrillIds": ["rp_d02", "rp_d07"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l03",
+    "disciplineId": "reading_people",
+    "title": "Faces: Micro-Changes, Not Mind-Reading",
+    "hook": "A face can shift in a fraction of a second. Catching that shift is a skill — knowing what it means is a much harder, much less certain one.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "Late in a long negotiation, Tom noticed that his counterpart's expression flickered — the eyes tightened slightly, the mouth pulled down at the corners for less than a second — right as the final price was mentioned. It vanished almost immediately, replaced by the same pleasant, neutral face from before. Tom's instinct was to think, 'Got it. He hates that number.'"},
+      {"type": "paragraph", "text": "But Tom paused before acting on that instinct. A brief facial change like this is genuinely worth noticing — the training to catch these micro-changes at all is valuable, because most people miss them entirely. The mistake is what comes next: treating the catch itself as the conclusion, rather than as the start of a reasoning process."},
+      {"type": "paragraph", "text": "Tom ran it through the chain instead. Observation: 'His expression tightened briefly — narrowed eyes, downturned mouth — right when I said the final number, then returned to neutral.' Hypothesis: 'The number might be lower than he hoped, and he felt a flash of frustration or disappointment.' Alternative: 'He may have been concentrating hard on doing quick mental math, or reacting to something else entirely, like a notification on his phone.' Confidence: 45%."},
+      {"type": "paragraph", "text": "Because his confidence sat around 45%, not 90%, Tom didn't overcommit to the story in his head. Instead he treated it as one useful data point and kept watching for more — did the counterpart's tone shift afterward? Did he ask clarifying questions about the price, or move quickly past it? Facial micro-changes are excellent at telling you *something happened* internally around a specific moment. They are much worse at telling you exactly *what*."},
+      {"type": "keyPoint", "text": "A flicker of expression tells you a moment mattered to someone. It rarely tells you, on its own, why."},
+      {"type": "paragraph", "text": "The practical habit worth building: notice the flicker, note the exact timing (what was said or happened right before it), generate a hypothesis and an alternative, and keep your confidence moderate until you see whether other signals — voice, word choice, later behavior — point the same direction. It also helps to train the noticing itself as a separate skill from the interpreting: most people, even attentive ones, simply don't catch these fast facial changes at all, since they happen in under half a second and vanish before conscious attention can name them. But building sharper perception without also building the discipline of generating alternatives just gives you more raw material to jump to conclusions from — the two halves have to be trained together."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["face", "micro-expression", "confidence calibration"],
+    "relatedDrillIds": ["rp_d03"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l04",
+    "disciplineId": "reading_people",
+    "title": "The Body Speaks in Vague Sentences",
+    "hook": "Posture, orientation, gestures, and self-touch all carry information — but the vocabulary is loose and highly personal.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Body language operates on several channels at once: overall posture (open or closed, upright or slumped), orientation (facing toward or away from someone), gestures (expansive or restrained, matching or mismatching speech), and self-touching behaviors (adjusting a collar, rubbing hands, touching the face or neck). Each of these can shift for reasons that have nothing to do with what's being discussed — a stiff chair, a cold room, a habit unrelated to the moment."},
+      {"type": "paragraph", "text": "The most useful body-language observations are usually about orientation and timing rather than any single static pose. Someone who turns their feet or torso toward the door mid-conversation may be signaling a desire to leave — or they may have heard a sound behind them. Someone whose gestures suddenly shrink from wide and expressive to small and contained might be uncomfortable — or might just be trying not to knock over their coffee."},
+      {"type": "paragraph", "text": "Self-touching gestures (adjusting glasses, touching the neck, smoothing hair) are commonly framed as 'self-soothing' signs of stress. That framing can be a reasonable hypothesis, but it is never the only one — plenty of people do these things constantly, out of habit, regardless of their emotional state. This is exactly why baselining, covered in an earlier lesson, has to come first: the same gesture means something different in a fidgety person than in someone who is normally very still."},
+      {"type": "paragraph", "text": "Worked example: Observation — 'During the client call, Marcus turned his chair slightly away from the screen and started rubbing the back of his neck when the budget cut was announced.' Hypothesis — 'He may feel uncomfortable or defensive about the budget cut.' Alternative — 'He may have a stiff neck from sitting at a desk all day, and turning his chair may have been an unrelated adjustment for comfort.' Confidence: 35%."},
+      {"type": "paragraph", "text": "Notice how much work the alternative explanation is doing here. It isn't a throwaway line added to seem balanced — it's a genuinely competing account that fits the same facts just as well. When you can't come up with a decent alternative, that's usually a sign you haven't looked hard enough, not a sign your first hypothesis is correct. Practicing this with body language is a good place to start, because posture and gesture changes have an unusually large number of mundane physical causes sitting right alongside the psychological ones."},
+      {"type": "keyPoint", "text": "Body cues are best read as questions to investigate further, not answers to report as fact."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["body", "gesture", "posture"],
+    "relatedDrillIds": ["rp_d04", "rp_d08"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l05",
+    "disciplineId": "reading_people",
+    "title": "Listening to How, Not Just What",
+    "hook": "Pace, pitch, pauses, volume, and hesitation carry a parallel layer of meaning alongside the words themselves.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "Try this the next time you're in a conversation that matters: for thirty seconds, stop tracking the content of what's being said and just track the delivery. Notice the pace — is it faster or slower than a moment ago? Notice the pitch — has it crept higher, or dropped? Notice pauses — are they landing in new places, right before certain words? Notice volume and any hesitation, like false starts or a sentence that trails off."},
+      {"type": "paragraph", "text": "These vocal features shift for emotional reasons sometimes, and for completely mundane reasons other times — someone pauses because they're choosing precise words, not because they're hiding something; someone speeds up because they're excited to share good news, not because they're nervous. Your job is not to decode the voice with certainty. It's to notice the shift, generate a plausible hypothesis about what it might mean, generate at least one alternative, and assign it a confidence that reflects real uncertainty."},
+      {"type": "paragraph", "text": "Try it now: think of a recent conversation where someone's voice noticeably changed — got quieter, sped up, developed a longer pause than usual before answering a question. Write down the observation in one sentence. Then write a hypothesis. Then write an alternative explanation that has nothing to do with the emotional story you first reached for. Finally, assign a confidence percentage to your hypothesis over the alternative."},
+      {"type": "paragraph", "text": "Worked example to compare against: Observation — 'When asked about the delayed shipment, the vendor's voice dropped in volume and he paused for nearly two seconds before answering.' Hypothesis — 'He may feel responsible or embarrassed about the delay.' Alternative — 'He may have been checking his records mentally before giving an accurate answer, which naturally takes a pause.' Confidence: 40%."},
+      {"type": "paragraph", "text": "One reason vocal cues deserve special attention is that they're available even when you can't see someone clearly — on a phone call, over a bad video connection, through a wall. That makes them a useful channel to practice deliberately, since you can't lean on facial or body cues to fill in the gaps. But it also means voice alone is doing more interpretive work than usual, which is exactly when you should be most careful about jumping straight from a vocal shift to a confident story about what someone is feeling."},
+      {"type": "keyPoint", "text": "A pause or a dip in volume is a prompt to ask a follow-up question, not a verdict to write down."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["voice", "pace", "hesitation"],
+    "relatedDrillIds": ["rp_d05", "rp_d10"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l06",
+    "disciplineId": "reading_people",
+    "title": "What Words Choose Not to Say",
+    "hook": "Word choice, qualifiers, contradictions, and topic avoidance often reveal more through their pattern than through any single sentence.",
+    "mode": "socratic",
+    "blocks": [
+      {"type": "paragraph", "text": "Consider a question before reading further: if someone answers 'did you take the last cookie?' with 'I wouldn't do something like that,' rather than a simple 'no,' does that prove guilt? Sit with that for a second before moving on."},
+      {"type": "paragraph", "text": "The honest answer is: it proves nothing on its own, but it is worth noticing. Language patterns like this — qualifiers ('I wouldn't do something like that' instead of 'no'), hedges ('honestly,' 'to be fair,' 'I mean'), shifts in pronoun use (from 'I' to 'we' or 'you' when a topic gets uncomfortable), and topic avoidance (steering conversation away from a subject) are all real, observable patterns. But each has a mundane explanation sitting right next to the suspicious one."},
+      {"type": "paragraph", "text": "Ask yourself: could someone give an indirect, qualified answer to an accusation simply because direct denials sound rude or defensive to them, regardless of guilt? Could someone avoid a topic because it's boring or painful for reasons unrelated to wrongdoing — grief, past embarrassment, simple disinterest? In both cases, yes. This is why language-pattern reading, like every other channel in this discipline, needs the same chain: observation, hypothesis, alternative, confidence."},
+      {"type": "paragraph", "text": "Worked example: Observation — 'When asked directly whether she'd seen the email before the meeting, Elena said, \"I mean, I generally try to stay on top of things,\" rather than answering yes or no.' Hypothesis — 'She may be avoiding admitting she hadn't seen it.' Alternative — 'She may genuinely be unsure and is speaking in generalities rather than making a claim she isn't confident about.' Confidence: 44%."},
+      {"type": "paragraph", "text": "One more question to carry forward: if you notice three or four of these language patterns cluster together in a short stretch of conversation — a qualifier, a topic change, a pronoun shift — does that raise your confidence more than any one of them alone? It should. A cluster of independent signals pointing the same direction is meaningfully stronger evidence than any single cue, even though no cluster amounts to proof."},
+      {"type": "keyPoint", "text": "One hedge or qualifier is noise. A cluster of language shifts pointing the same direction, alongside an honestly considered alternative, is signal worth acting on cautiously."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["language", "word choice", "clusters"],
+    "relatedDrillIds": ["rp_d06", "rp_d02"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l07",
+    "disciplineId": "reading_people",
+    "title": "The Method, In Full: A Case File",
+    "hook": "A single worked case, start to finish, showing exactly how to move from raw observation to a calibrated, humble conclusion.",
+    "mode": "caseStudy",
+    "blocks": [
+      {"type": "paragraph", "text": "Case: Dana manages a small team. In a one-on-one, she asks Jordan how the project handoff is going. Over the next ninety seconds, she notices several things: Jordan's usual quick, confident answers become slower; he mentions the handoff was 'basically fine' but then adds, unprompted, that 'there were a couple of things that could've gone smoother'; his arms, normally loose, fold across his chest; and his voice, typically at a steady volume, drops noticeably when he mentions the other team involved."},
+      {"type": "paragraph", "text": "Dana resists the urge to bundle all of this into one dramatic conclusion ('Jordan is hiding a serious problem'). Instead she separates it into distinct observations and works each one through the chain before combining them."},
+      {"type": "paragraph", "text": "Observation 1: 'Jordan's answers slowed compared to his normal pace.' Hypothesis: 'He may be choosing his words carefully because something is sensitive.' Alternative: 'He may simply be thinking harder because the question is genuinely complex.' Confidence: 40%. Observation 2: 'He volunteered a qualifier — \"could've gone smoother\" — without being pushed.' Hypothesis: 'He may be signaling a real problem while softening it.' Alternative: 'He may just have a habit of being self-critical regardless of how things actually went.' Confidence: 48%. Observation 3: 'His arms moved from loose to crossed, and his volume dropped specifically when naming the other team.' Hypothesis: 'There may be friction with that other team specifically.' Alternative: 'The room may have gotten colder, or he may lower his volume whenever naming colleagues out of habitual discretion.' Confidence: 37%."},
+      {"type": "paragraph", "text": "Individually, none of these clears 50% confidence. But Dana notices they cluster: three independent channels — pace, word choice, and body plus voice together — all shifted at roughly the same moment, around the same topic (the other team). That clustering, not any single cue, is what justifies raising her overall confidence that something worth a gentle follow-up question exists here — to something like 60%, still well short of certainty."},
+      {"type": "keyPoint", "text": "The method isn't about turning any single observation into a verdict. It's about tracking several weak, independent signals and only updating your confidence meaningfully when they cluster together."},
+      {"type": "paragraph", "text": "One last detail worth carrying forward: even at 60%, Dana's plan wasn't to announce a conclusion. It was to ask an open, low-pressure question — something like 'How did things go with the other team on this?' — and see what new information came back. The whole point of calibrated confidence is that it tells you what to do next, not what to believe with certainty. A moderate confidence justifies a gentle question. It never justifies acting as though you already know the answer."}
+    ],
+    "estimatedMinutes": 9,
+    "tags": ["method", "case study", "clusters", "confidence calibration"],
+    "relatedDrillIds": ["rp_d09", "rp_d01"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l08",
+    "disciplineId": "reading_people",
+    "title": "When You're Wrong (And You Will Be)",
+    "hook": "The best readers of people are not the ones who are never wrong — they're the ones who notice quickly, update, and never treat a hunch as a fact spoken aloud.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "Six months into managing a new team, Alicia was sure she had one colleague, Ben, figured out. Every time budget season came up, Ben went quiet, gave short answers, and avoided eye contact. Alicia's hypothesis had calcified into something closer to belief: Ben was uncomfortable with financial topics, maybe insecure about his math skills, and she started routing budget conversations around him to spare his discomfort."},
+      {"type": "paragraph", "text": "Eventually, in an unrelated conversation, Ben mentioned that budget season always landed right around the anniversary of a family loss, and that the timing — not the topic — was what made those weeks hard for him. Alicia's original observation had been accurate. Her hypothesis had even been partially reasonable at the time she formed it. But she had let her confidence run far higher than the evidence ever supported, and she had never generated a real alternative explanation to test it against."},
+      {"type": "paragraph", "text": "This is the failure mode this entire discipline is designed to prevent: not making an observation, and not forming a hypothesis — both of those are useful and necessary — but skipping the alternative and the confidence check, and then acting on the hypothesis as though it were settled fact. Once a hypothesis feels obviously true, it stops getting questioned, and that is exactly the moment it deserves the most scrutiny."},
+      {"type": "paragraph", "text": "The fix is procedural, not personality-based. Every time you notice yourself feeling certain about what's going on inside someone else's head, treat that certainty itself as a signal to slow down. Ask explicitly: what is at least one other explanation for this exact behavior? What percentage would I actually put on my first idea if I had to bet money on it? If you can't produce a real alternative, that's a sign you haven't looked hard enough, not a sign there isn't one."},
+      {"type": "keyPoint", "text": "The moment a reading of someone feels obvious and certain is precisely the moment to stop and generate an alternative — certainty is a prompt to check your work, not a stopping point."},
+      {"type": "paragraph", "text": "Worked example, revisited properly: Observation — 'Ben goes quiet and avoids eye contact specifically during budget-related meetings.' Hypothesis — 'He may be uncomfortable with financial topics.' Alternative — 'The timing may correlate with something personal happening around the same time of year, unrelated to the topic itself.' Confidence: 30%. At 30%, Alicia would have kept the question open rather than building months of behavior around an unverified story."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["confidence calibration", "clusters", "humility"],
+    "relatedDrillIds": ["rp_d07", "rp_d10"],
+    "relatedCardIds": []
+  }
+]

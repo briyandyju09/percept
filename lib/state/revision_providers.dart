@@ -1,4 +1,4 @@
-import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_riverpod/legacy.dart';
 
 /// Hive boxes aren't natively `Listenable` in a way Riverpod can `watch`
 /// without extra plumbing. Instead, every repository-mutating action bumps
