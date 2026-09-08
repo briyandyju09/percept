@@ -1,0 +1,266 @@
+[
+  {
+    "id": "ment_d01",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Identify the technique at work in each scenario.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d01_q1",
+        "prompt": "A performer says 'pick any number between 1 and 10' and, due to a well-documented quirk in how people generate 'random' numbers, the vast majority of spectators say the same one. What is this an example of?",
+        "type": "multipleChoice",
+        "options": ["Psychological forcing", "Genuine mind-reading", "Random chance", "Sleight of hand"],
+        "correctAnswer": "Psychological forcing",
+        "explanation": "This is a statistical force: certain numbers (like 7) feel more 'random' to most people and get chosen disproportionately often, so a performer can prepare for the most likely answer in advance. It works honestly through crowd psychology, not through any influence over the individual."
+      },
+      {
+        "id": "ment_d01_q2",
+        "prompt": "In an equivoque ('magician's choice'), a spectator points to one of three objects. Whichever one they choose, the performer's scripted next line relabels the outcome so it always leads to the same final result. What makes this technique work?",
+        "type": "multipleChoice",
+        "options": ["A branching script where every answer is reframed toward one outcome", "Hypnotizing the spectator", "Reading micro-expressions to predict the choice", "Marked objects that are secretly identical"],
+        "correctAnswer": "A branching script where every answer is reframed toward one outcome",
+        "explanation": "Equivoque relies entirely on flexible, rehearsed language — 'you could have chosen this one, so let's remove it' or 'you chose this one, so let's use it' — applied after the fact to whichever option was picked, so the free choice is real but the consequence of every branch is identical."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d02",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Identify the misdirection principle in each moment.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d02_q1",
+        "prompt": "A performer sharply glances at their own left hand right as their right hand executes a secret move. Why does this pull the audience's eyes to the left hand?",
+        "type": "multipleChoice",
+        "options": ["Gaze-following: humans involuntarily track where someone else is looking", "The left hand is physically closer to the audience", "Lighting is always brighter on the left", "The audience was told to watch the left hand"],
+        "correctAnswer": "Gaze-following: humans involuntarily track where someone else is looking",
+        "explanation": "Involuntary gaze-following is well documented in perception research — when a performer looks somewhere with intent, most viewers' eyes follow almost automatically, freeing the other hand to work in the periphery."
+      },
+      {
+        "id": "ment_d02_q2",
+        "prompt": "A performer times a secretive move to land in the half-second right after a big laugh. What perceptual gap is being exploited?",
+        "type": "multipleChoice",
+        "options": ["A brief lull in attention while working memory is occupied by the joke", "The audience closing their eyes to laugh", "A drop in ambient lighting", "The performer moving faster than human reaction time"],
+        "correctAnswer": "A brief lull in attention while working memory is occupied by the joke",
+        "explanation": "This is psychological misdirection: strong emotional or cognitive engagement (like processing a punchline) briefly narrows the attentional spotlight elsewhere, which is a real and well-studied gap performers can time actions into — not superhuman speed."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d03",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You're performing a short suggestibility routine: a spectator holds out both hands, palms up, and you tell them 'one hand will start to feel very slightly heavier than the other.' You want the routine to land as a success no matter what the spectator actually feels, without ever telling them what to say.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d03_q1",
+        "prompt": "Write the exact line or two of scripted patter you'd use to introduce this suggestion, and explain why your phrasing is 'soft' enough to absorb any real reaction the spectator has.",
+        "type": "textInput",
+        "correctAnswer": "e.g. 'Just relax your hands and see if you notice anything at all — even the smallest difference counts.' This is soft because it never commits to a specific direction or intensity, so a genuine flicker of sensation, a guess, or even nothing at all can each be folded into the performance as a meaningful result.",
+        "explanation": "Good suggestion scripting offers a wide, permissive frame rather than a specific falsifiable claim. This respects that you're working with real, variable human perception, and it protects the performer from a suggestion that visibly 'fails' in front of the room."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d04",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Diagnose the honest mechanism behind each 'prediction' effect.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d04_q1",
+        "prompt": "A sealed envelope, shown to the audience at the very start of the show, is opened at the end and matches a spectator's 'freely named' city. Which explanation is a legitimate, honest method (as opposed to an unfounded claim of real foresight)?",
+        "type": "multipleChoice",
+        "options": ["The city was actually forced earlier, or the envelope's contents were altered before the reveal", "The performer genuinely foresaw the future", "The spectator was reading the performer's mind", "It's simply an unexplainable coincidence every time"],
+        "correctAnswer": "The city was actually forced earlier, or the envelope's contents were altered before the reveal",
+        "explanation": "Every real prediction effect reduces to one of a handful of mechanisms: an earlier force, a switched or secretly written prediction, or wording broad enough to fit many likely answers. None of them involve real precognition — the craft is in disguising which mechanism was used and pacing the reveal well."
+      },
+      {
+        "id": "ment_d04_q2",
+        "prompt": "A performer says 'you'll think of something you associate with warmth' and almost any answer a spectator gives can be connected to warmth with a little clever talk. What technique is this?",
+        "type": "multipleChoice",
+        "options": ["A broad/multiple-out statement that covers many likely answers", "A true prediction of a specific outcome", "Hypnotic suggestion of a single fixed answer", "A memorized statistical database of answers"],
+        "correctAnswer": "A broad/multiple-out statement that covers many likely answers",
+        "explanation": "Vague, flexible predictions are a classic honest method: the specific-sounding claim is actually broad enough that the performer can connect almost any real answer back to it after the fact, which is a scripting skill, not a paranormal one."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d05",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Test your understanding of how memory demonstrations are actually built.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d05_q1",
+        "prompt": "A performer memorizes a shuffled deck of cards in under two minutes. What is the primary technique behind this feat?",
+        "type": "multipleChoice",
+        "options": ["The method of loci: converting items into vivid images placed along a familiar mental route", "Innate photographic memory", "Secretly marked cards", "A confederate feeding answers from off stage"],
+        "correctAnswer": "The method of loci: converting items into vivid images placed along a familiar mental route",
+        "explanation": "The method of loci (memory palace) is a well-documented, trainable encoding technique used by memory athletes worldwide, not a rare gift — the performer converts each card into a vivid image and 'places' it along a mentally rehearsed route, then recalls it by walking the route again."
+      },
+      {
+        "id": "ment_d05_q2",
+        "prompt": "Why do skilled memory performers usually add patter, pacing, and audience interaction to a memory demonstration rather than reciting the memorized list flatly?",
+        "type": "multipleChoice",
+        "options": ["Because presentation turns a genuine cognitive skill into an engaging piece of theater", "Because the pauses are needed to secretly check written notes", "Because flat recitation would reveal the trick has no real method", "Because talking is required to keep the memory palace active"],
+        "correctAnswer": "Because presentation turns a genuine cognitive skill into an engaging piece of theater",
+        "explanation": "The memory technique itself is real and effortful, but a flat recitation reads as a dry test rather than a performance — pacing, audience interaction, and strategic pauses are the presentation layer that makes an already-impressive feat land as entertainment."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d06",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Distinguish performance cold reading from a fraudulent psychic claim.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d06_q1",
+        "prompt": "A stage performer tells a stranger 'you're more sensitive than most people realize, and sometimes you feel misunderstood' — a statement that feels personal but applies to nearly everyone. What is this called?",
+        "type": "multipleChoice",
+        "options": ["A Barnum statement", "A verified psychic reading", "A physical tell", "A memory feat"],
+        "correctAnswer": "A Barnum statement",
+        "explanation": "Barnum statements are broad claims that feel individually tailored because most people relate to them — a real, well-studied persuasion effect that is fine to use in a disclosed performance context, but is exactly the tool exploited by fraudulent psychics preying on grief."
+      },
+      {
+        "id": "ment_d06_q2",
+        "prompt": "When a performance cold-reader makes a guess that misses, what's the ethical, performance-craft response?",
+        "type": "multipleChoice",
+        "options": ["Turn it into a laugh or fold it gracefully into the next line", "Tell the spectator they are 'blocking' the reading", "Insist the guess was actually correct", "End the show immediately"],
+        "correctAnswer": "Turn it into a laugh or fold it gracefully into the next line",
+        "explanation": "How a performer handles a wrong guess is the clearest tell separating honest showmanship from predatory cold reading — blaming the client for a miss ('you're blocking me') is a manipulative move used by fraudulent psychics to protect a false claim of ability, which has no place in a disclosed performance."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d07",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You're designing a psychological force where a spectator will 'freely' end up with a specific playing card after a series of seemingly random cuts and choices. A friend previewing your act asks: 'How do I know this is okay to perform, and not just a manipulation trick?'",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d07_q1",
+        "prompt": "Which ethical tags apply to this forcing technique, and how would you answer your friend's question in two or three sentences?",
+        "type": "textInput",
+        "correctAnswer": "e.g. Tags: Performance, Psychological principle, Manipulation risk. I'd tell my friend it's okay here because the outcome is a card in a game, not a real decision with real stakes, the audience knows they're watching a magic show, and I'd happily explain the force afterward if asked — that's what keeps it entertainment instead of manipulation.",
+        "explanation": "Naming the tags forces you to be explicit about the mechanism (a real psychological force) and the guardrails that keep it ethical: disclosed performance frame, no real-world stakes riding on the outcome, and willingness to explain the method on request. The same mechanic used to steer a real decision without those guardrails would cross into manipulation."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d08",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Diagnose the timing and structure of these reveal moments.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d08_q1",
+        "prompt": "A performer shows three envelopes, asks a spectator to pick one, and it always matches. The most likely honest explanation is:",
+        "type": "multipleChoice",
+        "options": ["All three envelopes were secretly loaded to be compatible with any pick, or a one-ahead structure was used", "The spectator was secretly a plant reading a script", "Genuine telepathy between performer and spectator", "The envelopes contained no real prediction at all, and it's pure luck"],
+        "correctAnswer": "All three envelopes were secretly loaded to be compatible with any pick, or a one-ahead structure was used",
+        "explanation": "Multi-envelope prediction effects are almost always built so that every possible selection resolves to a compatible or identical result, or the performer is secretly working one step ahead of what the audience believes has already happened — clever preparation, not paranormal insight."
+      },
+      {
+        "id": "ment_d08_q2",
+        "prompt": "Why do experienced performers deliberately pause and let silence sit right before revealing a prediction, rather than revealing it quickly?",
+        "type": "multipleChoice",
+        "options": ["Pacing the reveal builds dramatic tension so the resolution feels earned and impactful", "The pause is needed to secretly finish writing the prediction", "Silence hypnotizes the audience into believing the result", "It gives the spectator time to change their answer"],
+        "correctAnswer": "Pacing the reveal builds dramatic tension so the resolution feels earned and impactful",
+        "explanation": "This is pure theatrical craft: the mechanism behind a prediction is usually simple, but a well-paced silence before the reveal is what turns a mechanically simple method into a moment that feels genuinely astonishing."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d09",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You're building a dual-reality moment: earlier in the show, you privately whisper to one audience volunteer, 'in a few minutes, when I ask you to think of any object, please think specifically of a key.' Later, on stage, you 'read their mind' and reveal 'key' to the whole room, who has no idea the instruction happened.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d09_q1",
+        "prompt": "Script the two separate moments (the private whisper, and the public reveal) so both the volunteer and the rest of the room each have a satisfying, honest experience. Then note one thing that would make this technique cross into an ethical problem.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Private moment: deliver the instruction quickly and warmly during an unrelated bit of banter so it reads as a passing joke, not a suspicious aside. Public moment: build tension slowly before revealing 'key,' letting the volunteer's genuine reaction (they know exactly why it worked) read as astonishment to the room. It would cross an ethical line if the private information could embarrass the volunteer publicly, or if they hadn't agreed to participate in some private setup at all.",
+        "explanation": "Dual reality stays ethical when the insider is a willing participant in the structure and nothing revealed publicly could expose or embarrass them. The core skill is audience management: reading the room to keep the private aside unnoticed and timing the public reveal so both realities land together."
+      }
+    ],
+    "estimatedMinutes": 6
+  },
+  {
+    "id": "ment_d10",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You're scripting a short routine where a spectator signs a card, it's lost in the deck, and then found again in an impossible location (say, inside a sealed envelope that's been sitting on the table the whole time). The method itself is simple, but the routine currently feels flat when you rehearse it.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d10_q1",
+        "prompt": "Using the hook / commitment / rising doubt / release scripting framework, write one line of patter for each of the four beats to make this routine's reveal land with more impact.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Hook: 'I want you to sign this card so there's no question it's really yours.' Commitment: 'Now watch — I'm losing your signed card somewhere in this deck, no way to track it.' Rising doubt: 'That envelope has been sitting right there the entire time, untouched — I haven't gone near it.' Release: (long pause, then slowly open the envelope) 'Would you check whose signature that is?'",
+        "explanation": "This framework separates the mechanism (simple: the card was pre-loaded into the envelope) from the dramatic architecture that makes it land — establishing stakes, showing an undoable commitment, building doubt about the method, and pacing the release with a pause. The same method performed without this structure reads as a flat trick rather than an astonishing moment."
+      }
+    ],
+    "estimatedMinutes": 6
+  }
+]

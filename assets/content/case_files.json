@@ -1,0 +1,753 @@
+[
+  {
+    "id": "case1",
+    "caseNumber": 1,
+    "title": "The Missing Watch",
+    "briefing": "Reginald Ambrose's dinner party turns sour when his prized pocket watch, a family heirloom said to have survived two wars, vanishes from his locked study sometime after dessert. The window shows signs of tampering, muddy footprints track away through the flowerbed, and half the household has a reason to want the old man's fortune settled a little sooner. You've been asked to look into it quietly, before the police are called and reputations start to unravel. Four people were in the house that night who could plausibly explain the watch's disappearance, and only one of them is lying.",
+    "characters": [
+      {
+        "id": "case1_butler",
+        "name": "Harold",
+        "role": "The Butler",
+        "portraitEmoji": "🎩",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case1_butler_q1",
+            "characterId": "case1_butler",
+            "prompt": "Where were you when the watch went missing?",
+            "responseText": "In the servants' hall, seeing to the coffee service. Two of the maids can vouch for me; I never went near the study after I locked it.",
+            "flags": []
+          },
+          {
+            "id": "case1_butler_q2",
+            "characterId": "case1_butler",
+            "prompt": "Did you lock the study yourself?",
+            "responseText": "At nine o'clock, yes. The watch was on the desk, gleaming as always. I turned the key myself and didn't open that door again until Master Reginald asked after it near midnight.",
+            "flags": []
+          },
+          {
+            "id": "case1_butler_q3",
+            "characterId": "case1_butler",
+            "prompt": "Who else has a key to the study?",
+            "responseText": "Only myself and the master carry one on our person, though a spare hangs on a nail in the kitchen passage, where anyone in the house might reach it if they knew where to look.",
+            "flags": []
+          },
+          {
+            "id": "case1_butler_q4",
+            "characterId": "case1_butler",
+            "prompt": "Did you notice anything unusual about Miss Eleanor that evening?",
+            "responseText": "She seemed distracted, and stepped out of the drawing room during dessert, saying she needed air. She returned before the pudding was cleared, though she looked flushed for someone who'd only stood on a cold porch.",
+            "flags": ["contradiction", "supports:case1_niece"]
+          }
+        ]
+      },
+      {
+        "id": "case1_niece",
+        "name": "Eleanor",
+        "role": "The Niece",
+        "portraitEmoji": "🧣",
+        "isGuilty": true,
+        "dialogueTree": [
+          {
+            "id": "case1_niece_q1",
+            "characterId": "case1_niece",
+            "prompt": "Where were you after dinner?",
+            "responseText": "I sat with the other ladies in the drawing room the entire evening, playing cards until Uncle Reginald raised the alarm. I never once left the room.",
+            "flags": ["contradiction"]
+          },
+          {
+            "id": "case1_niece_q2",
+            "characterId": "case1_niece",
+            "prompt": "Do you know anything about the letters from a London moneylender?",
+            "responseText": "That's a private matter and none of your concern. It's certainly got nothing to do with my uncle's watch, whatever anyone's implying.",
+            "flags": ["reveals_motive"]
+          },
+          {
+            "id": "case1_niece_q3",
+            "characterId": "case1_niece",
+            "prompt": "Can you explain the green wool thread found on the window frame?",
+            "responseText": "I've a dozen shawls that color; half the women at dinner could match it. That thread proves nothing at all.",
+            "flags": ["challenges:case1_niece"]
+          },
+          {
+            "id": "case1_niece_q4",
+            "characterId": "case1_niece",
+            "prompt": "Why would someone stage a break-in through that window?",
+            "responseText": "I couldn't say. Perhaps whoever took it wanted us all looking at the gardener instead of someone already inside the house.",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "id": "case1_gardener",
+        "name": "Walter",
+        "role": "The Gardener",
+        "portraitEmoji": "🌱",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case1_gardener_q1",
+            "characterId": "case1_gardener",
+            "prompt": "Were you near the study last night?",
+            "responseText": "I was banking the flowerbeds under that window earlier in the afternoon, but I was home in the village by seven, same as every night.",
+            "flags": []
+          },
+          {
+            "id": "case1_gardener_q2",
+            "characterId": "case1_gardener",
+            "prompt": "Can you explain the footprints under the window?",
+            "responseText": "Those aren't from my boots. Mine were caked with clay from the beds, not that reddish garden soil by the porch. Someone's tried hard to make it look like me.",
+            "flags": ["contradiction", "challenges:case1_gardener"]
+          },
+          {
+            "id": "case1_gardener_q3",
+            "characterId": "case1_gardener",
+            "prompt": "Where do you keep your work boots?",
+            "responseText": "In the potting shed, along with an old spare pair I keep for wet weather. The shed's never locked; anybody in the house could walk in and borrow them.",
+            "flags": []
+          },
+          {
+            "id": "case1_gardener_q4",
+            "characterId": "case1_gardener",
+            "prompt": "Do you have any reason to want the watch?",
+            "responseText": "That old thing? I wouldn't know the first thing to do with it. I've worked this garden twenty years and never once been accused of light fingers.",
+            "flags": ["challenges:case1_gardener"]
+          }
+        ]
+      },
+      {
+        "id": "case1_guest",
+        "name": "Mr. Voss",
+        "role": "The Guest",
+        "portraitEmoji": "🧐",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case1_guest_q1",
+            "characterId": "case1_guest",
+            "prompt": "What is your interest in the watch?",
+            "responseText": "I'm a dealer in fine timepieces. I offered Reginald a generous sum for it this very afternoon, and he refused me, good-naturedly enough.",
+            "flags": ["reveals_motive", "red_herring"]
+          },
+          {
+            "id": "case1_guest_q2",
+            "characterId": "case1_guest",
+            "prompt": "Where were you when the watch disappeared?",
+            "responseText": "In the billiard room with Reginald himself and two other gentlemen, the entire evening. Ask any of them; they'll tell you the same.",
+            "flags": ["challenges:case1_guest"]
+          },
+          {
+            "id": "case1_guest_q3",
+            "characterId": "case1_guest",
+            "prompt": "Did you see anyone near the study?",
+            "responseText": "No, though I did notice Miss Eleanor slip out of the drawing room for a spell. Young ladies do need their air, I suppose.",
+            "flags": ["contradiction", "supports:case1_niece"]
+          },
+          {
+            "id": "case1_guest_q4",
+            "characterId": "case1_guest",
+            "prompt": "Would you have any use for a watch you couldn't sell openly?",
+            "responseText": "Hardly. My reputation depends on clean provenance. A stolen piece is worthless to a dealer who wants to stay in business.",
+            "flags": ["challenges:case1_guest"]
+          }
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "case1_ev01",
+        "title": "Muddy footprint beneath the study window",
+        "description": "A single clear footprint pressed into the soil just below the study window, tracking away toward the garden path.",
+        "subtle": true,
+        "contradicts": ["case1_ev07"],
+        "supportsCharacterId": "case1_gardener"
+      },
+      {
+        "id": "case1_ev02",
+        "title": "Study door locked from inside",
+        "description": "When the theft was discovered, the study door was found locked with the key still in the lock on the inside, as Harold had left it.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": null
+      },
+      {
+        "id": "case1_ev03",
+        "title": "Gardener's boots found clean in the shed",
+        "description": "Walter's everyday boots sit clean and dry on the shed rack; a spare pair kept for wet weather is missing from its usual hook.",
+        "subtle": true,
+        "contradicts": [],
+        "supportsCharacterId": null
+      },
+      {
+        "id": "case1_ev04",
+        "title": "Eleanor's stated alibi",
+        "description": "Eleanor insists she never left the drawing room after dinner, remaining there for cards until the alarm was raised.",
+        "subtle": false,
+        "contradicts": ["case1_ev05"],
+        "supportsCharacterId": null
+      },
+      {
+        "id": "case1_ev05",
+        "title": "Housemaid's recollection",
+        "description": "The housemaid Peggy recalls passing Eleanor in the study corridor during the dessert course, well after the ladies had gone through to the drawing room.",
+        "subtle": false,
+        "contradicts": ["case1_ev04"],
+        "supportsCharacterId": "case1_niece"
+      },
+      {
+        "id": "case1_ev06",
+        "title": "Moneylender's letter",
+        "description": "An unopened letter from a London moneylender demanding repayment within the fortnight, found tucked in Eleanor's writing desk.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": "case1_niece"
+      },
+      {
+        "id": "case1_ev07",
+        "title": "Scratches on the window latch",
+        "description": "Fresh scratches on the window latch are consistent with the mechanism being worked open from inside the study, not forced from without.",
+        "subtle": true,
+        "contradicts": ["case1_ev01"],
+        "supportsCharacterId": "case1_niece"
+      },
+      {
+        "id": "case1_ev08",
+        "title": "Mr. Voss's calling card",
+        "description": "A calling card left on the study desk bears a penciled offer to purchase the watch, dated that same afternoon.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": "case1_guest"
+      },
+      {
+        "id": "case1_ev09",
+        "title": "Harold's household ledger note",
+        "description": "Harold's nightly ledger confirms he saw the watch resting on the desk at nine o'clock, moments before locking the study for the night.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": null
+      },
+      {
+        "id": "case1_ev10",
+        "title": "Green wool thread on the windowsill",
+        "description": "A thread of fine green wool is snagged on the window frame's inner edge, matching the weave of Eleanor's shawl.",
+        "subtle": true,
+        "contradicts": [],
+        "supportsCharacterId": "case1_niece"
+      }
+    ],
+    "solution": {
+      "correctCulpritId": "case1_niece",
+      "keyEvidenceIds": ["case1_ev07", "case1_ev10", "case1_ev05", "case1_ev06"],
+      "explanation": "Eleanor staged the theft to look like an outside job, but the details don't hold up: the window latch (case1_ev07) shows scratches consistent with being worked open from the inside, not forced from without, and a thread of green wool snagged on the frame (case1_ev10) matches her own shawl. The housemaid's account of passing her near the study during dessert (case1_ev05) directly contradicts her claim to have never left the drawing room, and the moneylender's letter in her desk (case1_ev06) supplies the motive. With her debts coming due, she borrowed the gardener's spare boots to plant misleading footprints, took the watch through the window she'd already unlocked from inside, and slipped back to the drawing room before anyone noticed she was gone."
+    },
+    "biasesTracked": ["anchoring_bias", "premature_closure", "confirmation_bias", "belief_perseverance"],
+    "minQuestionsBeforeAccusation": 10
+  },
+  {
+    "id": "case2",
+    "caseNumber": 2,
+    "title": "The Corrupted Demo",
+    "briefing": "RunLoop's investors are due in fourteen hours, and the flagship demo device now spits out garbage data instead of the calibration screen that took six months to perfect. Nothing was broken into: no forced doors, no missing hardware, just a corrupted file altered sometime after midnight by someone who knew exactly where to look. The founder wants answers before the pitch, not after. Five people had some way to reach that file last night, and only one of them had a reason good enough to risk everything the company was about to become.",
+    "characters": [
+      {
+        "id": "case2_cofounder",
+        "name": "Priya",
+        "role": "The Co-Founder",
+        "portraitEmoji": "👩‍💼",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case2_cofounder_q1",
+            "characterId": "case2_cofounder",
+            "prompt": "Walk me through this morning.",
+            "responseText": "I got in around seven to prep the demo and found the calibration screen full of garbage data. I called Dev immediately, and he sounded rattled, more rattled than the situation should have made him.",
+            "flags": []
+          },
+          {
+            "id": "case2_cofounder_q2",
+            "characterId": "case2_cofounder",
+            "prompt": "Who has access to the lab overnight?",
+            "responseText": "Badge access is logged for anyone entering physically, but the server can also be reached remotely if you've got VPN credentials. Only Dev, myself, and our IT contractor Ruth have those.",
+            "flags": []
+          },
+          {
+            "id": "case2_cofounder_q3",
+            "characterId": "case2_cofounder",
+            "prompt": "Were you here last night?",
+            "responseText": "No, I was at my sister's birthday dinner until nearly two in the morning. Ask her, or the restaurant, they'll remember the cake incident.",
+            "flags": ["challenges:case2_cofounder"]
+          },
+          {
+            "id": "case2_cofounder_q4",
+            "characterId": "case2_cofounder",
+            "prompt": "How has Dev been acting lately?",
+            "responseText": "Tense. He's been reading over the new term sheet obsessively. There's a clause about restructuring engineering leadership he clearly hates.",
+            "flags": ["reveals_motive", "supports:case2_engineer"]
+          }
+        ]
+      },
+      {
+        "id": "case2_engineer",
+        "name": "Dev",
+        "role": "The Lead Engineer",
+        "portraitEmoji": "👨‍💻",
+        "isGuilty": true,
+        "dialogueTree": [
+          {
+            "id": "case2_engineer_q1",
+            "characterId": "case2_engineer",
+            "prompt": "Where were you last night?",
+            "responseText": "Home, asleep by half past eleven. My phone was off; I sleep better that way, always have.",
+            "flags": ["contradiction"]
+          },
+          {
+            "id": "case2_engineer_q2",
+            "characterId": "case2_engineer",
+            "prompt": "What do you make of the corrupted calibration file?",
+            "responseText": "I don't know how it happened. Maybe a power surge, maybe the intern messed with something he shouldn't have.",
+            "flags": ["red_herring"]
+          },
+          {
+            "id": "case2_engineer_q3",
+            "characterId": "case2_engineer",
+            "prompt": "Have you seen the new term sheet?",
+            "responseText": "I've seen it. I don't love every clause, but that's how funding rounds go, isn't it.",
+            "flags": ["reveals_motive"]
+          },
+          {
+            "id": "case2_engineer_q4",
+            "characterId": "case2_engineer",
+            "prompt": "Does the phrase 'restructured under incoming CTO' mean anything to you?",
+            "responseText": "It means they're bringing someone in over my head after everything I've built here. But that's not a reason to break my own work.",
+            "flags": ["reveals_motive", "contradiction"]
+          }
+        ]
+      },
+      {
+        "id": "case2_intern",
+        "name": "Sam",
+        "role": "The Intern",
+        "portraitEmoji": "🧑‍🎓",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case2_intern_q1",
+            "characterId": "case2_intern",
+            "prompt": "What were you doing in the lab so late?",
+            "responseText": "Practicing my own pitch for a portfolio review. I record myself so I can fix my rambling. I badged out around midnight.",
+            "flags": ["challenges:case2_intern"]
+          },
+          {
+            "id": "case2_intern_q2",
+            "characterId": "case2_intern",
+            "prompt": "Did you touch the demo unit at all?",
+            "responseText": "No reason to. It wasn't even switched on when I left. I was on the other side of the room the whole time.",
+            "flags": ["challenges:case2_intern"]
+          },
+          {
+            "id": "case2_intern_q3",
+            "characterId": "case2_intern",
+            "prompt": "Are you worried about your position here after the pitch?",
+            "responseText": "A little, sure. Nobody tells interns anything until it's decided. But I wouldn't sabotage the one thing that could get me hired.",
+            "flags": ["reveals_motive", "red_herring"]
+          }
+        ]
+      },
+      {
+        "id": "case2_investor",
+        "name": "Grant",
+        "role": "The Investor",
+        "portraitEmoji": "💼",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case2_investor_q1",
+            "characterId": "case2_investor",
+            "prompt": "What's in the new term sheet that might upset the team?",
+            "responseText": "Standard governance terms for a round this size, including a provision to bring in an experienced CTO alongside the existing engineering staff. Founders rarely love it, but it protects everyone's investment.",
+            "flags": ["reveals_motive"]
+          },
+          {
+            "id": "case2_investor_q2",
+            "characterId": "case2_investor",
+            "prompt": "Did you have any contact with the team last night?",
+            "responseText": "None. I was drafting notes for the pitch at my hotel and video-called my partner around midnight. She can confirm.",
+            "flags": ["challenges:case2_investor"]
+          },
+          {
+            "id": "case2_investor_q3",
+            "characterId": "case2_investor",
+            "prompt": "Would a delayed or failed pitch benefit you in any way?",
+            "responseText": "Not remotely. My fund only profits if RunLoop succeeds. A botched demo costs me time and credibility too.",
+            "flags": ["challenges:case2_investor"]
+          }
+        ]
+      },
+      {
+        "id": "case2_assistant",
+        "name": "Marta",
+        "role": "The Office Manager",
+        "portraitEmoji": "🗝️",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case2_assistant_q1",
+            "characterId": "case2_assistant",
+            "prompt": "Who was in the building last night?",
+            "responseText": "I locked up and set the alarm at midnight. The system shows nobody entered physically after that. Whatever happened, happened over the network.",
+            "flags": []
+          },
+          {
+            "id": "case2_assistant_q2",
+            "characterId": "case2_assistant",
+            "prompt": "Has anyone seemed stressed about the pitch?",
+            "responseText": "Dev, mostly. He's been quieter than usual all week, and I saw him reread that term sheet more than once at his desk.",
+            "flags": ["supports:case2_engineer"]
+          },
+          {
+            "id": "case2_assistant_q3",
+            "characterId": "case2_assistant",
+            "prompt": "Is there any chance the corruption was accidental?",
+            "responseText": "The system logs every change with a timestamp and a login. Whatever this was, somebody caused it deliberately, remotely, in the middle of the night.",
+            "flags": ["contradiction"]
+          }
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "case2_ev01",
+        "title": "Badge log",
+        "description": "Sam swiped out of the lab at 11:47 p.m., the last physical badge use recorded before Priya's arrival at 7 a.m.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": "case2_intern"
+      },
+      {
+        "id": "case2_ev02",
+        "title": "File modification timestamp",
+        "description": "The demo unit's calibration file shows a last-modified time of 1:52 a.m., long after the lab was physically empty.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": null
+      },
+      {
+        "id": "case2_ev03",
+        "title": "Remote VPN login",
+        "description": "Network logs show a remote VPN session opened on the lab server at 1:48 a.m., four minutes before the calibration file was altered.",
+        "subtle": true,
+        "contradicts": ["case2_ev09"],
+        "supportsCharacterId": "case2_engineer"
+      },
+      {
+        "id": "case2_ev04",
+        "title": "VPN credential list",
+        "description": "Only three people hold VPN credentials for the lab network: Dev, Priya, and IT contractor Ruth, who was confirmed out of the country that week.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": "case2_engineer"
+      },
+      {
+        "id": "case2_ev05",
+        "title": "Priya's dinner receipt",
+        "description": "A dinner receipt and two dinner companions place Priya at her sister's birthday across town until nearly 2 a.m.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": null
+      },
+      {
+        "id": "case2_ev06",
+        "title": "Text message on Dev's phone",
+        "description": "A text sent from Dev's phone at 1:40 a.m. to a friend reads, 'I think I just did something stupid.'",
+        "subtle": true,
+        "contradicts": ["case2_ev09"],
+        "supportsCharacterId": "case2_engineer"
+      },
+      {
+        "id": "case2_ev07",
+        "title": "Printed term sheet",
+        "description": "A printed term sheet found in Dev's desk drawer has the clause 'engineering leadership restructured under incoming CTO hire' circled in red pen.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": "case2_engineer"
+      },
+      {
+        "id": "case2_ev08",
+        "title": "Security footage still",
+        "description": "Footage timestamped 11:30 p.m. shows Sam alone in the lab rehearsing a pitch into his phone, the demo device untouched behind him.",
+        "subtle": true,
+        "contradicts": [],
+        "supportsCharacterId": null
+      },
+      {
+        "id": "case2_ev09",
+        "title": "Dev's account to Priya",
+        "description": "Dev told Priya the next morning that he'd been asleep since 11:20 p.m. with his phone powered off the entire night.",
+        "subtle": false,
+        "contradicts": ["case2_ev03", "case2_ev06"],
+        "supportsCharacterId": "case2_engineer"
+      }
+    ],
+    "solution": {
+      "correctCulpritId": "case2_engineer",
+      "keyEvidenceIds": ["case2_ev03", "case2_ev06", "case2_ev07", "case2_ev09"],
+      "explanation": "Dev is the only person who could have made this happen: he holds one of just three sets of VPN credentials to the lab network (case2_ev04), and a remote session opened under that access at 1:48 a.m., four minutes before the calibration file was altered (case2_ev03). His claim to have been asleep with his phone off since 11:20 (case2_ev09) is contradicted by a text he sent at 1:40 a.m. reading 'I think I just did something stupid' (case2_ev06). The motive sits in his own desk drawer: a term sheet clause restructuring engineering leadership under an incoming CTO (case2_ev07), a demotion he'd just learned about and couldn't undo, so he sabotaged the pitch rather than watch his place in the company disappear."
+    },
+    "biasesTracked": ["anchoring_bias", "premature_closure", "confirmation_bias", "belief_perseverance"],
+    "minQuestionsBeforeAccusation": 10
+  },
+  {
+    "id": "case3",
+    "caseNumber": 3,
+    "title": "The Cracked Pendant",
+    "briefing": "Vivian Chen's ninetieth birthday was meant to end with an announcement: which grandchild would inherit the jade pendant that's followed her family for three generations. Instead it ended with the pendant found cracked in its velvet box, and an old woman quietly furious that someone in her own family did this on purpose. Five people were close enough to the mantel that evening to have done it, and at least one of them had a very good reason to want that pendant broken rather than given away.",
+    "characters": [
+      {
+        "id": "case3_grandmother",
+        "name": "Vivian",
+        "role": "The Grandmother",
+        "portraitEmoji": "👵",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case3_grandmother_q1",
+            "characterId": "case3_grandmother",
+            "prompt": "When did you last see the pendant undamaged?",
+            "responseText": "I placed it in its box myself at six o'clock, right when the first guests arrived. It was perfect then, I'd polished it that very morning.",
+            "flags": []
+          },
+          {
+            "id": "case3_grandmother_q2",
+            "characterId": "case3_grandmother",
+            "prompt": "Who did you intend to leave the pendant to?",
+            "responseText": "Talia. She's the one who always asks about its history, who wants to understand the family it came from, not just own a pretty stone.",
+            "flags": ["reveals_motive"]
+          },
+          {
+            "id": "case3_grandmother_q3",
+            "characterId": "case3_grandmother",
+            "prompt": "Did anyone react badly when they learned your decision?",
+            "responseText": "I only told Marcus privately, that afternoon, before the party. He went very quiet and said it was 'fine,' though it plainly wasn't.",
+            "flags": ["reveals_motive", "supports:case3_grandson"]
+          },
+          {
+            "id": "case3_grandmother_q4",
+            "characterId": "case3_grandmother",
+            "prompt": "Do you think the damage was an accident?",
+            "responseText": "I've handled that box a thousand times over sixty years and it's never so much as chipped. Someone did this on purpose, and I mean to know who.",
+            "flags": ["contradiction"]
+          }
+        ]
+      },
+      {
+        "id": "case3_grandson",
+        "name": "Marcus",
+        "role": "The Grandson",
+        "portraitEmoji": "🕴️",
+        "isGuilty": true,
+        "dialogueTree": [
+          {
+            "id": "case3_grandson_q1",
+            "characterId": "case3_grandson",
+            "prompt": "Where were you around seven o'clock?",
+            "responseText": "With my mother by the buffet, the whole time. Ask her, she'll tell you.",
+            "flags": ["contradiction"]
+          },
+          {
+            "id": "case3_grandson_q2",
+            "characterId": "case3_grandson",
+            "prompt": "How did you feel about your grandmother's decision regarding the pendant?",
+            "responseText": "Surprised, maybe. It's just a stone, though. I don't need trinkets to know where I stand in this family.",
+            "flags": ["reveals_motive", "red_herring"]
+          },
+          {
+            "id": "case3_grandson_q3",
+            "characterId": "case3_grandson",
+            "prompt": "Were you ever alone with the pendant box that evening?",
+            "responseText": "Everyone was near that mantel at some point, weren't they? I don't specifically remember standing there.",
+            "flags": ["contradiction"]
+          },
+          {
+            "id": "case3_grandson_q4",
+            "characterId": "case3_grandson",
+            "prompt": "Do you have any debts you've been trying to settle?",
+            "responseText": "That's got nothing to do with a cracked stone. A man's finances are his own business, not the family's.",
+            "flags": ["reveals_motive"]
+          }
+        ]
+      },
+      {
+        "id": "case3_daughter",
+        "name": "Renata",
+        "role": "Vivian's Daughter",
+        "portraitEmoji": "👩",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case3_daughter_q1",
+            "characterId": "case3_daughter",
+            "prompt": "Can you account for Marcus's whereabouts around seven?",
+            "responseText": "He was right beside me at the buffet from quarter to seven until half past, I'd swear to it in front of anyone.",
+            "flags": ["contradiction"]
+          },
+          {
+            "id": "case3_daughter_q2",
+            "characterId": "case3_daughter",
+            "prompt": "How did Marcus react to your mother's plans for the pendant?",
+            "responseText": "He didn't say much, but I know my son. He's been under a lot of strain lately, and this can't have helped him.",
+            "flags": ["reveals_motive"]
+          },
+          {
+            "id": "case3_daughter_q3",
+            "characterId": "case3_daughter",
+            "prompt": "Would you protect Marcus if you thought he'd made a mistake?",
+            "responseText": "He's my son. I'd want to understand why before I'd ever believe the worst of him.",
+            "flags": ["challenges:case3_grandson"]
+          }
+        ]
+      },
+      {
+        "id": "case3_cousin",
+        "name": "Talia",
+        "role": "The Cousin",
+        "portraitEmoji": "💎",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case3_cousin_q1",
+            "characterId": "case3_cousin",
+            "prompt": "Tell me about finding the crack.",
+            "responseText": "I picked up the box around eight to show my friend Dana the engraving, and that's when I saw it. I actually gasped out loud.",
+            "flags": ["contradiction"]
+          },
+          {
+            "id": "case3_cousin_q2",
+            "characterId": "case3_cousin",
+            "prompt": "How do you feel about inheriting the pendant?",
+            "responseText": "Honored, and a little uneasy. I know it's not going to sit well with everyone in this family, but I never asked for it.",
+            "flags": ["challenges:case3_cousin"]
+          },
+          {
+            "id": "case3_cousin_q3",
+            "characterId": "case3_cousin",
+            "prompt": "Did you touch the box before eight o'clock?",
+            "responseText": "No, I kept my distance most of the evening. I didn't want it to look like I was hovering over my own inheritance.",
+            "flags": ["challenges:case3_cousin"]
+          }
+        ]
+      },
+      {
+        "id": "case3_caterer",
+        "name": "Mr. Ostrowski",
+        "role": "The Caterer",
+        "portraitEmoji": "🍽️",
+        "isGuilty": false,
+        "dialogueTree": [
+          {
+            "id": "case3_caterer_q1",
+            "characterId": "case3_caterer",
+            "prompt": "Did you notice the pendant while working near the mantel?",
+            "responseText": "I saw the crack while clearing plates around half seven, but I said nothing. I was afraid I'd be blamed for it, being staff and all.",
+            "flags": ["red_herring", "contradiction"]
+          },
+          {
+            "id": "case3_caterer_q2",
+            "characterId": "case3_caterer",
+            "prompt": "Did you touch the box at any point?",
+            "responseText": "Only to move it an inch so I could set down a tray, never to open it. I know better than to handle a family's treasures.",
+            "flags": ["challenges:case3_caterer"]
+          },
+          {
+            "id": "case3_caterer_q3",
+            "characterId": "case3_caterer",
+            "prompt": "Why didn't you report it sooner?",
+            "responseText": "Who was going to believe the hired man over the family? I've learned to keep my head down and my hands to myself at these parties.",
+            "flags": ["reveals_motive", "challenges:case3_caterer"]
+          }
+        ]
+      }
+    ],
+    "evidence": [
+      {
+        "id": "case3_ev01",
+        "title": "Scratches on the jade",
+        "description": "Under magnification, fine scratches on the pendant's surface match the facets of a man's signet ring rather than an accidental drop.",
+        "subtle": true,
+        "contradicts": [],
+        "supportsCharacterId": "case3_grandson"
+      },
+      {
+        "id": "case3_ev02",
+        "title": "Vivian's timeline",
+        "description": "Vivian confirms the pendant was whole and gleaming when she set it in its box at six o'clock, right as guests began arriving.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": null
+      },
+      {
+        "id": "case3_ev03",
+        "title": "Caterer's early sighting",
+        "description": "Mr. Ostrowski recalls clearing plates near the mantel around half past seven and noticing the crack already there, though he said nothing at the time.",
+        "subtle": true,
+        "contradicts": [],
+        "supportsCharacterId": "case3_caterer"
+      },
+      {
+        "id": "case3_ev04",
+        "title": "Mrs. Alsop's account",
+        "description": "A family friend recalls seeing Marcus alone in the sitting room with the velvet box for several minutes around seven o'clock.",
+        "subtle": false,
+        "contradicts": ["case3_ev05"],
+        "supportsCharacterId": "case3_grandson"
+      },
+      {
+        "id": "case3_ev05",
+        "title": "Renata's alibi for Marcus",
+        "description": "Renata insists her son Marcus was at her side near the buffet from quarter to seven until half past.",
+        "subtle": false,
+        "contradicts": ["case3_ev04"],
+        "supportsCharacterId": null
+      },
+      {
+        "id": "case3_ev06",
+        "title": "Talia's discovery account",
+        "description": "Talia states she lifted the box around eight to show a friend the engraving and was the one who discovered the crack.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": "case3_cousin"
+      },
+      {
+        "id": "case3_ev07",
+        "title": "Vivian's private conversation with Marcus",
+        "description": "Earlier that afternoon, Vivian privately told Marcus she intended to leave the pendant to Talia, not to him.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": "case3_grandson"
+      },
+      {
+        "id": "case3_ev08",
+        "title": "Pawnbroker's estimate slip",
+        "description": "A pawnbroker's estimate slip for 'jade, antique, cracked,' dated the following week, found folded in Marcus's coat pocket.",
+        "subtle": true,
+        "contradicts": [],
+        "supportsCharacterId": "case3_grandson"
+      },
+      {
+        "id": "case3_ev09",
+        "title": "Fingerprints on the velvet box",
+        "description": "Talia's fingerprints, offered voluntarily, are the only ones found on the box's outer velvet, consistent with simply lifting it to show a friend rather than forcing the clasp.",
+        "subtle": false,
+        "contradicts": [],
+        "supportsCharacterId": null
+      }
+    ],
+    "solution": {
+      "correctCulpritId": "case3_grandson",
+      "keyEvidenceIds": ["case3_ev01", "case3_ev04", "case3_ev07", "case3_ev08"],
+      "explanation": "The scratches on the jade, magnified, match the facets of a man's signet ring rather than an accidental drop (case3_ev01), and Marcus was the only one at the party wearing one. Mrs. Alsop's account of seeing him alone with the box around seven o'clock (case3_ev04) contradicts his mother's protective alibi placing him at the buffet the entire time, and a pawnbroker's estimate slip for cracked antique jade, dated the following week, turned up in his coat pocket (case3_ev08). Having learned that afternoon that his grandmother meant to leave the pendant to Talia instead of him (case3_ev07), Marcus took it from its box while everyone else was occupied, scored the stone with his own ring, and returned it broken rather than see it go to someone else."
+    },
+    "biasesTracked": ["anchoring_bias", "premature_closure", "confirmation_bias", "belief_perseverance"],
+    "minQuestionsBeforeAccusation": 9
+  }
+]

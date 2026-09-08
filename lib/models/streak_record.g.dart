@@ -1,0 +1,50 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'streak_record.dart';
+
+// **************************************************************************
+// TypeAdapterGenerator
+// **************************************************************************
+
+class StreakRecordAdapter extends TypeAdapter<StreakRecord> {
+  @override
+  final typeId = 2;
+
+  @override
+  StreakRecord read(BinaryReader reader) {
+    final numOfFields = reader.readByte();
+    final fields = <int, dynamic>{
+      for (int i = 0; i < numOfFields; i++) reader.readByte(): reader.read(),
+    };
+    return StreakRecord(
+      currentStreak: fields[0] == null ? 0 : (fields[0] as num).toInt(),
+      longestStreak: fields[1] == null ? 0 : (fields[1] as num).toInt(),
+      lastCompletedDate: fields[2] as String?,
+      history: (fields[3] as Set?)?.cast<String>(),
+    );
+  }
+
+  @override
+  void write(BinaryWriter writer, StreakRecord obj) {
+    writer
+      ..writeByte(4)
+      ..writeByte(0)
+      ..write(obj.currentStreak)
+      ..writeByte(1)
+      ..write(obj.longestStreak)
+      ..writeByte(2)
+      ..write(obj.lastCompletedDate)
+      ..writeByte(3)
+      ..write(obj.history);
+  }
+
+  @override
+  int get hashCode => typeId.hashCode;
+
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      other is StreakRecordAdapter &&
+          runtimeType == other.runtimeType &&
+          typeId == other.typeId;
+}

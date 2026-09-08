@@ -1,0 +1,122 @@
+[
+  {
+    "id": "char_ch01",
+    "text": "The next time you're stuck in a line, in traffic, or waiting on something slow today, notice the urge to feel impatient and just let it pass without reacting to it.",
+    "dimension": "composure",
+    "virtue": "patience"
+  },
+  {
+    "id": "char_ch02",
+    "text": "Ask someone a real question today, not small talk, and listen to their full answer without planning what you'll say back.",
+    "dimension": "socialIntelligence",
+    "virtue": "empathy"
+  },
+  {
+    "id": "char_ch03",
+    "text": "Give someone credit for something they did today, specifically and clearly, without hinting that you deserve any recognition for pointing it out.",
+    "dimension": "socialIntelligence",
+    "virtue": "kindness"
+  },
+  {
+    "id": "char_ch04",
+    "text": "Find one small truth you'd normally let slide today, something you forgot, missed, or got wrong, and tell the person it affects before they ask.",
+    "dimension": "communication",
+    "virtue": "honesty"
+  },
+  {
+    "id": "char_ch05",
+    "text": "The next time you feel yourself getting defensive in a conversation today, notice the exact moment it happens and name it to yourself before you respond.",
+    "dimension": "composure",
+    "virtue": "self-awareness"
+  },
+  {
+    "id": "char_ch06",
+    "text": "In a conversation today, ask a question about something you genuinely don't understand instead of nodding along or guessing.",
+    "dimension": "socialIntelligence",
+    "virtue": "humility"
+  },
+  {
+    "id": "char_ch07",
+    "text": "If you make a mistake today that affects someone else, tell them yourself before they discover it on their own.",
+    "dimension": "socialIntelligence",
+    "virtue": "responsibility"
+  },
+  {
+    "id": "char_ch08",
+    "text": "The next time you disagree with something being said in a meeting or conversation today, say so once, calmly and respectfully, instead of staying quiet.",
+    "dimension": "communication",
+    "virtue": "courage"
+  },
+  {
+    "id": "char_ch09",
+    "text": "Send one specific, unprompted thank-you message today, naming exactly what someone did and why it actually mattered to you.",
+    "dimension": "socialIntelligence",
+    "virtue": "gratitude"
+  },
+  {
+    "id": "char_ch10",
+    "text": "Keep one small promise you made to yourself today that you're tempted to skip, a workout, a reply, a bedtime, exactly as you planned it.",
+    "dimension": "performance",
+    "virtue": "discipline"
+  },
+  {
+    "id": "char_ch11",
+    "text": "Do the more honest, more thorough version of one task today, even though the easier, unnoticed shortcut is sitting right there.",
+    "dimension": "performance",
+    "virtue": "integrity"
+  },
+  {
+    "id": "char_ch12",
+    "text": "Pick one small grudge you've been carrying and let it go today, mentally or by saying so directly, instead of bringing it up again.",
+    "dimension": "composure",
+    "virtue": "forgiveness"
+  },
+  {
+    "id": "char_ch13",
+    "text": "Notice one physical sign of stress in your body today, a clenched jaw, tight shoulders, a held breath, and consciously release it before you react to anything.",
+    "dimension": "observation",
+    "virtue": "self-awareness"
+  },
+  {
+    "id": "char_ch14",
+    "text": "After something goes wrong today, write down one specific, useful thing you can take from it before you let yourself move on.",
+    "dimension": "reasoning",
+    "virtue": "resilience"
+  },
+  {
+    "id": "char_ch15",
+    "text": "Reach out today to someone you've been meaning to reconnect with, and send them something specific and genuine, not just 'hey, long time no talk.'",
+    "dimension": "socialIntelligence",
+    "virtue": "relationships"
+  },
+  {
+    "id": "char_ch16",
+    "text": "The next time you don't know something in a conversation today, say 'I don't know' plainly instead of bluffing or changing the subject.",
+    "dimension": "communication",
+    "virtue": "honesty"
+  },
+  {
+    "id": "char_ch17",
+    "text": "Spend ten minutes today writing, in your own words, why the work you're doing right now actually matters to you.",
+    "dimension": "reasoning",
+    "virtue": "purpose"
+  },
+  {
+    "id": "char_ch18",
+    "text": "The next time someone interrupts or talks over you today, let it pass without visibly reacting, then calmly return to your point once they're done.",
+    "dimension": "composure",
+    "virtue": "patience"
+  },
+  {
+    "id": "char_ch19",
+    "text": "Before you respond to someone's complaint or frustration today, say back what you think they're feeling before you offer any advice or fix.",
+    "dimension": "socialIntelligence",
+    "virtue": "empathy"
+  },
+  {
+    "id": "char_ch20",
+    "text": "Notice one small, unglamorous thing someone else did today that usually goes unnoticed, cleaning up, holding a door, covering for you, and thank them for that specific thing.",
+    "dimension": "observation",
+    "virtue": "kindness"
+  }
+]

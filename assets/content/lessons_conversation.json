@@ -1,0 +1,306 @@
+[
+  {
+    "id": "conv_l01",
+    "disciplineId": "conversation",
+    "title": "The Listening You're Not Actually Doing",
+    "hook": "Most people don't listen — they wait. Here's what real listening looks like from the inside, and why it changes everything about how people respond to you.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Try this test on yourself in your next conversation: notice the exact moment your attention leaves the other person's words and goes to what you're going to say next. For most of us, that moment arrives embarrassingly early — sometimes before they've finished their first sentence. We call this listening, but it's really rehearsal. You're half-present, half-scripting, and the other person can feel the difference even if they can't name it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Active listening isn't a soft skill or a nicety — it's a specific, learnable behavior with a clear failure mode. The failure mode is 'listening to respond.' The fix is 'listening to understand,' which means tolerating a small gap of not-knowing-what-you'll-say, because you're actually spending your processing power on their meaning instead of your reply."
+      },
+      {
+        "type": "keyPoint",
+        "text": "You cannot compose your response and absorb their meaning at the same time. Pick one — and the best conversationalists pick meaning first, every time."
+      },
+      {
+        "type": "paragraph",
+        "text": "Practically, this looks like a small delay. After someone finishes talking, let a half-second of silence sit there before you respond. That pause isn't awkward — it's evidence you were actually processing what they said rather than waiting for your turn. It also gives you room to respond to their actual point instead of the first tangent your brain generated three seconds ago."
+      },
+      {
+        "type": "paragraph",
+        "text": "A second marker of real listening: your response references something specific they just said, not a generic reaction. 'That sounds exhausting' is generic. 'Dealing with that on top of the deadline sounds exhausting' shows you were tracking the actual content. This isn't about performing attentiveness — it's what attentiveness produces as a natural byproduct. Genuinely caring about what someone says makes you specific; faking it makes you generic, and people notice the difference more than we'd like to admit."
+      },
+      {
+        "type": "paragraph",
+        "text": "The uncomfortable part: this means giving up some control. If you're not rehearsing your next line, you might momentarily not know what to say. That's fine. A brief 'huh, tell me more about that' buys you time honestly, instead of the dishonest alternative of half-listening while you scramble for something clever."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is worth practicing deliberately rather than hoping it happens on its own, because the habit of rehearsing while others talk is usually years in the making. Start with low-stakes conversations — a checkout line, a coworker's quick update — and simply notice when your mind starts drafting a reply before the sentence is finished. You don't have to fix it in the moment; just noticing it, repeatedly, is what eventually loosens the habit and makes real listening the default instead of the exception."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["active listening", "presence", "fundamentals"],
+    "relatedDrillIds": ["conv_d01", "conv_d06"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l02",
+    "disciplineId": "conversation",
+    "title": "Questions That Open Doors Instead of Closing Them",
+    "hook": "There's a specific, fixable reason some conversations die after three exchanges: the questions being asked only have one-word answers.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Closed questions ask for a fact: 'Did you like the movie?' 'Are you from around here?' 'Was work busy today?' They're answerable in one word, and one word is usually what you get. Open questions ask for an account: 'What did you think of the movie?' 'What brought you here?' 'What was busy about today?' The difference in the words is small. The difference in what comes back is enormous."
+      },
+      {
+        "type": "paragraph",
+        "text": "The mechanism is simple: a closed question gives the other person permission to answer minimally, and most people take that permission, not out of rudeness but because that's what the question technically asked for. An open question forces a small amount of narration — and narration is where the actual, interesting information lives. It's also where you find the next three things you could ask about."
+      },
+      {
+        "type": "keyPoint",
+        "text": "A good open question doesn't just get you information — it gets you a thread. A closed question gets you a period at the end of a sentence."
+      },
+      {
+        "type": "paragraph",
+        "text": "The easiest upgrade is swapping 'did/is/was/do' openers for 'what/how' openers. 'Do you like your job?' becomes 'What's the best part of your job?' or 'How'd you end up in that field?' Both versions are equally polite and equally quick to ask, but only one invites a story."
+      },
+      {
+        "type": "paragraph",
+        "text": "There's a trap to avoid on the other end: open questions that are actually disguised interrogations. Firing five 'what/how' questions in a row without adding anything of yourself feels like a survey, not a conversation. The better move is to ask one open question, actually listen to the answer, comment on something specific in it, and let your next question grow out of that — which is a different skill covered elsewhere, but it starts with having asked something openable in the first place."
+      },
+      {
+        "type": "paragraph",
+        "text": "One more nuance: open questions work best when they're a little bit specific rather than maximally broad. 'What's new with you?' is technically open but so vague it's hard to answer well. 'How's the new job treating you?' is open and specific — it gives the other person a handle to hold onto, which paradoxically makes it easier for them to open up wide."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["questions", "curiosity", "fundamentals"],
+    "relatedDrillIds": ["conv_d01", "conv_d04"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l03",
+    "disciplineId": "conversation",
+    "title": "Follow the Thread, Not Your Own Agenda",
+    "hook": "The single fastest way to make someone feel unheard: they mention something real, and you change the subject to something you'd rather talk about.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Picture two versions of the same exchange. In the first, a coworker says, 'I almost didn't make it in today — my kid was up sick all night.' You reply, 'Oh man, speaking of sick, did you hear Dave's out with the flu?' Technically you responded. Actually, you dropped their thread on the floor and picked up your own. In the second version, you reply, 'Rough night — is she doing okay now?' Same three seconds of effort. Completely different message about whether you were listening."
+      },
+      {
+        "type": "paragraph",
+        "text": "This move — bringing up something the other person just said, rather than pivoting to your own topic — is called following the thread, and it's arguably worth more than any clever thing you could say. It costs nothing and it signals everything: that you were tracking their words, that their sick kid registered as more important than your Dave update, that this is a conversation and not two people taking turns broadcasting."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Changing the subject after someone shares something is the conversational equivalent of interrupting — it just takes three extra seconds to land."
+      },
+      {
+        "type": "paragraph",
+        "text": "Why do we drop threads so often? Usually not out of malice — it's because something they said reminded us of our own story, and we get excited and jump on it. That instinct is fine to have; the discipline is in sequencing it. Ask one more thing about their thread first — 'is she doing okay now?' — get the answer, and only then say 'that reminds me, Dave's out with the flu too, is it going around?' Now you've closed their loop before opening yours, and the conversation feels like a weave instead of a relay race."
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful mental habit: before you speak, silently check whether what you're about to say is about them or about you. If it's about you and they haven't finished their point, it can probably wait ten seconds. Ten seconds is rarely the difference between remembering your thought and losing it forever, but it's often the difference between someone feeling heard and someone feeling talked over."
+      },
+      {
+        "type": "paragraph",
+        "text": "This doesn't mean never talking about yourself — a conversation that's 100% about the other person can feel like an interview, which has its own problems. It means noticing when a thread has just been opened and giving it at least one more exchange before you set it down."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["follow-up", "attention", "rapport"],
+    "relatedDrillIds": ["conv_d02", "conv_d07"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l04",
+    "disciplineId": "conversation",
+    "title": "Why Some Stories Land and Others Don't",
+    "hook": "The stories that make people lean in and the stories that make people check their phone use almost the same facts — the difference is structure.",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Think of the last time someone told you a story that genuinely held your attention, start to finish. What made it work? Chances are it wasn't that the events themselves were wild — it's more likely you could picture where you were, you didn't know how it would turn out, and there was a moment where something actually changed. That's not luck. That's structure, and it's learnable."
+      },
+      {
+        "type": "paragraph",
+        "text": "Now think of a story that lost you halfway through. What usually kills it? Often it's the opposite of the above: too much setup before anything happens, or the ending was given away in the first sentence ('so this one time my flight got cancelled, let me tell you about it' — you already know the shape, so nothing left to discover), or there was no single clear turn, just a list of things that happened."
+      },
+      {
+        "type": "keyPoint",
+        "text": "A story is not a list of things that happened — it's one thing that happened, told so the listener discovers it in the same order you did."
+      },
+      {
+        "type": "paragraph",
+        "text": "So what's the actual structure worth borrowing? A simple, reliable one: set the scene in one sentence (where, when, who), introduce the problem or tension quickly, describe the turn — the moment something changed or went wrong or got weird — and land on a short resolution or punchline. Most everyday stories can compress into four sentences using this shape, and shorter is almost always better than longer. The instinct to add more context is usually wrong; the instinct to cut to the turn faster is usually right."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask yourself, before you launch into a story: what's the one moment this story is actually about? If you can't answer that in a phrase, the story probably doesn't have a turn yet, and you're about to narrate a sequence of events instead of tell a story. Find the turn first, then build backward to just enough setup to make that turn land, and forward to just enough resolution to close it."
+      },
+      {
+        "type": "paragraph",
+        "text": "One more question worth sitting with: whose story is it? If you're telling a story about something that happened to a friend, they get to be the protagonist, and your job is to get out of the way. If it's your story, it's fine to be the protagonist — but the turn should still be the moment something happened to you or because of you, not a moment where you looked good. Stories built to make the teller look good tend to land flatter than stories told because they're actually interesting or funny, which is a fine thing to notice about yourself if it's happening."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["storytelling", "structure"],
+    "relatedDrillIds": ["conv_d03"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l05",
+    "disciplineId": "conversation",
+    "title": "Remembering What People Tell You — And Why It Matters",
+    "hook": "Bringing up a detail someone mentioned weeks ago tells them something no compliment can: that they mattered enough to stick.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Someone mentions their sister's wedding is in October. Three months later, you ask, 'How was the wedding?' That's a small moment, but the effect on the other person is not small — it says you were paying attention back then, and that they were worth remembering. Very little else in ordinary conversation communicates that as efficiently."
+      },
+      {
+        "type": "paragraph",
+        "text": "The problem is that most of us don't naturally retain these details, not because we don't care, but because we hear a lot of names, dates, and facts across a lot of conversations, and none of it gets encoded for later retrieval. The fix isn't a better memory — it's a better system, and a better habit of actually using what you remember."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Remembering isn't the hard part — noticing what's worth remembering, in the moment, is."
+      },
+      {
+        "type": "paragraph",
+        "text": "A simple system: after a conversation that mattered — a new friend, a coworker you want to build a real relationship with, a first date — spend thirty seconds jotting down two or three concrete details. Not 'she's nice,' but 'sister's wedding in October, hates cilantro, training for a half-marathon in the spring.' Specific, checkable facts are what you can naturally bring back up later; vague impressions aren't."
+      },
+      {
+        "type": "paragraph",
+        "text": "The second half of this skill, and the part people skip, is actually using the detail later — and using it well. There's a wrong way to do this: reciting it like a trivia fact ('so, cilantro, huh?') out of nowhere, which can feel more like a parlor trick than genuine care. The right way is to bring it up when it's naturally relevant — mentioning the half-marathon when someone brings up exercise, asking about the wedding when October rolls around — so it reads as care rather than performance."
+      },
+      {
+        "type": "paragraph",
+        "text": "It's worth being honest with yourself about the difference between remembering to connect and remembering to impress. If the goal is 'look how good my memory is,' the delivery tends to come off showy. If the goal is 'I actually wondered how that turned out for you,' the exact same fact lands completely differently — because the other person can usually tell which one it is, even though the words might be identical."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["memory", "rapport", "genuine care"],
+    "relatedDrillIds": ["conv_d05"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l06",
+    "disciplineId": "conversation",
+    "title": "Rapport With a Stranger in the First Ninety Seconds",
+    "hook": "You don't need charm or luck to build quick rapport with someone new — you need a handful of moves that make people feel comfortable fast.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The first ninety seconds of talking to a stranger set the tone for everything after. Most of the work in that window isn't about what you say — it's about lowering the other person's guard enough that they're willing to say something real back. A few concrete moves do most of that work."
+      },
+      {
+        "type": "paragraph",
+        "text": "First: find something true and specific to say about the shared situation, rather than a generic opener. At a party, 'how do you know the host?' works better than 'crazy weather lately, huh' because it's grounded in something you both actually share right now, and it gives them an easy, real thing to answer."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Fast rapport isn't about being interesting — it's about making the other person feel like it's safe to be interesting around you."
+      },
+      {
+        "type": "paragraph",
+        "text": "Second: match their energy roughly, rather than overshooting it. If someone's low-key and a little tired, coming in loud and high-energy creates friction, not warmth. Meeting someone close to where they are, then gently inviting them up if the moment calls for it, builds trust faster than trying to drag the energy level somewhere it isn't yet."
+      },
+      {
+        "type": "paragraph",
+        "text": "Third: offer a small piece of yourself early, not just questions. An exchange that's all questions from you can start to feel like an interview. Sharing something small and real — 'I actually don't know anyone here either, I'm just backing my roommate up' — gives the other person permission to be equally real back, and it turns the interaction into an exchange instead of an interrogation."
+      },
+      {
+        "type": "paragraph",
+        "text": "Fourth: notice and name what's actually happening. If the conversation feels a little stiff, saying so lightly — 'okay, we're both bad at small talk, let's just skip to the good stuff' — often dissolves the stiffness instantly, because you've made the awkwardness a shared joke instead of an unspoken tension only you're managing."
+      },
+      {
+        "type": "paragraph",
+        "text": "None of this requires being naturally outgoing. It requires noticing the other person accurately and responding to what's actually in front of you, rather than running a script. The people who seem effortlessly good with strangers are usually just very good at reading the room and adjusting — which is a skill, not a personality trait, and it gets better with deliberate practice."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["rapport", "first impressions", "strangers"],
+    "relatedDrillIds": ["conv_d06", "conv_d08"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l07",
+    "disciplineId": "conversation",
+    "title": "Humor and Charisma Without the Performance",
+    "hook": "The funniest, most magnetic people in any room usually aren't performing — they're paying closer attention than everyone else and saying so out loud.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Consider two people at the same dinner. One tells a rehearsed, polished story that gets a polite laugh. The other notices that the waiter has refilled the same person's water glass four times and says something dry about it in the moment — and the table cracks up. The second bit wasn't better material. It was observational, specific to this room, and delivered with zero apparent effort to be funny, which is exactly what made it land."
+      },
+      {
+        "type": "paragraph",
+        "text": "This points at something important: charisma and humor that read as authentic are almost always reactive to the actual moment, not imported from elsewhere. A joke about something happening right now, made to include everyone present, feels like connection. A joke you clearly prepared and are now deploying feels like a performance being done at people rather than with them."
+      },
+      {
+        "type": "keyPoint",
+        "text": "The most charismatic move available to anyone is noticing something true and saying it plainly — timing and warmth do the rest."
+      },
+      {
+        "type": "paragraph",
+        "text": "A practical habit: instead of trying to think of something funny to say, try narrating what you're actually noticing, slightly exaggerated. 'You have refilled this man's water four separate times, I'm starting to think it's personal' is just an honest observation, stated with a little flourish. This is far more repeatable than waiting for a joke to arrive fully formed, because it doesn't require cleverness — it requires attention, which anyone can pay."
+      },
+      {
+        "type": "paragraph",
+        "text": "It's also worth being careful with humor at someone else's expense. The safest and most reliably warm target for a joke is yourself, or the shared absurdity of a situation — not a specific person's flaw, unless you know them well and the affection is obvious. Humor that makes someone in the room feel smaller, even a little, tends to buy a laugh and cost trust, and the trade is rarely worth it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Real charisma, stripped of the mystique, tends to be curiosity plus warmth plus the willingness to be a little unguarded first. People relax around others who seem genuinely interested in them and comfortable enough in themselves to not need the room's approval every second. That combination reads as magnetic — but underneath it, it's mostly just sincere attention, offered without an agenda."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["humor", "charisma", "authenticity"],
+    "relatedDrillIds": ["conv_d09"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l08",
+    "disciplineId": "conversation",
+    "title": "Difficult Conversations: Conflict, Negotiation, and Being Heard",
+    "hook": "Most difficult conversations don't go badly because of the disagreement itself — they go badly because nobody feels heard before the arguing starts.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "There's a pattern behind most conflicts that spiral: both people are trying to be understood, and neither one is doing the understanding first. Each side states their position, hears the other side's position as an attack, and responds by restating their own position more forcefully. Nothing actually gets resolved, because nobody has confirmed they even understood what the disagreement is about."
+      },
+      {
+        "type": "paragraph",
+        "text": "The single highest-leverage move in a tense conversation is paraphrasing the other person's point back to them before you respond to it — 'so it sounds like you're frustrated because you felt left out of the decision, is that right?' This does two things: it forces you to actually process their point instead of just waiting to counter it, and it gives them the chance to correct you if you got it wrong, which prevents you from arguing against a position they don't actually hold."
+      },
+      {
+        "type": "keyPoint",
+        "text": "People stop escalating the moment they feel accurately understood — even if you still disagree with them afterward."
+      },
+      {
+        "type": "paragraph",
+        "text": "This applies directly to negotiation too. The instinct in a negotiation is to advocate hard for your position. The more effective opening move is usually to ask what the other side actually needs and why — their underlying interest, not their stated position — because two people can want different things on the surface and still find a solution that satisfies both underlying interests. Someone asking for a later deadline might really need predictability, not more days; understanding that opens options a pure back-and-forth over the date never would."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a conversation that's already tense, timing and framing both matter. Raising a hard topic when someone's rushed, tired, or already frustrated about something else stacks the deck against you before you've said anything. And framing a concern as 'I felt X when Y happened' lands very differently than 'you always do Y' — the first is a report on your experience the other person can't really argue with; the second is an accusation that invites defense."
+      },
+      {
+        "type": "paragraph",
+        "text": "Making someone feel heard isn't the same as agreeing with them, and it's worth saying that plainly, because people sometimes avoid paraphrasing out of fear it means conceding the argument. It doesn't. 'I hear that you needed more notice, and I still think the deadline has to hold' is both validating and honest. Validation is about the other person's experience being real to you — resolution is a separate, later step, and it goes much faster once the first step has actually happened."
+      }
+    ],
+    "estimatedMinutes": 9,
+    "tags": ["conflict resolution", "negotiation", "difficult conversations", "validation"],
+    "relatedDrillIds": ["conv_d10", "conv_d02"],
+    "relatedCardIds": []
+  }
+]

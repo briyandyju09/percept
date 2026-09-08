@@ -1,0 +1,334 @@
+[
+  {
+    "id": "psy_d01",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each short scenario and identify the cognitive bias most clearly at work.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d01_q1",
+        "prompt": "A car salesperson opens negotiations at $34,000 for a car you researched online as worth about $24,000. Even though you know the opening number is inflated, your counteroffer ends up higher than it would have if negotiations had opened at $26,000. What's driving this?",
+        "type": "multipleChoice",
+        "options": ["Anchoring", "Confirmation bias", "Availability heuristic", "Halo effect"],
+        "correctAnswer": "Anchoring",
+        "explanation": "The first number introduced into a negotiation becomes a reference point that skews later estimates, even when the person recognizes the number is inflated or arbitrary."
+      },
+      {
+        "id": "psy_d01_q2",
+        "prompt": "During a salary negotiation, the hiring manager asks 'Would you accept something in the $70,000 range?' before you've stated a number. Your final counter ends up closer to $75,000 than the $85,000 you'd planned to open with. What's driving this?",
+        "type": "multipleChoice",
+        "options": ["Anchoring", "Availability heuristic", "Halo effect", "Authority bias"],
+        "correctAnswer": "Anchoring",
+        "explanation": "Being handed a number first — even one presented as a casual suggestion — pulls subsequent estimates toward it, regardless of your original plan."
+      },
+      {
+        "id": "psy_d01_q3",
+        "prompt": "A restaurant menu lists a $120 bottle of wine at the top of the list, right above a $45 bottle that ends up being the night's best seller. What effect is the expensive bottle most likely producing?",
+        "type": "multipleChoice",
+        "options": ["It anchors diners' sense of a 'reasonable' price, making $45 feel moderate by comparison", "It creates a halo effect around the whole menu", "It triggers reciprocity toward the restaurant", "It demonstrates the availability heuristic"],
+        "correctAnswer": "It anchors diners' sense of a 'reasonable' price, making $45 feel moderate by comparison",
+        "explanation": "This is a well-known pricing tactic: an expensive 'anchor' item shifts the perceived midpoint of the whole menu, making mid-priced items look more reasonable by comparison."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d02",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify how confirmation bias is shaping the person's behavior or judgment.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d02_q1",
+        "prompt": "After deciding a new coworker is 'not a team player,' a manager notices every time that coworker eats lunch alone, but doesn't register the times they stayed late to help a colleague finish a project. What's happening?",
+        "type": "multipleChoice",
+        "options": ["Confirmation bias", "Anchoring", "Sunk cost fallacy", "Framing effect"],
+        "correctAnswer": "Confirmation bias",
+        "explanation": "Once a belief forms, attention and memory tend to selectively register information that supports it, while contradicting information gets overlooked or discounted."
+      },
+      {
+        "id": "psy_d02_q2",
+        "prompt": "Someone convinced a particular diet is the key to health only reads articles and follows accounts that praise that diet, and dismisses any study questioning it as 'biased.' What's happening?",
+        "type": "multipleChoice",
+        "options": ["Confirmation bias", "Halo effect", "Reciprocity", "Priming"],
+        "correctAnswer": "Confirmation bias",
+        "explanation": "Actively seeking out supportive sources while dismissing contrary evidence out of hand is a textbook pattern of confirmation-seeking rather than balanced evaluation."
+      },
+      {
+        "id": "psy_d02_q3",
+        "prompt": "A detective settles on a suspect early in an investigation and spends the rest of the case asking questions designed to implicate that suspect, rather than questions that could rule them out. What bias is most clearly shaping the investigation?",
+        "type": "multipleChoice",
+        "options": ["Confirmation bias", "Authority bias", "Availability heuristic", "Sunk cost fallacy"],
+        "correctAnswer": "Confirmation bias",
+        "explanation": "Asking only questions that could confirm a favored theory, rather than questions that could also disconfirm it, is the central mechanism of confirmation bias in investigative reasoning."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d03",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and decide whether the person's risk judgment is being distorted by the availability heuristic.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d03_q1",
+        "prompt": "After seeing three news stories about shark attacks in one week, a swimmer decides ocean swimming is too dangerous to continue, despite drowning statistics showing far higher risk from routine swimming conditions than from sharks. What's driving the swimmer's judgment?",
+        "type": "multipleChoice",
+        "options": ["Availability heuristic", "Anchoring", "Confirmation bias", "Halo effect"],
+        "correctAnswer": "Availability heuristic",
+        "explanation": "Vivid, recent, heavily-covered events come to mind easily and get overweighted in risk judgments, regardless of their actual statistical frequency."
+      },
+      {
+        "id": "psy_d03_q2",
+        "prompt": "A new manager assumes workplace theft is rampant because they can vividly recall one dramatic case from a previous job, even though their company's actual incident reports show theft is rare. What's driving this belief?",
+        "type": "multipleChoice",
+        "options": ["Availability heuristic", "Framing effect", "Reciprocity", "Sunk cost fallacy"],
+        "correctAnswer": "Availability heuristic",
+        "explanation": "One memorable, emotionally vivid case can dominate a person's sense of how common something is, independent of what the actual data shows."
+      },
+      {
+        "id": "psy_d03_q3",
+        "prompt": "Which of the following would most directly counteract the availability heuristic when judging how risky an activity is?",
+        "type": "multipleChoice",
+        "options": ["Looking up actual base-rate statistics instead of relying on memorable examples", "Asking an authority figure for their opinion", "Waiting to see what the group consensus is", "Reframing the risk as a percentage instead of a raw number"],
+        "correctAnswer": "Looking up actual base-rate statistics instead of relying on memorable examples",
+        "explanation": "Because the heuristic substitutes ease-of-recall for actual frequency, the direct fix is deliberately consulting real base rates rather than a mental tally of memorable stories."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d04",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify whether halo effect or fundamental attribution error best explains the judgment being made — pay attention to whether the error is about one trait bleeding into others, or about ignoring situational context.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d04_q1",
+        "prompt": "An interviewer rates a well-dressed, confident-sounding candidate as 'clearly highly competent' before any technical question has been asked. Which pattern is this?",
+        "type": "multipleChoice",
+        "options": ["Halo effect", "Fundamental attribution error", "Availability heuristic", "Reciprocity"],
+        "correctAnswer": "Halo effect",
+        "explanation": "One favorable trait — here, appearance and confident delivery — is bleeding into an unrelated judgment about competence, before any actual evidence of competence has been given."
+      },
+      {
+        "id": "psy_d04_q2",
+        "prompt": "A driver cuts you off in traffic and you immediately think 'what a reckless, inconsiderate person,' without considering that they might be rushing to an emergency. Which pattern is this?",
+        "type": "multipleChoice",
+        "options": ["Fundamental attribution error", "Halo effect", "Anchoring", "Sunk cost fallacy"],
+        "correctAnswer": "Fundamental attribution error",
+        "explanation": "This is the well-documented tendency to explain others' behavior with personality and character while underweighting situational factors that might also explain it — notably, people tend to explain their own equivalent behavior more situationally."
+      },
+      {
+        "id": "psy_d04_q3",
+        "prompt": "A single charismatic talk leads an audience to assume the speaker's business advice must also be financially sound, even though public speaking skill and business judgment are only loosely related. Which pattern is this?",
+        "type": "multipleChoice",
+        "options": ["Halo effect", "Fundamental attribution error", "Priming", "Authority bias"],
+        "correctAnswer": "Halo effect",
+        "explanation": "A strong impression in one domain — public speaking — is being generalized to an unrelated domain — financial judgment — which is the defining mechanism of the halo effect."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d05",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 1,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You witness a minor car accident at an intersection. A week later, a police officer asks you what happened. You confidently describe a red sedan running the light — but the officer's report, based on traffic camera footage, shows the sedan was actually navy blue, and it had a green light; the other car ran the red. You had felt completely sure of your account.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d05_q1",
+        "prompt": "Would you have trusted your own confident recollection in this situation? What does this scenario suggest about the relationship between confidence and accuracy in memory?",
+        "type": "textInput",
+        "correctAnswer": "Confidence and accuracy are only weakly linked, especially for memories formed quickly under some stress and recalled after a delay; feeling certain is not the same as being correct, and memories can be unknowingly reconstructed to fit an assumption (like 'the driver who ran the light was probably the one who looked reckless').",
+        "explanation": "This connects to well-documented findings on eyewitness memory: stress narrows attention, delay allows reconstruction and outside influence, and subjective confidence is a poor predictor of objective accuracy — which is exactly why corroborating evidence matters more than any single witness's certainty."
+      },
+      {
+        "id": "psy_d05_q2",
+        "prompt": "What is one concrete habit you could use in daily life to avoid over-trusting a confident but potentially reconstructed memory of your own?",
+        "type": "textInput",
+        "correctAnswer": "Examples: writing down details immediately after an event rather than relying on later recall; deliberately seeking an independent source (a photo, another witness, a record) before treating your memory as fact; noticing when a memory has been retold several times, since each retelling is an opportunity for subtle reconstruction.",
+        "explanation": "The most reliable defenses against memory reconstruction are external and immediate — capturing details before delay and retelling can distort them, rather than trying to simply 'try harder' to remember accurately."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d06",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Read each scenario and identify the decision-making bias most clearly at work.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d06_q1",
+        "prompt": "A startup founder has spent 18 months and most of the company's funding building a product that user testing now shows nobody wants. Rather than pivot, she decides to 'push through' because of how much has already been invested. What bias is shaping her decision?",
+        "type": "multipleChoice",
+        "options": ["Sunk cost fallacy", "Anchoring", "Halo effect", "Availability heuristic"],
+        "correctAnswer": "Sunk cost fallacy",
+        "explanation": "The past investment of time and money is unrecoverable either way; letting it drive the decision to continue, rather than judging the remaining costs and benefits on their own, is the defining pattern of the sunk cost fallacy."
+      },
+      {
+        "id": "psy_d06_q2",
+        "prompt": "A couple keeps renewing a gym membership they rarely use because 'we've already paid for the year,' even though the remaining months would be better spent trying a different activity they'd actually enjoy. What's the rational error here?",
+        "type": "multipleChoice",
+        "options": ["Treating an already-paid cost as a reason to keep attending, rather than judging future enjoyment on its own", "Anchoring on the price of the membership", "A halo effect from the gym's branding", "Reciprocity toward the gym staff"],
+        "correctAnswer": "Treating an already-paid cost as a reason to keep attending, rather than judging future enjoyment on its own",
+        "explanation": "The membership fee is already spent regardless of future attendance; the only relevant question going forward is which activity would be most enjoyable from today onward."
+      },
+      {
+        "id": "psy_d06_q3",
+        "prompt": "Which question best cuts through the sunk cost fallacy when deciding whether to continue a project you've already invested heavily in?",
+        "type": "multipleChoice",
+        "options": ["'Knowing what I know now, would I choose to start this today?'", "'How much have I already spent on this?'", "'What would other people think if I quit now?'", "'Who else has succeeded at something similar?'"],
+        "correctAnswer": "'Knowing what I know now, would I choose to start this today?'",
+        "explanation": "Reframing the decision as a fresh choice, stripped of the historical investment, is the technique with the most consistent research support for overriding sunk cost reasoning."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d07",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Read each scenario and identify how framing is shaping the decision, even though the underlying facts are unchanged.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d07_q1",
+        "prompt": "Two surgeons describe the same procedure to two different patients. Surgeon A says it has a '90% survival rate.' Surgeon B says it has a '10% mortality rate.' Patients told about the survival rate are significantly more likely to consent. What explains the difference in patient response?",
+        "type": "multipleChoice",
+        "options": ["Framing effect", "Anchoring", "Confirmation bias", "Halo effect"],
+        "correctAnswer": "Framing effect",
+        "explanation": "The two statements describe identical statistics, but framing them as a gain (survival) versus a loss (mortality) changes how threatening the information feels, since losses tend to be weighted more heavily than equivalent gains."
+      },
+      {
+        "id": "psy_d07_q2",
+        "prompt": "A retailer advertises a credit card surcharge as a '3% cash discount you lose if you pay by card' rather than a '3% surcharge for paying by card' — even though the price difference is identical either way. Why might this framing matter to customers?",
+        "type": "multipleChoice",
+        "options": ["Losing a discount feels more aversive than paying an extra fee, even when the dollar amount is the same", "It creates an anchor for the total price", "It triggers a halo effect around the retailer", "It demonstrates the availability heuristic"],
+        "correctAnswer": "Losing a discount feels more aversive than paying an extra fee, even when the dollar amount is the same",
+        "explanation": "This is a direct application of loss aversion within framing: a 'lost discount' is coded psychologically as a loss, which people tend to weigh more heavily than an equivalent 'gained' fee framing, even when the two are mathematically identical."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "psy_d08",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're in a team meeting where a senior director confidently states a plan will work, and everyone nods in agreement, including two colleagues who privately told you beforehand they had serious doubts about it. Later, a vendor who gave your team a small free gift last month calls to ask for a favor, and you notice yourself feeling obligated to say yes even though the request is inconvenient.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d08_q1",
+        "prompt": "Two separate social-psychology mechanisms are visible in this scenario — one involving the director and the room, one involving the vendor. Name each mechanism and explain, in your own words, what's driving the behavior in each case.",
+        "type": "textInput",
+        "correctAnswer": "The room going along with the director despite private doubts reflects a mix of authority bias (deferring to the director's title and confidence) and conformity (not wanting to be the lone dissenting voice, as in Asch's line experiments). The felt obligation toward the vendor after an unsolicited gift reflects reciprocity — receiving something, even something small and unrequested, creates a psychological debt that increases compliance with a later request.",
+        "explanation": "Authority bias and conformity often operate together in group settings — a confident authority figure sets the apparent consensus, and social pressure discourages colleagues from breaking it even when they privately disagree. Reciprocity is a documented, reliably exploitable trigger: the size of the initial gift barely matters to how obligated people feel afterward."
+      },
+      {
+        "id": "psy_d08_q2",
+        "prompt": "What's one specific thing you could do differently in a future meeting like this one, to reduce the pull of authority and conformity without simply being contrarian for its own sake?",
+        "type": "textInput",
+        "correctAnswer": "Examples: ask a genuine clarifying question out loud before the room settles on consensus; privately note your own view in writing before the group discusses it, so you can compare later; explicitly invite dissent by asking 'does anyone see a problem with this?' rather than waiting for someone to volunteer doubt.",
+        "explanation": "Research on group decision-making finds that structurally inviting dissent, and recording independent judgments before group discussion, are among the few reliable ways to counteract conformity pressure without requiring anyone to be unusually bold."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d09",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A close friend cancels plans with you for the third time this month by text, offering no real explanation. You feel a sharp surge of hurt and anger, and you're tempted to fire back a sarcastic reply immediately. Instead, you set your phone down, take a few slow breaths, and wait an hour before responding. When you do respond, you calmly say you'd like to understand what's going on, since the pattern has been on your mind.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d09_q1",
+        "prompt": "Which specific emotional regulation strategy is being used in this scenario, and why might it be more effective than either suppressing the hurt entirely or reacting immediately?",
+        "type": "textInput",
+        "correctAnswer": "This looks like a combination of response delay and cognitive reappraisal: pausing before reacting, and then reframing the goal of the reply from venting the hurt to understanding what's actually going on. This tends to work better than suppression (which raises physiological arousal and doesn't resolve the underlying feeling) or immediate reaction (which is more likely to escalate the conflict before the facts are known).",
+        "explanation": "Reappraisal — changing the interpretation of a situation before responding — has the strongest and most consistent research support among emotion-regulation strategies, notably outperforming suppression, which tends to increase, not decrease, physiological stress."
+      },
+      {
+        "id": "psy_d09_q2",
+        "prompt": "Someone observing only this one incident might be tempted to conclude something about this person's general attachment style (for example, 'secure' or 'anxious'). Why would that conclusion be premature, based on a single episode?",
+        "type": "textInput",
+        "correctAnswer": "A single calm response, especially to a specific friend during a specific week, doesn't establish a stable pattern — the same person might react very differently under more stress, in a different relationship, or on a different day. Attachment-style conclusions require observing recurring patterns across many relationships and contexts over time, not one well-handled (or one poorly-handled) moment.",
+        "explanation": "This mirrors the discipline's core caution: a single instance of behavior, however telling it feels in the moment, is not sufficient evidence for a stable trait or style — that requires a cluster of consistent signals across varied contexts."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d10",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're part of a six-person committee deciding whether to approve a risky new initiative. In the meeting, momentum quickly builds toward approval; a few members who seemed hesitant beforehand stay quiet, and the group reaches a fast, unanimous 'yes' with almost no debate about downsides. Afterward, in a private conversation, two committee members separately admit they had real concerns they didn't raise.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d10_q1",
+        "prompt": "What group phenomenon does this scenario most resemble, and what specific features of the meeting, as described, point to it?",
+        "type": "textInput",
+        "correctAnswer": "This resembles groupthink — a pattern where a group under pressure toward consensus suppresses dissenting views before they're voiced, producing an appearance of unanimity that doesn't reflect actual individual views. The fast, low-debate 'yes' and the fact that hesitant members stayed quiet, only voicing concerns privately afterward, are the telltale features.",
+        "explanation": "Groupthink is most likely when a group is cohesive, under time pressure, and lacks an explicit process for surfacing dissent — all present in this scenario's fast, debate-free unanimous vote."
+      },
+      {
+        "id": "psy_d10_q2",
+        "prompt": "Would it be fair to conclude the two members who stayed quiet have a generally passive or conflict-avoidant personality? Why or why not, based on what this scenario alone can and can't tell you?",
+        "type": "textInput",
+        "correctAnswer": "No — that conclusion overreaches. Situational features of this specific meeting (fast pace, apparent unanimity, no explicit invitation for dissent) plausibly explain the silence at least as well as any individual personality trait would, and the same two people might speak up readily in a smaller group, a different topic, or a meeting structured to invite dissent. A single episode doesn't reveal a stable disposition without observing the same pattern recur across different groups and situations.",
+        "explanation": "This is the fundamental attribution error in miniature: explaining behavior with personality when the situation — group size, pace, absence of a structured dissent process — is doing much of the real explanatory work."
+      }
+    ],
+    "estimatedMinutes": 5
+  }
+]
