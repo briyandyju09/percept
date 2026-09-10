@@ -1,0 +1,352 @@
+[
+  {
+    "id": "comp_l09",
+    "disciplineId": "composure",
+    "title": "The Physiology of Fight-or-Flight",
+    "hook": "Your heart doesn't race because you're weak. It races because a survival system built long before language just fired, exactly as designed.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "When you perceive a threat, real or not, a small almond-shaped structure deep in your brain called the amygdala evaluates the input for danger before your conscious mind has finished processing what happened. If it flags a threat, it signals the hypothalamus, which activates the sympathetic nervous system and triggers the adrenal glands to release adrenaline and, a little more slowly, cortisol. Within seconds your heart rate and blood pressure rise, blood is redirected from digestion toward large muscles, your pupils dilate, and your breathing gets faster and shallower. None of this is a malfunction. It is a several-hundred-million-year-old system doing exactly its job: preparing your body to run or fight, fast, without waiting for permission from the slower, more deliberate parts of your brain."
+      },
+      {
+        "type": "paragraph",
+        "text": "The problem is calibration, not the mechanism itself. That circuitry evolved to respond to genuine physical danger, and it still fires with full force for an aggressive email, a tense meeting, or a car cutting you off in traffic — situations that require patience and clear thinking, not a sprint or a punch. Your body cannot tell the difference between a predator and a passive-aggressive coworker; both get the same flood of stress hormones. This is why you can feel a racing heart and a tight chest over something that, an hour later, seems almost trivial. The response was proportionate to how your nervous system interpreted the moment, not to the actual stakes."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Composed people are not people whose bodies stay quiet under stress.",
+        "meta": {
+          "myth": "People who handle pressure well simply don't get the physiological fight-or-flight reaction that everyone else gets.",
+          "fact": "Heart-rate and cortisol studies on experienced performers — pilots, surgeons, elite athletes — consistently show the same physiological activation as novices in high-stakes moments. What differs is not whether the alarm goes off, but how quickly the person recognizes it and how practiced they are at not letting it dictate the next action."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "You cannot out-willpower a hormonal response, but you can shorten it — mainly through slow, exhale-dominant breathing, which is one of the few levers under conscious control that directly signals the parasympathetic system to start braking."
+      },
+      {
+        "type": "paragraph",
+        "text": "The parasympathetic nervous system, largely carried through the vagus nerve, is the counterbalance — it's responsible for lowering heart rate and returning digestion and calm thinking back online. It doesn't activate automatically the instant a threat passes; it has to be cued. A long, slow exhale is one of the most reliable and immediate cues available, because the vagus nerve is directly sensitive to the length of your exhale relative to your inhale. This is the whole reason breathing drills show up so often in composure training: not as a metaphor for calm, but as a direct, physiological lever on the exact system that fight-or-flight hijacked."
+      },
+      {
+        "type": "paragraph",
+        "text": "Practically, this means the goal in a tense moment is never to will the racing heart away — that rarely works and often backfires into more frustration. The goal is to notice the activation early ('my chest is tight, my jaw is clenched, I'm breathing high in my chest'), name it without judgment, and deliberately slow the exhale for a few breaths before deciding what to do next. The decision made ninety seconds later, after the initial hormonal spike has been allowed to crest and fall, is almost always better than the one made in the first five seconds."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["physiology", "nervousSystem", "fightOrFlight", "vagusNerve"],
+    "relatedDrillIds": ["comp_d14", "comp_d11"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l10",
+    "disciplineId": "composure",
+    "title": "Cold Exposure and Breathwork: What the Research Actually Supports",
+    "hook": "Cold plunges and dramatic breathing routines are everywhere online. The honest version of the science is less magical, and still genuinely useful.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Cold-water immersion has real, measurable physiological effects: it triggers a sharp spike in norepinephrine and reported alertness, along with the well-documented 'cold shock' response — a gasp reflex, faster breathing, and elevated heart rate in the first thirty to sixty seconds. Small studies going back decades have found that regular cold exposure can blunt some of that shock response over repeated sessions, meaning people who do it often develop a more controlled physical reaction to the same cold. What the research does not clearly show is many of the broader claims attached to it online — permanent immune system overhauls, fat-loss miracles, or a mood upgrade that lasts all day. The honest read is: real short-term arousal and alertness effects, unclear or overstated long-term claims."
+      },
+      {
+        "type": "paragraph",
+        "text": "Structured breathwork protocols, including the Wim Hof method, have produced some genuinely interesting small studies — most notably one 2014 trial where participants trained in cyclic hyperventilation followed by breath-holds showed the ability to voluntarily influence part of their immune response to an injected toxin, something previously thought to be entirely involuntary. It's a real and interesting result. It is also a single small study, not a replicated, well-established finding, and it does not mean the method 'controls your immune system' in any broad sense. Meanwhile, forceful hyperventilation-style breathwork carries genuine risk: it can cause lightheadedness or fainting, especially standing up or in water, which is why reputable instruction always says never practice it while swimming or driving."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "The composure benefit of cold exposure has less to do with any special physiological hack and more to do with rehearsing calm under real, involuntary physical stress.",
+        "meta": {
+          "myth": "Cold plunges and intense breathwork rewire your nervous system so that you become permanently less reactive to stress in general.",
+          "fact": "The most defensible benefit is transfer of practice: cold water reliably produces an intense, involuntary urge to gasp and panic, and learning to breathe slowly through that exact urge is a rehearsal for staying regulated when your body screams at you to react. The skill that transfers is the practiced pause, not a permanent rewiring from the cold itself."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "Treat cold exposure and intense breathwork as composure practice, not miracle biohacks — the value is in deliberately choosing your response to a genuine physical alarm signal, which is a skill, not a chemical shortcut."
+      },
+      {
+        "type": "paragraph",
+        "text": "If you want to use either practice, the composure-focused version is simple and low-risk: a cold shower for the last thirty to sixty seconds, breathing slowly and evenly through the initial gasp reflex instead of hyperventilating through it, done seated or somewhere you can't fall. That single act — staying orderly while your body's alarm system is shouting — is the transferable skill. It has nothing to do with tolerance for suffering as a virtue in itself, and everything to do with getting more comfortable with the specific sensation of your nervous system being loud while you stay in charge of what you do next."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["coldExposure", "breathwork", "research", "physiology"],
+    "relatedDrillIds": ["comp_d45", "comp_d35"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l11",
+    "disciplineId": "composure",
+    "title": "Public Speaking Anxiety: What Actually Helps",
+    "hook": "The racing heart before you speak isn't a sign you're bad at this. It's the same chemistry that makes elite performers sharp — if you use it right.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Public speaking anxiety is consistently ranked among the most common fears people report, and the physiological signature — pounding heart, dry mouth, shaky hands, racing thoughts — is identical to the fight-or-flight activation covered earlier. That's actually useful information: you are not uniquely broken, you are having a completely standard human stress response to standing exposed in front of a group, which was a real social risk for most of human history. The goal is not to eliminate the arousal. Research on 'arousal reappraisal' by psychologist Alison Wood Brooks found that people who reframed their pre-performance nerves as excitement — saying 'I am excited' out loud instead of 'I am calm' or trying to suppress the feeling — performed measurably better than those who tried to talk themselves down. The body doesn't care about the label as much as you'd think, but your mind's interpretation of the same racing heart changes what you do with it next."
+      },
+      {
+        "type": "paragraph",
+        "text": "Beyond reframing, a few concrete moves make the biggest practical difference. First, script and over-rehearse your opening line specifically — the first fifteen to thirty seconds are when your working memory is most compromised by adrenaline, so that portion should require zero improvisation. Second, do a short breathing reset in the minutes before you go on: a few rounds of slow, exhale-dominant breathing, or one or two physiological sighs (a double inhale through the nose followed by a long exhale through the mouth), which reliably lowers heart rate faster than normal breathing. Third, plan for silence deliberately — a two-second pause after a key point reads as confidence to an audience, even though it can feel unbearably long to you in the moment."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Composed public speaking isn't the absence of nerves — it's rehearsing the first thirty seconds so hard that adrenaline can't derail them, and treating the racing heart as fuel instead of a verdict."
+      },
+      {
+        "type": "paragraph",
+        "text": "It also helps to lower the stakes you've silently assigned to any single talk. One shaky sentence, one lost train of thought, one 'um' — audiences forget these within minutes; they remember whether you seemed to believe what you were saying and whether you treated them with respect. If you do blank mid-sentence, the composed move is a brief pause, a sip of water if you have one, and a simple restart ('let me come back to that point') rather than a rushed, apologetic scramble. Practiced speakers aren't people who never lose their place — they're people who've built a small, boring toolkit for what to do when it happens, so the moment doesn't spiral."
+      },
+      {
+        "type": "paragraph",
+        "text": "Try this before your next talk, big or small: write your opening line word for word and rehearse it out loud at least ten times, separately from rehearsing the rest of the content. Then, in the two minutes before you speak, do four slow breaths with a longer exhale than inhale, and say to yourself, out loud if you can, 'I'm excited for this' instead of trying to convince yourself you're calm."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["publicSpeaking", "anxiety", "performance", "reappraisal"],
+    "relatedDrillIds": ["comp_d22", "comp_d49"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l12",
+    "disciplineId": "composure",
+    "title": "De-escalation, Not Domination",
+    "hook": "Marcus didn't win the argument in the parking lot. He ended it safely — and that was the actual goal the whole time.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Marcus was backing out of a tight parking spot when another driver leaned on the horn and got out of his car, already shouting about being blocked. Marcus's first instinct was the same one most people would have — a flash of heat, a half-formed sentence about how the other guy could have just waited five seconds. He didn't say it. Instead, he put his own car in park, kept both hands visible, and said, in a voice noticeably quieter and slower than the other man's, 'You're right, I'll clear it — give me a second.' He wasn't performing submission. He was doing something more specific: refusing to match the other man's volume, pace, or posture, because escalation is almost always a matching game, and someone has to opt out of it first."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is the core mechanic of de-escalation: aggressive energy tends to look for a mirror. A raised voice met with an equally raised voice, a step forward met with a step forward, tends to spiral, because each person is now defending status rather than solving the actual problem. Lowering your own volume and slowing your own pace doesn't concede anything real — the car still gets moved, the point still gets made — but it removes the mirror the other person's nervous system is looking for. Widening the physical space slightly, keeping your hands open and visible, and avoiding phrases that read as condescending ('calm down' is almost always heard as an insult, not an instruction) all serve the same function: taking the temperature down a notch without taking your own boundary away."
+      },
+      {
+        "type": "keyPoint",
+        "text": "De-escalation is not passivity or losing — it's recognizing that the actual goal in most confrontation-adjacent moments is a safe, quick resolution, not being proven right in the moment."
+      },
+      {
+        "type": "paragraph",
+        "text": "The other driver kept talking for another ten or fifteen seconds, clearly still worked up, before running out of steam — there's not much fuel left in an argument when the other side refuses to add to the fire. Marcus moved his car, the man got back in his, and it was over. Nobody apologized, nothing was resolved in any deep sense, and that was fine, because the actual win condition here was never 'he admits he overreacted.' It was: nobody gets hurt, nobody says something they can't take back, and both people get to drive away. Composure in these moments isn't about suppressing your own anger — Marcus was genuinely annoyed the whole time — it's about deciding, on purpose, which version of yourself gets to speak."
+      },
+      {
+        "type": "paragraph",
+        "text": "The transferable skill here shows up far more often in smaller versions: a heated exchange with a family member, a customer who's furious about something that isn't your fault, a coworker who raises their voice in a meeting. In all of them, the same small moves apply — lower your volume rather than match theirs, give them room to back down without humiliation, and hold the actual boundary calmly rather than abandoning it just to keep the peace."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["deescalation", "conflict", "confrontation", "composure"],
+    "relatedDrillIds": ["comp_d16", "comp_d17"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l13",
+    "disciplineId": "composure",
+    "title": "Learning to Tolerate Boredom",
+    "hook": "Boredom isn't dangerous. Your inability to sit inside it for ninety seconds might be costing you more than you realize.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Boredom is an uncomfortable but entirely harmless mental state — a signal that your current environment isn't giving your brain enough stimulation, nothing more. The discomfort is real, but it's not a problem to be solved instantly; it's closer to a mild itch than an emergency. The trouble is that modern life has made it almost unnecessary to ever feel it: a phone in every pocket means the gap between 'I feel a flicker of boredom' and 'I'm scrolling something' has shrunk to less than a second for most people, most of the time. That gap used to be where daydreaming, idle problem-solving, and simply noticing your surroundings happened."
+      },
+      {
+        "type": "paragraph",
+        "text": "This matters for composure because boredom tolerance and emotional-impulse tolerance draw on the same underlying capacity: the ability to feel an uncomfortable urge and not immediately act on it. If your only trained response to any uncomfortable internal state, boredom included, is instant relief-seeking, that same reflex generalizes to frustration, awkward silence, and anger — you reach for the fastest exit instead of sitting with the feeling long enough to choose a better response."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Boredom tolerance is a rep for the same muscle used in emotional regulation: noticing an urge, and letting a little time pass before you act on it."
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful concept here is 'urge surfing' — treating an urge (to check your phone, to snap at someone, to leave an uncomfortable conversation) as a wave that rises, peaks, and falls on its own within a couple of minutes if you don't feed it. You don't have to fight the urge or distract yourself from it; you just have to notice it, and wait it out, the same way you'd wait out a wave rather than trying to push it back."
+      },
+      {
+        "type": "paragraph",
+        "text": "Try this today: the next time you feel the first flicker of boredom — in a waiting room, a slow moment at work, a red light — deliberately leave your phone where it is for two full minutes and just notice what your mind does instead. It will likely be uncomfortable at first and then genuinely interesting. That's the whole rep."
+      }
+    ],
+    "estimatedMinutes": 4,
+    "tags": ["boredom", "attention", "urgeSurfing", "impulseControl"],
+    "relatedDrillIds": ["comp_d29"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l14",
+    "disciplineId": "composure",
+    "title": "The Notification Trap: Digital Reactivity and Composure",
+    "hook": "Ask yourself honestly: the last time your phone buzzed, did you decide to check it, or did your hand just move?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "When was the last time a notification arrived and you consciously weighed whether to look at it right now versus in an hour? For most people, the honest answer is: not recently, maybe not ever this week. The hand moves toward the phone before a decision has really been made. Worth asking: is that reflex actually serving you, or has something about the design of these devices trained it into you without your consent?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's a relevant piece of psychology: intermittent, unpredictable rewards produce stronger, harder-to-break habitual behavior than rewards that arrive on a predictable schedule — this is the same mechanism behind slot machines. Most notifications are unpredictable in exactly this way: sometimes it's something meaningful, sometimes it's nothing, and you can't tell which until you check. That unpredictability is not an accident of app design; it's a well-understood lever, and it's why the urge to check feels so much stronger than the actual importance of most notifications would justify."
+      },
+      {
+        "type": "paragraph",
+        "text": "So what does this have to do with composure specifically? Every unplanned check is a small rep in reactivity — a tiny practice run in letting an external signal, rather than your own intention, decide what you pay attention to next. Do a hundred of those reps a day, and it's not surprising that the same reflex shows up elsewhere: reacting instantly to a provocative comment, an aggressive email, a piece of news, without the pause that composure actually requires. If your attention is trained all day to jump the instant something buzzes, why would it suddenly hold steady the moment something more emotionally charged happens?"
+      },
+      {
+        "type": "keyPoint",
+        "text": "Every unplanned notification check is a small rehearsal of reactivity. Composure is partly built or eroded in these tiny, unglamorous moments, not just the dramatic ones."
+      },
+      {
+        "type": "paragraph",
+        "text": "So, what's actually within your control here? Turning off non-essential badges and banners, so the decision to check something happens on your terms rather than the app's. Batching checks — three or four set windows a day instead of constant availability. And, during any block of time where composure or focus actually matters, physically putting the phone in another room rather than relying on willpower to ignore a buzzing object six inches from your hand. None of this requires becoming a different person. It requires noticing, honestly, how many times a day your attention is being auctioned off to a buzz you didn't choose — and deciding that's worth changing."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["digitalReactivity", "notifications", "attention", "habits"],
+    "relatedDrillIds": ["comp_d23"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l15",
+    "disciplineId": "composure",
+    "title": "Composure as a Leadership Trait",
+    "hook": "A leader's nervous system is contagious. The room borrows its emotional temperature from whoever's in charge.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Emotional contagion — the well-documented tendency for people to unconsciously mimic and absorb the emotional expressions of those around them — is stronger the more status or attention a person holds in a group. In practice, this means a leader's visible state during a crisis, a tense meeting, or a piece of bad news doesn't stay contained to that one person; it spreads through the room faster than the actual information does. A leader who visibly spirals into panic during a setback doesn't just fail to help — they actively lower the group's collective ability to think clearly, at the exact moment clear thinking matters most."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is often misunderstood as a call for leaders to project constant, unshakable positivity — forced smiles and reassurance regardless of how bad things actually are. That's not composure, and people tend to see through it quickly, which erodes trust rather than building it. The more useful version is closer to what's sometimes called 'grounded honesty': naming the difficulty accurately ('this is a real setback and I don't have the full answer yet') while keeping your voice, pace, and body steady. The message can be serious. The delivery stays regulated. That combination — honest content, steady delivery — is what actually reassures people, because it signals that the situation is bad but not being mishandled."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Composed leadership is not the same as emotionless or falsely upbeat leadership.",
+        "meta": {
+          "myth": "The most composed leaders are the ones who never show any negative emotion and always sound optimistic, no matter what's happening.",
+          "fact": "Research on trust and leadership communication generally finds that leaders who acknowledge difficulty honestly, while maintaining a steady tone and clear next steps, are trusted more than leaders who either panic openly or insist everything is fine when it obviously isn't. Composure is steadiness under honest acknowledgment, not the suppression of bad news."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "A leader's regulated nervous system is one of the most practical tools they have — not because it changes the facts of a hard situation, but because it changes how clearly everyone around them can think about those facts."
+      },
+      {
+        "type": "paragraph",
+        "text": "This scales down to any moment where you're the person others are watching for a cue — a parent during a household emergency, a senior person on a small team, even a friend in a group when something goes wrong on a trip. The specific skill worth practicing is separating two things that feel fused in the moment: your actual internal alarm, and what you choose to project outward. You're allowed to feel the alarm fully. What you say, how fast you say it, and how loud, is a separate, practicable decision — and it's the part everyone else is actually reading."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["leadership", "emotionalContagion", "trust", "composure"],
+    "relatedDrillIds": ["comp_d31", "comp_d33"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l16",
+    "disciplineId": "composure",
+    "title": "Journaling as an Emotional-Regulation Tool",
+    "hook": "You don't need a beautiful notebook or a poetic voice. You need somewhere to put the loop that's been running in your head all day.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "One of the more consistently replicated findings in psychology, going back to research by James Pennebaker in the 1980s, is that writing about an emotionally difficult experience for even fifteen to twenty minutes, across a few sessions, is associated with measurable improvements in mood and stress markers compared to writing about a neutral topic. The proposed mechanism isn't mystical: putting a chaotic internal experience into words on a page forces it into a linear, organized structure, which seems to make it easier for the mind to file away rather than keep replaying."
+      },
+      {
+        "type": "paragraph",
+        "text": "The key distinction is between reflection and rumination. Rumination is replaying the same distressing loop in your head without new insight — going over an argument for the tenth time and feeling exactly as bad as the first time. Reflection, the useful version, moves somewhere: it asks what happened, why it might have happened, and what you'd want to do differently. Journaling helps push rumination toward reflection mainly because writing is slower than thinking, which forces you to actually finish a thought instead of looping back to the start of it."
+      },
+      {
+        "type": "keyPoint",
+        "text": "The regulation benefit of journaling comes from externalizing a loop, not from producing something well-written — a messy, unpolished page that gets the thought out of your head and onto paper does the job."
+      },
+      {
+        "type": "paragraph",
+        "text": "You don't need a complicated system. A simple, repeatable version: after a day with a notable emotional spike — good or bad — write for five minutes about what happened, what you felt in your body, and one honest sentence about what you'd do differently if it happened again. Skip days you don't need it. The habit matters more than any single entry."
+      }
+    ],
+    "estimatedMinutes": 4,
+    "tags": ["journaling", "reflection", "emotionalRegulation", "writing"],
+    "relatedDrillIds": ["comp_d39"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l17",
+    "disciplineId": "composure",
+    "title": "Sleep's Effect on Emotional Reactivity",
+    "hook": "The fight you had at 9pm might have started the night before, in the four hours of sleep you didn't get.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Sleep researcher Matthew Walker's lab, among others, has found that a single night of sleep deprivation measurably increases amygdala reactivity to negative images — in one widely cited fMRI study, sleep-deprived participants showed roughly 60% greater amygdala activation to disturbing images compared to a well-rested group, alongside weaker connectivity to the prefrontal regions that normally help regulate that response. In plain terms: a tired brain reacts more strongly to negative stimuli and has a harder time putting the brakes on that reaction. This isn't a subjective impression people have about themselves — it shows up directly in brain imaging."
+      },
+      {
+        "type": "paragraph",
+        "text": "Consider a common case: someone sleeps four or five hours because of a late night, then gets a mildly critical comment from a coworker the next afternoon. On a well-rested day, that comment might register as a minor irritation, processed and dropped within a minute. On the sleep-deprived day, the same comment can trigger a disproportionate reaction — a sharp reply, a spike of anger that lingers for hours, or a wave of hurt that feels much larger than the comment warranted. The trigger looks the same from the outside. The nervous system receiving it is running on a completely different baseline."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Poor sleep doesn't just make you tired — it changes the threshold at which your emotional alarm system goes off.",
+        "meta": {
+          "myth": "Sleep mainly affects energy and focus; emotional reactions are separate and mostly about the situation itself.",
+          "fact": "Imaging research shows sleep loss directly amplifies the brain's threat-detection response and weakens the prefrontal regulation that normally tempers it, meaning the same external event can produce a measurably larger emotional reaction purely because of how little sleep you got."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "If you notice you're unusually reactive on a given day, the most useful first question isn't 'what's wrong with me' — it's 'how did I sleep last night,' because the answer often explains most of it."
+      },
+      {
+        "type": "paragraph",
+        "text": "This creates a loop worth naming: poor sleep raises reactivity, a reactive day raises stress hormones and rumination, and elevated stress hormones make it harder to fall and stay asleep that night. Breaking in anywhere helps — a wind-down routine that avoids screens for the last thirty minutes, a consistent wake time even after a bad night, or simply lowering your expectations of your own patience on days you know you're running on too little sleep, and building in more margin for the small stuff accordingly."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["sleep", "amygdala", "reactivity", "research"],
+    "relatedDrillIds": ["comp_d30", "comp_d44"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l18",
+    "disciplineId": "composure",
+    "title": "Suppression vs. Regulation: Why Faking Calm Backfires",
+    "hook": "Looking calm and being calm are not the same thing — and the gap between them costs your body more than the emotion itself would have.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "There's an important, well-supported distinction in emotion research between expressive suppression — pushing down the outward signs of an emotion while it's still fully active inside you — and genuine regulation, where the intensity of the emotion itself is actually reduced. Psychologist James Gross's research on this is fairly consistent: people instructed to suppress their emotional expression during a stressful task show elevated cardiovascular activity — higher blood pressure, more physiological strain — that persists for the duration of the effort, even though they look outwardly composed. The stone face is not free. It costs real physiological effort to maintain, and the emotion underneath hasn't gone anywhere."
+      },
+      {
+        "type": "paragraph",
+        "text": "Genuine regulation looks different and works through a different channel — most commonly reappraisal, which means changing your interpretation of the situation itself ('this criticism is about the project, not about me as a person') rather than just hiding your reaction to it. Reappraisal has been shown, across many studies, to actually lower measured physiological arousal, not just its outward display. It's a harder skill to build than a poker face, because it requires a genuine shift in perspective rather than a muscular one in your expression, but it's the version that actually reduces the internal cost."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "A calm exterior can be hiding a nervous system working overtime, not a settled one.",
+        "meta": {
+          "myth": "If you can keep your face and voice steady during a stressful moment, you've successfully regulated your emotions.",
+          "fact": "Suppression research shows the opposite is often true — maintaining a calm exterior while the underlying emotion is still fully active requires continuous effort and is linked to sustained elevated heart rate and blood pressure. A steady face doesn't guarantee a steady body; sometimes it's evidence of exactly the opposite."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "The composure worth building isn't a better mask — it's the slower skill of changing how you're interpreting the moment, which is the only version that actually lowers the internal cost, not just the visible one."
+      },
+      {
+        "type": "paragraph",
+        "text": "There's also a social cost to habitual suppression worth naming: studies on close relationships have found that when one partner suppresses emotion during a difficult conversation, the other partner's own physiological stress often rises too, even without knowing exactly why — something about the flattened, effortful quality of suppressed communication seems to be picked up on nonverbally. Genuine regulation, by contrast, tends to allow more authentic, if calmer, expression, which reads as more trustworthy rather than as tightly controlled. None of this means suppression is never useful — sometimes holding your face still for thirty seconds in a meeting is exactly the right move while you find your footing. But it's a short-term tool, not a substitute for the slower work of actually changing your read on the situation."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["suppression", "regulation", "emotionalRegulation", "reappraisal"],
+    "relatedDrillIds": ["comp_d38"],
+    "relatedCardIds": []
+  }
+]

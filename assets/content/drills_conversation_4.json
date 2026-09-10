@@ -1,0 +1,374 @@
+[
+  {
+    "id": "conv_d31",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write what you would say and do to comfort a grieving friend, without rushing to fix it.",
+    "stimulusText": "Your friend's father passed away last week. You're sitting with them and they suddenly start crying. You feel the urge to say something that makes it better.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d31_q1",
+        "prompt": "Write what you would actually say and do in this moment.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. I'd sit quietly next to them without rushing to fill the silence, then say 'I'm so sorry about your dad, I'm right here,' and ask if they want to talk about him or just sit together.",
+        "explanation": "A strong answer prioritizes presence and plain acknowledgment over a silver lining or a rushed attempt to fix the pain."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d32",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the response that calibrates self-disclosure appropriately for how well you know someone.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d32_q1",
+        "prompt": "You've just met someone an hour ago at a dinner. What's the better level of disclosure to start with?",
+        "type": "multipleChoice",
+        "options": ["A detailed account of your recent painful divorce.", "A moderately personal detail, gauging how they respond before going deeper.", "Nothing personal at all, ever.", "Only questions about them, revealing nothing of yourself."],
+        "correctAnswer": "A moderately personal detail, gauging how they respond before going deeper.",
+        "explanation": "Closeness builds through gradually reciprocal escalation, not front-loading maximum vulnerability with someone new."
+      },
+      {
+        "id": "conv_d32_q2",
+        "prompt": "After you share something personal, the other person deflects with a joke. What does that most likely signal?",
+        "type": "multipleChoice",
+        "options": ["This particular depth isn't where they're comfortable yet.", "They dislike you.", "You should share something even more personal immediately.", "The conversation has failed completely."],
+        "correctAnswer": "This particular depth isn't where they're comfortable yet.",
+        "explanation": "A deflection is useful information about pacing, not a verdict on the relationship, and pushing past it usually reads as pressure."
+      },
+      {
+        "id": "conv_d32_q3",
+        "prompt": "A relationship has stayed at a permanently shallow level for months. What's the likely cost?",
+        "type": "multipleChoice",
+        "options": ["Nothing, shallow relationships are just as strong.", "It tends to plateau, since there's nowhere further for the other person to meet you.", "It automatically deepens over time regardless.", "It becomes more efficient."],
+        "correctAnswer": "It tends to plateau, since there's nowhere further for the other person to meet you.",
+        "explanation": "Staying permanently guarded caps how far a relationship can grow, even if nothing is actively wrong with it."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d33",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write how you would open a conversation asking your manager for a raise.",
+    "stimulusText": "You've taken on significantly more responsibility over the past year without a corresponding pay increase. You've scheduled time with your manager to discuss it.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d33_q1",
+        "prompt": "Write your opening line for the raise conversation.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. Thanks for making time. I wanted to talk about my compensation given the additional responsibilities I've taken on this year — can we go through what that's looked like?",
+        "explanation": "A strong answer is direct and specific about the ask, grounded in concrete added responsibility rather than vague hinting."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d34",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Choose the best way to give feedback to someone who tends to get defensive quickly.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d34_q1",
+        "prompt": "A teammate historically reacts defensively to any critique. What's the best way to open feedback with them?",
+        "type": "multipleChoice",
+        "options": ["Ask if now's a good time, then lead with one specific, low-stakes observation.", "Lead with the harshest point to get it over with.", "Avoid giving them feedback at all going forward.", "Give the feedback through a third person instead."],
+        "correctAnswer": "Ask if now's a good time, then lead with one specific, low-stakes observation.",
+        "explanation": "Asking permission and starting small reduces the threat response that triggers their defensiveness, making the rest easier to hear."
+      },
+      {
+        "id": "conv_d34_q2",
+        "prompt": "Which framing is least likely to trigger defensiveness in a sensitive teammate?",
+        "type": "multipleChoice",
+        "options": ["You always mess up the client stuff.", "This specific email came across as curt to the client.", "You clearly don't care about client relationships.", "Why do you keep doing this?"],
+        "correctAnswer": "This specific email came across as curt to the client.",
+        "explanation": "It stays at the level of one instance of behavior rather than making a sweeping identity-level claim."
+      },
+      {
+        "id": "conv_d34_q3",
+        "prompt": "The teammate gets visibly tense as you start. Best next move?",
+        "type": "multipleChoice",
+        "options": ["Pause, soften your tone, and reaffirm you're on their side before continuing.", "Push through faster to get it all out.", "Raise your voice to seem more confident.", "Stop and never bring it up again."],
+        "correctAnswer": "Pause, soften your tone, and reaffirm you're on their side before continuing.",
+        "explanation": "Slowing down and signaling you're not attacking them helps keep the conversation from shutting down entirely."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d35",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write a message that follows through on an apology with a concrete change.",
+    "stimulusText": "Two weeks ago you apologized to your roommate for repeatedly leaving dishes in the sink, and promised to do better. This week you left dishes again, and you know they've noticed.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d35_q1",
+        "prompt": "Write what you'd say to address the repeated behavior honestly, without a hollow re-apology.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. I know I said I'd do better and then didn't this week — I'm sorry, and I'm setting a nightly reminder so this actually changes instead of just being words again.",
+        "explanation": "A strong answer names the repeated pattern honestly and commits to a concrete new action, rather than repeating empty words."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d36",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Choose the best nonverbal cue to read before speaking up in a room.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d36_q1",
+        "prompt": "You enter a room where two people are standing with arms crossed, speaking in clipped, quiet tones. What does this most likely suggest?",
+        "type": "multipleChoice",
+        "options": ["Tension beneath the surface that's worth reading before jumping in.", "Everything is completely relaxed.", "They want you to interrupt them.", "Nothing meaningful, body language is random."],
+        "correctAnswer": "Tension beneath the surface that's worth reading before jumping in.",
+        "explanation": "Closed posture and clipped tone are common signals of unresolved tension, worth noticing before adding your own agenda."
+      },
+      {
+        "id": "conv_d36_q2",
+        "prompt": "What's the best general rule for scanning a room before contributing?",
+        "type": "multipleChoice",
+        "options": ["Check energy level, then any visible tension, before deciding what to say.", "Speak first and adjust based on reactions afterward.", "Ignore the room and follow your own plan regardless.", "Wait for someone to explicitly tell you the mood."],
+        "correctAnswer": "Check energy level, then any visible tension, before deciding what to say.",
+        "explanation": "A quick, deliberate scan for energy and tension gives you the information needed to calibrate your contribution."
+      },
+      {
+        "id": "conv_d36_q3",
+        "prompt": "The room's energy is low and heavy after bad news. What should you generally do first?",
+        "type": "multipleChoice",
+        "options": ["Match the lower energy before attempting to lighten the mood.", "Immediately try to cheer everyone up.", "Leave the room without acknowledging anything.", "Ask everyone to explain exactly why they're upset."],
+        "correctAnswer": "Match the lower energy before attempting to lighten the mood.",
+        "explanation": "Matching the room's current state first tends to land better than trying to shift the mood before anyone feels understood."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d37",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write a clear, warm no.",
+    "stimulusText": "A close friend has asked you to be a bridesmaid/groomsman, but the cost of travel and the wedding events is more than you can afford right now, and you don't want to go into debt over it.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d37_q1",
+        "prompt": "Write how you would say no to this specific request, honestly and warmly.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. I'm so honored you asked, and I have to be honest — I can't take on the cost of being in the wedding party right now, but I'll absolutely be there celebrating you either way.",
+        "explanation": "A strong answer is honest about the real reason without over-justifying, and reaffirms the relationship isn't in question."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d38",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the best way to repair a conversation after you snapped at someone.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d38_q1",
+        "prompt": "You snapped irritably at a coworker in a meeting. Best repair afterward?",
+        "type": "multipleChoice",
+        "options": ["I want to apologize for how sharp I was earlier, that wasn't about you.", "Ignore it, they'll forget by tomorrow.", "Wait for them to bring it up first.", "Explain that you were just being honest."],
+        "correctAnswer": "I want to apologize for how sharp I was earlier, that wasn't about you.",
+        "explanation": "A prompt, specific acknowledgment repairs faster than waiting for the other person to raise it or pretending it didn't happen."
+      },
+      {
+        "id": "conv_d38_q2",
+        "prompt": "How soon after a misunderstanding should you generally address it?",
+        "type": "multipleChoice",
+        "options": ["As soon as reasonably possible, ideally the same day.", "After a week has passed, to let things cool down completely.", "Never, if it seems minor.", "Only if the other person brings it up first."],
+        "correctAnswer": "As soon as reasonably possible, ideally the same day.",
+        "explanation": "Mix-ups addressed quickly repair easily, while ones left to sit tend to grow a story around the silence itself."
+      },
+      {
+        "id": "conv_d38_q3",
+        "prompt": "Which best balances explaining your intent with acknowledging the impact?",
+        "type": "multipleChoice",
+        "options": ["I didn't mean it that way, and I can see how it landed badly — I'm sorry.", "I didn't mean it that way, so you shouldn't be upset.", "I'm sorry you're upset, even though I did nothing wrong.", "It doesn't matter what I meant, only what happened."],
+        "correctAnswer": "I didn't mean it that way, and I can see how it landed badly — I'm sorry.",
+        "explanation": "It offers an honest account of intent while still fully acknowledging the real impact, rather than using intent as a shield."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d39",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Choose the response that best transitions small talk into a more genuine exchange.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d39_q1",
+        "prompt": "After a few rounds of light small talk, what's a good way to test for more depth?",
+        "type": "multipleChoice",
+        "options": ["Add one sentence of genuine reaction or detail before your next question.", "Immediately ask a deeply personal question.", "Stay exactly as light as before, indefinitely.", "Point out that the conversation feels shallow."],
+        "correctAnswer": "Add one sentence of genuine reaction or detail before your next question.",
+        "explanation": "A small, voluntary offering tests the water for depth without forcing it or interrogating the other person."
+      },
+      {
+        "id": "conv_d39_q2",
+        "prompt": "Small talk primarily serves what function early in a conversation?",
+        "type": "multipleChoice",
+        "options": ["Establishing tone and basic goodwill before deeper exchange.", "Wasting time until real conversation is possible.", "Testing someone's intelligence.", "Filling silence with no other purpose."],
+        "correctAnswer": "Establishing tone and basic goodwill before deeper exchange.",
+        "explanation": "Small talk does genuine social work — it's a ramp, not a waste, even though it isn't the destination."
+      },
+      {
+        "id": "conv_d39_q3",
+        "prompt": "Diving straight into a heavy, personal topic with a total stranger, skipping any small talk, usually reads as:",
+        "type": "multipleChoice",
+        "options": ["Intense or presumptuous rather than deep.", "Efficient and appreciated by most people.", "The fastest way to build trust.", "Completely neutral, no different from small talk."],
+        "correctAnswer": "Intense or presumptuous rather than deep.",
+        "explanation": "Skipping the groundwork small talk provides tends to make depth feel like pressure rather than genuine connection."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d40",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "timedPressure",
+    "difficulty": 3,
+    "prompt": "Rapid fire: judge each claim about grief, boundaries, disclosure, and repair as true or false, fast.",
+    "stimulusText": "A series of quick claims about comforting, self-disclosure, feedback, and apology. Judge each one fast.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d40_q1",
+        "prompt": "Offering a silver lining, like 'at least they're not suffering,' is usually the most comforting thing to say to someone grieving.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Reframes can quietly dictate how someone should feel, which often lands worse than simply staying present with them."
+      },
+      {
+        "id": "conv_d40_q2",
+        "prompt": "Sitting quietly with someone who is crying, without narrating the silence, can be one of the most supportive things you can do.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Presence itself does the comforting work; rushing to fill silence is often more about the comforter's own discomfort."
+      },
+      {
+        "id": "conv_d40_q3",
+        "prompt": "A specific offer like 'can I bring dinner Thursday' is generally easier to accept than 'let me know if you need anything.'",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Open-ended offers quietly put the burden of asking on someone who is already depleted; specific offers remove that burden."
+      },
+      {
+        "id": "conv_d40_q4",
+        "prompt": "Sharing your deepest vulnerabilities with someone you just met tends to build trust faster than gradual disclosure.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Closeness tends to build through gradual, reciprocal disclosure, not front-loaded intimacy that outpaces the relationship's trust."
+      },
+      {
+        "id": "conv_d40_q5",
+        "prompt": "Feedback delivered privately tends to land better than the same feedback delivered in front of a group.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Public feedback is often received as a correction in front of an audience rather than absorbed as coaching."
+      },
+      {
+        "id": "conv_d40_q6",
+        "prompt": "An apology followed by no actual change in behavior eventually reads as empty, no matter how well-worded it was.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Trust is rebuilt through consistent changed behavior over time, not through the eloquence of the words alone."
+      },
+      {
+        "id": "conv_d40_q7",
+        "prompt": "A boundary you can only state clearly after a conversation has ended is just as useful as one you can state in the moment.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "The real skill is holding a boundary live, under time pressure, not just being able to articulate it afterward in hindsight."
+      },
+      {
+        "id": "conv_d40_q8",
+        "prompt": "Checking in on a grieving friend weeks or months later, after most people have moved on, is often remembered as especially meaningful.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Grief doesn't end on a schedule, and a later check-in often reaches someone when everyone else has stopped asking."
+      },
+      {
+        "id": "conv_d40_q9",
+        "prompt": "Naming the specific behavior that hurt someone matters less than the overall sincerity of your tone when apologizing.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Vague sincerity without naming the specific action rarely produces real repair, even if the tone is warm."
+      },
+      {
+        "id": "conv_d40_q10",
+        "prompt": "A relationship that stays permanently guarded on both sides can still deepen naturally over enough time.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Without at least occasional deliberate risk-taking in disclosure, a relationship tends to plateau rather than deepen on its own."
+      }
+    ],
+    "estimatedMinutes": 4
+  }
+]

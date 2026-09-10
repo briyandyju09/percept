@@ -65,7 +65,7 @@ class _CaseDeductionScreenState extends ConsumerState<CaseDeductionScreen> {
                             ),
                             child: Row(
                               children: [
-                                Text(c.portraitEmoji, style: const TextStyle(fontSize: 22)),
+                                Text(c.portraitEmoji, style: const TextStyle(fontSize: PerceptGlyphSize.row)),
                                 const SizedBox(width: PerceptSpacing.md),
                                 Expanded(
                                   child: Column(

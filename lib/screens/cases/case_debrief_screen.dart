@@ -94,7 +94,7 @@ class CaseDebriefScreen extends ConsumerWidget {
                           children: [
                             Row(
                               children: [
-                                Text(flag.triggered ? '⚠️' : '✓', style: const TextStyle(fontSize: 16)),
+                                Text(flag.triggered ? '⚠️' : '✓', style: const TextStyle(fontSize: PerceptGlyphSize.inline)),
                                 const SizedBox(width: PerceptSpacing.sm),
                                 Expanded(
                                   child: Text(

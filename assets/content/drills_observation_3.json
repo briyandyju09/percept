@@ -1,0 +1,538 @@
+[
+  {
+    "id": "obs_d21",
+    "disciplineId": "observation",
+    "title": "Kitchen Counter Clutter",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 3,
+    "stimulusText": "A kitchen counter has a wooden cutting board with three lime halves on it, a metal kettle just starting to steam, a dish towel with blue stripes hanging from the oven handle, and a grocery receipt curled up near the sink.",
+    "stimulusFacts": [
+      "cutting board had three lime halves",
+      "kettle was starting to steam",
+      "dish towel had blue stripes and hung from the oven handle",
+      "grocery receipt was curled up near the sink"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d21_q1",
+        "type": "numericInput",
+        "prompt": "How many lime halves were on the cutting board?",
+        "correctAnswer": "3"
+      },
+      {
+        "id": "obs_d21_q2",
+        "type": "multipleChoice",
+        "prompt": "What color stripes were on the dish towel?",
+        "options": [
+          "Red",
+          "Blue",
+          "Green",
+          "Black"
+        ],
+        "correctAnswer": "Blue"
+      },
+      {
+        "id": "obs_d21_q3",
+        "type": "trueFalse",
+        "prompt": "The kettle was steaming.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      },
+      {
+        "id": "obs_d21_q4",
+        "type": "textInput",
+        "prompt": "Where was the grocery receipt found?",
+        "correctAnswer": "near the sink"
+      }
+    ],
+    "prompt": "Study the scene below for 20 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d22",
+    "disciplineId": "observation",
+    "title": "Bulletin Board",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 3,
+    "stimulusText": "A community bulletin board holds a flyer for a lost cat named Whiskers, a business card for a plumber, a notice for a yoga class on Tuesdays, and a pushpin holding up a torn corner of one flyer.",
+    "stimulusFacts": [
+      "lost cat flyer named the cat Whiskers",
+      "business card advertised a plumber",
+      "yoga class notice listed Tuesdays",
+      "a pushpin held up a torn flyer corner"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d22_q1",
+        "type": "textInput",
+        "prompt": "What was the lost cat's name?",
+        "correctAnswer": "Whiskers"
+      },
+      {
+        "id": "obs_d22_q2",
+        "type": "multipleChoice",
+        "prompt": "What day was the yoga class on?",
+        "options": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Friday"
+        ],
+        "correctAnswer": "Tuesday"
+      },
+      {
+        "id": "obs_d22_q3",
+        "type": "trueFalse",
+        "prompt": "One of the flyers had a torn corner held by a pushpin.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      },
+      {
+        "id": "obs_d22_q4",
+        "type": "multipleChoice",
+        "prompt": "What service did the business card advertise?",
+        "options": [
+          "plumbing",
+          "electrician",
+          "tutoring",
+          "landscaping"
+        ],
+        "correctAnswer": "plumbing"
+      }
+    ],
+    "prompt": "Study the scene below for 20 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d23",
+    "disciplineId": "observation",
+    "title": "This Morning's Walk",
+    "type": "recallQuiz",
+    "difficulty": 2,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 4,
+    "stimulusText": "Picture a morning walk: a jogger passes wearing bright green shoes, a construction crew has cordoned off half the sidewalk with orange cones (you count six), a coffee cart plays quiet radio static, and a cat watches from a first-floor windowsill.",
+    "stimulusFacts": [
+      "jogger wore bright green shoes",
+      "six orange cones cordoned off half the sidewalk",
+      "coffee cart's radio played quiet static",
+      "cat watched from a first-floor windowsill"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d23_q1",
+        "type": "multipleChoice",
+        "prompt": "What color were the jogger's shoes?",
+        "options": [
+          "Blue",
+          "Green",
+          "Red",
+          "White"
+        ],
+        "correctAnswer": "Green"
+      },
+      {
+        "id": "obs_d23_q2",
+        "type": "numericInput",
+        "prompt": "How many orange cones were there?",
+        "correctAnswer": "6"
+      },
+      {
+        "id": "obs_d23_q3",
+        "type": "trueFalse",
+        "prompt": "The cat was sitting on a second-floor windowsill.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False"
+      },
+      {
+        "id": "obs_d23_q4",
+        "type": "textInput",
+        "prompt": "What was coming from the coffee cart's radio?",
+        "correctAnswer": "static"
+      }
+    ],
+    "prompt": "Read this once, wait a moment, then answer from memory."
+  },
+  {
+    "id": "obs_d24",
+    "disciplineId": "observation",
+    "title": "Bookshelf Spines",
+    "type": "observationSprint",
+    "difficulty": 2,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 4,
+    "stimulusText": "A bookshelf shows five spines in order: a thick red dictionary, a thin blue poetry book, a yellow field guide, a black novel, and a green atlas leaning slightly to the right.",
+    "stimulusFacts": [
+      "order was red dictionary, blue poetry book, yellow field guide, black novel, green atlas",
+      "the poetry book was the thinnest and blue",
+      "the atlas was leaning slightly to the right",
+      "there were five books total"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d24_q1",
+        "type": "multipleChoice",
+        "prompt": "Which book was leaning?",
+        "options": [
+          "the dictionary",
+          "the poetry book",
+          "the field guide",
+          "the atlas"
+        ],
+        "correctAnswer": "the atlas"
+      },
+      {
+        "id": "obs_d24_q2",
+        "type": "textInput",
+        "prompt": "What color was the thinnest book?",
+        "correctAnswer": "blue"
+      },
+      {
+        "id": "obs_d24_q3",
+        "type": "numericInput",
+        "prompt": "How many books were on the shelf?",
+        "correctAnswer": "5"
+      },
+      {
+        "id": "obs_d24_q4",
+        "type": "trueFalse",
+        "prompt": "The atlas was leaning to the left.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False"
+      }
+    ],
+    "prompt": "Study the scene below for 20 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d25",
+    "disciplineId": "observation",
+    "title": "Which Face Changed",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 4,
+    "stimulusText": "Three sketched faces are shown side by side, identical except for one detail each: Face A has raised eyebrows, Face B has raised eyebrows and a slight frown, Face C has raised eyebrows, a slight frown, and a shift in eye direction — each face compounds one new change onto the last.",
+    "stimulusFacts": [
+      "Face A: raised eyebrows only",
+      "Face B adds a slight frown to Face A",
+      "Face C adds a shift in eye direction to Face B",
+      "all three faces share raised eyebrows"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d25_q1",
+        "type": "multipleChoice",
+        "prompt": "What new detail did Face B add compared to Face A?",
+        "options": [
+          "a frown",
+          "closed eyes",
+          "a raised eyebrow",
+          "a smile"
+        ],
+        "correctAnswer": "a frown"
+      },
+      {
+        "id": "obs_d25_q2",
+        "type": "multipleChoice",
+        "prompt": "What new detail did Face C add compared to Face B?",
+        "options": [
+          "a frown",
+          "a shift in eye direction",
+          "raised eyebrows",
+          "a beard"
+        ],
+        "correctAnswer": "a shift in eye direction"
+      },
+      {
+        "id": "obs_d25_q3",
+        "type": "trueFalse",
+        "prompt": "All three faces shared raised eyebrows.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      }
+    ],
+    "prompt": "Study the description below for 20 seconds, then answer."
+  },
+  {
+    "id": "obs_d26",
+    "disciplineId": "observation",
+    "title": "Parking Lot",
+    "type": "observationSprint",
+    "difficulty": 3,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 5,
+    "stimulusText": "A parking lot at dusk: a silver sedan parked crookedly across two spaces, a shopping cart abandoned near a light pole, a security camera mounted on a pole blinking red, and a stack of three flattened cardboard boxes by the curb.",
+    "stimulusFacts": [
+      "silver sedan parked crookedly across two spaces",
+      "shopping cart abandoned near a light pole",
+      "security camera blinking red",
+      "three flattened cardboard boxes stacked by the curb"
+    ],
+    "stimulusSeconds": 25,
+    "questions": [
+      {
+        "id": "obs_d26_q1",
+        "type": "multipleChoice",
+        "prompt": "What color was the sedan?",
+        "options": [
+          "Silver",
+          "Black",
+          "Red",
+          "Blue"
+        ],
+        "correctAnswer": "Silver"
+      },
+      {
+        "id": "obs_d26_q2",
+        "type": "numericInput",
+        "prompt": "How many cardboard boxes were stacked by the curb?",
+        "correctAnswer": "3"
+      },
+      {
+        "id": "obs_d26_q3",
+        "type": "trueFalse",
+        "prompt": "The security camera light was blinking green.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False"
+      },
+      {
+        "id": "obs_d26_q4",
+        "type": "textInput",
+        "prompt": "What was abandoned near the light pole?",
+        "correctAnswer": "shopping cart"
+      }
+    ],
+    "prompt": "Study the scene below for 25 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d27",
+    "disciplineId": "observation",
+    "title": "Dinner Table Setting",
+    "type": "observationSprint",
+    "difficulty": 4,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 5,
+    "stimulusText": "A dinner table for four: two settings have wine glasses, one has a water glass only, and one seat has no glass at all. A bread basket sits closer to the two settings with wine glasses. A single candle burns in the center, and one napkin has fallen to the floor.",
+    "stimulusFacts": [
+      "two settings had wine glasses",
+      "one setting had a water glass only",
+      "one seat had no glass at all",
+      "bread basket sat near the settings with wine glasses",
+      "a candle burned in the center",
+      "one napkin had fallen to the floor"
+    ],
+    "stimulusSeconds": 25,
+    "questions": [
+      {
+        "id": "obs_d27_q1",
+        "type": "numericInput",
+        "prompt": "How many settings had wine glasses?",
+        "correctAnswer": "2"
+      },
+      {
+        "id": "obs_d27_q2",
+        "type": "trueFalse",
+        "prompt": "One seat had no glass at all.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      },
+      {
+        "id": "obs_d27_q3",
+        "type": "textInput",
+        "prompt": "What had fallen to the floor?",
+        "correctAnswer": "napkin"
+      },
+      {
+        "id": "obs_d27_q4",
+        "type": "multipleChoice",
+        "prompt": "Where was the bread basket placed?",
+        "options": [
+          "near the settings with wine glasses",
+          "near the settings with water only",
+          "in the center",
+          "on the empty seat"
+        ],
+        "correctAnswer": "near the settings with wine glasses"
+      }
+    ],
+    "prompt": "Study the scene below for 25 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d28",
+    "disciplineId": "observation",
+    "title": "Pattern in the Tiles",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 4,
+    "stimulusText": "A floor is tiled in a repeating sequence: dark, dark, light, dark, dark, light, dark, light. The pattern is supposed to repeat 'dark, dark, light' but breaks once.",
+    "stimulusFacts": [
+      "expected repeating unit is dark, dark, light",
+      "the break happens at the 7th tile",
+      "only one dark tile appeared before the light tile there, instead of two"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d28_q1",
+        "type": "numericInput",
+        "prompt": "At what tile position (counting from 1) does the pattern break?",
+        "correctAnswer": "7"
+      },
+      {
+        "id": "obs_d28_q2",
+        "type": "trueFalse",
+        "prompt": "The expected repeating unit was 'dark, dark, light'.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      },
+      {
+        "id": "obs_d28_q3",
+        "type": "multipleChoice",
+        "prompt": "What was the break in the pattern?",
+        "options": [
+          "a light tile appeared where dark was expected",
+          "a dark tile appeared where light was expected",
+          "only one dark tile appeared instead of two before light",
+          "an extra light tile appeared"
+        ],
+        "correctAnswer": "only one dark tile appeared instead of two before light"
+      }
+    ],
+    "prompt": "Study the description below for 20 seconds, then answer."
+  },
+  {
+    "id": "obs_d29",
+    "disciplineId": "observation",
+    "title": "Night Street Scene",
+    "type": "observationSprint",
+    "difficulty": 5,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 6,
+    "stimulusText": "Under dim streetlight: a figure in a dark hoodie walks a bicycle rather than riding it, a shop's neon sign flickers between 'OPEN' and darkness, a cat's eyes reflect green from a doorway, and a single porch light two houses down is the only other illumination.",
+    "stimulusFacts": [
+      "the figure walked the bicycle rather than riding it",
+      "the neon sign flickered between 'OPEN' and darkness",
+      "the cat's eyes reflected green",
+      "the only other light was a porch light two houses down"
+    ],
+    "stimulusSeconds": 25,
+    "questions": [
+      {
+        "id": "obs_d29_q1",
+        "type": "trueFalse",
+        "prompt": "The figure was riding the bicycle.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False"
+      },
+      {
+        "id": "obs_d29_q2",
+        "type": "textInput",
+        "prompt": "What color did the cat's eyes reflect?",
+        "correctAnswer": "green"
+      },
+      {
+        "id": "obs_d29_q3",
+        "type": "multipleChoice",
+        "prompt": "What did the neon sign alternate between?",
+        "options": [
+          "'OPEN' and darkness",
+          "'CLOSED' and darkness",
+          "two colors",
+          "nothing, it stayed lit"
+        ],
+        "correctAnswer": "'OPEN' and darkness"
+      },
+      {
+        "id": "obs_d29_q4",
+        "type": "numericInput",
+        "prompt": "How many houses down was the porch light?",
+        "correctAnswer": "2"
+      }
+    ],
+    "prompt": "Study the scene below for 25 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d30",
+    "disciplineId": "observation",
+    "title": "The Meeting Room",
+    "type": "recallQuiz",
+    "difficulty": 5,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 6,
+    "stimulusText": "A meeting room before a meeting: seven chairs around a table, one chair pushed in further than the rest, a whiteboard with a half-erased diagram showing three boxes connected by arrows, a phone charger left plugged into a wall outlet, and a window with blinds tilted halfway open.",
+    "stimulusFacts": [
+      "seven chairs around the table",
+      "one chair pushed in further than the rest",
+      "whiteboard diagram showed three boxes connected by arrows, half-erased",
+      "phone charger left plugged into a wall outlet",
+      "blinds were tilted halfway open"
+    ],
+    "stimulusSeconds": 30,
+    "questions": [
+      {
+        "id": "obs_d30_q1",
+        "type": "numericInput",
+        "prompt": "How many chairs were around the table?",
+        "correctAnswer": "7"
+      },
+      {
+        "id": "obs_d30_q2",
+        "type": "numericInput",
+        "prompt": "How many boxes were in the whiteboard diagram?",
+        "correctAnswer": "3"
+      },
+      {
+        "id": "obs_d30_q3",
+        "type": "trueFalse",
+        "prompt": "The blinds were fully closed.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False"
+      },
+      {
+        "id": "obs_d30_q4",
+        "type": "textInput",
+        "prompt": "What was left plugged into the wall outlet?",
+        "correctAnswer": "phone charger"
+      }
+    ],
+    "prompt": "Read once, pause, then recall."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "card_conv_101",
+    "disciplineId": "conversation",
+    "hook": "The best question you can ask is usually the one you already heard the answer to.",
+    "concept": "A follow-up question that references a specific detail the other person just said signals real listening far more than a fresh, unrelated question. It costs nothing and tells them their words actually landed.",
+    "tryIt": "In your next conversation, pick one small specific detail the other person mentions — a name, a place, a feeling — and ask about that instead of introducing a new topic.",
+    "whyExplanation": "People can usually tell the difference between a question that grew out of what they said and one that was queued up regardless of their answer. The former proves attention; the latter just proves politeness.",
+    "sourceCitation": null,
+    "tags": ["listening", "follow-up questions"]
+  },
+  {
+    "id": "card_conv_102",
+    "disciplineId": "conversation",
+    "hook": "Most people don't want you to solve it. They want you to notice it first.",
+    "concept": "When someone shares a problem, the impulse to jump straight to solutions often skips a step they needed: feeling that the difficulty itself was registered before anyone starts fixing it.",
+    "tryIt": "The next time someone tells you about a problem, respond first with a plain acknowledgment of how it sounds, and wait to see if they ask for advice before offering any.",
+    "whyExplanation": "Skipping straight to solutions can unintentionally communicate that the feeling wasn't worth pausing on. Naming it first signals the person mattered more than the problem did.",
+    "sourceCitation": null,
+    "tags": ["empathy", "support"]
+  },
+  {
+    "id": "card_conv_103",
+    "disciplineId": "conversation",
+    "hook": "A raised voice is rarely an argument about the words being said.",
+    "concept": "Escalating volume in a disagreement usually signals that someone feels unheard, not that the specific facts under dispute have become more important. Matching that volume treats a feeling problem as a facts problem.",
+    "tryIt": "Next time a conversation starts to heat up, try deliberately lowering your own volume and pace by half, and notice what happens to the other person's.",
+    "whyExplanation": "Tone is contagious in both directions. Since escalation is often more about feeling unheard than the specific content, addressing the felt experience tends to de-escalate faster than winning the point.",
+    "sourceCitation": null,
+    "tags": ["conflict", "de-escalation"]
+  },
+  {
+    "id": "card_conv_104",
+    "disciplineId": "conversation",
+    "hook": "\"Why did you do that?\" and \"What happened?\" ask for the same information but land completely differently.",
+    "concept": "Questions that start with \"why\" in a tense moment tend to sound like a demand for justification, putting the other person on the defensive. Questions that start with \"what\" tend to invite a narrative instead of a defense.",
+    "tryIt": "The next time you want to understand why something went wrong, try phrasing your question as \"what happened\" instead of \"why did you.\"",
+    "whyExplanation": "A why-question implicitly assumes intent needs defending, which triggers self-protection. A what-question assumes there's simply a sequence of events to describe, which is easier to answer honestly.",
+    "sourceCitation": null,
+    "tags": ["conflict", "questions"]
+  },
+  {
+    "id": "card_conv_105",
+    "disciplineId": "conversation",
+    "hook": "Silence after a question isn't a gap you need to fill.",
+    "concept": "A pause after asking something meaningful often means the other person is genuinely thinking, not that the question landed badly. Rushing to fill that silence can cut off the more honest answer that was still forming.",
+    "tryIt": "The next time you ask a real question, count silently to five in your head before saying anything else, even if the pause feels uncomfortable.",
+    "whyExplanation": "Discomfort with silence is common, but thoughtful answers usually take longer to surface than reflexive ones. Protecting the pause protects the quality of what comes next.",
+    "sourceCitation": null,
+    "tags": ["listening", "silence"]
+  },
+  {
+    "id": "card_conv_106",
+    "disciplineId": "conversation",
+    "hook": "Disclosure works like a conversation of its own — one beat at a time, not all at once.",
+    "concept": "Sharing something moderately personal and watching how the other person responds, rather than front-loading maximum vulnerability, gives both people a chance to calibrate the pace of a new relationship together.",
+    "tryIt": "In your next conversation with someone new, share one detail that's slightly more personal than small talk, then let their response guide whether you go further.",
+    "whyExplanation": "Closeness tends to build through gradual, reciprocal escalation. Sharing too much too fast can outpace what the other person is ready to reciprocate, which often reads as pressure rather than intimacy.",
+    "sourceCitation": null,
+    "tags": ["disclosure", "rapport"]
+  },
+  {
+    "id": "card_conv_107",
+    "disciplineId": "conversation",
+    "hook": "The apology that repairs something and the one that doesn't often use almost the same words.",
+    "concept": "An apology that names the specific impact of what happened tends to land as genuine, while one that stays vague or immediately pivots to an explanation often reads as self-protective instead.",
+    "tryIt": "Next time you apologize for something real, name the specific effect it had on the other person before you explain your own reasoning, if you explain it at all.",
+    "whyExplanation": "People listening to an apology are usually checking whether the impact on them was actually understood. Leading with an explanation shifts the focus back to the apologizer's intentions instead.",
+    "sourceCitation": null,
+    "tags": ["apology", "repair"]
+  },
+  {
+    "id": "card_conv_108",
+    "disciplineId": "conversation",
+    "hook": "A boundary held mid-conversation is different from one announced in advance.",
+    "concept": "Boundaries are often easiest to state before a conversation starts, but the harder and more important skill is restating one calmly in the moment it's being tested, without over-explaining or escalating.",
+    "tryIt": "The next time someone pushes past something you said no to, restate the same boundary in fewer words instead of adding new justification.",
+    "whyExplanation": "Adding more justification each time a boundary is pushed can look like the boundary is negotiable. Restating it plainly signals it was already the final answer.",
+    "sourceCitation": null,
+    "tags": ["boundaries", "assertiveness"]
+  },
+  {
+    "id": "card_conv_109",
+    "disciplineId": "conversation",
+    "hook": "Feedback that changes behavior is almost always specific and almost never about character.",
+    "concept": "Feedback aimed at a specific, observable action (\"the report was missing the Q3 numbers\") tends to produce change, while feedback aimed at a trait (\"you're not detail-oriented\") tends to produce defensiveness instead.",
+    "tryIt": "Next time you give feedback, describe the specific action and its effect, and deliberately leave out any word that labels the person.",
+    "whyExplanation": "A specific action is something a person can concretely change next time. A character label just needs to be defended, since there's no clear next action attached to it.",
+    "sourceCitation": null,
+    "tags": ["feedback", "workplace"]
+  },
+  {
+    "id": "card_conv_110",
+    "disciplineId": "conversation",
+    "hook": "Hearing criticism well starts in your face before it starts in your words.",
+    "concept": "The instinctive facial reaction to criticism — a flinch, a tightening jaw — often registers before any verbal defense does, and the other person reads it as resistance even if your words stay measured.",
+    "tryIt": "The next time you receive critical feedback, consciously relax your jaw and eyebrows first, before saying anything at all.",
+    "whyExplanation": "Facial microexpressions are harder to consciously control than word choice, and people tend to weigh them heavily when judging whether feedback is actually landing.",
+    "sourceCitation": null,
+    "tags": ["feedback", "nonverbal"]
+  },
+  {
+    "id": "card_conv_111",
+    "disciplineId": "conversation",
+    "hook": "Small talk isn't shallow by nature. It's shallow when it never goes anywhere.",
+    "concept": "Small talk functions as a low-risk on-ramp to deeper conversation, not a destination in itself. The skill isn't avoiding it, it's noticing the moment it's ready to deepen and taking that opening.",
+    "tryIt": "In your next small-talk exchange, wait for a topic that gets a slightly longer or more animated answer than the others, and follow that one instead of moving to the next topic.",
+    "whyExplanation": "Small talk is largely a sorting process — most topics stay surface-level, but a few reliably get a longer, more energized response, and those are usually the ones worth following.",
+    "sourceCitation": null,
+    "tags": ["small talk", "rapport"]
+  },
+  {
+    "id": "card_conv_112",
+    "disciplineId": "conversation",
+    "hook": "Text messages carry none of the tone that made the same words feel fine out loud.",
+    "concept": "Written messages strip out tone of voice, facial expression, and timing, so the reader's brain fills in the missing tone — often defaulting to a more negative interpretation than the writer intended.",
+    "tryIt": "Before sending a short, blunt text that could be read multiple ways, add one line of context or warmth that would have been obvious if you'd said it out loud.",
+    "whyExplanation": "Ambiguous tone tends to get resolved toward the reader's current mood or worry, not toward the writer's actual intent, which is why brief texts are misread more often than brief in-person comments.",
+    "sourceCitation": null,
+    "tags": ["texting", "miscommunication"]
+  },
+  {
+    "id": "card_conv_113",
+    "disciplineId": "conversation",
+    "hook": "Directness that reads as refreshing in one room reads as rude in the next.",
+    "concept": "How much directness a conversation can tolerate varies by relationship, culture, and setting — the same blunt phrasing that works with a close friend can land as harsh with a new coworker or an in-law.",
+    "tryIt": "Before making a direct or critical comment with someone you don't know well, mentally check whether you've earned that level of directness with them yet, and soften it if you haven't.",
+    "whyExplanation": "Directness is calibrated by trust that's usually built over time. Skipping ahead to a directness level the relationship hasn't earned yet can read as disrespect rather than honesty.",
+    "sourceCitation": null,
+    "tags": ["directness", "calibration"]
+  },
+  {
+    "id": "card_conv_114",
+    "disciplineId": "conversation",
+    "hook": "Leaving a conversation well takes as much attention as starting one.",
+    "concept": "An exit that references something specific from the conversation, rather than a generic \"nice talking to you,\" tends to leave the other person with a better feeling about the whole exchange.",
+    "tryIt": "The next time you leave a conversation, close with one specific detail from what was actually discussed instead of a generic sign-off.",
+    "whyExplanation": "People tend to weight the ending of an interaction heavily when recalling how it felt overall. A specific, warm close leaves a stronger final impression than a generic one.",
+    "sourceCitation": "Related to the psychological finding that endings disproportionately shape memory of an experience (the peak-end effect, Kahneman)",
+    "tags": ["conversation endings", "memory"]
+  },
+  {
+    "id": "card_conv_115",
+    "disciplineId": "conversation",
+    "hook": "Holding your own in a group of five means fighting for airtime less than you think.",
+    "concept": "In larger groups, the person who speaks the most isn't necessarily the one remembered as most engaged — often it's whoever asks the question that gets someone else to open up.",
+    "tryIt": "In your next group conversation, count how many questions you ask versus statements you make, and aim to tip the balance toward questions.",
+    "whyExplanation": "Groups have limited airtime to distribute, and drawing other people out tends to be remembered as more socially skilled than dominating the talking time yourself.",
+    "sourceCitation": null,
+    "tags": ["group dynamics", "listening"]
+  }
+]

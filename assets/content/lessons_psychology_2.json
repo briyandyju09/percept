@@ -1,0 +1,348 @@
+[
+  {
+    "id": "psy_l09",
+    "disciplineId": "psychology",
+    "title": "The Halo Effect: When One Trait Colors Everything",
+    "hook": "Why do we assume attractive people are also smarter, kinder, and more trustworthy?",
+    "mode": "read",
+    "blocks": [
+      {
+        "type": "concept",
+        "text": "In 1920, psychologist Edward Thorndike asked military officers to rate soldiers on unrelated traits: physique, intelligence, leadership, character. He found something odd: officers who rated a soldier high on one trait tended to rate him high on all the others, even traits they had no chance to observe. Thorndike called this the halo effect: a single vivid impression, good or bad, spreads out and colors our judgment of everything else about a person. It is one of the most replicated findings in social psychology, and it runs quietly under an enormous amount of everyday judgment."
+      },
+      {
+        "type": "example",
+        "text": "You meet a well-dressed, articulate stranger at a conference and walk away assuming they're also organized, honest, and good at their job, none of which you actually observed. A student who is likeable gets the benefit of the doubt on a borderline exam answer. A company with a sleek app icon gets assumed to have better customer service. In each case, one salient, easy-to-observe trait stands in for a cluster of traits that are actually harder to verify."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "The halo effect is often mistaken for evidence that good-looking or charming people really are more competent.",
+        "meta": {
+          "myth": "Attractive or charming people generally are more competent, so it makes sense to trust the first impression.",
+          "fact": "Meta-analyses of attractiveness and job performance, for instance, find the actual correlation is small and inconsistent, far smaller than the size of the halo it produces in hiring and performance ratings. The halo is a perceptual shortcut, not a reliable signal."
+        }
+      },
+      {
+        "type": "application",
+        "text": "You can't switch the halo effect off by willpower, but you can design around it. Structured interviews that ask every candidate the same questions in the same order reduce halo bleed. Blind auditions, where reviewers can't see the performer, are a famous real-world fix: they measurably increased the share of women hired into orchestras. In your own judgments, separate what you actually observed evidence for from what you're inferring from vibe."
+      },
+      {
+        "type": "summary",
+        "text": "The halo effect is the tendency for one salient trait to bias judgment of unrelated traits. It is normal, fast, and mostly invisible from the inside. The fix isn't to distrust every first impression, it's to notice when you're rating something you never actually measured."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["halo effect", "first impressions", "social perception", "hiring bias"],
+    "relatedDrillIds": ["psy_d11", "psy_d12"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l10",
+    "disciplineId": "psychology",
+    "title": "Sunk Cost: Why We Throw Good Money After Bad",
+    "hook": "You've sat through an hour of a bad movie... do you stay because you paid for the ticket?",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "story",
+        "text": "Imagine you've paid for a nonrefundable concert ticket. On the night of the show, you're exhausted and it's pouring rain. If you'd been given the ticket for free, you'd stay home without a second thought. But because you paid for it, staying home feels like a waste, so you go anyway, miserable the whole time. Nothing about tonight changed based on what you paid weeks ago. That paid-for feeling is the sunk cost fallacy: treating money, time, or effort already spent, and unrecoverable, as a reason to keep going, when the only thing that should matter is what happens next."
+      },
+      {
+        "type": "concept",
+        "text": "A sunk cost is any resource you cannot get back no matter what you decide now. Economically, sunk costs are irrelevant to a rational forward-looking decision; only future costs and benefits should count. But humans weight sunk costs heavily, partly to avoid admitting a past choice was wasted, and partly because quitting can feel like publicly declaring failure. This shows up in relationships people stay in past their expiration date, projects companies keep funding, and degrees people finish after losing interest, all justified by 'I've already put so much in.'"
+      },
+      {
+        "type": "mythVsFact",
+        "text": "People sometimes treat 'never give up' as the mature, disciplined choice, and quitting as weakness.",
+        "meta": {
+          "myth": "Sticking with something you've already invested in shows commitment and grit.",
+          "fact": "Grit and sunk cost reasoning are different things. Grit is persisting because the future payoff still justifies the future cost. Sunk cost reasoning is persisting because of a past cost that can no longer be recovered either way. Confusing the two keeps people, teams, and governments funding failing projects."
+        }
+      },
+      {
+        "type": "application",
+        "text": "A useful test: if you were deciding fresh today, with no history, would you choose this path? If a friend described your exact situation, minus the backstory of what you'd already spent, what would you tell them to do? Separating the sunk cost from the decision doesn't mean past investment was wasted, it means letting today's choice rest on today's evidence."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["sunk cost fallacy", "decision making", "economics of choice"],
+    "relatedDrillIds": ["psy_d13", "psy_d14"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l11",
+    "disciplineId": "psychology",
+    "title": "Available, Not Accurate: The Availability Heuristic",
+    "hook": "Which is more common: dying in a shark attack, or dying from a falling vending machine?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "question",
+        "text": "Quick, don't look it up: are you more likely to be killed by a shark, or by a vending machine falling on you? Most people confidently say shark. Vending machine deaths are actually roughly as common in the US, and some analyses put them higher, because shark attacks get global news coverage and vending machine deaths almost never do. Why would vividness change our estimate of a plain frequency?"
+      },
+      {
+        "type": "concept",
+        "text": "The availability heuristic, described by Amos Tversky and Daniel Kahneman, is the mental shortcut of judging how likely or common something is by how easily examples come to mind. Easily recalled examples feel more probable, whether the ease comes from actual frequency, recency, or simply how memorable or emotionally vivid the example is. News coverage, personal anecdotes, and dramatic stories are all far more 'available' in memory than dry statistics, which is why plane crashes feel scarier than car crashes despite being vastly rarer per mile traveled."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "It is tempting to treat 'I can think of several examples' as data.",
+        "meta": {
+          "myth": "If several examples of something come to mind easily, it's probably common.",
+          "fact": "Ease of recall tracks vividness and recency at least as much as it tracks actual frequency. A single dramatic case, especially one covered widely, can outweigh dozens of unremarkable ones in memory, badly distorting risk estimates."
+        }
+      },
+      {
+        "type": "application",
+        "text": "When you catch yourself estimating a risk or frequency, 'crime is definitely getting worse,' 'everyone is doing X now,' ask where the impression came from: a headline, a single vivid story, something that happened to you recently? Then look for an actual base rate, official statistics, a broader sample, before trusting the gut estimate. This matters most exactly when stakes are high and instinct feels strongest."
+      },
+      {
+        "type": "summary",
+        "text": "The availability heuristic substitutes 'how easily can I recall an example' for 'how common is this really.' It's a fast and usually harmless shortcut, until vivid, rare events get systematically overweighted against dull, common ones."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["availability heuristic", "risk perception", "heuristics", "media bias"],
+    "relatedDrillIds": ["psy_d15", "psy_d16"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l12",
+    "disciplineId": "psychology",
+    "title": "Groupthink: When Harmony Beats Honesty",
+    "hook": "How do smart, careful people end up making a decision none of them would have made alone?",
+    "mode": "case_study",
+    "blocks": [
+      {
+        "type": "case_study",
+        "text": "Psychologist Irving Janis coined 'groupthink' after studying decisions like the Bay of Pigs invasion, where experienced, intelligent advisors approved a plan riddled with problems that individual members privately doubted. The pattern he found: a cohesive group under pressure to agree, insulated from outside opinions, with a directive leader signaling a preferred answer. Members self-censored doubts, assumed silence meant agreement, and mistook the absence of visible dissent for consensus. No one lied. Each person simply decided their doubt wasn't worth the social cost of raising it."
+      },
+      {
+        "type": "concept",
+        "text": "Groupthink is the tendency for cohesive groups to suppress dissent and critical evaluation in favor of consensus and harmony, especially under time pressure or high stakes. Warning signs include an illusion of unanimity, pressure on dissenters to conform, self-appointed 'mindguards' who shield the group from unwelcome information, and an inflated sense of the group's own morality or invulnerability. It is not about individual stupidity, it is a structural failure mode of group process."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Groupthink is often assumed to be about weak individuals in the room.",
+        "meta": {
+          "myth": "Groupthink happens because the people involved are unintelligent or lack expertise.",
+          "fact": "Groupthink is documented in rooms full of highly credentialed, experienced people. Expertise does not immunize a group against social pressure to agree; if anything, high-status groups can be more prone to it because dissent feels riskier."
+        }
+      },
+      {
+        "type": "application",
+        "text": "Structural fixes work better than telling people to 'speak up more.' Assign an actual devil's advocate role. Have members write down their initial opinion privately before group discussion starts. Invite an outsider to challenge assumptions. A leader can state their own preference last, not first, so it doesn't anchor the room. The goal isn't more conflict for its own sake, it's making sure disagreement has somewhere safe to go before a decision locks in."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["groupthink", "group decision making", "conformity", "organizational psychology"],
+    "relatedDrillIds": ["psy_d17", "psy_d18"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l13",
+    "disciplineId": "psychology",
+    "title": "The Bystander Effect: Why a Crowd Can Mean Less Help, Not More",
+    "hook": "If you collapsed on a busy street, would more witnesses make you safer, or less?",
+    "mode": "compare_contrast",
+    "blocks": [
+      {
+        "type": "compare",
+        "text": "Intuition says more witnesses to an emergency means more help available. Research says the opposite: as the number of bystanders present increases, the probability that any individual one of them intervenes tends to decrease. This became a major research focus after the 1964 murder of Kitty Genovese in New York, whose case was reported at the time as dozens of witnesses failing to act. Later reporting found the original account exaggerated the numbers, but the psychological phenomenon it inspired researchers to study turned out to be real and highly replicable in controlled experiments."
+      },
+      {
+        "type": "concept",
+        "text": "Two mechanisms drive the bystander effect. Diffusion of responsibility: when many people could help, each individual feels less personally obligated, since surely someone else will. Pluralistic ignorance: people look to others' reactions to judge whether a situation is really an emergency, and if everyone else looks calm, each person assumes it must be fine, even though everyone is privately unsure and taking cues from equally unsure people."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "It's easy to read inaction in a crowd as a character flaw.",
+        "meta": {
+          "myth": "People who don't help in an emergency around others are cold or indifferent.",
+          "fact": "Experiments consistently find the same individuals who fail to act in a group setting will act quickly and effectively when they believe they are the only witness. The barrier is situational, not a character flaw."
+        }
+      },
+      {
+        "type": "application",
+        "text": "The well-tested countermeasure is to reduce ambiguity and diffusion directly. If you need help in a crowd, single someone out: point at a specific person and give a specific instruction, 'you, in the blue jacket, call an ambulance.' If you're a bystander, treat your own uncertainty about whether it's 'really' an emergency as a bias to override, not a reason to wait for someone else to move first."
+      },
+      {
+        "type": "summary",
+        "text": "More witnesses can mean less individual responsibility felt, not more help given. Naming a specific person breaks both diffusion of responsibility and pluralistic ignorance at once."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["bystander effect", "diffusion of responsibility", "social psychology", "helping behavior"],
+    "relatedDrillIds": ["psy_d19", "psy_d20"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l14",
+    "disciplineId": "psychology",
+    "title": "Self-Serving Bias: My Wins Are Skill, My Losses Are Luck",
+    "hook": "Notice how you explain your own successes differently than your own failures.",
+    "mode": "reflect",
+    "blocks": [
+      {
+        "type": "reflection",
+        "text": "Think back to the last time you did well on something, a good grade, a strong workout, a project that landed well, and the last time you did poorly on something comparable. Chances are the explanations felt different in kind: the success came from your effort, skill, or preparation; the failure came from bad luck, an unfair grader, a bad night's sleep, or circumstances outside your control. This asymmetry has a name."
+      },
+      {
+        "type": "concept",
+        "text": "Self-serving bias is the tendency to attribute successes to internal, stable factors about ourselves, and failures to external, unstable factors outside our control. It is extremely consistent across studies and across cultures, though the size varies, and it isn't limited to individuals: sports teams credit wins to their own play and losses to bad officiating, and companies credit good quarters to strategy and bad quarters to 'market headwinds.' The bias protects self-esteem in the moment, which is part of why it is so persistent."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "It's tempting to assume this pattern only shows up in certain personality types.",
+        "meta": {
+          "myth": "Only insecure or arrogant people show this pattern; well-adjusted people see themselves accurately.",
+          "fact": "Self-serving bias shows up broadly across the general population, including in people with healthy self-esteem. Some research even links a total absence of the bias to mild depression, where people attribute failures internally and successes externally, the reverse pattern. Some self-serving attribution appears to be part of normal psychological functioning, not a personality flaw."
+        }
+      },
+      {
+        "type": "application",
+        "text": "The goal isn't to eliminate the bias, that may not even be healthy, it's to notice it in situations where accuracy actually matters: giving yourself honest feedback before a repeat performance, or evaluating a teammate's excuse for a missed deadline. A useful habit is asking the same question about a win and a loss: 'what would I say caused this if it happened to someone else?'"
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["self-serving bias", "attribution theory", "self-esteem"],
+    "relatedDrillIds": ["psy_d21", "psy_d22"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l15",
+    "disciplineId": "psychology",
+    "title": "Dunning-Kruger, Correctly Stated",
+    "hook": "It's not that unskilled people think they're geniuses. It's stranger and more universal than that.",
+    "mode": "read",
+    "blocks": [
+      {
+        "type": "concept",
+        "text": "The Dunning-Kruger effect, from a 1999 study by David Dunning and Justin Kruger, is usually summarized as 'incompetent people are too incompetent to know how incompetent they are.' The actual finding is more specific and, honestly, more interesting: across several skill domains, grammar, logic, humor, people in the bottom quartile of actual performance overestimated their own performance more than people in higher quartiles did, but everyone tended to think they were somewhat above average. The effect is about a general miscalibration in self-assessment, not a special curse limited to the incompetent."
+      },
+      {
+        "type": "example",
+        "text": "A novice chess player might genuinely believe they're better than most beginners because they lack the knowledge to recognize sophisticated play when they see it, the same skills needed to perform well are often the skills needed to judge performance accurately. Meanwhile experts often underestimate their relative standing, assuming tasks that are easy for them must be easy for everyone, a related, separate pattern sometimes called the curse of knowledge."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "The pop-culture version of this effect goes further than the data supports.",
+        "meta": {
+          "myth": "The Dunning-Kruger effect proves that unskilled people are always overconfident and skilled people are always accurately humble.",
+          "fact": "Follow-up analyses have shown much of the classic graph pattern can be produced by statistical artifacts, regression to the mean and the structure of self-rating scales, even in simulated random data. The underlying phenomenon, that self-assessment is a hard, separate skill from the task itself, is real and replicated, but the popular framing overstates and oversimplifies what the original data showed."
+        }
+      },
+      {
+        "type": "application",
+        "text": "The practical lesson isn't 'watch out for unskilled people who don't know it,' it's 'everyone, including you, has domains where they lack the specific skill of judging their own performance in that domain.' External feedback, calibration exercises, and comparing your estimate against an actual measured outcome are the real correctives, for novices and experts alike."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["dunning-kruger effect", "self-assessment", "metacognition", "overconfidence"],
+    "relatedDrillIds": ["psy_d23", "psy_d24"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l16",
+    "disciplineId": "psychology",
+    "title": "Loss Aversion: Losing $20 Hurts More Than Finding $20 Feels Good",
+    "hook": "Would you take a coin flip: win $150 or lose $100?",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "story",
+        "text": "Offered a fair coin flip where heads wins you $150 and tails loses you $100, most people decline, even though the expected value is positive, a $25 average gain per flip. Daniel Kahneman and Amos Tversky's prospect theory explains why: losses and gains of the same size are not felt equally. Across many experiments, losses are typically felt about twice as strongly as equivalent gains. This asymmetry, loss aversion, is one of the most robust findings in behavioral economics."
+      },
+      {
+        "type": "concept",
+        "text": "Loss aversion shapes decisions well beyond gambles. It explains why people hold onto losing stocks too long, hoping to 'get back to even' rather than realizing the loss. It explains why a price framed as a 'loss of a discount' motivates more than the same price framed as a 'gain of a fee.' It explains why the pain of returning to a chore we quit outweighs, in anticipation, the pleasure the same chore would give if we hadn't quit yet, keeping people stuck avoiding restarts."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Loss aversion is sometimes read as pure irrationality.",
+        "meta": {
+          "myth": "Loss aversion means people are simply irrational and bad at math around risk.",
+          "fact": "Loss aversion is a systematic, predictable pattern, not random error, and it likely had adaptive value: for an organism near subsistence, a loss that threatens survival matters more than an equivalent gain that merely improves comfort. It's a real feature of how value is computed, not evidence of general poor reasoning."
+        }
+      },
+      {
+        "type": "application",
+        "text": "You can use loss aversion on yourself deliberately. Framing a habit as 'don't lose your streak' motivates more than 'gain a good habit.' Committing money that you lose if you skip a goal, a real technique used in commitment-device apps, works precisely because losing committed money hurts more than an equivalent reward would motivate. Recognizing the asymmetry lets you frame your own goals to work with your wiring instead of against it."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["loss aversion", "prospect theory", "behavioral economics", "framing"],
+    "relatedDrillIds": ["psy_d25", "psy_d26"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l17",
+    "disciplineId": "psychology",
+    "title": "The Illusion of Control: Why We Blow on Dice",
+    "hook": "Why do people press the crosswalk button harder when they're in a hurry?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "question",
+        "text": "Have you ever pressed an elevator 'close door' button repeatedly, or blown on dice before a roll, or picked your own lottery numbers instead of letting the machine choose? None of these actions change the outcome, in many cities the close-door button isn't even wired to anything after accessibility-era changes lengthened default door timing. So why does doing something, anything, feel better than doing nothing?"
+      },
+      {
+        "type": "concept",
+        "text": "The illusion of control, named by psychologist Ellen Langer in a 1975 study, is the tendency to overestimate our influence over outcomes that are actually determined by chance. Langer found that people who chose their own lottery numbers demanded more money to sell their ticket back than people who were handed a random ticket, despite identical odds. Anything that resembles the structure of a skill situation, choice, familiarity, competition, effort, seems to trigger a felt sense of control even when the outcome is pure chance."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "The illusion of control can feel like a harmless personal quirk.",
+        "meta": {
+          "myth": "Feeling in control of an outcome is just a harmless quirk with no real cost.",
+          "fact": "The illusion of control is linked to excessive risk-taking in gambling and financial trading, where traders who feel more in control of chance-driven markets take on more risk and show worse outcomes. It also shows up in overconfident planning, believing a risky project is manageable simply because you're the one running it."
+        }
+      },
+      {
+        "type": "application",
+        "text": "A useful check: before assuming your effort or choices are steering an outcome, ask what would happen if you removed yourself from the equation entirely, would the result actually change? For genuinely chance-driven situations, the honest move is to size your bets and expectations to the real odds, not to the felt sense of steering."
+      },
+      {
+        "type": "summary",
+        "text": "The illusion of control is mistaking the feeling of doing something for actually influencing the outcome. It's most dangerous exactly where stakes are highest and outcomes are least controllable, like gambling and speculative investing."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["illusion of control", "cognitive bias", "risk taking", "gambling psychology"],
+    "relatedDrillIds": ["psy_d27", "psy_d28"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l18",
+    "disciplineId": "psychology",
+    "title": "Present Bias: Why Future You Always Gets Voted Down",
+    "hook": "You'll happily promise to work out next month. Tonight, though, is nonnegotiable rest.",
+    "mode": "case_study",
+    "blocks": [
+      {
+        "type": "case_study",
+        "text": "Offered $100 today or $110 in a week, many people take the $100 now. Offered $100 in a year or $110 in a year and a week, most people happily wait the extra week for the 10% bonus. The delay is identical, one week, in both cases, but the decision flips depending on whether the earlier option is available immediately. This is present bias, formally hyperbolic discounting: we discount the future steeply when comparing 'now' to 'later,' but far less steeply when comparing two future points to each other."
+      },
+      {
+        "type": "concept",
+        "text": "Present bias explains a huge amount of everyday self-defeat: procrastination, undersaving for retirement, skipping the workout, eating the thing you said you wouldn't. It isn't that people don't value their future selves, surveys show people genuinely intend to save more, exercise more, and procrastinate less. It's that the pull of an immediate reward or an immediate relief from discomfort is weighted disproportionately against a future cost or benefit, however clearly that future is understood in the abstract."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Present bias is often framed as a simple lack of discipline.",
+        "meta": {
+          "myth": "People who procrastinate or undersave simply lack willpower or don't understand the consequences.",
+          "fact": "Present bias occurs even in people who fully understand and correctly predict the consequences; economists distinguish 'naive' present-biased agents, who don't see it coming, from 'sophisticated' ones, who do, and still act on it anyway, or actively build structures to counter it. Understanding the future cost intellectually doesn't neutralize the felt pull of now."
+        }
+      },
+      {
+        "type": "application",
+        "text": "The most effective countermeasures work by changing the default or the friction rather than relying on future willpower: automatic retirement contributions, preordering a healthy lunch the night before, or app-based commitment devices that make skipping a workout costly right now, not just eventually. Sophisticated present-biased people don't out-willpower the bias, they route around it structurally."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["present bias", "hyperbolic discounting", "procrastination", "self-control"],
+    "relatedDrillIds": ["psy_d29", "psy_d30"],
+    "relatedCardIds": []
+  }
+]

@@ -31,7 +31,7 @@ class DimensionBarRow extends StatelessWidget {
         children: [
           SizedBox(
             width: 26,
-            child: Text(glyph, style: const TextStyle(fontSize: 16)),
+            child: Text(glyph, style: const TextStyle(fontSize: PerceptGlyphSize.inline)),
           ),
           SizedBox(
             width: 132,

@@ -60,7 +60,7 @@ class _DisciplineTile extends ConsumerWidget {
         ),
         child: Row(
           children: [
-            Text(discipline.icon, style: const TextStyle(fontSize: 24)),
+            Text(discipline.icon, style: const TextStyle(fontSize: PerceptGlyphSize.row)),
             const SizedBox(width: PerceptSpacing.md),
             Expanded(
               child: Column(

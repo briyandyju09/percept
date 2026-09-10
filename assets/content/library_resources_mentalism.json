@@ -1,0 +1,246 @@
+[
+  {
+    "id": "lib_ment_book01",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "13 Steps to Mentalism",
+    "subtitle": "Tony Corinda",
+    "description": "A foundational reference compiling core mentalism techniques—psychological and physical forces, muscle reading, prediction effects, and memory demonstrations—originally issued as a correspondence course and still used to teach the craft's fundamentals.",
+    "tags": [
+      "forcing",
+      "fundamentals",
+      "prediction"
+    ]
+  },
+  {
+    "id": "lib_ment_book02",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "Practical Mental Effects",
+    "subtitle": "Theodore Annemann",
+    "description": "A collection of mentalism routines from one of the field's most influential creators, built around psychological misdirection and audience management rather than any claim of real mind reading.",
+    "tags": [
+      "misdirection",
+      "routines",
+      "classic"
+    ]
+  },
+  {
+    "id": "lib_ment_book03",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "Tricks of the Mind",
+    "subtitle": "Derren Brown",
+    "description": "Brown explains, in plain terms, the suggestion, misdirection, memory, and cold-reading techniques behind his stage and TV performances, explicitly framing them as psychological skill rather than supernatural ability.",
+    "tags": [
+      "suggestion",
+      "cold-reading",
+      "skepticism"
+    ]
+  },
+  {
+    "id": "lib_ment_book04",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "Pure Effect: Direct Mindreading and Magical Techniques",
+    "subtitle": "Derren Brown",
+    "description": "A technical text for performers on constructing convincing 'mind-reading' effects through scripting, psychological forcing, and stagecraft rather than sleight of hand.",
+    "tags": [
+      "scripting",
+      "forcing",
+      "stagecraft"
+    ]
+  },
+  {
+    "id": "lib_ment_book05",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "Psychological Subtleties",
+    "subtitle": "Banachek",
+    "description": "A widely used series in the mentalism community detailing subtle verbal and behavioral techniques—psychological forces, equivoque, and reading reactions—for steering a spectator's choices without their awareness.",
+    "tags": [
+      "psychological-forcing",
+      "equivoque"
+    ]
+  },
+  {
+    "id": "lib_ment_book06",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "Magic and Showmanship: A Handbook for Conjurors",
+    "subtitle": "Henning Nelms",
+    "description": "A classic analysis of performance psychology for magicians, covering how attention is directed and held, and why technically sound tricks still fail without deliberate audience management.",
+    "tags": [
+      "attention-management",
+      "performance-theory"
+    ]
+  },
+  {
+    "id": "lib_ment_book07",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "Prism",
+    "subtitle": "Max Maven",
+    "description": "A career-spanning collection from one of mentalism's most scholarly performers, covering prediction structures and dual-reality methods with detailed notes on the reasoning behind each effect.",
+    "tags": [
+      "prediction",
+      "dual-reality"
+    ]
+  },
+  {
+    "id": "lib_ment_book08",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "Stunners!!",
+    "subtitle": "Larry Becker",
+    "description": "A practical mentalism text focused on high-impact prediction and thought-revelation routines, with an emphasis on constructing effects that feel personally meaningful to the spectator.",
+    "tags": [
+      "prediction",
+      "routines"
+    ]
+  },
+  {
+    "id": "lib_ment_book09",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "The Full Facts Book of Cold Reading",
+    "subtitle": "Ian Rowland",
+    "description": "The standard technical manual on cold reading, breaking the technique into its component parts (Barnum statements, feedback reading, shotgunning) purely as a performance and persuasion skill, with an explicit rejection of any real psychic claim.",
+    "tags": [
+      "cold-reading",
+      "technique"
+    ]
+  },
+  {
+    "id": "lib_ment_book10",
+    "disciplineId": "mentalism",
+    "type": "book",
+    "title": "The Secrets of Conjuring and Magic",
+    "subtitle": "Jean-Eugène Robert-Houdin",
+    "description": "An early foundational text by the performer often called the father of modern conjuring, whose ideas about misdirection and audience attention still underpin how mentalism and magic are taught today.",
+    "tags": [
+      "misdirection",
+      "history"
+    ]
+  },
+  {
+    "id": "lib_ment_expert01",
+    "disciplineId": "mentalism",
+    "type": "expert",
+    "title": "Derren Brown",
+    "subtitle": "Mentalist, author, and television performer",
+    "description": "Known for stage and television work built on suggestion, misdirection, and showmanship, Brown is unusual among performers for writing at length about exactly how his effects work rather than protecting the mystery.",
+    "tags": [
+      "suggestion",
+      "showmanship"
+    ]
+  },
+  {
+    "id": "lib_ment_expert02",
+    "disciplineId": "mentalism",
+    "type": "expert",
+    "title": "Banachek (Steve Shaw)",
+    "subtitle": "Professional mentalist and originator of widely taught psychological forcing methods",
+    "description": "Beyond his performance work, Banachek was one of two young magicians in the 1979-1981 'Project Alpha' sting organized with skeptic James Randi, which used deceptive 'psychic' demonstrations to expose weak protocols in parapsychology research.",
+    "tags": [
+      "psychological-forcing",
+      "project-alpha"
+    ]
+  },
+  {
+    "id": "lib_ment_expert03",
+    "disciplineId": "mentalism",
+    "type": "expert",
+    "title": "Max Maven",
+    "subtitle": "Mentalist and historian of mental magic",
+    "description": "Beyond his own performing career, Maven was widely sought as a creative consultant and historian for other magicians and television productions, and was known for unusually rigorous written analysis of why mentalism effects work.",
+    "tags": [
+      "history",
+      "consulting"
+    ]
+  },
+  {
+    "id": "lib_ment_expert04",
+    "disciplineId": "mentalism",
+    "type": "expert",
+    "title": "Ian Rowland",
+    "subtitle": "Cold-reading researcher and professional mentalist",
+    "description": "Rowland systematized cold reading into a teachable technique and has separately worked with skeptics' organizations to explain how ostensibly psychic readings are constructed, treating the subject as applied psychology rather than the paranormal.",
+    "tags": [
+      "cold-reading",
+      "skepticism"
+    ]
+  },
+  {
+    "id": "lib_ment_expert05",
+    "disciplineId": "mentalism",
+    "type": "expert",
+    "title": "Kenton Knepper",
+    "subtitle": "Mentalist and author on conversational scripting techniques",
+    "description": "Knepper writes about how ordinary conversational language can be structured to guide a listener's attention and assumptions, a scripting approach widely referenced in modern mentalism routines.",
+    "tags": [
+      "scripting",
+      "suggestion"
+    ]
+  },
+  {
+    "id": "lib_ment_area01",
+    "disciplineId": "mentalism",
+    "type": "researchArea",
+    "title": "Attention and Misdirection Research",
+    "subtitle": "",
+    "description": "Neuroscientists Stephen Macknik and Susana Martinez-Conde published peer-reviewed work (including in Nature Reviews Neuroscience, 2008) analyzing how magicians' misdirection techniques exploit real limits of visual attention and awareness, treating stage technique as a source of genuine cognitive-science data.",
+    "tags": [
+      "attention",
+      "neuroscience"
+    ]
+  },
+  {
+    "id": "lib_ment_area02",
+    "disciplineId": "mentalism",
+    "type": "researchArea",
+    "title": "Cold Reading Technique",
+    "subtitle": "",
+    "description": "The study of how vague, high-probability statements combined with attentive feedback reading can feel personally specific to a listener; it draws on the Barnum/Forer effect first demonstrated experimentally by psychologist Bertram Forer in 1949.",
+    "tags": [
+      "cold-reading",
+      "barnum-effect"
+    ]
+  },
+  {
+    "id": "lib_ment_area03",
+    "disciplineId": "mentalism",
+    "type": "researchArea",
+    "title": "Suggestion and Indirect Language",
+    "subtitle": "",
+    "description": "Research and clinical writing on indirect suggestion, most associated with psychiatrist Milton Erickson, examines how language structure alone can shape a listener's expectations and responses—concepts mentalists borrow for scripting.",
+    "tags": [
+      "suggestion",
+      "language"
+    ]
+  },
+  {
+    "id": "lib_ment_area04",
+    "disciplineId": "mentalism",
+    "type": "researchArea",
+    "title": "Memory and Expert Performance",
+    "subtitle": "",
+    "description": "Research into memory athletes and the method of loci, along with K. Anders Ericsson's broader studies of trained expert performance, explains how demonstrations that look like extraordinary memory are built from learnable, structured techniques.",
+    "tags": [
+      "memory",
+      "expertise"
+    ]
+  },
+  {
+    "id": "lib_ment_area05",
+    "disciplineId": "mentalism",
+    "type": "researchArea",
+    "title": "Choice Blindness",
+    "subtitle": "",
+    "description": "A real experimental finding, first published by Petter Johansson and colleagues in Science (2005), showing that people will confidently justify a choice they did not actually make once it is covertly swapped—closely relevant to how psychological forcing can go undetected.",
+    "tags": [
+      "choice-blindness",
+      "psychological-forcing"
+    ]
+  }
+]

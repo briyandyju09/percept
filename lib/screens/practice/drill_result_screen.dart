@@ -38,7 +38,7 @@ class DrillResultScreen extends ConsumerWidget {
               const Spacer(),
               Text(
                 percent >= 70 ? '💪' : '📈',
-                style: const TextStyle(fontSize: 44),
+                style: const TextStyle(fontSize: PerceptGlyphSize.hero),
               ),
               const SizedBox(height: PerceptSpacing.lg),
               Text('$percent%', style: PerceptTypography.display(context.textPrimary)),

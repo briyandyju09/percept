@@ -1,0 +1,232 @@
+[
+  {
+    "id": "obs_d31",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "prompt": "Study the entryway scene below for 18 seconds, then answer without looking back.",
+    "stimulusText": "A front entryway has a pair of muddy rain boots by the door, a coat rack holding one navy peacoat and one yellow raincoat, a woven doormat that reads 'WELCOME' in faded letters, and a small dish on the side table holding two house keys and a single button.",
+    "stimulusFacts": [
+      "rain boots by the door were muddy",
+      "coat rack held a navy peacoat and a yellow raincoat",
+      "doormat read 'WELCOME' in faded letters",
+      "the dish held two house keys and one button"
+    ],
+    "stimulusSeconds": 18,
+    "questions": [
+      {"id": "obs_d31_q1", "prompt": "What color was the raincoat on the rack?", "type": "multipleChoice", "options": ["Navy", "Yellow", "Red", "Gray"], "correctAnswer": "Yellow", "explanation": "Naming colors as you scan keeps two similar items (both coats) from blurring together in memory."},
+      {"id": "obs_d31_q2", "prompt": "How many house keys were in the dish?", "type": "numericInput", "options": [], "correctAnswer": "2", "explanation": "Small counts in a shallow dish are easy to verify with a direct look rather than a guess."},
+      {"id": "obs_d31_q3", "prompt": "What word was on the doormat?", "type": "textInput", "options": [], "correctAnswer": "WELCOME", "explanation": "Text underfoot is often skipped because attention naturally rises toward eye level first."},
+      {"id": "obs_d31_q4", "prompt": "True or False: the rain boots were clean.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "The boots were muddy — noticing condition, not just presence, is part of a full observation."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "obs_d32",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "prompt": "Study the playground scene below for 18 seconds, then answer without looking back.",
+    "stimulusText": "A playground has a red slide, a swing set with three swings (one broken and hanging by a single chain), a sandbox with a single blue plastic shovel left behind, and a bench with peeling green paint facing the swings.",
+    "stimulusFacts": [
+      "the slide was red",
+      "the swing set had three swings, one broken and hanging by a single chain",
+      "the sandbox had one blue plastic shovel left behind",
+      "the bench had peeling green paint and faced the swings"
+    ],
+    "stimulusSeconds": 18,
+    "questions": [
+      {"id": "obs_d32_q1", "prompt": "How many swings were on the swing set?", "type": "numericInput", "options": [], "correctAnswer": "3", "explanation": "Counting a small, evenly spaced set is a good habit to build before tackling denser scenes."},
+      {"id": "obs_d32_q2", "prompt": "What color was the shovel left in the sandbox?", "type": "multipleChoice", "options": ["Red", "Blue", "Yellow", "Green"], "correctAnswer": "Blue", "explanation": "A single leftover object is a natural anchor point once you register it as out of place."},
+      {"id": "obs_d32_q3", "prompt": "True or False: one swing was broken.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "True", "explanation": "Damage or disrepair is a detail that stands out once you look past the object's basic identity."},
+      {"id": "obs_d32_q4", "prompt": "What color was the bench's paint?", "type": "textInput", "options": [], "correctAnswer": "green", "explanation": "Peeling paint color is a small detail that rewards a full scan of the furniture, not just the play equipment."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "obs_d33",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 2,
+    "prompt": "Study the hardware store aisle for 15 seconds, then answer from memory.",
+    "stimulusText": "A hardware store aisle has a pegboard wall with hammers hung in a row, one missing from its hook leaving an empty outline. Below, a bin of assorted screws sits next to a shelf of paint cans stacked four high. A yellow 'WET FLOOR' sign stands at the aisle's far end, and a price gun rests on the bottom shelf.",
+    "stimulusFacts": [
+      "a hammer was missing from the pegboard, leaving an empty outline",
+      "paint cans were stacked four high",
+      "a yellow 'WET FLOOR' sign stood at the aisle's far end",
+      "a price gun rested on the bottom shelf"
+    ],
+    "stimulusSeconds": 15,
+    "questions": [
+      {"id": "obs_d33_q1", "prompt": "How many paint cans were stacked?", "type": "numericInput", "options": [], "correctAnswer": "4", "explanation": "Stacked identical objects are easier to count if you note the height rather than each individual can."},
+      {"id": "obs_d33_q2", "prompt": "What was missing from the pegboard?", "type": "textInput", "options": [], "correctAnswer": "a hammer", "explanation": "An empty outline where a tool should be is a classic missed-detail trap: the absence is the detail."},
+      {"id": "obs_d33_q3", "prompt": "What color was the floor sign?", "type": "multipleChoice", "options": ["Yellow", "Orange", "Red", "White"], "correctAnswer": "Yellow", "explanation": "Warning signs use consistent colors in real life, which makes them easy to recall once registered at all."},
+      {"id": "obs_d33_q4", "prompt": "True or False: the price gun was on the top shelf.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "It was on the bottom shelf — vertical position is a detail worth double-checking rather than assuming."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d34",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 2,
+    "prompt": "Study the classroom scene below for 15 seconds, then answer from memory.",
+    "stimulusText": "A classroom whiteboard has three math problems written in blue marker, with the middle one crossed out and rewritten below it. A row of five backpacks leans against the wall beneath the coat hooks, one bright pink among the rest in dark colors. A globe sits on the teacher's desk, tilted slightly on its stand, and a stack of graded quizzes sits with a red pen on top.",
+    "stimulusFacts": [
+      "the middle math problem was crossed out and rewritten below",
+      "five backpacks leaned against the wall, one bright pink among dark-colored ones",
+      "the globe on the teacher's desk was tilted slightly on its stand",
+      "a red pen sat on top of a stack of graded quizzes"
+    ],
+    "stimulusSeconds": 15,
+    "questions": [
+      {"id": "obs_d34_q1", "prompt": "How many backpacks leaned against the wall?", "type": "numericInput", "options": [], "correctAnswer": "5", "explanation": "A row of similar items is easier to count when one stands out by color, giving you a reference point."},
+      {"id": "obs_d34_q2", "prompt": "What color was the odd backpack out?", "type": "multipleChoice", "options": ["Pink", "Blue", "Yellow", "Green"], "correctAnswer": "Pink", "explanation": "The item that breaks the pattern is usually the easiest one to recall — use it to anchor the count of the rest."},
+      {"id": "obs_d34_q3", "prompt": "True or False: all three math problems were left untouched.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "The middle problem was crossed out and rewritten — a correction like this is a meaningful change worth registering."},
+      {"id": "obs_d34_q4", "prompt": "What color was the pen sitting on the quizzes?", "type": "textInput", "options": [], "correctAnswer": "red", "explanation": "Small objects resting on top of a stack are easy to miss if attention stays on the stack itself."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d35",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "recallQuiz",
+    "difficulty": 3,
+    "prompt": "Read this once, wait a moment, then answer from memory.",
+    "stimulusText": "Picture a train platform: a departure board flickers between two destinations, 'Millbrook' and 'Ashford,' an elderly man checks his pocket watch three times in a minute, a spilled coffee cup rolls toward the platform edge before someone stops it with a shoe, and a conductor's whistle hangs from a lanyard around her neck, unused.",
+    "stimulusFacts": [
+      "departure board flickered between 'Millbrook' and 'Ashford'",
+      "the elderly man checked his pocket watch three times in a minute",
+      "a spilled coffee cup rolled toward the edge before being stopped by a shoe",
+      "the conductor's whistle hung unused from a lanyard around her neck"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {"id": "obs_d35_q1", "prompt": "How many times did the man check his pocket watch?", "type": "numericInput", "options": [], "correctAnswer": "3", "explanation": "Repeated small actions are easy to undercount unless you deliberately tally them as you observe."},
+      {"id": "obs_d35_q2", "prompt": "What stopped the spilled coffee cup from rolling off the edge?", "type": "textInput", "options": [], "correctAnswer": "a shoe", "explanation": "A quick intervening action is easy to lose if your attention was on the spill itself rather than what happened next."},
+      {"id": "obs_d35_q3", "prompt": "Which two destinations flickered on the departure board?", "type": "multipleChoice", "options": ["Millbrook and Ashford", "Millbrook and Denton", "Ashford and Denton", "Millbrook and Colgate"], "correctAnswer": "Millbrook and Ashford", "explanation": "Alternating text is a common source of missed detail because the eye tends to catch only one of the two states."},
+      {"id": "obs_d35_q4", "prompt": "True or False: the conductor blew her whistle.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "It hung unused — an object's inactive state is as worth noting as an action actually taken."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d36",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 3,
+    "prompt": "Study the garage workbench for 12 seconds, then answer without looking back.",
+    "stimulusText": "A garage workbench holds a half-disassembled bicycle wheel missing two spokes, a labeled jar of loose bolts sorted by size, a cordless drill with its battery removed and sitting beside it, and a wall calendar turned to a month that doesn't match the one on a nearby receipt taped to the pegboard.",
+    "stimulusFacts": [
+      "the bicycle wheel was missing two spokes",
+      "the jar of bolts was labeled and sorted by size",
+      "the drill's battery was removed and sitting beside it",
+      "the wall calendar's month didn't match the month on the taped receipt"
+    ],
+    "stimulusSeconds": 12,
+    "questions": [
+      {"id": "obs_d36_q1", "prompt": "How many spokes were missing from the bicycle wheel?", "type": "numericInput", "options": [], "correctAnswer": "2", "explanation": "Missing components in a partially assembled object are easy to undercount without a deliberate check."},
+      {"id": "obs_d36_q2", "prompt": "True or False: the drill's battery was still attached.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "The battery was removed and set beside it — a disassembled state is a fact worth registering precisely."},
+      {"id": "obs_d36_q3", "prompt": "What was the jar of bolts organized by?", "type": "textInput", "options": [], "correctAnswer": "size", "explanation": "Organizational schemes are a subtle but useful detail that reveal how a space is actually used."},
+      {"id": "obs_d36_q4", "prompt": "What didn't match between the calendar and the receipt?", "type": "multipleChoice", "options": ["The month", "The year", "The color", "The handwriting"], "correctAnswer": "The month", "explanation": "A mismatch between two similar sources of information is a genuine discrepancy worth flagging, not glossing over."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d37",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Study the description below for 20 seconds, then answer.",
+    "stimulusText": "Four hand-drawn shapes are shown in sequence, each compounding one change: Shape A is a plain circle. Shape B is the same circle with a dot in the center. Shape C is that circle-with-dot plus a small tail extending down-right. Shape D is Shape C but the tail now curves upward instead of down-right.",
+    "stimulusFacts": [
+      "Shape A: plain circle",
+      "Shape B adds a center dot to Shape A",
+      "Shape C adds a down-right tail to Shape B",
+      "Shape D changes the tail direction from down-right to upward"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {"id": "obs_d37_q1", "prompt": "What did Shape B add to Shape A?", "type": "multipleChoice", "options": ["a center dot", "a tail", "a second circle", "shading"], "correctAnswer": "a center dot", "explanation": "Tracking one compounding change at a time keeps the sequence from blurring into a single impression."},
+      {"id": "obs_d37_q2", "prompt": "What changed between Shape C and Shape D?", "type": "multipleChoice", "options": ["the tail's direction", "the dot disappeared", "the circle became an oval", "a second tail appeared"], "correctAnswer": "the tail's direction", "explanation": "This is a modification of an existing feature rather than an addition — worth distinguishing from the earlier steps."},
+      {"id": "obs_d37_q3", "prompt": "True or False: Shape A already had a tail.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "Shape A was a plain circle with no tail — establishing the true starting point prevents later confusion."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d38",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 4,
+    "prompt": "Study the hotel lobby scene for 10 seconds, then answer without looking back.",
+    "stimulusText": "A hotel lobby has a front desk clerk answering a ringing phone while a guest waits, tapping a room key card against the counter. A luggage cart holds four suitcases, three matching black and one mismatched red one on top. A large clock above the desk reads 4:50, five minutes fast according to a smaller clock behind the bar. A potted fern sits beside a revolving door that is currently jammed half-open.",
+    "stimulusFacts": [
+      "the guest tapped a room key card against the counter while waiting",
+      "the luggage cart held four suitcases: three matching black, one mismatched red on top",
+      "the large clock read 4:50, five minutes fast versus the bar's smaller clock",
+      "the revolving door was jammed half-open"
+    ],
+    "stimulusSeconds": 10,
+    "questions": [
+      {"id": "obs_d38_q1", "prompt": "How many suitcases were on the luggage cart?", "type": "numericInput", "options": [], "correctAnswer": "4", "explanation": "Counting a small cluster is easiest when you separate the matching set from the odd one out."},
+      {"id": "obs_d38_q2", "prompt": "What color was the mismatched suitcase?", "type": "multipleChoice", "options": ["Red", "Blue", "Green", "White"], "correctAnswer": "Red", "explanation": "An odd item among a matching set is a natural anchor for recalling the whole group."},
+      {"id": "obs_d38_q3", "prompt": "What time did the large clock read?", "type": "textInput", "options": [], "correctAnswer": "4:50", "explanation": "Numeric details on clocks are easy to lose in a busy scene unless you deliberately read them."},
+      {"id": "obs_d38_q4", "prompt": "True or False: the revolving door was fully closed.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "It was jammed half-open — an unusual state of a familiar object is worth flagging on sight."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "obs_d39",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 4,
+    "prompt": "Study the farmers market stall for 9 seconds, then answer without looking back.",
+    "stimulusText": "A farmers market produce stall displays six baskets of tomatoes, one basket noticeably smaller than the rest and priced separately at $2 instead of $3. A hand-written sign reads 'Local Honey - Ask for Sample,' propped against a jar with a bee-shaped label. A scale on the counter shows a reading of 1.4 lbs, and a torn dollar bill sits in the cash box next to a roll of coins.",
+    "stimulusFacts": [
+      "six tomato baskets were displayed, one smaller and priced at $2 instead of $3",
+      "the honey sign read 'Local Honey - Ask for Sample'",
+      "the scale showed a reading of 1.4 lbs",
+      "a torn dollar bill sat in the cash box next to a roll of coins"
+    ],
+    "stimulusSeconds": 9,
+    "questions": [
+      {"id": "obs_d39_q1", "prompt": "How many tomato baskets were displayed?", "type": "numericInput", "options": [], "correctAnswer": "6", "explanation": "Counting under time pressure benefits from noting one outlier first, then counting the rest around it."},
+      {"id": "obs_d39_q2", "prompt": "What was the price of the smaller basket?", "type": "numericInput", "options": [], "correctAnswer": "2", "explanation": "Prices tied to a specific, distinguishable item are easier to recall than prices floating free in a scene."},
+      {"id": "obs_d39_q3", "prompt": "What weight did the scale show?", "type": "textInput", "options": [], "correctAnswer": "1.4 lbs", "explanation": "Precise numeric readouts are a common blind spot when the eye is drawn to the produce instead."},
+      {"id": "obs_d39_q4", "prompt": "True or False: the dollar bill in the cash box was undamaged.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "It was torn — condition details on small objects reward a closer look, not just a glance."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "obs_d40",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "recallQuiz",
+    "difficulty": 5,
+    "prompt": "Read once, pause, then recall.",
+    "stimulusText": "A courtroom scene just before proceedings: the judge's gavel sits slightly off-center on its block, a court reporter's stenotype machine has one key with a faded letter, a clock on the back wall is one of two identical clocks in the room running four minutes apart, a folder marked 'Exhibit C' is out of numerical order between Exhibits A and E, and a juror in the second row has a visible bandage on her left hand.",
+    "stimulusFacts": [
+      "the gavel sat slightly off-center on its block",
+      "the stenotype machine had one key with a faded letter",
+      "of two identical wall clocks, they ran four minutes apart",
+      "the folder marked 'Exhibit C' sat out of order between Exhibits A and E",
+      "a juror in the second row had a bandage on her left hand"
+    ],
+    "stimulusSeconds": 25,
+    "questions": [
+      {"id": "obs_d40_q1", "prompt": "How many minutes apart did the two clocks run?", "type": "numericInput", "options": [], "correctAnswer": "4", "explanation": "A discrepancy between two similar sources, like two clocks, is a genuinely difficult catch that rewards deliberate cross-checking."},
+      {"id": "obs_d40_q2", "prompt": "Which exhibit folder was out of numerical order?", "type": "textInput", "options": [], "correctAnswer": "Exhibit C", "explanation": "Sequence errors are easy to miss unless you check the order explicitly rather than assuming it's correct."},
+      {"id": "obs_d40_q3", "prompt": "Which hand had the bandage on the juror in the second row?", "type": "multipleChoice", "options": ["Left hand", "Right hand", "Neither", "Both"], "correctAnswer": "Left hand", "explanation": "Left/right details are the most commonly flipped in memory — this is a direct test of that habit."},
+      {"id": "obs_d40_q4", "prompt": "True or False: the gavel was perfectly centered on its block.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "It sat slightly off-center — a subtle positional detail that a careful scan, not a quick glance, would catch."}
+    ],
+    "estimatedMinutes": 6
+  }
+]

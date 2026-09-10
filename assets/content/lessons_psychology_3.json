@@ -1,0 +1,336 @@
+[
+  {
+    "id": "psy_l19",
+    "disciplineId": "psychology",
+    "title": "Us and Them: How Fast Group Bias Forms",
+    "hook": "It takes almost nothing to make you favor 'your' team over a stranger's.",
+    "mode": "compare_contrast",
+    "blocks": [
+      {
+        "type": "compare",
+        "text": "In Henri Tajfel's 'minimal group' experiments, researchers randomly split participants into groups using a coin flip or their stated preference for an abstract painting, groupings with zero real history or stakes. Even so, participants reliably allocated more rewards to members of their own randomly assigned group than to the other group, and did so even when it meant giving their own group less in absolute terms, as long as it beat the other group by comparison. If a coin flip is enough to trigger favoritism, imagine what shared nationality, team fandom, or a shared employer does."
+      },
+      {
+        "type": "concept",
+        "text": "In-group bias, favoring your own group, and out-group bias, viewing outsiders less favorably or as more homogeneous, 'they're all the same,' while your own group feels richly varied, are two sides of the same underlying tendency: identity is partly built from group membership, and the mind readily uses 'us vs. them' as an efficient way to allocate trust, resources, and attention. This isn't limited to hostility, it also shows up as a subtler default of extending less benefit of the doubt to outsiders."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "In-group bias is often assumed to require real conflict to appear.",
+        "meta": {
+          "myth": "In-group favoritism only happens with real, deep-seated rivalries, like sports teams or nationalities with a history of conflict.",
+          "fact": "Minimal group studies show the bias forms almost instantly with groups invented on the spot for a lab study, no history, hostility, or competition required. Group identity itself, however arbitrary, appears sufficient to trigger differential treatment."
+        }
+      },
+      {
+        "type": "application",
+        "text": "Because the bias forms so easily and so fast, the practical defense isn't trying to feel no group loyalty, probably impossible and not obviously desirable, it's building in structures that don't rely on individual goodwill: blind evaluation criteria, cross-group collaboration on shared goals, which research shows reliably reduces bias, unlike contact alone, and simply noticing when 'they're all like that' is doing analytical work that evidence should be doing instead."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["in-group bias", "out-group bias", "social identity", "minimal group paradigm"],
+    "relatedDrillIds": ["psy_d31", "psy_d32"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l20",
+    "disciplineId": "psychology",
+    "title": "The Just-World Fallacy: 'They Must Have Deserved It'",
+    "hook": "Notice the instinct to find a reason a victim's misfortune was somehow their own fault.",
+    "mode": "reflect",
+    "blocks": [
+      {
+        "type": "reflection",
+        "text": "When you hear about someone's misfortune, a robbery, a layoff, an illness, a breakup, notice the split-second instinct to ask what they did to cause it. Were they careless, naive, difficult to work with? This reflex isn't usually cruelty. Psychologist Melvin Lerner, studying why observers often blamed victims of clearly random misfortune, proposed that people have a deep motivational need to believe the world is fundamentally fair, that good things happen to good people and bad things happen to bad, or at least careless, people."
+      },
+      {
+        "type": "concept",
+        "text": "The just-world fallacy, or just-world hypothesis, is the tendency to believe the world is fundamentally fair, leading people to assume victims of misfortune must have done something to bring it on themselves, since the alternative, that bad things simply happen to good, careful people for no fair reason, is frightening. Believing the world is just protects a sense that if you personally behave well and carefully, you'll be safe, an appealing but false guarantee."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Victim-blaming reflexes are easy to mistake for a lack of empathy.",
+        "meta": {
+          "myth": "Blaming a victim for their misfortune reflects a lack of compassion or moral character in the person doing the blaming.",
+          "fact": "Lerner's research found the effect strongest in observers who otherwise showed no particular hostility, and it increased specifically when the injustice couldn't be undone or compensated, as though blaming the victim was a way to make an unbearably random world feel orderly again. It's a defensive belief about fairness, not primarily a judgment about the victim."
+        }
+      },
+      {
+        "type": "application",
+        "text": "Recognizing the just-world reflex matters most in exactly the moments it activates: reacting to news of someone else's bad luck. Before asking 'what did they do,' it's worth asking whether you're protecting a comforting belief about fairness rather than assessing what actually happened. It costs nothing to hold both facts at once: bad things sometimes happen with no fairness attached, and that doesn't mean your own careful choices are pointless."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["just-world fallacy", "victim blaming", "social psychology", "attribution"],
+    "relatedDrillIds": ["psy_d33", "psy_d34"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l21",
+    "disciplineId": "psychology",
+    "title": "Motivated Reasoning: Thinking Like a Lawyer, Not a Judge",
+    "hook": "We don't just reason to find the truth. We often reason to reach the conclusion we already want.",
+    "mode": "read",
+    "blocks": [
+      {
+        "type": "concept",
+        "text": "Motivated reasoning is the tendency to process information in a way that reaches a conclusion you're already motivated to believe, while still feeling like you're being objective. Psychologist Ziva Kunda distinguished it from simple wishful thinking: motivated reasoners don't just believe whatever they want, they construct a seemingly reasonable justification, recruiting the evidence, memories, and standards of proof that support the preferred conclusion, and applying much stricter scrutiny to evidence that doesn't. The reasoning process itself feels fair from the inside, that's what makes it hard to catch."
+      },
+      {
+        "type": "example",
+        "text": "A fan watches a controversial replay and genuinely sees the call favoring their team as correct, while fans of the other team, watching the identical footage, genuinely see it the opposite way, a finding replicated in real studies of sports fans. A person deeply invested in a political position will scrutinize a study that undercuts their view for methodological flaws far more energetically than a study supporting it, even when both are equally rigorous or equally weak."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "It's tempting to think motivated reasoning is a flaw of the other side of an argument.",
+        "meta": {
+          "myth": "Motivated reasoning is something other people do, especially people on the 'other side' of an issue; careful, educated thinkers are immune.",
+          "fact": "Research on 'motivated numeracy' found that people with stronger math skills were, if anything, better at motivated reasoning: they used their skill to find flaws in numerically identical data when it contradicted their political views, and accepted the same data uncritically when it supported their views. More cognitive horsepower can serve motivated reasoning as easily as it serves accuracy."
+        }
+      },
+      {
+        "type": "application",
+        "text": "Because motivated reasoning feels like ordinary reasoning from the inside, the best available check is procedural: apply the same standard of evidence to claims you want to believe as to claims you don't. A concrete version: before accepting or rejecting a piece of evidence, ask whether you'd apply the same level of scrutiny if the conclusion pointed the other way."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["motivated reasoning", "confirmation bias", "critical thinking", "political psychology"],
+    "relatedDrillIds": ["psy_d35", "psy_d36"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l22",
+    "disciplineId": "psychology",
+    "title": "The Planning Fallacy: Every Project Takes Longer Than You Think",
+    "hook": "The Sydney Opera House was budgeted at $7 million. It cost over $100 million.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "story",
+        "text": "The Sydney Opera House was originally estimated to cost about $7 million and finish in 1963. It finished in 1973, at a cost of roughly $102 million, more than fourteen times the estimate. This isn't a fluke of one ambitious building: large infrastructure projects overrun their budget and timeline so reliably that economist Bent Flyvbjerg's research on major public projects found the great majority run over cost, over time, or both. And it isn't limited to skyscrapers and stadiums, most people underestimate how long their own kitchen renovation, thesis chapter, or software feature will take, even when they've been burned by the same misjudgment before."
+      },
+      {
+        "type": "concept",
+        "text": "The planning fallacy, described by Daniel Kahneman and Amos Tversky, is the tendency to underestimate the time, cost, and risk of future tasks, even while knowing that similar tasks in the past have generally taken longer than planned. It happens because when we plan, we focus on the specific steps of the plan going right, the 'inside view,' rather than on how similar projects, on average, have actually turned out, the 'outside view,' which quietly bakes in the assumption that this time nothing unexpected will happen."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "It seems like the fix for bad estimates should be more planning detail.",
+        "meta": {
+          "myth": "Better information about the current project, more detailed planning, will fix the planning fallacy.",
+          "fact": "Research shows more detailed planning of the specific steps can actually make the estimate more confidently wrong, since a vivid, step-by-step mental simulation of things going right doesn't include the unplanned interruptions, dependencies, and surprises that reliably occur. What corrects the bias isn't more detail about this project, it's reference-class data about how comparable projects have actually gone."
+        }
+      },
+      {
+        "type": "application",
+        "text": "The practical fix is 'reference class forecasting': before finalizing an estimate, find several past examples of genuinely similar tasks and use their actual completion time as your starting anchor, then adjust for real differences, rather than starting from your own best-case mental walkthrough. Padding an estimate 'just in case' by a fixed percentage rarely captures the size of the gap that reference-class data reveals."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["planning fallacy", "forecasting", "project management", "optimism"],
+    "relatedDrillIds": ["psy_d37", "psy_d38"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l23",
+    "disciplineId": "psychology",
+    "title": "Negativity Bias: Why One Bad Review Outweighs Ten Good Ones",
+    "hook": "You get ten pieces of positive feedback and one criticism. Which one keeps you up at night?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "question",
+        "text": "You publish something, get ten warm compliments and one sharp criticism. Which one do you replay in your head at 2am? For almost everyone, it's the criticism, disproportionately, even though it's a small minority of the actual feedback. Why would the mind weight one negative data point so much more heavily than ten positive ones?"
+      },
+      {
+        "type": "concept",
+        "text": "Negativity bias is the well-documented tendency for negative information, events, and experiences to have a bigger psychological impact than equally-sized positive ones. Researchers summarizing decades of findings across emotion, memory, and decision-making described it as 'bad is stronger than good': negative events are processed more thoroughly, remembered more vividly, and weighted more heavily in judgments than positive events of matched intensity. It likely has evolutionary logic: missing a threat can be fatal, missing an opportunity is usually just a missed upside, so a mind tuned to overweight the downside was, on average, safer."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "It's easy to read a strong reaction to criticism as a personal weakness.",
+        "meta": {
+          "myth": "Being more affected by criticism than praise means you're especially thin-skinned or insecure.",
+          "fact": "Negativity bias is close to a universal feature of human psychology, documented across memory, attention, and impression formation in the general population. It shows up in relationship research too: stable relationships need a substantially higher ratio of positive to negative interactions just to feel balanced, not because partners are unusually sensitive, but because negative interactions simply weigh more by default."
+        }
+      },
+      {
+        "type": "application",
+        "text": "Knowing the bias exists doesn't cancel it, but it changes how you interpret your own reaction: a single piece of criticism landing harder than ten compliments is not proof the criticism is more true or more important, it's the expected shape of the bias operating normally. When evaluating feedback, your own or someone else's work, it's worth deliberately tallying the actual ratio of positive to negative points rather than trusting the felt weight."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["negativity bias", "emotion", "feedback", "evolutionary psychology"],
+    "relatedDrillIds": ["psy_d39", "psy_d40"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l24",
+    "disciplineId": "psychology",
+    "title": "Optimism Bias: 'It Won't Happen to Me'",
+    "hook": "Most smokers rate their own health risk from smoking as lower than the average smoker's.",
+    "mode": "case_study",
+    "blocks": [
+      {
+        "type": "case_study",
+        "text": "Surveys of smokers repeatedly find the same odd pattern: most rate their personal risk of lung disease as lower than that of 'the average smoker,' a statistical impossibility if taken literally across the whole group. The same pattern shows up broadly: most drivers rate themselves as safer than the average driver, most newlyweds estimate their own odds of divorce as near zero despite knowing the general divorce rate, and most new business founders significantly overestimate their venture's odds of success against the well-documented base rate of startup failure."
+      },
+      {
+        "type": "concept",
+        "text": "Optimism bias is the tendency to overestimate the likelihood of positive events happening to us personally and underestimate the likelihood of negative ones, relative to other people or to the objective base rate. Neuroscience research, notably by Tali Sharot, suggests this isn't simple wishful ignorance, the brain appears to selectively update beliefs more readily from good news than bad news about one's own future, a pattern that persists even when people are shown the accurate statistics."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "It's tempting to treat optimism bias as purely a problem to be corrected.",
+        "meta": {
+          "myth": "Optimism bias is purely a flaw that should be corrected wherever it's found.",
+          "fact": "Some baseline optimism bias is linked to better mental health, motivation, and resilience, people with clinical depression often show markedly less of it, seeing their own risks more, or completely, accurately, a pattern researchers call 'depressive realism.' The goal isn't zero optimism bias, it's preventing it from distorting decisions that carry real, high-stakes consequences, like insurance, safety behavior, or financial risk."
+        }
+      },
+      {
+        "type": "application",
+        "text": "For decisions with real consequences, calibrate deliberately: look up the actual base rate for people in your situation, average time to pay off this kind of debt, real odds of this kind of venture succeeding, and treat your gut estimate as a starting point to be corrected against it, not a stopping point. For everyday resilience and motivation, a moderate personal optimism is a feature, not a bug, worth keeping."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["optimism bias", "risk perception", "base rates", "motivation"],
+    "relatedDrillIds": ["psy_d41", "psy_d42"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l25",
+    "disciplineId": "psychology",
+    "title": "Social Proof: Following the Crowd Even When It's Wrong",
+    "hook": "Solomon Asch's subjects agreed a clearly shorter line was longer, just because everyone else said so.",
+    "mode": "compare_contrast",
+    "blocks": [
+      {
+        "type": "compare",
+        "text": "In Solomon Asch's classic 1950s experiments, a participant sat in a room with several confederates, actors working with the experimenter, and was asked a trivially easy question: which of three lines matches a reference line in length. When the confederates unanimously gave an obviously wrong answer aloud before the real participant answered, about a third of real participants conformed to the wrong answer at least once, on a question with an objectively correct, visually easy answer. Answered alone under identical conditions, error rates were under 1%."
+      },
+      {
+        "type": "concept",
+        "text": "Social proof is the tendency to look to others' behavior or judgments as evidence for what is correct or appropriate, especially under uncertainty. It operates through two separate channels: informational, assuming the group knows something you don't, and normative, going along to avoid the discomfort of standing out, even while privately disagreeing. Asch's participants, interviewed afterward, mostly said they still believed their own eyes were right, they conformed anyway, which points to normative pressure as much as informational uncertainty."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Conformity is easy to write off as a sign of weakness.",
+        "meta": {
+          "myth": "Conforming to an obviously wrong group answer only happens to unusually weak-willed or unintelligent people.",
+          "fact": "Asch's effect and its many replications span a broad range of participants and cultures, with the size of the effect varying by culture, generally larger in more collectivist societies, and the same individuals who conform on one trial will often give the correct answer confidently when just one other confederate breaks ranks and gives the right answer too. A single ally is enough to substantially cut conformity, which points to social pressure, not individual weakness, as the driver."
+        }
+      },
+      {
+        "type": "application",
+        "text": "Social proof is also used deliberately in persuasion and marketing, '9 out of 10 people prefer,' visible review counts, 'others also bought,' which works precisely because uncertainty makes people lean on others' apparent behavior. The defense isn't distrusting all social information, group judgment is often genuinely useful, it's noticing when a number is being shown to you specifically to substitute for your own evaluation of the actual thing."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["social proof", "conformity", "asch experiment", "persuasion"],
+    "relatedDrillIds": ["psy_d43", "psy_d44"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l26",
+    "disciplineId": "psychology",
+    "title": "Reciprocity: Why a Free Sample Works On You",
+    "hook": "A stranger hands you a small gift. Notice the pull to give something back, even if you never asked for it.",
+    "mode": "reflect",
+    "blocks": [
+      {
+        "type": "reflection",
+        "text": "Think of the last time someone did you a small, unrequested favor, a free sample at a store, a coworker covering a shift, a stranger complimenting you first. Notice whether you felt a faint obligation afterward, to buy something, to return the favor, to be extra warm back. Robert Cialdini, studying persuasion techniques for his book Influence, identified this pull as one of the most powerful and universal levers in human social behavior: the norm of reciprocity."
+      },
+      {
+        "type": "concept",
+        "text": "The reciprocity principle is the tendency to feel obligated to return a favor, gift, or concession, even a small or unsolicited one. Its power comes partly from how deeply the norm is socialized, across virtually every human culture studied, and partly from how it operates even when the initial gift was unwanted, unequal in value, or transparently strategic. Free samples, a complimentary mint with the check, a 'foot in the door' small initial request before a larger one, all lean on the same mechanism."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "It seems like reciprocity should only apply to things we actually wanted.",
+        "meta": {
+          "myth": "Reciprocity only creates a real obligation when you actually wanted or asked for what was given.",
+          "fact": "Classic field experiments, notably restaurant server studies, found that an unsolicited small gift, like a mint left with the check, increased tips substantially, and giving a second unexpected mint increased tips even more, well beyond what the small cost of a mint would predict. The obligation appears to attach to the act of receiving, not to whether the gift was wanted or requested."
+        }
+      },
+      {
+        "type": "application",
+        "text": "Recognizing reciprocity doesn't mean refusing every kindness, most social exchange genuinely depends on it. The useful move is separating the two questions that reciprocity tends to fuse together: 'do I want to reciprocate this specific kindness' and 'do I want to buy this product or agree to this request,' and answering the second one on its own merits rather than letting the first one answer it for you."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["reciprocity", "persuasion", "cialdini", "influence"],
+    "relatedDrillIds": ["psy_d45", "psy_d46"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l27",
+    "disciplineId": "psychology",
+    "title": "Scarcity: 'Only 2 Left' and the Urgency It Manufactures",
+    "hook": "A countdown timer on a checkout page isn't decoration. It's a lever.",
+    "mode": "read",
+    "blocks": [
+      {
+        "type": "concept",
+        "text": "The scarcity principle is the tendency to value something more, and want it more urgently, when it appears limited in availability or time. It is one of the most consistently effective persuasion levers identified in Robert Cialdini's research, alongside reciprocity and social proof, because scarcity taps two things at once: a shortcut, 'if it's rare, it's probably valuable,' and a fear of missing out on a choice that will no longer be available."
+      },
+      {
+        "type": "example",
+        "text": "'Only 3 left in stock,' countdown timers on checkout pages, 'limited time offer,' seasonal menu items, exclusive early-access windows: all engineered scarcity, and all reliably effective even on shoppers who consciously know the tactic exists. A classic experiment found that when a store limited customers to a maximum number of an item per person, people bought more of it, not less, than when no limit was stated at all, the limit itself signaled desirability."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Knowing a tactic exists feels like it should neutralize it.",
+        "meta": {
+          "myth": "Scarcity messaging only works on people who don't realize it's a sales tactic.",
+          "fact": "Studies show scarcity cues affect judgment and purchasing even among participants who can correctly identify the tactic when asked directly afterward. Knowing the trick exists reduces its power somewhat but does not reliably eliminate the felt urgency in the moment of decision."
+        }
+      },
+      {
+        "type": "application",
+        "text": "Genuine scarcity, a real deadline, a real limited supply, is useful information and worth responding to. Manufactured urgency is worth a specific pause: does this decision actually get worse if I wait 24 hours to think it over, or does it only feel worse because a countdown timer is telling me so? For decisions above a certain size, giving yourself a fixed waiting period before acting on a scarcity cue is a cheap, effective personal rule."
+      },
+      {
+        "type": "summary",
+        "text": "Scarcity increases perceived value and urgency, independent of the item's actual usefulness to you, and the effect persists even when you consciously recognize it as a tactic. The reliable countermeasure is a deliberate pause, not willpower in the moment."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["scarcity", "persuasion", "urgency", "marketing psychology"],
+    "relatedDrillIds": ["psy_d47", "psy_d48"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "psy_l28",
+    "disciplineId": "psychology",
+    "title": "Decision Fatigue: Why Judges Grant Parole More Often Before Lunch",
+    "hook": "A 2011 study found parole boards granted parole roughly 65% of the time right after a break, and near 0% right before one.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "story",
+        "text": "A widely cited 2011 study of Israeli parole boards found that judges granted parole in about 65% of cases heard right after a food break, and that rate declined steadily toward almost zero by the time of the next break, then jumped back up again after judges ate and rested. The most defensible explanation offered was decision fatigue: the judges' capacity for the effortful, case-by-case reasoning required to grant a discretionary release wore down over a session, and the easier, safer default, deny parole, took over as fatigue set in. Some later reanalysis has debated the exact size and cause of the effect, but the broader phenomenon of decision quality degrading with decision volume is well supported elsewhere."
+      },
+      {
+        "type": "concept",
+        "text": "Decision fatigue is the tendency for the quality of decisions to deteriorate after a long session of decision-making, as the mental resources required for deliberate, effortful choice are depleted. A closely related phenomenon, choice overload, is that having too many options to choose from, even all good ones, can reduce satisfaction and increase decision avoidance altogether, sometimes leading people to make no choice rather than sort through too many good ones, demonstrated in the well-known 'jam study,' where a smaller selection of jams produced more purchases than a large one."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "It's tempting to think more choice and unlimited decision-making capacity go hand in hand.",
+        "meta": {
+          "myth": "More choice is always better, and a sharp, disciplined person can make an unlimited number of good decisions in a day without any drop in quality.",
+          "fact": "Decision quality is a depletable resource, not a fixed trait immune to volume and time of day. This is well-established enough that it shapes real institutional design, some parole and medical review boards have restructured scheduling around it, and it's why many highly effective people deliberately reduce trivial daily decisions, a signature outfit, a fixed breakfast, to save decision capacity for what matters."
+        }
+      },
+      {
+        "type": "application",
+        "text": "Two practical levers follow directly: schedule your highest-stakes decisions earlier in the day or session, before fatigue sets in, and deliberately reduce the number of trivial decisions competing for the same mental budget on a day when an important choice is coming. When facing choice overload, artificially narrowing your own option set, a rule like 'consider only 3,' often produces both a faster and a more satisfying decision than surveying everything available."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["decision fatigue", "choice overload", "willpower", "decision making"],
+    "relatedDrillIds": ["psy_d49", "psy_d50"],
+    "relatedCardIds": []
+  }
+]

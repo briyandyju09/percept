@@ -1,0 +1,342 @@
+[
+  {
+    "id": "char_d21",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "Three months ago you said something sharp and unfair to your sibling during an argument, in front of their partner. You apologized and things have mostly healed on their end, but you still privately replay the moment and feel a hot wave of shame whenever you remember it, sometimes concluding you're a genuinely unkind person underneath.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d21_q1",
+        "prompt": "Write what you'd say to a close friend who did the exact same thing and came to you ashamed about it. Then compare that to what you're currently telling yourself.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "To a friend, you'd likely say something like: 'you were in a heated moment, you said something you didn't mean and already apologized for it — that doesn't make you an unkind person, it makes you someone who said one unkind thing under pressure and owned it.' The self-directed version is usually harsher and more permanent ('I'm genuinely unkind') than the friend-directed version would ever be.",
+        "explanation": "The gap between what you'd offer a friend and what you're offering yourself is usually the actual problem — not the original mistake, which has already been apologized for and largely repaired."
+      },
+      {
+        "id": "char_d21_q2",
+        "prompt": "What repair has already happened here, and what would continuing to punish yourself accomplish beyond what's already been done?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "The apology has already been given and the relationship has mostly healed — the concrete repair is done. Continuing to punish yourself privately doesn't add anything further for your sibling; it just extends personal suffering without producing any new repair or insight.",
+        "explanation": "Once a genuine repair has been made, further self-punishment isn't extra accountability — it's a habit that feels like doing something without actually accomplishing anything more."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d22",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify whether it reflects genuine courage or reckless behavior mistaken for courage.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d22_q1",
+        "prompt": "An employee calmly raises a specific safety concern to her manager in a private conversation, even though she worries it might make her look difficult. What is this an example of?",
+        "type": "multipleChoice",
+        "options": ["Genuine moral courage", "Recklessness", "People-pleasing", "Conflict avoidance"],
+        "correctAnswer": "Genuine moral courage",
+        "explanation": "Courage is doing the right thing despite a real, felt cost — here, social discomfort — through a measured, appropriate channel, not through unnecessary drama or provocation."
+      },
+      {
+        "id": "char_d22_q2",
+        "prompt": "A man publicly humiliates his coworker in a meeting to 'call out' a minor mistake, framing it afterward as him just being 'brave enough to say what everyone was thinking.' What does this best reflect?",
+        "type": "multipleChoice",
+        "options": ["Recklessness dressed up as courage", "Genuine moral courage", "Patience", "Humility"],
+        "correctAnswer": "Recklessness dressed up as courage",
+        "explanation": "Real courage weighs the cost to yourself against the good achieved; here the coworker pays most of the cost through public humiliation while the speaker gains a sense of boldness — that imbalance is a hallmark of recklessness, not courage."
+      },
+      {
+        "id": "char_d22_q3",
+        "prompt": "A teenager confronts a friend privately about a rumor she's been spreading, risking the friendship to say something true and necessary. What best characterizes this action?",
+        "type": "multipleChoice",
+        "options": ["Genuine courage, since something real is being risked for a legitimate reason", "Recklessness, since friendships shouldn't be risked", "Gossip, since it involves confronting someone about a rumor", "Avoidance, since it doesn't fully resolve the underlying issue"],
+        "correctAnswer": "Genuine courage, since something real is being risked for a legitimate reason",
+        "explanation": "Courage requires an actual stake — here, the friendship itself — accepted in service of an honest and appropriate goal, which is what separates it from either recklessness or simple conflict."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d23",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A junior colleague on a completely different team than yours, with little overlap in your day-to-day work and almost no chance of ever being useful to your own career, has been struggling with a skill you happen to be strong in. Helping them would cost you a real hour a week for the next month, with no visible benefit to you.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d23_q1",
+        "prompt": "What distinguishes this situation as a genuine test of mentoring rather than networking?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "The colleague has essentially no ability to return the favor or advance your own position, and there's no overlap that would make helping them strategically useful to you. Any benefit here would come purely from having invested in someone else's growth, not from what it returns to you.",
+        "explanation": "The clearest test of real mentoring is whether you'd still help someone with zero chance of reciprocation — that's exactly this scenario, stripped of any strategic upside."
+      },
+      {
+        "id": "char_d23_q2",
+        "prompt": "What is one concrete way you could offer the hour that respects both your own time limits and their actual need?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Examples: offering one structured hour a week for the month with a clear end date rather than an open-ended commitment, or offering a single concentrated session plus written notes they can return to, so the investment is bounded and sustainable rather than an unlimited, resentment-building obligation.",
+        "explanation": "Genuine generosity toward others' growth is more sustainable, and more honest, when it's offered with real boundaries rather than as an unlimited, eventually resented commitment."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d24",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify which expression of gratitude is most specific and likely to actually land.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d24_q1",
+        "prompt": "Which thank-you is most likely to make the recipient feel genuinely seen?",
+        "type": "multipleChoice",
+        "options": ["'Thank you for driving out at 2am when I called — and for not making me explain before you came.'", "'Thanks for everything, you're the best.'", "'Thanks for being such a great friend.'", "'I appreciate you.'"],
+        "correctAnswer": "'Thank you for driving out at 2am when I called — and for not making me explain before you came.'",
+        "explanation": "Naming the exact moment and what it cost the other person proves you were actually paying attention, which is what makes gratitude land rather than functioning as a pleasant but forgettable phrase."
+      },
+      {
+        "id": "char_d24_q2",
+        "prompt": "A manager wants to thank a team member for their work on a project. Which approach best reflects specific, well-placed gratitude?",
+        "type": "multipleChoice",
+        "options": ["Naming the exact contribution and the specific difference it made to the outcome", "A general email thanking 'the whole team' without singling anyone out", "Waiting until the annual review to mention it briefly", "Assuming the team member already knows their work was appreciated"],
+        "correctAnswer": "Naming the exact contribution and the specific difference it made to the outcome",
+        "explanation": "Specific, timely gratitude tied to an identifiable action is far more likely to be remembered and felt than a generalized, delayed, or assumed acknowledgment."
+      },
+      {
+        "id": "char_d24_q3",
+        "prompt": "What's the main problem with a generic thank-you like 'thanks for everything'?",
+        "type": "multipleChoice",
+        "options": ["It gives the receiver no evidence that you actually noticed anything specific", "It's too long and detailed for most situations", "It sounds insincere because it's too formal", "It puts too much pressure on the receiver to respond"],
+        "correctAnswer": "It gives the receiver no evidence that you actually noticed anything specific",
+        "explanation": "A generic thank-you costs the sayer little effort and gives the receiver little proof of genuine attention, which is exactly what makes it forgettable compared to a specific one."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d25",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A friend has asked you to help them move apartments this weekend, the third weekend in a row they've asked for a significant favor. You already have plans you'd genuinely regret canceling, but you feel the pull to say yes automatically, the way you always have, to avoid disappointing them or seeming like a less generous friend than usual.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d25_q1",
+        "prompt": "What would an honest boundary sound like here, and how is it different from either a resentful yes or a vague excuse?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Something like: 'I can't help with the move this weekend — I already have plans I don't want to cancel — but I'd like to help you get set up another way, like helping unpack next week.' This differs from a resentful yes (agreeing while quietly dreading it) and a vague excuse (inventing a reason instead of stating the real one) by being both honest and specific about the real reason and an alternative offer.",
+        "explanation": "An honest boundary states the real reason plainly and, where genuine, offers an alternative — it respects the friend's ability to plan around the truth rather than around a fake yes or a vague dodge."
+      },
+      {
+        "id": "char_d25_q2",
+        "prompt": "What is the actual cost of saying yes anyway, versus the cost of saying an honest no, and which cost is more likely to compound over time?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Saying yes anyway costs the plans you'd regret losing and likely builds quiet resentment. An honest no costs a moment of disappointing the friend now. The resentment from repeated forced yeses tends to compound over time and can damage the friendship more than a single honest no ever would.",
+        "explanation": "A pattern of reflexive yeses tends to produce a slow buildup of resentment that damages a relationship more than an occasional honest no, which the relationship can usually absorb easily."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d26",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify the response that best reflects trustworthiness.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d26_q1",
+        "prompt": "A friend told you something sensitive in confidence. Later, someone asks you a question that could be answered honestly only by revealing a hint of it. What's the most trustworthy response?",
+        "type": "multipleChoice",
+        "options": ["Declining to answer or redirecting, without confirming or hinting at anything", "Giving a vague hint that lets the other person guess the rest", "Answering honestly since you weren't explicitly told to keep it secret", "Telling only one other close friend, since it's not really 'everyone'"],
+        "correctAnswer": "Declining to answer or redirecting, without confirming or hinting at anything",
+        "explanation": "Hints and partial reveals can betray a confidence just as much as stating it outright, while offering the illusion of discretion — genuine trustworthiness avoids both routes."
+      },
+      {
+        "id": "char_d26_q2",
+        "prompt": "A coworker asks you to keep a piece of upcoming, not-yet-announced news quiet. A close friend later asks you directly if you know anything about it. What best reflects keeping the confidence?",
+        "type": "multipleChoice",
+        "options": ["Telling your friend honestly that you can't discuss it, without confirming or denying details", "Telling your friend since they're trustworthy too", "Giving a partial answer that avoids the word 'yes' but implies it", "Waiting to see if the news becomes public before deciding"],
+        "correctAnswer": "Telling your friend honestly that you can't discuss it, without confirming or denying details",
+        "explanation": "A confidence extends to everyone, including people you personally trust — the promise was about the information, not about a specific list of people it couldn't reach."
+      },
+      {
+        "id": "char_d26_q3",
+        "prompt": "What is the most reliable long-term signal of whether someone is trustworthy with information?",
+        "type": "multipleChoice",
+        "options": ["Whether they consistently decline to share things that weren't theirs to share, even when it costs them socially", "Whether they promise explicitly never to tell anyone", "Whether they only share information with people who already know part of it", "Whether they apologize convincingly on the rare occasions they do share something"],
+        "correctAnswer": "Whether they consistently decline to share things that weren't theirs to share, even when it costs them socially",
+        "explanation": "Trustworthiness is demonstrated through repeated behavior under real temptation, not through promises or after-the-fact apologies once a confidence has already been broken."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d27",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're in a disagreement with your partner about how to handle a shared financial decision. You're fairly confident you already understand their reasoning — you've had similar disagreements before and you assume this one will follow the same script. You catch yourself about to respond to what you assume they'll say rather than what they're actually saying.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d27_q1",
+        "prompt": "What is one genuine, open question you could ask instead of responding to your assumption of their position?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Something like: 'Help me understand what's actually driving your view on this one — is it the same concern as last time, or something different?' The key is that it's asked with real openness to a different answer, not as a rhetorical setup for your existing rebuttal.",
+        "explanation": "Curiosity as a habit means asking a real question even in a situation where you feel confident you already know the answer — that's exactly where it's most likely to correct a wrong assumption."
+      },
+      {
+        "id": "char_d27_q2",
+        "prompt": "What might you be missing by assuming this disagreement follows the same script as previous ones?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "You might be missing a genuinely new concern, a change in their thinking, or a detail specific to this situation that doesn't match the earlier pattern. Treating every similar disagreement as identical forecloses noticing when something has actually changed.",
+        "explanation": "Certainty built from past patterns feels efficient but can blind you to real, current information — the habit of staying curious even in familiar-feeling situations is what catches the difference."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d28",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify the healthiest response to rejection or failure.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d28_q1",
+        "prompt": "A job candidate is rejected after a final-round interview. What is the most useful way to process this?",
+        "type": "multipleChoice",
+        "options": ["Treating it as specific information about this role and this panel, and asking for feedback if possible", "Concluding they're not good enough for jobs at this level generally", "Assuming the interviewer must have been biased against them", "Avoiding applying to similar roles going forward to prevent future rejection"],
+        "correctAnswer": "Treating it as specific information about this role and this panel, and asking for feedback if possible",
+        "explanation": "A single rejection supports a narrow, specific claim about one process, not a sweeping conclusion about overall competence or future prospects."
+      },
+      {
+        "id": "char_d28_q2",
+        "prompt": "An athlete fails to make a team roster after years of effort. Which response best reflects resilience rather than either denial or despair?",
+        "type": "multipleChoice",
+        "options": ["Grieving the loss honestly while identifying what, specifically, is still within their control going forward", "Insisting the outcome doesn't matter and suppressing any disappointment", "Concluding the years of effort were entirely wasted", "Blaming the coaches publicly to preserve their own sense of ability"],
+        "correctAnswer": "Grieving the loss honestly while identifying what, specifically, is still within their control going forward",
+        "explanation": "Resilience doesn't require skipping real grief over a real loss — it requires not letting the grief calcify into either denial or a permanent, identity-level verdict."
+      },
+      {
+        "id": "char_d28_q3",
+        "prompt": "What is the clearest sign that someone has drawn an oversized conclusion from a specific failure?",
+        "type": "multipleChoice",
+        "options": ["The conclusion is about their overall worth or identity rather than the specific attempt", "They feel disappointed about the outcome", "They plan to try a similar thing again in the future", "They ask someone else for feedback on what went wrong"],
+        "correctAnswer": "The conclusion is about their overall worth or identity rather than the specific attempt",
+        "explanation": "A specific failure supports a specific, narrow claim about one attempt. When the conclusion jumps to a permanent statement about identity or overall worth, that's the oversized leap worth catching."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d29",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You forgot a close friend's birthday during an especially busy stretch at work. When she brought it up, hurt, your first response was, 'I'm sorry, but things have been completely insane, I've barely had time to think.' She said it was fine, but the conversation felt colder afterward and you can tell something is still off between you.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d29_q1",
+        "prompt": "What went wrong with the first apology, specifically?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "The apology led with an excuse ('but things have been completely insane') that shifted the focus from acknowledging the impact on her to explaining and justifying your own circumstances — which functionally cancels the apology, even though the word 'sorry' was technically included.",
+        "explanation": "An apology with a justifying 'but' attached tends to read as a request for understanding rather than genuine ownership of the impact, which is why it often leaves the other person feeling unheard."
+      },
+      {
+        "id": "char_d29_q2",
+        "prompt": "Write a better version of the apology that includes ownership, an acknowledgment of impact, and a concrete next step.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Something like: 'I forgot your birthday, and no matter how busy I was, that's on me — you matter to me and I didn't show it when it counted. I'm sorry, and I'd like to do something for you this weekend, not to make up for being late, just because I want to.' This version drops the justifying clause and adds a concrete action.",
+        "explanation": "A repair-quality apology names the specific action, acknowledges its impact without a justifying 'but,' and offers a concrete next step — all three parts working together are what make an apology actually land."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d30",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each everyday scenario and identify the virtue most clearly at work.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d30_q1",
+        "prompt": "A man notices he's been quietly resentful of a friend's success and decides to examine what he actually wants from his own life instead of dwelling on the friend's win. What virtue is he practicing?",
+        "type": "multipleChoice",
+        "options": ["Self-awareness", "Generosity", "Patience", "Forgiveness"],
+        "correctAnswer": "Self-awareness",
+        "explanation": "Noticing an uncomfortable feeling honestly and examining what it's actually pointing at, rather than acting on it blindly or suppressing it, is the core of self-awareness."
+      },
+      {
+        "id": "char_d30_q2",
+        "prompt": "A woman keeps a commitment to volunteer at a shelter every week, even on weeks when she's tired and no one would notice if she skipped it. What virtue is most clearly at work?",
+        "type": "multipleChoice",
+        "options": ["Discipline", "Curiosity", "Envy", "Purpose alone, without discipline"],
+        "correctAnswer": "Discipline",
+        "explanation": "Following through on a commitment specifically when motivation is low and no one is checking is the clearest test of discipline as distinct from simply enjoying an activity when it's easy."
+      },
+      {
+        "id": "char_d30_q3",
+        "prompt": "A team member owns up to a mistake in a client meeting immediately, rather than waiting to see if it would be noticed. What virtue does this best reflect?",
+        "type": "multipleChoice",
+        "options": ["Responsibility", "Patience", "Gratitude", "Curiosity"],
+        "correctAnswer": "Responsibility",
+        "explanation": "Volunteering an inconvenient truth about your own error, without waiting to see if you can avoid the consequence, is a clean expression of responsibility as a character trait."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

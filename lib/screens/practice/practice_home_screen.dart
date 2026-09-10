@@ -9,6 +9,7 @@ import '../../state/repository_providers.dart';
 import '../../theme/colors.dart';
 import '../../theme/spacing.dart';
 import '../../theme/typography.dart';
+import '../../widgets/percept_card.dart';
 
 class PracticeHomeScreen extends ConsumerWidget {
   const PracticeHomeScreen({super.key});
@@ -66,46 +67,38 @@ class _LabTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return GestureDetector(
+    return PerceptCard(
       onTap: () => context.push(
         RoutePaths.withParam(RoutePaths.practiceLab, 'labCategory', discipline.labName),
       ),
-      child: Container(
-        padding: const EdgeInsets.all(PerceptSpacing.cardPadding),
-        decoration: BoxDecoration(
-          color: context.perceptSurface,
-          borderRadius: BorderRadius.circular(PerceptRadii.card),
-          border: Border.all(color: context.perceptHairline),
-        ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(discipline.icon, style: const TextStyle(fontSize: 26)),
-            const Spacer(),
-            Text(discipline.labName, style: PerceptTypography.bodyEmphasis(context.textPrimary)),
-            const SizedBox(height: 4),
-            Text(
-              '$completed / $total drills',
-              style: PerceptTypography.footnote(context.textSecondary),
-            ),
-            const SizedBox(height: 6),
-            ClipRRect(
-              borderRadius: BorderRadius.circular(3),
-              child: LayoutBuilder(
-                builder: (context, constraints) => Stack(
-                  children: [
-                    Container(height: 5, color: context.perceptHairline),
-                    Container(
-                      height: 5,
-                      width: constraints.maxWidth * (total == 0 ? 0 : completed / total),
-                      color: PerceptColors.accent,
-                    ),
-                  ],
-                ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(discipline.icon, style: const TextStyle(fontSize: PerceptGlyphSize.row + 4)),
+          const Spacer(),
+          Text(discipline.labName, style: PerceptTypography.bodyEmphasis(context.textPrimary)),
+          const SizedBox(height: PerceptSpacing.xs),
+          Text(
+            '$completed / $total drills',
+            style: PerceptTypography.footnote(context.textSecondary),
+          ),
+          const SizedBox(height: PerceptSpacing.sm),
+          ClipRRect(
+            borderRadius: BorderRadius.circular(3),
+            child: LayoutBuilder(
+              builder: (context, constraints) => Stack(
+                children: [
+                  Container(height: 5, color: context.perceptHairline),
+                  Container(
+                    height: 5,
+                    width: constraints.maxWidth * (total == 0 ? 0 : completed / total),
+                    color: PerceptColors.accent,
+                  ),
+                ],
               ),
             ),
-          ],
-        ),
+          ),
+        ],
       ),
     );
   }

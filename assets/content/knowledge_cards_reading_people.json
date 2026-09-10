@@ -1,0 +1,152 @@
+[
+  {
+    "id": "card_rp_101",
+    "disciplineId": "reading_people",
+    "hook": "A racing heart looks the same whether someone is furious or thrilled.",
+    "concept": "Physiological arousal — faster heart rate, quicker breathing, sweating — is largely undifferentiated across strong emotions. The body's arousal system doesn't neatly label itself 'anger' versus 'excitement' versus 'fear'; the same internal signature can accompany very different felt states.",
+    "tryIt": "When you notice signs of arousal in someone (flushed face, quickened speech, restless movement), resist naming the emotion from arousal alone. Pair it with context and their own words before deciding what it is.",
+    "whyExplanation": "This is the classic finding behind arousal-based theories of emotion: the physical state provides intensity information, while context and appraisal do most of the work of labeling which emotion it is. Treating arousal as self-labeling is a common but unreliable shortcut.",
+    "sourceCitation": null,
+    "tags": ["arousal", "emotion-labeling", "epistemic-humility"]
+  },
+  {
+    "id": "card_rp_102",
+    "disciplineId": "reading_people",
+    "hook": "\"He's an open book\" and \"she's impossible to read\" are both about you as much as them.",
+    "concept": "How easy someone is to read depends heavily on the reader's familiarity with that specific person's baseline, not just on some universal property of the person being read. A stranger's calm face might look 'unreadable' only because you lack the reference point a close friend would have.",
+    "tryIt": "Before concluding someone is naturally guarded or expressionless, ask whether you'd say the same thing about a total stranger showing identical behavior, or whether it's really your own unfamiliarity talking.",
+    "whyExplanation": "Reading accuracy consistently improves with exposure to a specific person's baseline expressiveness. Labeling someone 'unreadable' often reflects a thin sample of observations more than a stable trait of theirs.",
+    "sourceCitation": null,
+    "tags": ["baseline", "familiarity", "epistemic-humility"]
+  },
+  {
+    "id": "card_rp_103",
+    "disciplineId": "reading_people",
+    "hook": "A pause before answering is not a lie detector.",
+    "concept": "Hesitation before a response can reflect careful thought, difficulty recalling a detail, translation between languages, or simple distraction, in addition to any concern about deception. The pause itself carries very little specific information about which of these is happening.",
+    "tryIt": "When you notice a hesitation, hold at least two explanations in mind — one benign, one more concerning — rather than defaulting to suspicion, and look for what would help you tell them apart.",
+    "whyExplanation": "Deception research repeatedly finds response latency to be a weak and inconsistent cue, since truthful answers to complex or sensitive questions are naturally slower than rehearsed lies can be.",
+    "sourceCitation": null,
+    "tags": ["deception", "hesitation", "myth-busting"]
+  },
+  {
+    "id": "card_rp_104",
+    "disciplineId": "reading_people",
+    "hook": "Crossed arms might just mean the room is cold.",
+    "concept": "Closed body postures like crossed arms or turned-away shoulders are frequently taught as defensiveness signals, but they're equally consistent with comfort, habit, temperature, or simply having nowhere else to put one's arms.",
+    "tryIt": "Before reading a posture as defensive, check whether it changes noticeably across the conversation, or whether it stays constant regardless of topic — a constant posture is more likely to be habitual than reactive.",
+    "whyExplanation": "A cue that doesn't shift with the content of a conversation is unlikely to be a reaction to that content; unchanging posture is more consistent with a resting habit than an emotional response.",
+    "sourceCitation": null,
+    "tags": ["body-language", "myth-busting", "baseline"]
+  },
+  {
+    "id": "card_rp_105",
+    "disciplineId": "reading_people",
+    "hook": "Cultures don't just speak different languages — they smile, gesture, and stand differently too.",
+    "concept": "Display rules (culturally learned norms for when and how much emotion to show), personal space preferences, and even the amount and type of eye contact considered polite all vary meaningfully across cultural backgrounds. A cue that reads as cold or evasive in one norm set can be perfectly warm and respectful in another.",
+    "tryIt": "When reading someone from a different cultural background than your own, actively lower your confidence in cues tied to expressiveness, distance, and eye contact, and look for their pattern relative to their own group's norms where possible.",
+    "whyExplanation": "Cross-cultural psychology has long documented systematic variation in display rules and proxemics; applying one culture's norms as a universal baseline is one of the most common sources of misreading across cultural lines.",
+    "sourceCitation": "Consistent with Paul Ekman's cross-cultural display rule research and Edward Hall's work on proxemics",
+    "tags": ["culture", "display-rules", "epistemic-humility"]
+  },
+  {
+    "id": "card_rp_106",
+    "disciplineId": "reading_people",
+    "hook": "A crowd's mood can be loud, fast, and still wrong to guess from a distance.",
+    "concept": "Emotional contagion spreads behavior — standing, shouting, moving — through a crowd quickly regardless of whether the underlying emotion is fear, excitement, or something else. Watching the spread alone often can't tell you which emotion is actually driving it.",
+    "tryIt": "When you see a crowd reacting suddenly and uniformly, look for the actual triggering event or the direction people are moving relative to it before assuming you know the emotion behind the reaction.",
+    "whyExplanation": "Early-stage crowd behavior research shows that alarm and excitement produce strikingly similar initial movement patterns, since both trigger a fast, socially contagious startle-and-orient response before any specific meaning is attached.",
+    "sourceCitation": null,
+    "tags": ["crowd-behavior", "emotional-contagion", "epistemic-humility"]
+  },
+  {
+    "id": "card_rp_107",
+    "disciplineId": "reading_people",
+    "hook": "Teenage withdrawal at dinner is common enough to be boring.",
+    "concept": "A shift toward one-word answers, reduced eye contact, and increased phone use during adolescence overlaps heavily with ordinary developmental changes, not just distress. Treating typical individuation as a red flag by default risks manufacturing worry from normal behavior.",
+    "tryIt": "Before treating a teenager's withdrawal as concerning, check for convergent changes — sleep, appetite, grades, friendships — rather than reading a single dinner-table pattern as diagnostic on its own.",
+    "whyExplanation": "Developmental psychology treats increased privacy-seeking and reduced disclosure to parents as a normal, expected part of adolescent individuation, distinct from patterns that suggest an acute problem.",
+    "sourceCitation": null,
+    "tags": ["development", "baseline", "epistemic-humility"]
+  },
+  {
+    "id": "card_rp_108",
+    "disciplineId": "reading_people",
+    "hook": "The most convincing negotiator smile might be the one that's rehearsed.",
+    "concept": "In negotiation and sales contexts specifically, reactions like smiling, surprise, or hesitation are more likely than usual to be deliberately performed, since both parties know they are being watched and are motivated to manage the other's impressions.",
+    "tryIt": "In any interaction where both sides have a stake in appearing a certain way (negotiating, interviewing, dating early on), lower your default confidence in expressive cues more than you would in a low-stakes casual conversation.",
+    "whyExplanation": "Strategic self-presentation is a well-documented feature of high-stakes social exchanges; the incentive to manage one's expressed reactions is highest exactly when the stakes for being read accurately are highest.",
+    "sourceCitation": null,
+    "tags": ["negotiation", "self-presentation", "epistemic-humility"]
+  },
+  {
+    "id": "card_rp_109",
+    "disciplineId": "reading_people",
+    "hook": "Stillness on a video call usually just means someone is listening.",
+    "concept": "On group video calls, a mostly static face with minimal movement is the expected default appearance of an attentive, non-speaking participant, not a sign of disengagement. Movement isn't a prerequisite for attention.",
+    "tryIt": "Instead of reading video stillness as checked-out, look for more direct evidence of attention, such as an on-topic response when the person is addressed directly.",
+    "whyExplanation": "Video call attention research finds that outward stillness correlates poorly with actual engagement, since most people naturally reduce movement while listening rather than speaking, regardless of platform.",
+    "sourceCitation": null,
+    "tags": ["video-calls", "attention", "myth-busting"]
+  },
+  {
+    "id": "card_rp_110",
+    "disciplineId": "reading_people",
+    "hook": "The lie-detector checklist that trained interrogators use doesn't beat a coin flip.",
+    "concept": "Formal evaluations of behavior-based deception training — teaching investigators to watch for gaze aversion, fidgeting, or crossed arms — have repeatedly found accuracy no better than chance when tested against verified truth-tellers and liars.",
+    "tryIt": "Treat any list of 'tells' you encounter, however authoritative-sounding its source, as a hypothesis to test against actual outcomes rather than a validated tool to apply directly.",
+    "whyExplanation": "Multiple independent academic reviews of professional deception-detection training programs, including some used in interrogation and security screening, have found their accuracy claims are not supported by controlled testing.",
+    "sourceCitation": "Consistent with published evaluations of behavior-based deception detection training programs",
+    "tags": ["deception", "myth-busting", "research"]
+  },
+  {
+    "id": "card_rp_111",
+    "disciplineId": "reading_people",
+    "hook": "Silence after a hard question isn't automatically an answer.",
+    "concept": "When someone goes quiet or changes the subject in response to a direct question, that silence has many possible causes — confidentiality, discomfort with the topic in general, needing time to think — beyond confirming whatever the question implied.",
+    "tryIt": "When you get silence instead of an answer, resist filling that silence with the most dramatic interpretation. Note it as 'unresolved' rather than as a confirmed answer in disguise.",
+    "whyExplanation": "Silence is genuinely ambiguous: it's consistent with confirming, denying, being unable to answer, or simply declining to engage, which makes it one of the weakest cues to build a confident conclusion on.",
+    "sourceCitation": null,
+    "tags": ["silence", "ambiguity", "epistemic-humility"]
+  },
+  {
+    "id": "card_rp_112",
+    "disciplineId": "reading_people",
+    "hook": "Two very different feelings can produce the exact same quiet, steady behavior.",
+    "concept": "Outward calm and continued normal engagement after a disappointing event (like being passed over for a promotion) is equally consistent with genuine acceptance and with quietly suppressed resentment. Behavior alone often cannot distinguish these.",
+    "tryIt": "When behavior is genuinely compatible with two very different internal states, resist forcing a confident guess. Consider whether a direct, honest conversation would resolve more than further behavioral observation could.",
+    "whyExplanation": "Suppressed emotion and genuinely processed emotion can be behaviorally indistinguishable from the outside, which is exactly why some questions about internal states are better addressed by asking than by inferring.",
+    "sourceCitation": null,
+    "tags": ["ambiguity", "epistemic-humility", "suppression"]
+  },
+  {
+    "id": "card_rp_113",
+    "disciplineId": "reading_people",
+    "hook": "A dog barking at your guest might be reacting to the reach, not the person.",
+    "concept": "Defensive animal reactions (barking, backing away) are often triggered by the manner of an approach — speed, directness, reaching over the head — rather than something specific about the individual approaching.",
+    "tryIt": "Before concluding an animal or a person is reacting to someone specifically, consider whether the same reaction would occur to anyone approaching in the same manner.",
+    "whyExplanation": "Separating the trigger (how something was done) from the target (who did it) is a general debugging move for social reactions, and applies just as well outside animal behavior as within it.",
+    "sourceCitation": null,
+    "tags": ["attribution", "epistemic-humility"]
+  },
+  {
+    "id": "card_rp_114",
+    "disciplineId": "reading_people",
+    "hook": "Social media shows you someone's highlight reel, not their whole month.",
+    "concept": "Posted outings and photos capture a small, visible, and often lower-effort slice of a person's time. Comparing what someone posts to how much effort they put into plans with you specifically can overstate a difference that partly reflects what's easy to post versus what's private.",
+    "tryIt": "When comparing someone's visible online activity to their behavior toward you, ask what you're not seeing — the canceled plans, quiet nights, and unposted effort — before concluding you're specifically being deprioritized.",
+    "whyExplanation": "Posting behavior is a biased, self-selected sample of someone's life; treating it as a complete record of where their time and energy actually goes systematically overweights visible moments.",
+    "sourceCitation": null,
+    "tags": ["social-media", "sampling-bias", "epistemic-humility"]
+  },
+  {
+    "id": "card_rp_115",
+    "disciplineId": "reading_people",
+    "hook": "The best-supported reading habit isn't a cue — it's a question.",
+    "concept": "Across nearly every domain of reading people, from facial expressions to crowd behavior to negotiation tactics, the single most reliable practice isn't finding a better tell. It's routinely generating at least one honest alternative explanation before settling on a conclusion.",
+    "tryIt": "Make 'what else could explain this?' a standing question you ask after any read, not just when you're unsure. Treat it as a mandatory step rather than a fallback for hard cases.",
+    "whyExplanation": "This habit doesn't rely on any single cue being valid — it works precisely because it protects against the common failure mode across all cues: mistaking one plausible story for the only story.",
+    "sourceCitation": null,
+    "tags": ["epistemic-humility", "core-practice", "alternative-explanations"]
+  }
+]

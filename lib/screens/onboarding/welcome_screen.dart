@@ -20,7 +20,7 @@ class WelcomeScreen extends StatelessWidget {
           child: Column(
             children: [
               const Spacer(flex: 3),
-              Text('👁', style: const TextStyle(fontSize: 56)),
+              Text('👁', style: const TextStyle(fontSize: PerceptGlyphSize.splash)),
               const SizedBox(height: PerceptSpacing.xl),
               Text(
                 'Percept',

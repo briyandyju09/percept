@@ -1,0 +1,152 @@
+[
+  {
+    "id": "card_char_101",
+    "disciplineId": "character",
+    "hook": "Courage isn't the absence of fear — recklessness is.",
+    "concept": "Aristotle described courage as the mean between two failures: cowardice (too much fear, too little confidence) and recklessness (too little fear, too much confidence). The courageous person still feels fear appropriate to the danger, but acts rightly despite it.",
+    "tryIt": "Next time you're afraid to do or say something you believe is right, don't wait for the fear to disappear before acting. Notice the fear, name it, and act anyway if the fear doesn't match the actual stakes.",
+    "whyExplanation": "Treating courage as fearlessness sets an impossible standard and can even valorize recklessness. Defining it as right action despite fear makes courage available to anyone, in ordinary moments, not just dramatic ones.",
+    "sourceCitation": "Aristotle, Nicomachean Ethics, Book III",
+    "tags": ["courage", "virtue-ethics", "aristotle"]
+  },
+  {
+    "id": "card_char_102",
+    "disciplineId": "character",
+    "hook": "One good deed can quietly license a bad one.",
+    "concept": "Moral licensing is the tendency for a virtuous act to make people feel entitled to act less virtuously afterward, as if a moral 'credit' had been banked. Someone who donates to charity may become slightly more likely to cut corners elsewhere that same day.",
+    "tryIt": "After doing something you feel proud of, watch for a small internal permission slip forming — the sense that you've 'earned' a shortcut somewhere else. Notice it before you act on it.",
+    "whyExplanation": "Moral licensing shows that character isn't a fixed reservoir you fill up with good deeds; it has to be maintained consistently, because the mind treats past virtue as a reason to relax rather than a reason to continue.",
+    "sourceCitation": null,
+    "tags": ["moral-licensing", "consistency", "self-monitoring"]
+  },
+  {
+    "id": "card_char_103",
+    "disciplineId": "character",
+    "hook": "When you mess up, it's the situation. When they mess up, it's who they are.",
+    "concept": "The fundamental attribution error describes the tendency to explain other people's mistakes as character flaws while explaining our own identical mistakes as products of circumstance. The same late arrival is 'inconsiderate' in someone else and 'unavoidable traffic' in you.",
+    "tryIt": "The next time you judge someone for a lapse, ask what situational explanation you'd offer if you had done the exact same thing, and consider whether it might apply to them too.",
+    "whyExplanation": "This asymmetry quietly erodes fairness and empathy, letting us hold others to a harsher standard than ourselves without ever noticing we're doing it.",
+    "sourceCitation": null,
+    "tags": ["attribution-error", "fairness", "empathy"]
+  },
+  {
+    "id": "card_char_104",
+    "disciplineId": "character",
+    "hook": "You don't decide your values first and then act — often it runs the other way.",
+    "concept": "Cognitive dissonance theory suggests that when actions conflict with prior beliefs, people frequently adjust the belief to match the action rather than the reverse, especially when the action can't be undone. Behavior often shapes stated values more than values shape behavior.",
+    "tryIt": "When you catch yourself justifying something you did with a belief that conveniently appeared afterward, pause and ask whether you actually held that belief before you acted, or only after.",
+    "whyExplanation": "Recognizing this pattern is a safeguard against quietly rewriting your own principles to excuse past actions instead of holding the actions accountable to principles set in advance.",
+    "sourceCitation": "Leon Festinger, A Theory of Cognitive Dissonance (1957)",
+    "tags": ["cognitive-dissonance", "rationalization", "self-awareness"]
+  },
+  {
+    "id": "card_char_105",
+    "disciplineId": "character",
+    "hook": "A useful trick for fairness: imagine you don't know which seat you'll get.",
+    "concept": "Philosopher John Rawls proposed judging the fairness of a rule or decision from behind a 'veil of ignorance' — as if you didn't know which role, position, or outcome you personally would end up with. A rule only counts as fair if you'd accept it without knowing your own place in it.",
+    "tryIt": "Before defending a policy, decision, or arrangement, ask whether you'd still think it was fair if you didn't know in advance which side of it you'd be on.",
+    "whyExplanation": "Self-interest quietly distorts what feels 'obviously fair'; removing your own stake from the thought experiment exposes reasoning that was really just favoring your position.",
+    "sourceCitation": "John Rawls, A Theory of Justice (1971)",
+    "tags": ["fairness", "rawls", "impartiality"]
+  },
+  {
+    "id": "card_char_106",
+    "disciplineId": "character",
+    "hook": "Integrity isn't a personality trait — it's a track record across rooms no one is comparing.",
+    "concept": "One useful working definition of integrity is behaving the same way whether or not anyone who matters to your reputation is watching, and whether or not the audience changes. A person with integrity treats a stranger, a subordinate, and a boss with the same basic respect.",
+    "tryIt": "Notice today whether your tone, effort, or honesty shifts depending on who's in the room, and if it does, ask which version is the more accurate one.",
+    "whyExplanation": "Because most social incentives reward looking good to specific audiences, integrity has to be actively chosen against those incentives rather than assumed as a fixed trait you either have or don't.",
+    "sourceCitation": null,
+    "tags": ["integrity", "consistency", "reputation"]
+  },
+  {
+    "id": "card_char_107",
+    "disciplineId": "character",
+    "hook": "Virtue, for Aristotle, was less like a trait and more like a trained muscle.",
+    "concept": "Aristotle argued that virtues are formed by repeated action, not by insight alone — you become honest by practicing honesty, courageous by practicing courage, the same way you become a skilled builder by building. Character is habituated, not simply understood.",
+    "tryIt": "Pick one virtue you want more of and find the smallest possible repeatable action connected to it you can do today, rather than waiting to feel like the kind of person who already has it.",
+    "whyExplanation": "This reframes character growth as a practice you do rather than an identity you either possess or lack, which makes improvement feel achievable rather than fixed.",
+    "sourceCitation": "Aristotle, Nicomachean Ethics, Book II",
+    "tags": ["habituation", "aristotle", "practice"]
+  },
+  {
+    "id": "card_char_108",
+    "disciplineId": "character",
+    "hook": "We remember the moral exemplars who succeeded — not the ones who tried the same thing and were forgotten.",
+    "concept": "Survivorship bias shapes which moral role models get remembered: history highlights the whistleblower who was vindicated, not the many who spoke up and were simply ignored or punished with no story arc to tell. This can make moral courage look like it reliably pays off when the full picture is more mixed.",
+    "tryIt": "When drawing inspiration from a famous act of courage or honesty, remind yourself that acting rightly doesn't guarantee a good outcome — that's exactly what makes it a moral choice rather than a bet.",
+    "whyExplanation": "Believing virtue always gets rewarded sets people up for disillusionment; understanding survivorship bias in these stories preserves the real reason to act well, which has nothing to do with guaranteed payoff.",
+    "sourceCitation": null,
+    "tags": ["survivorship-bias", "moral-courage", "expectations"]
+  },
+  {
+    "id": "card_char_109",
+    "disciplineId": "character",
+    "hook": "In a crowd, everyone assumes someone else will help.",
+    "concept": "The bystander effect describes how the presence of other people reduces any single individual's likelihood of intervening in an emergency or a wrong, because responsibility feels diffused across the group. The more witnesses, the less any one of them feels personally responsible.",
+    "tryIt": "In a group setting where something needs to be said or done, assume the responsibility is fully yours rather than assuming someone else will act, and notice if that changes your behavior.",
+    "whyExplanation": "Diffusion of responsibility is a structural feature of groups, not a character flaw in any one bystander — knowing this lets you deliberately override it instead of unconsciously deferring to the crowd.",
+    "sourceCitation": "Bibb Latané and John Darley's research on bystander intervention (1968)",
+    "tags": ["bystander-effect", "responsibility", "social-psychology"]
+  },
+  {
+    "id": "card_char_110",
+    "disciplineId": "character",
+    "hook": "When you succeed, it's skill. When you fail, it's bad luck — until it's someone else's turn.",
+    "concept": "Self-serving bias leads people to attribute their successes to their own character and abilities, while attributing their failures to external circumstances, and to flip that pattern when judging others' outcomes. It quietly protects self-image at the cost of accuracy.",
+    "tryIt": "After your next success or failure, write down the honest cause without defaulting to whichever explanation flatters you, and check whether you'd accept that same explanation from someone else.",
+    "whyExplanation": "Left unchecked, this bias prevents real learning from failure and inflates unearned confidence from success, both of which quietly stunt character growth.",
+    "sourceCitation": null,
+    "tags": ["self-serving-bias", "accountability", "self-awareness"]
+  },
+  {
+    "id": "card_char_111",
+    "disciplineId": "character",
+    "hook": "Moral courage rarely looks like a movie scene.",
+    "concept": "Physical courage faces danger to the body; moral courage faces danger to relationships, status, or comfort by saying or doing the unpopular but right thing. Most day-to-day tests of character are moral courage, not physical — a hard conversation, not a burning building.",
+    "tryIt": "Identify one small, socially uncomfortable truth you've been avoiding saying to someone this week, and say it plainly, without dramatizing it.",
+    "whyExplanation": "Because moral courage rarely feels dramatic, it's easy to underrate how much of everyday character is built from these small, low-visibility acts rather than rare heroic ones.",
+    "sourceCitation": null,
+    "tags": ["moral-courage", "everyday-ethics", "honesty"]
+  },
+  {
+    "id": "card_char_112",
+    "disciplineId": "character",
+    "hook": "Empathy feels their pain; compassion wants to do something about it.",
+    "concept": "Empathy is sharing or resonating with another person's emotional state, while compassion adds a motivation to relieve their suffering. It's possible to feel a great deal of empathy and still do nothing, while compassion is defined partly by the impulse to act.",
+    "tryIt": "The next time you feel moved by someone's situation, ask explicitly what one action, however small, that feeling could translate into, rather than letting it stay a private feeling.",
+    "whyExplanation": "Distinguishing the two prevents mistaking the feeling of empathy for the completed work of actually helping someone.",
+    "sourceCitation": null,
+    "tags": ["empathy", "compassion", "action"]
+  },
+  {
+    "id": "card_char_113",
+    "disciplineId": "character",
+    "hook": "Forgiveness is a process you keep choosing, not a switch you flip once.",
+    "concept": "Psychological research on forgiveness generally treats it as a gradual reduction in resentment and desire for retribution over time, achieved through repeated choice, rather than a single decision that instantly resolves all residual feeling. Relapses into old resentment during the process are normal, not evidence that forgiveness failed.",
+    "tryIt": "If you're working on forgiving someone and notice old anger resurface, treat it as an expected part of the process rather than proof you haven't really forgiven them, and recommit rather than giving up.",
+    "whyExplanation": "Expecting forgiveness to be instant and total sets people up to abandon the process the first time old feelings return, when persistence through those returns is actually what forgiveness looks like.",
+    "sourceCitation": null,
+    "tags": ["forgiveness", "process", "resilience"]
+  },
+  {
+    "id": "card_char_114",
+    "disciplineId": "character",
+    "hook": "Some of history's worst compliance came from ordinary people, not monsters.",
+    "concept": "Philosopher Hannah Arendt's account of the 'banality of evil' argued that great harm can be carried out by unremarkable people following orders and social pressure, without deep hatred or extraordinary malice — a warning against assuming only obviously evil people commit serious wrongs.",
+    "tryIt": "Before assuming you'd never go along with something clearly wrong, ask what specific pressures (authority, conformity, incremental steps) might make ordinary compliance easier than resistance, and plan in advance what your line would be.",
+    "whyExplanation": "Believing wrongdoing only comes from obviously bad people leaves ordinary people unprepared for the quieter, more common route into it: gradual, socially sanctioned compliance.",
+    "sourceCitation": "Hannah Arendt, Eichmann in Jerusalem (1963)",
+    "tags": ["banality-of-evil", "conformity", "moral-preparedness"]
+  },
+  {
+    "id": "card_char_115",
+    "disciplineId": "character",
+    "hook": "Gratitude that stays a feeling rarely changes anything; gratitude that gets said usually does.",
+    "concept": "Research on gratitude expression finds that the benefits to both relationships and the grateful person's own wellbeing come largely from actually communicating thanks specifically and directly, not merely from feeling grateful internally. Unexpressed gratitude tends to fade without much lasting effect.",
+    "tryIt": "Pick one person you feel genuinely grateful toward but have never told directly and specifically what they did, and tell them today in concrete terms.",
+    "whyExplanation": "Because gratitude's documented benefits are tied to expression, treating it as a private feeling to be enjoyed alone quietly wastes most of its value.",
+    "sourceCitation": null,
+    "tags": ["gratitude", "expression", "relationships"]
+  }
+]

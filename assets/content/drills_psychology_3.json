@@ -1,0 +1,342 @@
+[
+  {
+    "id": "psy_d21",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify whether the person is showing unrealistic optimism about their own future outcomes compared to others'.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d21_q1",
+        "prompt": "Surveys consistently find that most new business owners, when asked, rate their own venture's chance of success well above the actual average failure rate for new businesses, even while correctly estimating that most businesses like theirs fail. What is this pattern called?",
+        "type": "multipleChoice",
+        "options": ["Optimism bias", "Illusion of control", "Hindsight bias", "Anchoring"],
+        "correctAnswer": "Optimism bias",
+        "explanation": "Optimism bias is the tendency to believe you are personally less likely than average to experience a negative outcome, even while correctly estimating the base rate for others."
+      },
+      {
+        "id": "psy_d21_q2",
+        "prompt": "Most newlyweds, when asked to estimate the chance their own marriage will end in divorce, give a number far below the national divorce rate, even though they can accurately state the national rate when asked directly. What best explains this gap?",
+        "type": "multipleChoice",
+        "options": ["Optimism bias — a belief that negative statistics that apply to others somehow apply less to oneself", "The availability heuristic", "The framing effect", "Loss aversion"],
+        "correctAnswer": "Optimism bias — a belief that negative statistics that apply to others somehow apply less to oneself",
+        "explanation": "The gap between an accurate general statistic and an inflated personal estimate is the hallmark of optimism bias, which specifically distorts self-referential judgments rather than general knowledge."
+      },
+      {
+        "id": "psy_d21_q3",
+        "prompt": "Which practice would most directly help someone correct for optimism bias when planning a new venture?",
+        "type": "multipleChoice",
+        "options": ["Actively researching the specific failure rate and common causes of failure for similar ventures, and asking whether their own venture is truly exceptional", "Focusing on their own unique strengths as an entrepreneur", "Visualizing a successful outcome in detail", "Asking friends and family for encouragement"],
+        "correctAnswer": "Actively researching the specific failure rate and common causes of failure for similar ventures, and asking whether their own venture is truly exceptional",
+        "explanation": "Since optimism bias specifically involves discounting a base rate that a person otherwise knows to be true, the fix is deliberately re-anchoring the personal estimate to that base rate rather than to a general feeling of being different."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d22",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify how a preference for 'the way things are' is shaping the decision, independent of the actual merits of the alternatives.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d22_q1",
+        "prompt": "A company's employees overwhelmingly stay enrolled in whichever health insurance plan is the pre-selected default option, even in years when a clearly better, cheaper plan becomes available and is prominently advertised. What is this called?",
+        "type": "multipleChoice",
+        "options": ["Status quo bias", "Sunk cost fallacy", "Anchoring", "Framing effect"],
+        "correctAnswer": "Status quo bias",
+        "explanation": "A strong, disproportionate preference for the current default option, even when switching would plainly be better, is the defining pattern of status quo bias."
+      },
+      {
+        "id": "psy_d22_q2",
+        "prompt": "A subscriber keeps paying for a streaming service she rarely uses because canceling 'feels like a hassle,' even though the actual cancellation takes under two minutes. What does this best illustrate?",
+        "type": "multipleChoice",
+        "options": ["Status quo bias — inertia is treated as a reason to keep the current arrangement, disproportionate to the actual cost of changing it", "The sunk cost fallacy, because she's already paid for past months", "Loss aversion toward the service's features", "Reciprocity toward the company"],
+        "correctAnswer": "Status quo bias — inertia is treated as a reason to keep the current arrangement, disproportionate to the actual cost of changing it",
+        "explanation": "The perceived effort of switching is being overweighted relative to its tiny actual cost, which is the core distortion status quo bias produces."
+      },
+      {
+        "id": "psy_d22_q3",
+        "prompt": "Which policy design choice is specifically intended to exploit (or, in a beneficial context, counteract) status quo bias?",
+        "type": "multipleChoice",
+        "options": ["Making the desired behavior — like organ donation or retirement saving — the default option, so inertia works in its favor", "Requiring an active opt-in with no default at all", "Sending frequent reminders about the choice", "Offering a financial reward for changing the default"],
+        "correctAnswer": "Making the desired behavior — like organ donation or retirement saving — the default option, so inertia works in its favor",
+        "explanation": "Because status quo bias makes people disproportionately likely to stick with whatever is already selected, changing the default is one of the most reliably effective ways to change aggregate behavior."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d23",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Read each scenario and identify whether the person is ignoring the base rate (the underlying frequency of an event) in favor of vivid or specific-seeming details.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d23_q1",
+        "prompt": "A screening test for a rare disease affecting 1 in 1,000 people is 99% accurate. A patient tests positive and immediately assumes they almost certainly have the disease, without considering that even a highly accurate test will produce many false positives when the disease itself is very rare. What error is this?",
+        "type": "multipleChoice",
+        "options": ["Base rate neglect", "Availability heuristic", "Anchoring", "Confirmation bias"],
+        "correctAnswer": "Base rate neglect",
+        "explanation": "Ignoring how rare the disease is in the first place — the base rate — and focusing only on the test's accuracy leads to a badly overestimated probability of actually having the disease."
+      },
+      {
+        "id": "psy_d23_q2",
+        "prompt": "An investor hears a detailed, specific story about one startup's founder — their background, their charisma, their conviction — and predicts a high chance of success, without weighing the fact that the vast majority of startups in that same category fail regardless of founder quality. What is this an example of?",
+        "type": "multipleChoice",
+        "options": ["Neglecting the base rate of startup failure in favor of a vivid, specific narrative", "The halo effect toward the founder", "Anchoring on the funding amount", "The sunk cost fallacy"],
+        "correctAnswer": "Neglecting the base rate of startup failure in favor of a vivid, specific narrative",
+        "explanation": "A specific, emotionally engaging story about one case can crowd out consideration of the general statistical rate that applies to most cases in that category."
+      },
+      {
+        "id": "psy_d23_q3",
+        "prompt": "Which question would most directly correct for base rate neglect when evaluating a specific, compelling case?",
+        "type": "multipleChoice",
+        "options": ["'What is the general success or failure rate for cases like this one, before I consider the specific details?'", "'How does this case make me feel?'", "'What would an expert's gut instinct say?'", "'How does this compare to the very first case I heard about in this category?'"],
+        "correctAnswer": "'What is the general success or failure rate for cases like this one, before I consider the specific details?'",
+        "explanation": "Explicitly starting from the base rate, before layering on case-specific details, is the standard technique recommended for avoiding base rate neglect."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d24",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "At a roulette table, red has come up seven times in a row. A player who has been watching becomes increasingly convinced that black is 'due' and bets heavily on black for the next spin, reasoning that the streak of red 'has to' end soon.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d24_q1",
+        "prompt": "Why is the player's reasoning mistaken, given that each spin of the roulette wheel is statistically independent of the ones before it?",
+        "type": "textInput",
+        "correctAnswer": "The player is committing the gambler's fallacy: believing that a streak of one outcome makes the opposite outcome more likely on the next independent trial. But each spin has no memory of previous spins — the odds of red versus black are the same on the eighth spin as they were on the first, regardless of how many times red has come up before. Seven reds in a row is unlikely as a sequence, but conditional on being at that point, the next spin is unaffected by the streak.",
+        "explanation": "The gambler's fallacy is a textbook misunderstanding of statistical independence: each trial's odds are unaffected by prior trials in a genuinely random, independent process like roulette."
+      },
+      {
+        "id": "psy_d24_q2",
+        "prompt": "Describe a different, non-gambling context where the same fallacy — treating independent chance events as if they 'owe' a correction — might lead someone astray.",
+        "type": "textInput",
+        "correctAnswer": "Examples: a couple who have had three daughters in a row believing their fourth child is 'due' to be a boy, even though each pregnancy's sex is statistically close to independent; a basketball fan believing a player is 'due' to make a shot after several consecutive misses, even when shot outcomes are close to independent of recent history; an investor believing a stock that has fallen for several days in a row is 'due' for a rebound, when daily price movements are close to random and largely uncorrelated with the immediate past.",
+        "explanation": "The gambler's fallacy generalizes to any domain involving independent or near-independent random events, wherever people intuitively expect short-term streaks to 'self-correct.'"
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d25",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify whether the person's confidence in their own judgment exceeds their actual accuracy.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d25_q1",
+        "prompt": "When asked to give a range they're 90% confident contains the correct answer to a series of trivia questions, most people's actual hit rate is closer to 50-70%, meaning their stated ranges are consistently too narrow. What is this well-documented finding called?",
+        "type": "multipleChoice",
+        "options": ["Overconfidence effect", "Dunning-Kruger effect", "Illusion of control", "Hindsight bias"],
+        "correctAnswer": "Overconfidence effect",
+        "explanation": "The overconfidence effect describes a systematic gap between people's subjective certainty and their objective accuracy, showing up reliably even among experts and across a wide range of tasks."
+      },
+      {
+        "id": "psy_d25_q2",
+        "prompt": "A financial analyst gives a stock price prediction with a 'very tight' range, expressing high confidence, but historical data on analysts' past predictions shows actual outcomes fall outside their stated ranges far more often than their confidence level would imply. What does this pattern reflect?",
+        "type": "multipleChoice",
+        "options": ["Overconfidence effect", "Framing effect", "Base rate neglect", "Self-serving bias"],
+        "correctAnswer": "Overconfidence effect",
+        "explanation": "Systematically narrower-than-warranted confidence intervals, replicated across many predictions, is the signature of the overconfidence effect rather than a one-off misjudgment."
+      },
+      {
+        "id": "psy_d25_q3",
+        "prompt": "Which practice has the most research support for reducing overconfidence in a specific prediction?",
+        "type": "multipleChoice",
+        "options": ["Deliberately generating reasons the prediction could be wrong before finalizing a confidence level", "Making the prediction quickly, before doubt can creep in", "Stating the prediction to a group to get social validation", "Comparing the prediction only to your own past predictions"],
+        "correctAnswer": "Deliberately generating reasons the prediction could be wrong before finalizing a confidence level",
+        "explanation": "Actively considering disconfirming reasons — sometimes called a 'consider the opposite' exercise — has consistent research support for widening overly narrow confidence and reducing overconfidence."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d26",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Read each scenario and identify whether the person is perceiving a relationship between two things that isn't actually there, or is much weaker than it appears.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d26_q1",
+        "prompt": "A person notices their knee 'acts up' before it rains and becomes convinced their knee pain reliably predicts weather changes, while not noticing or remembering the many rainy days when their knee didn't hurt, or the many achy days with no rain. What is this pattern called?",
+        "type": "multipleChoice",
+        "options": ["Illusory correlation", "Confirmation bias", "Availability heuristic", "Hindsight bias"],
+        "correctAnswer": "Illusory correlation",
+        "explanation": "Illusory correlation is the perception of a statistical association between two variables that is weak or nonexistent, often because memorable co-occurrences (rain and pain together) are noticed and remembered far more than the many disconfirming instances."
+      },
+      {
+        "id": "psy_d26_q2",
+        "prompt": "A manager believes that employees who went to a particular university 'always' perform better, based on two standout hires, while not tracking the larger number of hires from that university who performed averagely or poorly. What is reinforcing this belief?",
+        "type": "multipleChoice",
+        "options": ["Illusory correlation, compounded by not systematically tracking the disconfirming cases", "The halo effect toward the university's brand", "Authority bias toward the university's reputation", "The sunk cost fallacy in past hiring decisions"],
+        "correctAnswer": "Illusory correlation, compounded by not systematically tracking the disconfirming cases",
+        "explanation": "Without systematically tracking all outcomes — not just the memorable standout ones — a manager can easily perceive a pattern in hiring outcomes that a full dataset wouldn't support."
+      },
+      {
+        "id": "psy_d26_q3",
+        "prompt": "What is the most direct way to test whether a suspected correlation (like knee pain and rainfall) is real rather than illusory?",
+        "type": "multipleChoice",
+        "options": ["Keep a systematic log of both variables over time and check all four combinations: pain+rain, pain+no rain, no pain+rain, no pain+no rain", "Ask other people if they've noticed the same pattern", "Trust the pattern if it has occurred more than three times", "Rely on how strongly the pattern is remembered"],
+        "correctAnswer": "Keep a systematic log of both variables over time and check all four combinations: pain+rain, pain+no rain, no pain+rain, no pain+no rain",
+        "explanation": "Illusory correlation specifically arises from selectively noticing confirming co-occurrences, so a full, systematic log across all four combinations is the direct way to test whether the pattern is statistically real."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d27",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A teenager who had been mildly interested in trying a new hobby suddenly loses all interest the moment a parent insists, in a stern tone, that he 'has to' try it this weekend. He can't fully articulate why, but the idea now feels unappealing in a way it didn't before the parent weighed in.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d27_q1",
+        "prompt": "What psychological phenomenon best explains the teenager's sudden loss of interest, and why might a heavy-handed instruction backfire this way?",
+        "type": "textInput",
+        "correctAnswer": "This looks like psychological reactance: when people feel their freedom of choice is being restricted or pressured, they often respond by wanting to do the opposite, to reassert their sense of autonomy — independent of whatever the actual merits of the activity are. The parent's stern insistence turned a freely-chosen interest into an imposed obligation, and the teenager's drop in enthusiasm is a defense of his sense of choice, not necessarily a real judgment about the hobby itself.",
+        "explanation": "Reactance is a well-documented response to perceived threats to autonomy, and it's a common reason why direct, forceful persuasion attempts can produce the opposite of the intended effect."
+      },
+      {
+        "id": "psy_d27_q2",
+        "prompt": "If the parent wanted to encourage the same hobby without triggering reactance, what could they say or do differently?",
+        "type": "textInput",
+        "correctAnswer": "Examples: offer the hobby as one option among several, letting the teenager choose, rather than issuing an instruction; express genuine curiosity about what he thinks of the idea rather than a directive; drop the topic and let him raise it again on his own timeline, so any renewed interest is self-generated rather than compliant.",
+        "explanation": "Because reactance is triggered specifically by a perceived loss of choice, preserving or restoring a visible sense of autonomy — offering options, asking rather than telling — is the most consistent way to reduce it."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d28",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify whether repeated exposure alone, rather than any actual merit, is shaping the person's preference.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d28_q1",
+        "prompt": "A listener who initially found a new song 'kind of annoying' finds themselves enjoying it more each time it plays on the radio over the following weeks, even though nothing about the song itself has changed. What is this effect called?",
+        "type": "multipleChoice",
+        "options": ["Mere exposure effect", "Halo effect", "Anchoring", "Framing effect"],
+        "correctAnswer": "Mere exposure effect",
+        "explanation": "The mere exposure effect describes how repeated, simple exposure to a stimulus tends to increase liking for it, independent of the stimulus's actual qualities."
+      },
+      {
+        "id": "psy_d28_q2",
+        "prompt": "In an experiment, participants shown a series of unfamiliar shapes rate the shapes they've seen more often as more 'pleasant,' even though they can't consciously recall having seen them before. What does this suggest about the mere exposure effect?",
+        "type": "multipleChoice",
+        "options": ["It can operate even without conscious recognition of the prior exposure", "It requires conscious awareness of repetition to work at all", "It only affects preferences for people, not objects", "It is identical to the halo effect"],
+        "correctAnswer": "It can operate even without conscious recognition of the prior exposure",
+        "explanation": "Experiments using subliminal or unrecalled exposure show the effect can shift preference even when participants have no conscious memory of having encountered the stimulus before."
+      },
+      {
+        "id": "psy_d28_q3",
+        "prompt": "Which everyday practice most directly exploits the mere exposure effect to build familiarity and liking?",
+        "type": "multipleChoice",
+        "options": ["Repeated brand advertising, even ads with no persuasive argument or new information", "Offering a money-back guarantee", "Providing a celebrity endorsement", "Framing a price as a discount"],
+        "correctAnswer": "Repeated brand advertising, even ads with no persuasive argument or new information",
+        "explanation": "Advertising that relies mainly on repetition, rather than argument or new information, is a direct commercial application of the mere exposure effect."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d29",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You trip slightly on a curb while walking through a crowded plaza. You feel a wave of embarrassment and are certain everyone around you noticed and is quietly judging you. In reality, when you think back later, you realize you barely register other people's minor stumbles when you're the one walking past them — you're usually absorbed in your own thoughts.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d29_q1",
+        "prompt": "What is the name for the tendency to overestimate how much other people notice and remember your own actions and appearance, and why does your own experience of not noticing others' stumbles help reveal the bias?",
+        "type": "textInput",
+        "correctAnswer": "This is the spotlight effect — the tendency to believe you are the center of other people's attention far more than you actually are. Recognizing that you yourself rarely register other people's minor mistakes is a useful corrective, because it reveals that the same is very likely true in reverse: other people are just as absorbed in their own thoughts and are unlikely to have registered, or to remember, your small stumble either.",
+        "explanation": "The spotlight effect has been directly demonstrated in studies where people overestimate how many observers will notice or remember something like an embarrassing t-shirt, and the asymmetry between how closely we watch ourselves versus others is the core reason for the miscalibration."
+      },
+      {
+        "id": "psy_d29_q2",
+        "prompt": "What is a practical way to check the accuracy of a spotlight-effect belief the next time you feel intensely self-conscious about a minor mistake in public?",
+        "type": "textInput",
+        "correctAnswer": "Examples: deliberately recall the last few times you saw a stranger make a small stumble or mistake in public, and notice how quickly you forgot about it yourself; ask whether the assumption ('everyone noticed and is judging me') is based on actual evidence or just your own felt embarrassment; remind yourself that everyone else in the plaza is similarly absorbed in their own concerns, not tracking yours.",
+        "explanation": "Because the spotlight effect stems from over-weighting your own internal, vivid experience of the moment, deliberately checking it against how little attention you pay to others' equivalent moments is a direct and effective corrective."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d30",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "An experienced software engineer writes a set of instructions for new users to set up an account. He skips several steps he considers 'obvious' — like which menu to click first — because to him they genuinely require no explanation. New users repeatedly get stuck at exactly those skipped steps, and he's initially baffled, since the instructions seem completely clear to him.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d30_q1",
+        "prompt": "What is the name for the difficulty experts have imagining what it's like not to know something they know well, and why does it make the engineer a particularly poor judge of whether his own instructions are clear?",
+        "type": "textInput",
+        "correctAnswer": "This is the curse of knowledge: once you know something, it becomes very difficult to accurately simulate the perspective of someone who doesn't know it, so information that feels 'obvious' to an expert is invisible to them as a gap. This makes the engineer a poor judge of his own instructions' clarity, because he can't easily notice which steps he's silently skipping — the knowledge itself has become so automatic that he no longer experiences it as something that needed to be stated.",
+        "explanation": "The curse of knowledge is well documented in studies of communication and teaching, and it's a key reason why experts are often worse than moderately experienced people at writing instructions or explanations for true beginners."
+      },
+      {
+        "id": "psy_d30_q2",
+        "prompt": "What is a concrete way the engineer could test whether his instructions actually work for a true beginner, rather than relying on his own judgment of their clarity?",
+        "type": "textInput",
+        "correctAnswer": "Examples: have an actual novice, with no prior exposure to the product, follow the written instructions exactly as written while being observed, and note every point of confusion or hesitation; ask a beginner to narrate their thought process out loud while following the steps; compare his instructions to a completely fresh, first-time write-up from someone who just learned the process themselves, since they're more likely to remember what wasn't obvious.",
+        "explanation": "Because the curse of knowledge makes self-assessment unreliable, direct observation of an actual beginner's real-time experience is the most effective way to surface the gaps an expert can no longer see in their own explanation."
+      }
+    ],
+    "estimatedMinutes": 4
+  }
+]

@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:go_router/go_router.dart';
 
-/// The 5-tab iOS shell: Today · Learn · Practice · Cases · Profile. Each
-/// tab keeps its own independent navigation stack via
+/// The 6-tab iOS shell: Today · Learn · Practice · Library · Cases ·
+/// Profile. Each tab keeps its own independent navigation stack via
 /// [StatefulShellRoute.indexedStack] (state/scroll position is preserved
 /// when switching tabs).
 class PerceptTabShell extends StatelessWidget {
@@ -34,6 +34,11 @@ class PerceptTabShell extends StatelessWidget {
             icon: Icon(CupertinoIcons.bolt),
             activeIcon: Icon(CupertinoIcons.bolt_fill),
             label: 'Practice',
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(CupertinoIcons.folder),
+            activeIcon: Icon(CupertinoIcons.folder_fill),
+            label: 'Library',
           ),
           BottomNavigationBarItem(
             icon: Icon(CupertinoIcons.search),

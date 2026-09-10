@@ -1,0 +1,192 @@
+[
+  {
+    "id": "rp_l19",
+    "disciplineId": "reading_people",
+    "title": "Synthesis: Turning Five Channels Into One Hypothesis",
+    "hook": "A friend says 'I'm fine' in a flat voice, arms folded, eyes on the floor. Three channels, one moment — and still not enough for certainty.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "Consider a friend who answers 'I'm fine' after you ask how they're doing. The words are reassuring. The voice is flatter and quieter than their baseline. Their arms are folded, and their eyes drop to the floor a beat before they answer. Any one of these alone would be nearly meaningless — a flat voice can just mean tired, folded arms can just mean cold, and a downward glance can just mean they're thinking about how to phrase something ordinary. Together, converging on the same moment, they carry more weight than any single channel could on its own."},
+      {"type": "keyPoint", "text": "Synthesis isn't stacking cues to build certainty — it's noticing when several independent, weak signals happen to point the same direction at the same time."},
+      {"type": "paragraph", "text": "The discipline here is to log each channel as its own honest observation before combining them: words say 'fine'; voice volume and pace are below this person's normal baseline; posture is closed; gaze dropped right before the answer. Only after that inventory is complete does it make sense to ask what hypothesis best explains all four at once — in this case, something like 'they may not actually be fine and are giving the socially expected answer instead.'"},
+      {"type": "paragraph", "text": "The alternative explanation has to survive contact with the same four observations, not just the memorable one. Could all four be explained by something other than emotional distress? Genuine tiredness fits reasonably well — it would flatten voice, and closed posture and downward gaze could both trace back to low energy rather than concealment. A cold room explains the folded arms alone but doesn't touch the voice or the gaze. Weighing how many of the observed signals each explanation actually accounts for is what separates a careful synthesis from picking whichever story feels most compelling."},
+      {"type": "paragraph", "text": "The final step is a confidence statement that names its own uncertainty: 'moderate confidence something is bothering them, low confidence about what, and this is worth a gentle, undemanding follow-up rather than a diagnosis.' That sentence does more real work than a confident guess would, because it leaves room for the friend to say what's actually going on instead of having it assumed for them."},
+      {"type": "keyPoint", "text": "The strongest multi-channel reads still end in a question to the person, not a private conclusion about them."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["synthesis", "multi-channel reading", "confidence calibration"],
+    "relatedDrillIds": ["rp_d30", "rp_d41"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l20",
+    "disciplineId": "reading_people",
+    "title": "The Negotiation Table: Reading Concession Points Without Overreading Them",
+    "hook": "The moment right before someone makes a concession is one of the most overinterpreted seconds in any negotiation.",
+    "mode": "caseStudy",
+    "blocks": [
+      {"type": "paragraph", "text": "A procurement manager once described watching a vendor's representative go quiet, glance at his notes, and exhale slowly right before offering a lower price than expected. She read this, at the time, as a sign he'd been bluffing about his floor all along and had more room to give. Only afterward, comparing notes with a colleague who'd sat in on other calls with the same vendor, did she learn that he did the exact same sequence — pause, glance at notes, exhale — before nearly every number he gave, regardless of whether it was a real concession or his actual limit."},
+      {"type": "keyPoint", "text": "A pattern that repeats regardless of outcome isn't a tell about that specific outcome — it's just how that person delivers numbers."},
+      {"type": "paragraph", "text": "This is the central trap in reading concession points: the moment feels charged because the stakes are high, which makes any accompanying behavior feel like meaningful information. But behavior around a concession is often habitual delivery style rather than a leak of hidden information, and the only way to tell the difference is to track the same behavior across multiple moments with known, different outcomes — exactly the comparison the procurement manager only made by accident, after the fact."},
+      {"type": "paragraph", "text": "A responsible hypothesis about a pre-concession pause might be 'he's recalculating in real time and this number cost him something.' A responsible alternative is 'this is simply his delivery habit and carries no special information this time.' A third alternative worth keeping active: he wants it to look costly regardless of whether it actually is, because appearing to have given something up is itself a negotiating tactic."},
+      {"type": "paragraph", "text": "The practical fix going forward is to build, deliberately, the same kind of baseline the procurement manager stumbled into by luck: watch how a specific counterpart behaves across several numbers, not just the one being decided right now, before assigning meaning to any single instance. A single data point in a negotiation is almost never enough to responsibly separate a habit from a tell."},
+      {"type": "keyPoint", "text": "Confidence in any single concession-moment read should stay low until you've seen the same person's behavior repeat across more than one negotiation."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["negotiation", "concessions", "baseline", "professional settings"],
+    "relatedDrillIds": ["rp_d21", "rp_d33"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l21",
+    "disciplineId": "reading_people",
+    "title": "Rapport vs. Compliance: Two Things That Can Look Identical",
+    "hook": "Someone nodding along, mirroring your posture, and agreeing quickly could be building real rapport with you — or could simply want the conversation to end.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Rapport-building cues are widely taught: matching posture, nodding at the right moments, mirroring pace and tone. What's taught far less often is that every one of these same behaviors is also exactly how a person acts when they've decided the fastest way out of an uncomfortable interaction is to agree quickly and look cooperative. From the outside, warm rapport and polite compliance can be nearly indistinguishable in the moment they're happening."},
+      {"type": "keyPoint", "text": "Mirroring and quick agreement are consistent with both genuine connection and a desire to end the conversation — the behavior alone doesn't disambiguate them."},
+      {"type": "paragraph", "text": "A few contextual signals help separate the two, though none is decisive on its own. Genuine rapport tends to include unprompted elaboration — the person adds detail, asks a question back, extends the exchange rather than just agreeing and pausing. Compliance-driven agreement tends to be minimal, closes down follow-up questions quickly, and often comes with subtle signs of wanting to exit — checking a clock or phone, angling the body slightly toward a door, or agreement that arrives suspiciously fast relative to the complexity of what was just proposed."},
+      {"type": "paragraph", "text": "Power dynamics matter enormously here and are worth naming explicitly: an employee talking to a manager, a patient talking to a doctor, or a customer talking to a service representative all have real incentives to perform agreement regardless of what they actually think, and reading fast agreement from someone in a lower-power position as genuine enthusiasm is a common, consequential mistake — one that can leave a manager genuinely unaware that a team disagrees with a plan."},
+      {"type": "paragraph", "text": "The corrective habit is to test the read rather than trust it: ask an open follow-up question that requires more than agreement to answer well, and see whether elaboration follows easily or whether the person visibly searches for the minimum viable response. That single test does more to separate rapport from compliance than any amount of posture-watching."},
+      {"type": "keyPoint", "text": "When agreement is convenient for the other person regardless of their true view, hold your confidence in 'they're on board' especially low until you've tested it with a real follow-up."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["rapport", "compliance", "power dynamics", "professional settings"],
+    "relatedDrillIds": ["rp_d44", "rp_d12"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l22",
+    "disciplineId": "reading_people",
+    "title": "Microexpressions: What the Research Actually Supports",
+    "hook": "A famous idea in pop psychology says a flash of true feeling leaks across the face in a fraction of a second. The real research is narrower, and far more cautious, than the version that made it onto television.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "Microexpressions — very brief, involuntary facial expressions lasting a fraction of a second — are a real, documented phenomenon, first studied closely by researchers including Paul Ekman and Wallace Friesen in the 1960s and 70s. The core finding is narrower than its popular reputation: certain facial muscle movements can appear briefly and be suppressed or replaced quickly, and trained observers can sometimes detect these brief movements better than untrained ones with practice on specific recognition tasks."},
+      {"type": "keyPoint", "text": "The narrow, supported claim is 'brief facial movements exist and can sometimes be trained for.' The popular claim — 'a microexpression reliably exposes a hidden true emotion, including a lie' — goes well beyond what the evidence shows."},
+      {"type": "paragraph", "text": "Several gaps separate the lab finding from the popular version. Most demonstrations of microexpression detection happen with slowed-down video in controlled conditions, not real-time, in-person interaction, where a movement lasting a fraction of a second is much harder to reliably catch and correctly categorize. The link between a specific brief expression and a specific named emotion is weaker outside of posed, prototypical expressions than the popular framing suggests — real faces blend expressions far more than textbook diagrams do. And critically, even a confirmed brief expression of an emotion doesn't tell you why the person felt it, or whether that emotion relates at all to whatever you're trying to find out, including deception specifically."},
+      {"type": "paragraph", "text": "Commercial 'microexpression training' programs claiming to turn deception detection into a reliable, learnable skill have not held up well under independent scrutiny, and several formal evaluations, including for programs used in airport security screening contexts, found performance not meaningfully better than chance at identifying people with hostile intent."},
+      {"type": "paragraph", "text": "The responsible use of this concept: treat a genuinely noticed brief facial shift as a real, low-confidence data point worth folding into a broader read — 'something crossed their face for a moment when that topic came up' — rather than as a confirmed window into concealed truth. It earns a place in the observation column, not a shortcut past the hypothesis and alternative columns."},
+      {"type": "keyPoint", "text": "A caught microexpression is still just an observation. It still needs a hypothesis, an alternative, and an honest, moderate confidence rating like everything else in this discipline."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["microexpressions", "myth-busting", "facial expression", "deception research"],
+    "relatedDrillIds": ["rp_d34", "rp_d14"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l23",
+    "disciplineId": "reading_people",
+    "title": "The Voice Under Pressure: Pitch Rise, Pauses, and Honest Alternatives",
+    "hook": "A voice that climbs half an octave and starts stumbling over words is telling you something real happened. It's rarely specific enough to tell you what.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "Vocal changes under pressure are among the most consistently documented physiological stress responses across research: pitch tends to rise as the vocal folds tighten under sympathetic nervous system activation, speech can speed up or develop more frequent pauses, and articulation can become less precise. These effects show up reliably enough that they're genuinely useful to notice — the caution is entirely about what conclusion gets drawn from noticing them."},
+      {"type": "paragraph", "text": "A customer service call is a useful ordinary example: a caller's pitch rises and their words come faster as a complaint escalates. This is consistent with growing frustration, but it's equally consistent with genuine anxiety about whether the problem will get fixed, embarrassment about having to complain at all, or simply having rehearsed the complaint and now needing to depart from the rehearsed script when a new detail comes up. None of these require assuming the caller is exaggerating or being difficult on purpose."},
+      {"type": "keyPoint", "text": "Vocal stress is a highly reliable sign of arousal and a highly unreliable sign of any specific cause of that arousal."},
+      {"type": "paragraph", "text": "A practical habit: note the specific vocal shift and the specific moment it appeared — 'pitch rose and pace increased right when the refund policy came up' — rather than a vague overall impression of 'they sounded upset.' Anchoring the observation to a specific trigger point makes it far easier to generate honest, testable hypotheses and alternatives afterward, and far easier to check the pattern against what the person actually says a moment later."},
+      {"type": "paragraph", "text": "When a vocal shift shows up, a short, low-pressure check often resolves more ambiguity than any amount of further listening: 'it sounds like this part is frustrating — is that fair, or is something else going on?' This does two things at once — it treats the vocal cue as worth acting on, and it hands the actual interpretation back to the one person who can settle it, rather than deciding it privately."},
+      {"type": "keyPoint", "text": "Observation: a specific pitch or pace shift at a specific moment. Hypothesis and alternative: at least two plausible causes of the same arousal. Confidence: moderate about the arousal, low about its cause, until you ask."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["vocal cues", "voice stress", "customer interactions", "arousal"],
+    "relatedDrillIds": ["rp_d24", "rp_d45"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l24",
+    "disciplineId": "reading_people",
+    "title": "Nonverbal Norms Across Cultures: Eye Contact, Touch, and Space",
+    "hook": "Three of the most commonly 'read' nonverbal signals — eye contact, touch, and physical distance — are also three of the most culturally variable behaviors a person has.",
+    "mode": "socratic",
+    "blocks": [
+      {"type": "paragraph", "text": "Anthropologist Edward Hall's research on proxemics documented that comfortable conversational distance varies substantially across cultural groups, with some norms sitting closer and some considerably farther apart for an equivalent level of familiarity and equivalent social context. Similarly, sustained eye contact reads as attentive and honest in some cultural contexts and as challenging or disrespectful in others, particularly across differences in age or status. Norms around touch — a hand on the shoulder, a hug in greeting — vary just as widely."},
+      {"type": "question", "text": "If someone stands what feels to you like 'too close' during a conversation, is that closeness itself the useful data point, or is your own sense of 'too close' the thing that actually needs examining first?"},
+      {"type": "question", "text": "Have you ever mistaken someone's culturally normal eye-contact pattern — either more or less than you expected — for a signal about their honesty or engagement?"},
+      {"type": "keyPoint", "text": "'Comfortable distance,' 'respectful eye contact,' and 'appropriate touch' are not fixed facts about human beings — they're locally learned norms, and the person in front of you may have learned different ones than you did."},
+      {"type": "question", "text": "What would change about your read of a quiet, eye-contact-avoidant person in an interview if you learned, afterward, that their upbringing taught direct eye contact with an authority figure as disrespectful rather than honest?"},
+      {"type": "paragraph", "text": "The practical takeaway isn't to abandon these channels — proxemics, eye contact, and touch still carry real information. It's to treat any reading of them as conditional on shared norms, and to actively raise your uncertainty, not lower it, whenever you're reading someone whose cultural background, generation, or upbringing you don't share with confidence. Where possible, build a baseline for that specific person rather than importing a chart calibrated on people who grew up differently."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["cultural variation", "proxemics", "eye contact", "nonverbal norms"],
+    "relatedDrillIds": ["rp_d36", "rp_d46"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l25",
+    "disciplineId": "reading_people",
+    "title": "Why \"Trained Professionals\" Still Fail at Lie Detection",
+    "hook": "Judges, customs officers, and interrogators consistently rate their own lie-detection ability far higher than their measured accuracy supports. The gap itself is the finding worth remembering.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "In a study led by psychologist Paul Ekman and Maureen O'Sullivan, groups including federal law enforcement officers, clinical psychologists, judges, and college students were shown videotaped interviews and asked to judge whether each speaker was lying. Most professional groups performed close to chance, statistically indistinguishable from the untrained students, despite years of relevant job experience. A small subset of Secret Service agents in that particular study performed notably better — a result that has itself been debated and not cleanly replicated across follow-up work, which is worth mentioning honestly rather than treating as a settled exception."},
+      {"type": "keyPoint", "text": "Job title and years of experience, on their own, are weak predictors of lie-detection accuracy — confidence rises with experience far more reliably than accuracy does."},
+      {"type": "paragraph", "text": "One plausible reason professional experience doesn't reliably translate into better lie detection: most professionals rarely get clean, timely feedback on whether their judgment was actually right. A customs officer who waves through a smuggler never learns about the miss; an interviewer who wrongly distrusts an honest candidate rarely finds out either. Skills normally improve through repeated practice with clear feedback, and lie detection in most real jobs offers neither reliably."},
+      {"type": "paragraph", "text": "A second reason: many widely taught 'tell' checklists used in professional training — for instance, some interrogation training programs that list behaviors like gaze aversion, fidgeting, or crossed arms as deception indicators — have been tested directly against verified truth-tellers and liars and have not reliably distinguished the two, meaning some professional training may actively teach unreliable cues with unearned confidence attached."},
+      {"type": "paragraph", "text": "The honest posture this supports isn't cynicism about all judgment — it's calibration. A professional whose job involves regularly assessing honesty is well served by treating any single-encounter read as one weak input among several, leaning more heavily on record-checking, corroboration, and consistency over time than on a real-time behavioral impression, however confident that impression feels in the moment."},
+      {"type": "keyPoint", "text": "The single most protective habit in any deception-adjacent profession is remembering that feeling certain and being accurate are two different things that don't reliably travel together."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["deception research", "myth-busting", "professional judgment", "confidence calibration"],
+    "relatedDrillIds": ["rp_d26", "rp_d47"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l26",
+    "disciplineId": "reading_people",
+    "title": "Contagion in Crowds: How One Person's State Spreads",
+    "hook": "Panic and excitement can look almost identical from twenty feet away, and both spread through a crowd faster than any individual decides to feel either one.",
+    "mode": "caseStudy",
+    "blocks": [
+      {"type": "paragraph", "text": "At a packed stadium, a loud bang near one section can trigger a wave of standing, shouting, and moving that spreads outward within seconds — and depending on what actually happened, that exact same visible pattern could be genuine panic from a perceived threat, or enthusiastic celebration from a section that just saw a replay of a game-winning play on the big screen. From a distance, rapid synchronized movement and raised volume look remarkably similar whether the underlying emotion is fear or joy."},
+      {"type": "keyPoint", "text": "Emotional contagion spreads the outward behavior of a crowd faster and more reliably than it spreads any single emotion — which is exactly why the same behavioral pattern can have opposite causes."},
+      {"type": "paragraph", "text": "Emotional contagion research, including work by Elaine Hatfield and colleagues on how people unconsciously mimic and then internalize the expressions and postures of those around them, helps explain why crowd mood can shift so quickly and so uniformly: people don't need to individually decide to feel alarmed or excited — mimicking nearby expressions and body language is often enough to produce the matching internal state, which then reinforces the outward display in the people around them, and the cycle accelerates."},
+      {"type": "paragraph", "text": "Disambiguating panic from excitement at a distance benefits from a few honest tie-breakers rather than the movement pattern alone: direction of movement (away from a single point suggests threat; toward a shared focal point suggests celebration), facial expression where visible at all, and, most usefully, independent information about what actually happened, since the crowd's behavior alone often can't settle the question."},
+      {"type": "paragraph", "text": "The practical caution for anyone reading a crowd in a real moment, especially one with any safety relevance: hold the panic-versus-excitement hypothesis open until a second, independent source of information arrives, rather than either dismissing rising crowd energy or over-reacting to it based on movement and noise alone. Crowd behavior is a fast, useful early signal — and a genuinely ambiguous one on its own."},
+      {"type": "keyPoint", "text": "Observation: crowd volume and movement pattern. Hypothesis: an emotional cause consistent with that pattern. Alternative: the opposite emotion, which can look nearly identical. Confidence: low until an independent source resolves it."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["crowd dynamics", "emotional contagion", "group behavior"],
+    "relatedDrillIds": ["rp_d38", "rp_d18"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l27",
+    "disciplineId": "reading_people",
+    "title": "Reading a Child's Distress vs. a Child's Boredom",
+    "hook": "A child slumped in a chair, kicking their feet, and giving one-word answers could be miserable, or could simply be bored out of their mind — and mixing those two up leads adults to very different, and sometimes unhelpful, responses.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Distress and boredom in children can share a surprising amount of surface behavior: reduced eye contact, short or monosyllabic answers, restless movement, a flat or irritable tone. An adult who defaults to reading all of these as distress can end up treating ordinary boredom as an emotional crisis, while an adult who defaults to reading them as boredom can miss real distress that happens to look quiet rather than dramatic."},
+      {"type": "keyPoint", "text": "The overlapping behaviors aren't the useful signal here — the context and the trigger usually are."},
+      {"type": "paragraph", "text": "A few contextual anchors help separate the two without guessing. Timing relative to activity change matters: boredom typically tracks with how long an unstimulating activity has gone on and tends to lift quickly once something new happens, while distress tends to persist across a change in activity because its cause is elsewhere. Physical presentation differs too — bored restlessness tends to be loose and exploratory (fidgeting with an object, looking around the room), while distress more often narrows into stillness, self-soothing gestures, or a fixed focus."},
+      {"type": "paragraph", "text": "A recent event is the single most useful piece of context: a child who was fine ten minutes ago and shifted abruptly after a specific moment (an argument overheard, a comment from another child, a change in plans) has a specific candidate cause worth asking about gently, whereas a slow, gradual slump over the course of a long, unstimulating afternoon fits boredom far better than sudden distress."},
+      {"type": "paragraph", "text": "As with adult reading, the lowest-risk move when genuinely unsure is a simple, undemanding check rather than a confident label: offering a change of activity tests the boredom hypothesis directly (distress usually doesn't resolve with a new game the way boredom does), and a quiet, low-pressure question tests the distress hypothesis without pressuring a child who's simply tired of sitting still."},
+      {"type": "keyPoint", "text": "Confidence in 'this child is upset' versus 'this child is bored' should stay genuinely open until you've tried the cheap, low-cost test that would tell the two apart."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["children", "distress vs boredom", "context", "developmental differences"],
+    "relatedDrillIds": ["rp_d28", "rp_d39"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l28",
+    "disciplineId": "reading_people",
+    "title": "Video Calls Part Two: Reading Engagement Without a Full Body",
+    "hook": "In a video call with six people, who's actually listening and who's quietly reading email is a question worth answering honestly — and worth answering humbly.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "Multi-person video calls compound the channel loss described in reading people over video generally: on top of losing posture and full-body cues, a gallery view often shrinks each face to a small tile, making already-degraded facial and eye information even harder to read reliably. Add to that the very ordinary reality that most video call platforms make it trivially easy to have another window open, and the honest baseline expectation should be that some divided attention is common and not inherently meaningful."},
+      {"type": "keyPoint", "text": "On a group video call, some disengagement is the base rate, not the exception — which should lower, not raise, how much weight any single instance of it carries."},
+      {"type": "paragraph", "text": "A few cues are still meaningfully observable, imperfectly, on video: whether someone's eyes track roughly toward the camera or speaker window versus consistently downward and to the side (consistent with reading something else); response latency when addressed directly, since a delayed 'sorry, could you repeat that?' is a fairly direct signal, though it can also just reflect a lag in the connection; and whether someone's camera framing shifts — leaning toward the screen versus leaning back — over the course of a call."},
+      {"type": "paragraph", "text": "Alternatives worth holding onto before concluding disengagement: connectivity lag genuinely desynchronizing video and audio, a second monitor being used for meeting-relevant notes rather than unrelated browsing, a camera angle that makes ordinary note-taking look like looking away, and simple fatigue from a long day of consecutive calls that has nothing to do with interest in this particular one."},
+      {"type": "paragraph", "text": "A direct, low-cost check again outperforms guessing: asking an easy, specific question addressed to a particular person tests engagement far more reliably than reading their face does, since a genuinely present person answers fluidly regardless of camera quality, while someone who was elsewhere needs a moment to catch up — itself just one more data point, not a verdict, since anyone can be caught off guard even while paying attention."},
+      {"type": "keyPoint", "text": "The Observation → Hypothesis → Alternative → Confidence method holds up on video calls too — it just needs wider error bars and an explicit reminder that the medium itself explains a lot of what you're seeing."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["video calls", "engagement", "remote communication", "group settings"],
+    "relatedDrillIds": ["rp_d29", "rp_d40"],
+    "relatedCardIds": []
+  }
+]

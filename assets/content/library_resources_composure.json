@@ -1,0 +1,241 @@
+[
+  {
+    "id": "lib_comp_book01",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "Why Zebras Don't Get Ulcers",
+    "subtitle": "Robert Sapolsky",
+    "description": "A readable synthesis of stress physiology explaining why the human body's short-term stress response, so useful in real emergencies, becomes harmful when triggered chronically by non-physical stressors.",
+    "tags": [
+      "stress-physiology",
+      "nervous-system"
+    ]
+  },
+  {
+    "id": "lib_comp_book02",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "The Relaxation Response",
+    "subtitle": "Herbert Benson",
+    "description": "The book that introduced the term 'relaxation response,' documenting Benson's Harvard research into the measurable physiological changes—lowered heart rate, blood pressure, and oxygen consumption—produced by simple meditative techniques.",
+    "tags": [
+      "relaxation-response",
+      "physiology"
+    ]
+  },
+  {
+    "id": "lib_comp_book03",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "Breath: The New Science of a Lost Art",
+    "subtitle": "James Nestor",
+    "description": "An investigation into breathing mechanics and their effect on the nervous system, covering both established physiology and more speculative practices, useful for understanding why breath control is a genuine lever on arousal.",
+    "tags": [
+      "breathing",
+      "physiology"
+    ]
+  },
+  {
+    "id": "lib_comp_book04",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "The Body Keeps the Score",
+    "subtitle": "Bessel van der Kolk",
+    "description": "A widely read account of how stress and trauma register in the body and nervous system, and why regulating physiological state is often a precondition for calm thinking, not a side effect of it.",
+    "tags": [
+      "nervous-system",
+      "trauma"
+    ]
+  },
+  {
+    "id": "lib_comp_book05",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "Full Catastrophe Living",
+    "subtitle": "Jon Kabat-Zinn",
+    "description": "The founding text of Mindfulness-Based Stress Reduction (MBSR), presenting mindfulness as a trainable attention skill for working with pain, stress, and illness rather than a spiritual practice.",
+    "tags": [
+      "mindfulness",
+      "mbsr"
+    ]
+  },
+  {
+    "id": "lib_comp_book06",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "Emotional Intelligence",
+    "subtitle": "Daniel Goleman",
+    "description": "Goleman's synthesis of research on recognizing and regulating one's own emotional reactions, popularizing the case that self-regulation under pressure is a learnable skill distinct from raw intelligence.",
+    "tags": [
+      "emotional-regulation",
+      "self-awareness"
+    ]
+  },
+  {
+    "id": "lib_comp_book07",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "The Gift of Fear",
+    "subtitle": "Gavin de Becker",
+    "description": "A book about distinguishing genuine intuitive threat signals from generalized anxiety, directly relevant to cultivating high situational awareness without sliding into constant reactivity or fear.",
+    "tags": [
+      "situational-awareness",
+      "fear"
+    ]
+  },
+  {
+    "id": "lib_comp_book08",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "On Combat",
+    "subtitle": "Lt. Col. Dave Grossman",
+    "description": "Grossman applies physiological arousal research to performance under extreme stress, describing 'condition' levels of alertness and the breathing and training methods used to stay calm and functional at high stakes.",
+    "tags": [
+      "arousal-control",
+      "breathing"
+    ]
+  },
+  {
+    "id": "lib_comp_book09",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "Deep Survival: Who Lives, Who Dies, and Why",
+    "subtitle": "Laurence Gonzalez",
+    "description": "An account of real survival situations that draws out a consistent psychological pattern—calm, deliberate assessment over panic—separating people who cope well under acute stress from those who don't.",
+    "tags": [
+      "stress-response",
+      "resilience"
+    ]
+  },
+  {
+    "id": "lib_comp_book10",
+    "disciplineId": "composure",
+    "type": "book",
+    "title": "Radical Acceptance",
+    "subtitle": "Tara Brach",
+    "description": "A mindfulness-and-self-compassion-based approach to sitting with difficult emotions rather than suppressing or being overtaken by them, drawing on Brach's clinical psychology background.",
+    "tags": [
+      "mindfulness",
+      "self-compassion"
+    ]
+  },
+  {
+    "id": "lib_comp_expert01",
+    "disciplineId": "composure",
+    "type": "expert",
+    "title": "Jon Kabat-Zinn",
+    "subtitle": "Founder of Mindfulness-Based Stress Reduction (MBSR)",
+    "description": "Kabat-Zinn founded the Center for Mindfulness at the University of Massachusetts Medical School in 1979, translating meditation practice into a secular, clinically studied program now used worldwide for stress and pain.",
+    "tags": [
+      "mbsr",
+      "mindfulness"
+    ]
+  },
+  {
+    "id": "lib_comp_expert02",
+    "disciplineId": "composure",
+    "type": "expert",
+    "title": "Robert Sapolsky",
+    "subtitle": "Stanford neuroendocrinologist",
+    "description": "Sapolsky spent decades studying stress hormones in wild baboon troops in Kenya, providing some of the field's clearest evidence for how chronic psychological stress produces physical wear on the body.",
+    "tags": [
+      "stress-hormones",
+      "research"
+    ]
+  },
+  {
+    "id": "lib_comp_expert03",
+    "disciplineId": "composure",
+    "type": "expert",
+    "title": "Daniel Goleman",
+    "subtitle": "Psychologist and science journalist",
+    "description": "Goleman co-directs the Consortium for Research on Emotional Intelligence in Organizations, extending his popular writing on emotional regulation into applied workplace research.",
+    "tags": [
+      "emotional-intelligence"
+    ]
+  },
+  {
+    "id": "lib_comp_expert04",
+    "disciplineId": "composure",
+    "type": "expert",
+    "title": "Kristin Neff",
+    "subtitle": "Professor at the University of Texas at Austin; self-compassion researcher",
+    "description": "Neff developed one of the first validated psychological measures of self-compassion and has shown in her research that treating oneself with the same steadiness one would offer a friend supports resilience under stress better than harsh self-criticism does.",
+    "tags": [
+      "self-compassion",
+      "resilience"
+    ]
+  },
+  {
+    "id": "lib_comp_expert05",
+    "disciplineId": "composure",
+    "type": "expert",
+    "title": "Herbert Benson",
+    "subtitle": "Harvard cardiologist; discovered the relaxation response",
+    "description": "Benson founded Harvard's Mind/Body Medical Institute to continue clinical research into meditation-linked physiological changes after his initial studies identified the relaxation response.",
+    "tags": [
+      "relaxation-response",
+      "research"
+    ]
+  },
+  {
+    "id": "lib_comp_area01",
+    "disciplineId": "composure",
+    "type": "researchArea",
+    "title": "Polyvagal Theory",
+    "subtitle": "",
+    "description": "Stephen Porges' theory describes how different branches of the vagus nerve support states ranging from calm social engagement to defensive shutdown; it's influential in therapeutic circles, though some of its specific physiological claims remain debated among researchers.",
+    "tags": [
+      "nervous-system",
+      "vagus-nerve"
+    ]
+  },
+  {
+    "id": "lib_comp_area02",
+    "disciplineId": "composure",
+    "type": "researchArea",
+    "title": "Heart Rate Variability (HRV) Biofeedback",
+    "subtitle": "",
+    "description": "A research area studying heart rate variability as both a marker of autonomic nervous system flexibility and a trainable target through paced breathing, with modest but replicated evidence for reducing stress reactivity.",
+    "tags": [
+      "hrv",
+      "biofeedback"
+    ]
+  },
+  {
+    "id": "lib_comp_area03",
+    "disciplineId": "composure",
+    "type": "researchArea",
+    "title": "MBSR Clinical Outcomes",
+    "subtitle": "",
+    "description": "A substantial body of clinical trials has examined Mindfulness-Based Stress Reduction for anxiety, chronic pain, and stress, generally finding moderate benefits—real, though smaller than some popular claims suggest.",
+    "tags": [
+      "mbsr",
+      "clinical-research"
+    ]
+  },
+  {
+    "id": "lib_comp_area04",
+    "disciplineId": "composure",
+    "type": "researchArea",
+    "title": "Cognitive Reappraisal",
+    "subtitle": "",
+    "description": "Stanford psychologist James Gross's research on emotion regulation strategies shows that reinterpreting a stressful situation before reacting to it tends to produce better outcomes than either suppressing the reaction or avoiding the situation.",
+    "tags": [
+      "emotion-regulation",
+      "reappraisal"
+    ]
+  },
+  {
+    "id": "lib_comp_area05",
+    "disciplineId": "composure",
+    "type": "researchArea",
+    "title": "Intolerance of Uncertainty",
+    "subtitle": "",
+    "description": "A clinical psychology construct, studied extensively by researchers including Michel Dugas, describing how discomfort with not knowing what will happen next drives excessive worry and reactivity—useful for understanding why tolerating ambiguity is itself a trainable skill.",
+    "tags": [
+      "uncertainty",
+      "anxiety-research"
+    ]
+  }
+]

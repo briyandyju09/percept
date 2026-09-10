@@ -1,0 +1,523 @@
+[
+  {
+    "id": "obs_d11",
+    "disciplineId": "observation",
+    "title": "The Coffee Shop Counter",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 3,
+    "stimulusText": "You glance at a café counter for a few seconds before ordering. On the counter: a green ceramic mug with a chipped handle, a stack of five brown paper napkins, a tip jar with a handwritten sign reading 'Thanks!', and a small chalkboard listing three drinks: Latte, Cold Brew, Chai.",
+    "stimulusFacts": [
+      "mug is green ceramic with a chipped handle",
+      "five brown paper napkins",
+      "tip jar sign reads 'Thanks!'",
+      "chalkboard lists three drinks: Latte, Cold Brew, Chai"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d11_q1",
+        "type": "multipleChoice",
+        "prompt": "What color was the mug?",
+        "options": [
+          "Blue",
+          "Green",
+          "White",
+          "Red"
+        ],
+        "correctAnswer": "Green"
+      },
+      {
+        "id": "obs_d11_q2",
+        "type": "numericInput",
+        "prompt": "How many napkins were in the stack?",
+        "correctAnswer": "5"
+      },
+      {
+        "id": "obs_d11_q3",
+        "type": "trueFalse",
+        "prompt": "The chalkboard listed four drinks.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False"
+      },
+      {
+        "id": "obs_d11_q4",
+        "type": "textInput",
+        "prompt": "What word was written on the tip jar sign?",
+        "correctAnswer": "Thanks"
+      }
+    ],
+    "prompt": "Study the scene below for 20 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d12",
+    "disciplineId": "observation",
+    "title": "Office Desk Snapshot",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 3,
+    "stimulusText": "A coworker's desk: a black laptop open to a spreadsheet, a red stapler, two pens (one blue, one black) in a cup, a sticky note that says 'Call Dana at 3', and a framed photo of a dog.",
+    "stimulusFacts": [
+      "laptop is black and open to a spreadsheet",
+      "stapler is red",
+      "two pens in the cup, one blue and one black",
+      "sticky note says 'Call Dana at 3'",
+      "framed photo of a dog"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d12_q1",
+        "type": "multipleChoice",
+        "prompt": "What color was the stapler?",
+        "options": [
+          "Black",
+          "Red",
+          "Yellow",
+          "Green"
+        ],
+        "correctAnswer": "Red"
+      },
+      {
+        "id": "obs_d12_q2",
+        "type": "numericInput",
+        "prompt": "How many pens were in the cup?",
+        "correctAnswer": "2"
+      },
+      {
+        "id": "obs_d12_q3",
+        "type": "trueFalse",
+        "prompt": "The sticky note mentioned calling someone named Dana.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      },
+      {
+        "id": "obs_d12_q4",
+        "type": "textInput",
+        "prompt": "What animal was in the framed photo?",
+        "correctAnswer": "dog"
+      }
+    ],
+    "prompt": "Study the scene below for 20 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d13",
+    "disciplineId": "observation",
+    "title": "Street Corner at Noon",
+    "type": "observationSprint",
+    "difficulty": 2,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 4,
+    "stimulusText": "At a street corner: a red delivery bike leaning against a lamppost, a woman in a yellow raincoat checking her phone, a newsstand with three visible magazine covers, a 'Walk' signal lit on the crosswalk, and a dog on a leash sniffing a fire hydrant.",
+    "stimulusFacts": [
+      "red delivery bike leaning against a lamppost",
+      "woman in a yellow raincoat checking her phone",
+      "newsstand with three visible magazine covers",
+      "the 'Walk' signal was lit",
+      "a dog on a leash sniffing a fire hydrant"
+    ],
+    "stimulusSeconds": 25,
+    "questions": [
+      {
+        "id": "obs_d13_q1",
+        "type": "multipleChoice",
+        "prompt": "What color was the woman's raincoat?",
+        "options": [
+          "Blue",
+          "Yellow",
+          "Green",
+          "Black"
+        ],
+        "correctAnswer": "Yellow"
+      },
+      {
+        "id": "obs_d13_q2",
+        "type": "numericInput",
+        "prompt": "How many magazine covers were visible at the newsstand?",
+        "correctAnswer": "3"
+      },
+      {
+        "id": "obs_d13_q3",
+        "type": "trueFalse",
+        "prompt": "The crosswalk signal showed 'Don't Walk'.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False"
+      },
+      {
+        "id": "obs_d13_q4",
+        "type": "multipleChoice",
+        "prompt": "What was the bike leaning against?",
+        "options": [
+          "a lamppost",
+          "a bench",
+          "a mailbox",
+          "a tree"
+        ],
+        "correctAnswer": "a lamppost"
+      }
+    ],
+    "prompt": "Study the scene below for 25 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d14",
+    "disciplineId": "observation",
+    "title": "Odd One Out: Shapes",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 2,
+    "stimulusText": "Look at this row of shapes: circle, circle, circle, triangle, circle. One shape breaks the pattern.",
+    "stimulusFacts": [
+      "the odd shape is the triangle",
+      "it is the fourth item in the row",
+      "there are four circles total"
+    ],
+    "stimulusSeconds": 15,
+    "questions": [
+      {
+        "id": "obs_d14_q1",
+        "type": "multipleChoice",
+        "prompt": "Which shape breaks the pattern?",
+        "options": [
+          "Circle",
+          "Triangle",
+          "Square",
+          "Star"
+        ],
+        "correctAnswer": "Triangle"
+      },
+      {
+        "id": "obs_d14_q2",
+        "type": "numericInput",
+        "prompt": "What position in the row (counting from 1) is the odd shape?",
+        "correctAnswer": "4"
+      },
+      {
+        "id": "obs_d14_q3",
+        "type": "trueFalse",
+        "prompt": "There are four circles in the row.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      }
+    ],
+    "prompt": "Study the pattern below for 15 seconds, then answer."
+  },
+  {
+    "id": "obs_d15",
+    "disciplineId": "observation",
+    "title": "Grocery Aisle End-Cap",
+    "type": "observationSprint",
+    "difficulty": 2,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 4,
+    "stimulusText": "An end-cap display: a pyramid of canned tomatoes (12 cans), a sign reading '2 for $3', a small stack of shopping baskets nearby, and a spilled handful of rice on the bottom shelf.",
+    "stimulusFacts": [
+      "12 cans of tomatoes stacked in a pyramid",
+      "sign reads '2 for $3'",
+      "shopping baskets stacked nearby",
+      "spilled rice on the bottom shelf"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d15_q1",
+        "type": "numericInput",
+        "prompt": "How many cans of tomatoes were in the pyramid?",
+        "correctAnswer": "12"
+      },
+      {
+        "id": "obs_d15_q2",
+        "type": "textInput",
+        "prompt": "What was spilled on the bottom shelf?",
+        "correctAnswer": "rice"
+      },
+      {
+        "id": "obs_d15_q3",
+        "type": "trueFalse",
+        "prompt": "The sign advertised '2 for $3'.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      },
+      {
+        "id": "obs_d15_q4",
+        "type": "multipleChoice",
+        "prompt": "What was stacked near the display?",
+        "options": [
+          "umbrellas",
+          "shopping baskets",
+          "folding chairs",
+          "boxes of tissues"
+        ],
+        "correctAnswer": "shopping baskets"
+      }
+    ],
+    "prompt": "Study the scene below for 20 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d16",
+    "disciplineId": "observation",
+    "title": "Yesterday's Commute",
+    "type": "recallQuiz",
+    "difficulty": 3,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 4,
+    "stimulusText": "Picture this commute: a bus arrives 4 minutes late, the driver is wearing a red cap, an advertisement poster inside the bus is for a dentist, and a man reads a newspaper folded into quarters near the back door.",
+    "stimulusFacts": [
+      "bus arrived 4 minutes late",
+      "driver wore a red cap",
+      "poster advertised a dentist",
+      "man's newspaper was folded into quarters, near the back door"
+    ],
+    "stimulusSeconds": 25,
+    "questions": [
+      {
+        "id": "obs_d16_q1",
+        "type": "numericInput",
+        "prompt": "How many minutes late was the bus?",
+        "correctAnswer": "4"
+      },
+      {
+        "id": "obs_d16_q2",
+        "type": "textInput",
+        "prompt": "What color was the driver's cap?",
+        "correctAnswer": "red"
+      },
+      {
+        "id": "obs_d16_q3",
+        "type": "multipleChoice",
+        "prompt": "What was the poster advertising?",
+        "options": [
+          "a gym",
+          "a dentist",
+          "a bank",
+          "a movie"
+        ],
+        "correctAnswer": "a dentist"
+      },
+      {
+        "id": "obs_d16_q4",
+        "type": "trueFalse",
+        "prompt": "The man's newspaper was folded into quarters.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      }
+    ],
+    "prompt": "Read the scene once, then do something else for a minute before answering — this drill tests recall after a delay, not immediate memory."
+  },
+  {
+    "id": "obs_d17",
+    "disciplineId": "observation",
+    "title": "Waiting Room",
+    "type": "observationSprint",
+    "difficulty": 3,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 4,
+    "stimulusText": "A waiting room holds six chairs, four of them occupied. A television plays with the sound off, showing a weather map. A potted plant sits by the door missing several leaves on one side. A clipboard with a sign-in sheet has seven names listed.",
+    "stimulusFacts": [
+      "six chairs, four occupied",
+      "television was muted, showing a weather map",
+      "potted plant missing leaves on one side",
+      "sign-in sheet had seven names listed"
+    ],
+    "stimulusSeconds": 25,
+    "questions": [
+      {
+        "id": "obs_d17_q1",
+        "type": "numericInput",
+        "prompt": "How many chairs were occupied?",
+        "correctAnswer": "4"
+      },
+      {
+        "id": "obs_d17_q2",
+        "type": "trueFalse",
+        "prompt": "The television had the sound on.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False"
+      },
+      {
+        "id": "obs_d17_q3",
+        "type": "numericInput",
+        "prompt": "How many names were on the sign-in sheet?",
+        "correctAnswer": "7"
+      },
+      {
+        "id": "obs_d17_q4",
+        "type": "textInput",
+        "prompt": "What was missing from the potted plant?",
+        "correctAnswer": "leaves"
+      }
+    ],
+    "prompt": "Study the scene below for 25 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d18",
+    "disciplineId": "observation",
+    "title": "Two Photographs Compared",
+    "type": "observationSprint",
+    "difficulty": 4,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 5,
+    "stimulusText": "Imagine two nearly identical photos of a living room taken seconds apart. In the first, a book lies open on the coffee table and the window is closed. In the second, the book is closed and the window is open a crack. Everything else — the lamp, the rug, the couch cushions — is unchanged.",
+    "stimulusFacts": [
+      "the book went from open to closed",
+      "the window went from closed to open a crack",
+      "the lamp, rug, and couch cushions stayed unchanged"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d18_q1",
+        "type": "multipleChoice",
+        "prompt": "What changed about the book between photos?",
+        "options": [
+          "it disappeared",
+          "it was closed",
+          "it moved to the floor",
+          "nothing changed"
+        ],
+        "correctAnswer": "it was closed"
+      },
+      {
+        "id": "obs_d18_q2",
+        "type": "trueFalse",
+        "prompt": "The window went from closed to open a crack.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      },
+      {
+        "id": "obs_d18_q3",
+        "type": "textInput",
+        "prompt": "Name one object that stayed the same in both photos.",
+        "correctAnswer": "lamp, rug, or couch cushions"
+      }
+    ],
+    "prompt": "Study the description below for 20 seconds, then answer without looking back."
+  },
+  {
+    "id": "obs_d19",
+    "disciplineId": "observation",
+    "title": "Sequence Spotting: Numbers and Symbols",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 3,
+    "stimulusText": "Study this sequence: 4, 8, 12, 16, 21, 24. One number breaks the otherwise steady pattern of adding 4 each time.",
+    "stimulusFacts": [
+      "the pattern adds 4 each step",
+      "the break is the number 21, which should have been 20",
+      "the break is the 5th number in the sequence"
+    ],
+    "stimulusSeconds": 20,
+    "questions": [
+      {
+        "id": "obs_d19_q1",
+        "type": "numericInput",
+        "prompt": "Which number breaks the pattern?",
+        "correctAnswer": "21"
+      },
+      {
+        "id": "obs_d19_q2",
+        "type": "numericInput",
+        "prompt": "What position in the sequence (counting from 1) is the number that breaks the pattern?",
+        "correctAnswer": "5"
+      },
+      {
+        "id": "obs_d19_q3",
+        "type": "trueFalse",
+        "prompt": "The expected pattern was to add 4 each time.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True"
+      }
+    ],
+    "prompt": "Study the sequence below for 20 seconds, then answer."
+  },
+  {
+    "id": "obs_d20",
+    "disciplineId": "observation",
+    "title": "Crowded Platform",
+    "type": "observationSprint",
+    "difficulty": 5,
+    "labCategory": "Observation Lab",
+    "estimatedMinutes": 6,
+    "stimulusText": "A packed train platform: a man in an orange safety vest speaking into a radio near the edge, a busker playing a violin with the case open for tips and four coins visible, a digital board announcing 'Next train: 3 min — Delayed', and a child in a striped shirt holding a red balloon standing near pillar 4.",
+    "stimulusFacts": [
+      "man in an orange safety vest speaking into a radio near the platform edge",
+      "busker's violin case had four coins visible",
+      "digital board announced the train was delayed, 3 minutes",
+      "child in a striped shirt held a red balloon near pillar 4"
+    ],
+    "stimulusSeconds": 30,
+    "questions": [
+      {
+        "id": "obs_d20_q1",
+        "type": "multipleChoice",
+        "prompt": "What color was the safety vest?",
+        "options": [
+          "Yellow",
+          "Orange",
+          "Green",
+          "Blue"
+        ],
+        "correctAnswer": "Orange"
+      },
+      {
+        "id": "obs_d20_q2",
+        "type": "numericInput",
+        "prompt": "How many coins were visible in the violin case?",
+        "correctAnswer": "4"
+      },
+      {
+        "id": "obs_d20_q3",
+        "type": "textInput",
+        "prompt": "What color was the child's balloon?",
+        "correctAnswer": "red"
+      },
+      {
+        "id": "obs_d20_q4",
+        "type": "trueFalse",
+        "prompt": "The digital board announced the train was on time.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False"
+      },
+      {
+        "id": "obs_d20_q5",
+        "type": "numericInput",
+        "prompt": "Near which numbered pillar was the child standing?",
+        "correctAnswer": "4"
+      }
+    ],
+    "prompt": "Study the scene below for 30 seconds, then answer without looking back."
+  }
+]

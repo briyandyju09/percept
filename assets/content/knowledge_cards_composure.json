@@ -1,0 +1,152 @@
+[
+  {
+    "id": "card_comp_101",
+    "disciplineId": "composure",
+    "hook": "Simply naming an emotion can turn down its intensity.",
+    "concept": "Putting a strong feeling into specific words — 'affect labeling' — is associated with reduced activity in the brain's threat-detection circuitry, one of the more replicated findings in emotion-regulation research.",
+    "tryIt": "Next time you notice a strong reaction rising, silently name it precisely ('I'm feeling defensive right now') before you respond to whatever triggered it.",
+    "whyExplanation": "Giving a feeling a specific verbal label appears to shift processing toward more regulatory areas of the brain, functioning like a brief translation of the feeling into language that takes some of its charge with it.",
+    "sourceCitation": "From affect-labeling research (Matthew Lieberman and colleagues, UCLA)",
+    "tags": ["affect labeling", "emotion regulation"]
+  },
+  {
+    "id": "card_comp_102",
+    "disciplineId": "composure",
+    "hook": "A perfectly steady heartbeat isn't actually the sign of calm you'd expect.",
+    "concept": "Heart rate variability — the small fluctuations in timing between individual heartbeats — tends to be higher during calm, well-regulated states and lower during chronic, unrelieved stress.",
+    "tryIt": "After a calming breathing practice, notice whether your resting heart rate feels different — steadier and lower — compared to right before you started.",
+    "whyExplanation": "High heart rate variability reflects a nervous system that can flexibly shift between activation and calm as a situation demands, rather than staying locked into one gear.",
+    "sourceCitation": null,
+    "tags": ["physiology", "heart rate variability"]
+  },
+  {
+    "id": "card_comp_103",
+    "disciplineId": "composure",
+    "hook": "The half-second before you speak is where composure actually happens.",
+    "concept": "A short, deliberate pause between a provocation and your response interrupts the automatic reflex loop, giving the more deliberate part of your thinking a chance to weigh in before words leave your mouth.",
+    "tryIt": "The next time you feel an immediate urge to respond sharply, silently count to three before saying anything at all.",
+    "whyExplanation": "Fast emotional reactions are largely automatic and fire before conscious thought catches up; even a very brief delay is often enough for a more considered response to take over.",
+    "sourceCitation": null,
+    "tags": ["pause", "reactivity"]
+  },
+  {
+    "id": "card_comp_104",
+    "disciplineId": "composure",
+    "hook": "One specific double-breath is one of the fastest calming tools that's actually been measured.",
+    "concept": "A quick double inhale followed by a long, slow exhale — the physiological sigh — is the body's own built-in mechanism for offloading carbon dioxide and quickly lowering physiological arousal.",
+    "tryIt": "Next time you feel a spike of stress, do three physiological sighs in a row and notice how quickly your body settles compared to a few normal breaths.",
+    "whyExplanation": "A controlled study on brief structured breathing practices found this repeated double-inhale, long-exhale pattern outperformed several other daily practices tested for improving mood and lowering physiological arousal.",
+    "sourceCitation": "From a 2023 Stanford study on cyclic sighing (Balban et al., Cell Reports Medicine)",
+    "tags": ["breathing", "physiological sigh"]
+  },
+  {
+    "id": "card_comp_105",
+    "disciplineId": "composure",
+    "hook": "Composure gets easier once you stop trying to control the things you can't.",
+    "concept": "The Stoic idea of separating what is 'up to us' — our judgments, choices, effort — from what is not, like other people's opinions or outcomes, reduces the number of things that can hijack an emotional state in the first place.",
+    "tryIt": "Next time you feel your composure slipping, silently ask 'is this actually within my control?' and adjust your focus based on the honest answer.",
+    "whyExplanation": "Much reactive stress comes from treating uncontrollable things as if they were controllable; explicitly sorting the two categories reduces that friction before it builds.",
+    "sourceCitation": "From Epictetus's Enchiridion, opening lines on what is 'in our power'",
+    "tags": ["stoicism", "control"]
+  },
+  {
+    "id": "card_comp_106",
+    "disciplineId": "composure",
+    "hook": "Your senses can pull your mind out of a spiral faster than thinking your way out.",
+    "concept": "The 5-4-3-2-1 grounding technique — naming five things you see, four you can touch, three you hear, two you smell, and one you taste — shifts attention from racing thoughts toward concrete, immediate sensory input.",
+    "tryIt": "Next time you feel overwhelmed, run through the 5-4-3-2-1 sequence slowly, actually looking, touching, and listening rather than just mentally listing items.",
+    "whyExplanation": "Deliberately attending to immediate sensory detail is difficult to do at the same time as spiraling in anxious thought, so the exercise indirectly interrupts rumination rather than arguing with it.",
+    "sourceCitation": null,
+    "tags": ["grounding", "anxiety"]
+  },
+  {
+    "id": "card_comp_107",
+    "disciplineId": "composure",
+    "hook": "You may genuinely have less patience left at 5pm than you did at 9am.",
+    "concept": "Self-regulation seems to draw on a limited resource that depletes with use over the course of a day — an idea researchers call ego depletion — though later studies have found the effect to be smaller and less consistent than the earliest research suggested. Even without a settled claim about the exact mechanism, many people notice their patience wears thinner later in a demanding day.",
+    "tryIt": "Where possible, schedule your hardest conversations or highest-stakes decisions earlier in the day, and treat afternoon irritability as partly circumstantial rather than a personal failing.",
+    "whyExplanation": "Whatever the precise mechanism turns out to be, treating end-of-day reactivity as expected fatigue rather than pure character flaw reduces unnecessary self-criticism and can prompt better scheduling choices.",
+    "sourceCitation": null,
+    "tags": ["decision fatigue", "self-regulation"]
+  },
+  {
+    "id": "card_comp_108",
+    "disciplineId": "composure",
+    "hook": "Unclenching your jaw can change how angry you actually feel, not just how you look.",
+    "concept": "Physical tension and posture appear to feed back into how an emotion is experienced, not only express it outwardly — deliberately relaxing tense muscles can shift the emotional state itself to some degree.",
+    "tryIt": "Mid-conflict, do a quick body scan and deliberately drop your shoulders, unclench your jaw, and loosen your grip on whatever you're holding.",
+    "whyExplanation": "Emotion and physical state run in both directions; changing the physical side of the loop is one of the few parts of a reaction you can directly and immediately control.",
+    "sourceCitation": null,
+    "tags": ["body language", "embodiment"]
+  },
+  {
+    "id": "card_comp_109",
+    "disciplineId": "composure",
+    "hook": "The stimulus is fixed. What happens right after it is still yours to decide.",
+    "concept": "There is a real, if brief, gap between something happening and your reaction to it, even when it feels instantaneous. Composure lives in widening that gap, even slightly, rather than in eliminating the feeling that fills it.",
+    "tryIt": "After something aggravating happens today, try to consciously notice the gap itself before your reaction fills it — even silently naming, 'there's a gap here.'",
+    "whyExplanation": "Treating the gap as something real and widen-able, rather than as an illusion your reaction always fills instantly, makes it more likely you'll actually use it when it matters.",
+    "sourceCitation": null,
+    "tags": ["reactivity", "response"]
+  },
+  {
+    "id": "card_comp_110",
+    "disciplineId": "composure",
+    "hook": "One nerve does most of the work of calming you back down.",
+    "concept": "The vagus nerve is the primary pathway of the parasympathetic 'rest and digest' system, and its activity — often called vagal tone — is strongly influenced by slow, deliberate breathing, especially a long, extended exhale.",
+    "tryIt": "The next time you use an extended-exhale breathing pattern, notice it as directly engaging this specific nerve rather than as a vague relaxation trick.",
+    "whyExplanation": "Understanding the vagus nerve as the actual physiological mechanism makes breathing practices feel less like folk wisdom and more like a specific, learnable lever you're pulling on purpose.",
+    "sourceCitation": null,
+    "tags": ["vagus nerve", "physiology"]
+  },
+  {
+    "id": "card_comp_111",
+    "disciplineId": "composure",
+    "hook": "Notifications are engineered with the same trick as a slot machine.",
+    "concept": "Apps that deliver rewards on an unpredictable schedule — a like, a message, a match — produce stronger compulsive checking behavior than if the reward arrived on a predictable schedule, a well-documented effect from behavioral psychology.",
+    "tryIt": "Turn off badge counts and banner previews for one app today, and notice how much of your checking was actually driven by the visual cue itself.",
+    "whyExplanation": "Removing the visual cue interrupts the checking loop at a point that doesn't require willpower, since there's no longer a visible signal to resist in the first place.",
+    "sourceCitation": "Related to B.F. Skinner's research on variable-ratio reinforcement schedules",
+    "tags": ["digital reactivity", "reinforcement"]
+  },
+  {
+    "id": "card_comp_112",
+    "disciplineId": "composure",
+    "hook": "The audience remembers your stumble far less than you do.",
+    "concept": "Speakers tend to overestimate how noticeable and memorable their small mistakes are to an audience — a gap related to what's sometimes called the illusion of transparency.",
+    "tryIt": "After your next small stumble in conversation or a talk, deliberately let it go rather than drawing more attention to it with a lingering apology.",
+    "whyExplanation": "Over-apologizing or dwelling on a small slip often makes it far more memorable to the room than the slip itself ever was on its own.",
+    "sourceCitation": null,
+    "tags": ["public speaking", "illusion of transparency"]
+  },
+  {
+    "id": "card_comp_113",
+    "disciplineId": "composure",
+    "hook": "Composure and suppression look similar from the outside and are nearly opposites underneath.",
+    "concept": "Suppression pushes an emotion down without processing it, which is linked to increased physiological stress and worse memory for the interaction; composure involves genuinely feeling the emotion and still choosing a measured response.",
+    "tryIt": "Next time you notice yourself flatly suppressing a reaction, try briefly and privately acknowledging the feeling to yourself instead of just clamping down on it.",
+    "whyExplanation": "Suppression tends to carry a hidden internal cost even when it looks calm externally, while acknowledgment paired with a measured response doesn't carry the same hidden cost.",
+    "sourceCitation": "Related to emotion-regulation research (James Gross)",
+    "tags": ["suppression", "emotion regulation"]
+  },
+  {
+    "id": "card_comp_114",
+    "disciplineId": "composure",
+    "hook": "A bad night's sleep quietly lowers your threshold for losing your composure.",
+    "concept": "Sleep deprivation is associated with heightened reactivity in the brain's threat-detection circuitry to negative stimuli and weaker connectivity to regulatory regions, making minor frustrations feel bigger the next day.",
+    "tryIt": "On a day after poor sleep, deliberately lower your expectations of your own patience and build in more pauses than usual before responding to anything frustrating.",
+    "whyExplanation": "Recognizing sleep as a real input to your composure 'budget' turns an easily overlooked variable into something you can actually plan around.",
+    "sourceCitation": "Related to sleep-deprivation neuroimaging research (Matthew Walker and colleagues)",
+    "tags": ["sleep", "reactivity"]
+  },
+  {
+    "id": "card_comp_115",
+    "disciplineId": "composure",
+    "hook": "Repeating someone's question back calmly can defuse it before you even answer it.",
+    "concept": "Restating a hostile or loaded question in neutral language before responding both buys a moment to think and often makes the asker feel heard rather than argued with, lowering the temperature of the exchange.",
+    "tryIt": "Next time you get a sharply worded question, open your reply with a calm one-sentence restatement of the underlying concern before you actually answer it.",
+    "whyExplanation": "Neutral restatement separates the emotional framing of a question from its actual substance, letting you respond to the real concern rather than reacting to the hostility it was delivered with.",
+    "sourceCitation": null,
+    "tags": ["de-escalation", "public speaking"]
+  }
+]

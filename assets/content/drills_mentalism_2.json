@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ment_d11",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Distinguish honest research-based information from claims of paranormal insight.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d11_q1",
+        "prompt": "A performer studies a spectator's public social media profile before a private reading and later reveals details as if 'sensed' in the moment. What is this technique called?",
+        "type": "multipleChoice",
+        "options": ["Hot reading — using researched information rather than perception in the moment", "Cold reading — improvised guesses based on statistics", "Telepathy — reading thoughts directly", "Muscle reading — sensing physical tension"],
+        "correctAnswer": "Hot reading — using researched information rather than perception in the moment",
+        "explanation": "Hot reading means the specific information was gathered beforehand through research, not perceived live; it's an honest performance tool only when the performer doesn't market it as literal telepathy and would disclose the method if pressed — used to defraud grieving clients, the identical technique becomes predatory."
+      },
+      {
+        "id": "ment_d11_q2",
+        "prompt": "Which detail most clearly separates ethical hot-reading in a disclosed magic show from a fraudulent psychic's use of the same technique?",
+        "type": "multipleChoice",
+        "options": ["Whether the audience believes the framing is theatrical entertainment rather than a literal supernatural service", "Whether the performer wears a costume", "Whether the reveal is delivered quietly or loudly", "Whether the researched fact is true"],
+        "correctAnswer": "Whether the audience believes the framing is theatrical entertainment rather than a literal supernatural service",
+        "explanation": "The mechanism is identical in both cases; what changes is the frame — a magic show sold as entertainment where methods would be explained on request, versus a psychic service sold as a genuine supernatural ability, often to vulnerable people seeking closure."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d12",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You've been hired to do a 'psychic reading' style act at a corporate party. Before the event, the host sends you brief bios of three attendees so you can 'wow' them. You plan to weave these researched facts into a cold-reading-style delivery.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d12_q1",
+        "prompt": "Write the disclosure line you'd add to your show's opening (or program) to keep this practice honest, and name which ethical tag(s) apply to using researched facts this way.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Tags: Performance, Manipulation risk. Opening line: 'Everything you see tonight is a performance built from careful preparation and psychological technique — not real psychic ability.' This keeps the researched facts framed as craft rather than a genuine supernatural claim, and I'd still explain the method to anyone who asks afterward.",
+        "explanation": "Using prior research is standard mentalism craft, but it only stays ethical when the audience isn't led to believe they're witnessing literal supernatural perception — an upfront, honest frame is what keeps a hot-reading-based routine performance rather than deception."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d13",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Identify the classic secret-writing technique used to secretly learn what a spectator wrote.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d13_q1",
+        "prompt": "A spectator writes a word on a slip of paper, folds it, and hands it to the performer, who appears to burn it unread yet reveals the word. Before burning, the performer tore off and secretly unfolded a corner. What is this method called?",
+        "type": "multipleChoice",
+        "options": ["A center tear", "A muscle read", "A Barnum statement", "A statistical force"],
+        "correctAnswer": "A center tear",
+        "explanation": "The center tear is a foundational mentalism sleight: tearing the folded billet so a small piece containing the writing ends up in the performer's hand to glimpse secretly, while the rest is visibly destroyed — a purely mechanical method, not perception of any kind."
+      },
+      {
+        "id": "ment_d13_q2",
+        "prompt": "What is a 'nail writer' used for in a mentalism act?",
+        "type": "multipleChoice",
+        "options": ["Secretly writing a word or symbol onto paper using a small hidden writing tool, to fake a spontaneous prediction", "Filing down a deck of cards to mark them", "Reading muscle tension in a spectator's hand", "Amplifying a whispered voice across a room"],
+        "correctAnswer": "Secretly writing a word or symbol onto paper using a small hidden writing tool, to fake a spontaneous prediction",
+        "explanation": "A nail writer (or similar gimmick) lets a performer covertly inscribe information after learning it, so a prediction that looks like it was written in advance is actually completed moments before the reveal — a mechanical prop, not real foresight."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d14",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Test your understanding of the 'one-ahead' structuring principle.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d14_q1",
+        "prompt": "In a multi-item Q&A act, the performer appears to answer questions about sealed envelopes as they're opened one at a time. Actually, each answer given corresponds to the envelope opened previously, not the current one. What is this called?",
+        "type": "multipleChoice",
+        "options": ["The one-ahead principle", "A statistical force", "Muscle reading", "A Barnum statement"],
+        "correctAnswer": "The one-ahead principle",
+        "explanation": "One-ahead means the performer is always narrating information gathered from the prior item while the audience believes it applies to the current one — a purely structural trick of sequencing, not real-time perception."
+      },
+      {
+        "id": "ment_d14_q2",
+        "prompt": "Why does the one-ahead structure require the very first item in the sequence to be handled differently from the rest?",
+        "type": "multipleChoice",
+        "options": ["Because there's no 'previous' item yet, so the first answer must come from another prepared method", "Because the first envelope is always fake", "Because audiences don't pay attention to the first item", "Because the performer needs extra time to warm up"],
+        "correctAnswer": "Because there's no 'previous' item yet, so the first answer must come from another prepared method",
+        "explanation": "The one-ahead chain has to be seeded — the very first reveal can't come from a 'previous' item since none exists, so performers typically force or pre-arrange the first item specifically so the chain can begin."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d15",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You're running a Q&A billet act: spectators write a question on a card, seal it in an envelope, and you appear to answer each one as it's handed to you — while actually working one step behind using center tears and a one-ahead structure.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d15_q1",
+        "prompt": "Write the patter you'd say while 'answering' the second envelope (which actually reveals information from the first), so the timing feels natural rather than suspicious. Name the ethical tag most relevant to disclosing this method if asked.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Tags: Manipulation risk, Performance. Patter: 'I'm getting something... a name, or maybe an initial... let it come to me...' (pause, appearing to concentrate) 'I believe this relates to someone named...' — vague enough to buy time while genuinely processing the previous envelope's contents, and I'd happily explain the one-ahead structure to any spectator who asked afterward.",
+        "explanation": "Good one-ahead patter uses hesitation and 'concentration' language to disguise that the performer is processing old information, not new. Willingness to explain the method if asked is what keeps the misdirection an honest performance convention rather than a lie."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d16",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Identify the real perceptual phenomenon behind 'muscle reading' acts.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d16_q1",
+        "prompt": "A performer holds a spectator's wrist and appears to locate a hidden object purely by 'reading their mind.' What real, measurable phenomenon actually drives this?",
+        "type": "multipleChoice",
+        "options": ["The ideomotor effect: involuntary tiny muscle movements that reveal a person's focus of attention", "Literal telepathic transmission through touch", "The spectator secretly whispering the location", "A hidden earpiece feeding the performer directions"],
+        "correctAnswer": "The ideomotor effect: involuntary tiny muscle movements that reveal a person's focus of attention",
+        "explanation": "The ideomotor effect is real and well documented: people make tiny, unconscious muscular movements toward or away from what they're focused on, and a skilled performer can detect and follow these cues — a genuine perceptual skill, not mind-reading."
+      },
+      {
+        "id": "ment_d16_q2",
+        "prompt": "Why is muscle reading (sometimes called Hellstromism) considered an honestly explainable mentalism skill rather than a supernatural claim?",
+        "type": "multipleChoice",
+        "options": ["Because it relies on detecting real, physically measurable involuntary movement, which any trained person could learn to sense", "Because the performer secretly uses hidden cameras", "Because the spectator is always a confederate", "Because it only works on people who believe in psychics"],
+        "correctAnswer": "Because it relies on detecting real, physically measurable involuntary movement, which any trained person could learn to sense",
+        "explanation": "Because the underlying signal — tiny involuntary muscle tension — is physically real and detectable, muscle reading is a trainable perceptual skill like any other, which is exactly why it belongs in an honestly framed mentalism act rather than a paranormal claim."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d17",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Identify the forcing method behind a 'book test.'",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d17_q1",
+        "prompt": "In a book test, a spectator freely opens a book to 'any page' and thinks of 'any word' on it, which the performer then reveals. Most book tests rely on which method?",
+        "type": "multipleChoice",
+        "options": ["A forcing method that narrows the spectator's true freedom (a gimmicked book, a forced page, or a key word placement) while feeling completely free", "Genuine telepathic reading of the spectator's thoughts", "The spectator being told the word in advance", "Random chance that happens to work every time"],
+        "correctAnswer": "A forcing method that narrows the spectator's true freedom (a gimmicked book, a forced page, or a key word placement) while feeling completely free",
+        "explanation": "Book tests are a family of forces — some use specially printed books, some exploit how people naturally flip to certain pages, some use a word guaranteed to stand out on any page shown — but all of them constrain the 'free' choice invisibly rather than reading the spectator's mind."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "ment_d18",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "A local newspaper wants to profile you as a mentalist and asks, in the interview, 'So do you actually have psychic abilities, or is it all a trick?' You know that answering honestly protects the public, but a mysterious 'maybe' answer would generate more buzz for ticket sales.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d18_q1",
+        "prompt": "Write the honest answer you'd give the reporter, and explain which ethical tag is most at risk if you dodge the question instead.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Tag: Manipulation risk. Answer: 'Everything I do on stage is a skill — psychology, misdirection, and showmanship — not a real supernatural ability. I love that it feels mysterious in the moment, but I'd never want anyone to walk away believing I have real psychic powers.' Dodging the question for buzz risks letting vulnerable audience members genuinely believe in a fake ability, which can lead them toward real-world harm like psychic scams.",
+        "explanation": "Professional mentalists across the field maintain a clear public position that their skills are performance craft, precisely because an ambiguous 'maybe I'm psychic' answer, even if profitable, lends credibility to the predatory psychic industry and can mislead people making real decisions based on a false belief."
+      }
+    ],
+    "estimatedMinutes": 6
+  },
+  {
+    "id": "ment_d19",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Identify the specific cold-reading technique in each moment.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d19_q1",
+        "prompt": "A performer rattles off several possible traits quickly — 'I sense a T name, or maybe a place... an injury to the leg, or was it the arm...' watching the spectator's reactions to see which lands. What is this called?",
+        "type": "multipleChoice",
+        "options": ["Shotgunning", "A rainbow ruse", "Fishing", "A Barnum statement"],
+        "correctAnswer": "Shotgunning",
+        "explanation": "Shotgunning means firing off many possible guesses rapidly so that whichever one produces a visible reaction can be seized on and developed, while the misses are dropped or reframed — a volume strategy, not a single accurate perception."
+      },
+      {
+        "id": "ment_d19_q2",
+        "prompt": "A performer says 'you can be quite outgoing, but there are times you prefer to be alone.' What makes this specific structure — stating a trait and its opposite in one line — effective?",
+        "type": "multipleChoice",
+        "options": ["A rainbow ruse: covering both sides of a trait so it matches almost anyone", "A genuine personality assessment based on body language", "A statistical force", "Muscle reading"],
+        "correctAnswer": "A rainbow ruse: covering both sides of a trait so it matches almost anyone",
+        "explanation": "A rainbow ruse packages contradictory traits into one statement, so the listener's mind naturally selects whichever half feels true to them — nearly everyone is both outgoing and introspective in different contexts, which is exactly what makes this phrasing land so often."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d20",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "Mid-show, a skeptical audience member calls out, 'This is fake, you're just cold reading her!' The rest of the audience goes quiet, waiting to see how you respond.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d20_q1",
+        "prompt": "Script your in-character response to the heckler that keeps the show's energy up without being defensive or dishonest about what you do.",
+        "type": "textInput",
+        "correctAnswer": "e.g. 'You're absolutely right that there's a real skill behind this — that's exactly what makes it fun to watch. Stick around, I think you'll enjoy trying to catch me.' This keeps the tone playful, doesn't deny that technique is involved, and turns the heckler's skepticism into part of the show's energy rather than a threat to be shut down.",
+        "explanation": "The most durable response to a heckler naming the method is to agree in spirit — since the craft really is technique, not magic — while redirecting energy back into the performance, which keeps the room on the performer's side instead of turning it into a debate."
+      }
+    ],
+    "estimatedMinutes": 4
+  }
+]

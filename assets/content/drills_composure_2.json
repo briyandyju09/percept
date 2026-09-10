@@ -1,0 +1,394 @@
+[
+  {
+    "id": "comp_d11",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 1,
+    "prompt": "Box breathing: a simple four-part pattern used to steady the nervous system before a stressful moment.",
+    "stimulusText": "Inhale through your nose for 4 seconds, hold for 4 seconds, exhale through your mouth for 4 seconds, hold empty for 4 seconds. Repeat this four-part cycle for the full timer, keeping each phase roughly equal.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 120,
+    "questions": [
+      {
+        "id": "comp_d11_q1",
+        "prompt": "Where in your body did you notice tension easing first, if at all — jaw, shoulders, chest, or somewhere else?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest, specific observation about where physical tension shifted during the pattern — there is no single right location, the goal is noticing your own pattern.",
+        "explanation": "Box breathing works partly by giving your attention a concrete structure to follow instead of a racing thought loop, and noticing physical changes builds the habit of checking in with your body under stress."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d12",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 1,
+    "prompt": "The physiological sigh: a fast-acting technique for lowering arousal in under a minute.",
+    "stimulusText": "Take a deep inhale through your nose, then, without exhaling, take a second short, sharp inhale on top of it to fully fill your lungs. Then exhale slowly and fully through your mouth, as long as feels comfortable. Repeat this double-inhale, long-exhale cycle two or three times, then breathe normally, and repeat the full sequence again for the remainder of the timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 90,
+    "questions": [
+      {
+        "id": "comp_d12_q1",
+        "prompt": "Compared to your normal breathing, how did your heart rate or general tension feel immediately after two or three physiological sighs?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest reflection noting a shift, however small, toward feeling steadier or slower after the double-inhale, long-exhale cycles — the physiological sigh is designed to produce a fast, noticeable drop in arousal within just a few cycles.",
+        "explanation": "The double inhale re-inflates collapsed air sacs in the lungs and the long exhale that follows is the single most efficient trigger for shifting toward parasympathetic, rest-and-digest activity, which is why it works faster than most other breathing patterns."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d13",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 2,
+    "prompt": "Extended exhale breathing: making your exhale meaningfully longer than your inhale to directly cue the parasympathetic system.",
+    "stimulusText": "Inhale through your nose for a slow count of 4. Exhale through your nose or slightly parted lips for a slow count of 8, twice as long as the inhale. No holds needed — just keep the exhale roughly double the inhale for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 120,
+    "questions": [
+      {
+        "id": "comp_d13_q1",
+        "prompt": "Was it harder to keep the exhale slow and controlled, or the inhale? What does that tell you about where you tend to rush?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest, specific answer noticing which phase felt harder to control — many people find the long exhale harder at first because it requires deliberately slowing down rather than following the body's natural urge to breathe in again quickly.",
+        "explanation": "An exhale roughly twice the length of the inhale is one of the most consistently supported breathing ratios for nudging the vagus nerve toward a calming, parasympathetic response."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d14",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 2,
+    "prompt": "Rapid fire: quickly decide whether each statement about the physiology of fight-or-flight is true or false.",
+    "stimulusText": "Move quickly through these physiology statements and trust your first, well-informed read.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d14_q1",
+        "prompt": "The amygdala can begin processing a potential threat before your conscious mind has fully registered what happened.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Threat-detection circuitry in the amygdala is fast and operates partly outside conscious awareness, which is why a startle response can happen before you've consciously identified the cause."
+      },
+      {
+        "id": "comp_d14_q2",
+        "prompt": "Adrenaline and cortisol are released by the same gland at the exact same speed during a stress response.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Both are released by the adrenal glands, but adrenaline is released almost instantly while cortisol rises more slowly over minutes, producing a longer-lasting second wave of the stress response."
+      },
+      {
+        "id": "comp_d14_q3",
+        "prompt": "During a fight-or-flight response, blood flow to the digestive system typically decreases.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "The sympathetic nervous system redirects blood toward large muscles and away from digestion, which is part of why stress can cause a queasy or unsettled stomach feeling."
+      },
+      {
+        "id": "comp_d14_q4",
+        "prompt": "Composed, experienced performers generally show little to no physiological stress activation in high-pressure moments.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Studies of experienced performers under pressure typically show similar physiological activation to novices — the difference is in recovery speed and behavior, not in whether the alarm fires at all."
+      },
+      {
+        "id": "comp_d14_q5",
+        "prompt": "A long, slow exhale is one of the few consciously controllable levers that can help activate the parasympathetic nervous system.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "The vagus nerve is sensitive to exhale length, making slow exhalation one of the most direct, voluntary tools for cueing a calming response."
+      },
+      {
+        "id": "comp_d14_q6",
+        "prompt": "The fight-or-flight response can be triggered by situations that pose no actual physical danger, like a tense email.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "The threat-detection system doesn't distinguish well between physical danger and modern social or psychological stressors, so it can fully activate over non-physical threats."
+      },
+      {
+        "id": "comp_d14_q7",
+        "prompt": "Pupil dilation is one of the physical changes commonly associated with sympathetic nervous system activation.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Pupils dilate under sympathetic activation, likely to widen the visual field for scanning potential threats."
+      },
+      {
+        "id": "comp_d14_q8",
+        "prompt": "Once cortisol is released during a stress response, it clears from the body within a few seconds, similar to adrenaline.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Cortisol clears much more slowly than adrenaline, often taking many minutes to hours to fully return to baseline, which is why stress effects can linger well after the triggering event ends."
+      },
+      {
+        "id": "comp_d14_q9",
+        "prompt": "Deciding on a response immediately, within the first five seconds of a stress spike, is generally more reliable than waiting roughly ninety seconds for the initial hormonal surge to crest and fall.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Decisions made in the first seconds of a stress spike are more likely to be driven by the hormonal surge itself; waiting for the initial wave to crest and fall generally produces clearer judgment."
+      },
+      {
+        "id": "comp_d14_q10",
+        "prompt": "The parasympathetic nervous system automatically and instantly takes back over the moment a threat has passed, with no need for any deliberate cue.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "The parasympathetic system often needs an active cue, such as slow breathing, to help bring the body back down rather than switching on automatically the instant danger passes."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d15",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 3,
+    "prompt": "Rapid fire: sort each breathing and nervous-system claim into true or false, quickly.",
+    "stimulusText": "These are common claims about breathing techniques and the nervous system. Judge each on the evidence, not the hype.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d15_q1",
+        "prompt": "An exhale that is longer than the inhale is generally more calming than an inhale that is longer than the exhale.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Exhale-dominant breathing patterns are the most consistently supported for nudging the body toward a parasympathetic, calmer state."
+      },
+      {
+        "id": "comp_d15_q2",
+        "prompt": "A single breathing session can permanently and irreversibly raise your baseline stress resilience for the rest of your life.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Breathing techniques produce real short-term shifts in arousal, but a single session doesn't create a permanent trait-level change; the benefit comes from repeated practice over time."
+      },
+      {
+        "id": "comp_d15_q3",
+        "prompt": "Forceful hyperventilation-style breathwork carries a real risk of lightheadedness or fainting, especially standing or in water.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Reputable instruction for these practices explicitly warns against doing them while standing, swimming, or driving, precisely because of this fainting risk."
+      },
+      {
+        "id": "comp_d15_q4",
+        "prompt": "Heart-rate variability shifts measured during slow-breathing studies mean scientists have proven breathing techniques cure anxiety disorders.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Heart-rate variability changes show a real short-term physiological effect, but that's a different and much narrower claim than curing a clinical condition, which requires much stronger evidence than exists."
+      },
+      {
+        "id": "comp_d15_q5",
+        "prompt": "Cold water immersion produces a real, measurable spike in norepinephrine and alertness.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "This is one of the better-supported effects of cold exposure — a genuine short-term spike in norepinephrine and subjective alertness."
+      },
+      {
+        "id": "comp_d15_q6",
+        "prompt": "One small 2014 study on cyclic breathwork and immune response means the method has been thoroughly proven to control the immune system on demand.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "That result is real and interesting, but it comes from a single small study, not a broad, replicated body of evidence — it shouldn't be generalized into a sweeping claim about controlling the immune system at will."
+      },
+      {
+        "id": "comp_d15_q7",
+        "prompt": "Slow breathing is best understood as an in-the-moment regulation tool, not a one-time permanent upgrade.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "The honest, well-supported framing is that slow breathing helps in the moment it's used, and its benefits come from consistent practice, not a single dramatic session."
+      },
+      {
+        "id": "comp_d15_q8",
+        "prompt": "There is strong, well-replicated evidence that humming produces a larger calming effect than slow exhale-dominant breathing.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Slow exhale-dominant breathing has more consistent research support than humming specifically; humming may help some people, but the comparative evidence favoring it over exhale-focused breathing is weak."
+      },
+      {
+        "id": "comp_d15_q9",
+        "prompt": "Regular repeated cold exposure has been shown, in some studies, to blunt part of the initial cold-shock gasp response over time.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Some studies suggest repeated cold exposure can reduce the intensity of the initial shock response, meaning regular practitioners react somewhat more calmly to the same cold over time."
+      },
+      {
+        "id": "comp_d15_q10",
+        "prompt": "Breathing techniques work primarily by distracting your mind from the stressful situation rather than through any real physiological mechanism.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Slow, exhale-dominant breathing produces measurable physiological effects on heart rate and nervous system activity, not just a psychological distraction — the mechanism is real, not just attentional."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d16",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 3,
+    "prompt": "Rapid fire: is each move a good de-escalation choice, or a bad one? Decide fast.",
+    "stimulusText": "You're facing an increasingly heated confrontation. Judge each response quickly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d16_q1",
+        "prompt": "Matching the other person's raised volume so they know you're serious is a good de-escalation move.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Matching volume tends to escalate rather than defuse, since aggression often looks for a mirror to justify further escalation."
+      },
+      {
+        "id": "comp_d16_q2",
+        "prompt": "Keeping your hands visible and open is a good de-escalation move.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Visible, open hands are a nonverbal signal of non-aggression that can help lower the other person's perceived threat level."
+      },
+      {
+        "id": "comp_d16_q3",
+        "prompt": "Telling an angry person to \"calm down\" is generally an effective way to help them calm down.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "\"Calm down\" is frequently heard as condescending rather than helpful, and often increases agitation instead of reducing it."
+      },
+      {
+        "id": "comp_d16_q4",
+        "prompt": "Giving the other person a face-saving way to back down is a good de-escalation move.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "People are far more likely to disengage if they can do so without feeling humiliated, so leaving room for a graceful exit reduces the odds of further escalation."
+      },
+      {
+        "id": "comp_d16_q5",
+        "prompt": "Stepping slightly closer to assert your position is generally a good de-escalation move.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Closing physical distance during a tense moment tends to feel confrontational and can escalate rather than calm the situation; widening space is usually more effective."
+      },
+      {
+        "id": "comp_d16_q6",
+        "prompt": "Lowering your own speaking pace, even slightly, tends to help de-escalate a tense exchange.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "A slower pace signals steadiness and can indirectly encourage the other person to slow down as well."
+      },
+      {
+        "id": "comp_d16_q7",
+        "prompt": "The main goal of de-escalation in a confrontation-adjacent moment is proving you were right.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "The actual goal is typically a safe, low-harm resolution, not winning the argument in that specific moment."
+      },
+      {
+        "id": "comp_d16_q8",
+        "prompt": "Interrupting someone mid-rant to correct a small factual detail tends to help de-escalate the situation.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Correcting a minor detail mid-outburst usually adds fuel rather than calming things, since it can feel like being argued with instead of heard."
+      },
+      {
+        "id": "comp_d16_q9",
+        "prompt": "Noticing early signs of rising tension, before a voice is even raised, allows for easier de-escalation than waiting until shouting starts.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Intervening earlier, while tension is still building rather than fully expressed, generally requires a much smaller and easier intervention."
+      },
+      {
+        "id": "comp_d16_q10",
+        "prompt": "Staying outwardly calm during a confrontation means you aren't actually feeling any anger or frustration.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "You can be genuinely annoyed or upset while still choosing a calm, de-escalating outward response — composure is a choice about behavior, not proof of an absent emotion."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d17",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write how you'd actually handle it in the moment, not the idealized version.",
+    "stimulusText": "A coworker corners you at your desk, visibly agitated, and raises their voice about a decision you made on a shared project, in front of two other people nearby who can clearly hear the exchange.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d17_q1",
+        "prompt": "What would a composed, de-escalating response look like here, including your tone and what you'd say in the first ten seconds?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A composed response keeps your own voice quieter and slower than theirs rather than matching their volume, acknowledges their concern directly ('I hear you're frustrated about this — let's actually talk it through'), and, if the audience seems to be amplifying things, offers to move the conversation somewhere more private rather than continuing the public exchange, without turning that offer into an accusation.",
+        "explanation": "Refusing to match escalating volume, acknowledging the concern honestly, and removing the audience effect are three of the most reliable levers for de-escalating a public confrontation without abandoning your own position."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d18",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario and write through how you'd recover, honestly.",
+    "stimulusText": "You're four minutes into a presentation you rehearsed carefully when you completely lose your place mid-sentence. The room is quiet, waiting, and a few seconds have already passed.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d18_q1",
+        "prompt": "What's the composed next move, and what would the anxious, reactive version of this moment look like instead?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "The composed move is a short, unhurried pause, a breath, and a simple restart such as repeating your last full sentence or saying 'let me pick that back up' — treating the gap as unremarkable. The anxious version is a rushed, over-apologetic scramble ('sorry, sorry, I don't know what happened') that draws far more attention to the blank moment than the silence itself ever would have.",
+        "explanation": "A brief pause reads as thoughtful to an audience far more often than it reads as failure — the discomfort of the gap is usually much larger for the speaker than for anyone watching."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

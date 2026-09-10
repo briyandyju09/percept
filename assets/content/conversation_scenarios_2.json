@@ -1,0 +1,410 @@
+[
+  {
+    "id": "conv_s09",
+    "title": "The Job Interview",
+    "setup": "You're interviewing for a role you want. The interviewer is professional but hard to read, giving little away.",
+    "openingLine": "Thanks for coming in. So, walk me through why you're looking to leave your current role.",
+    "npcTurns": [
+      {
+        "text": "That's fair. A lot of people underestimate how much team dynamics affect day-to-day satisfaction. What's the biggest thing you'd want to be different here?",
+        "keyTerms": ["team dynamics", "day-to-day", "different here"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["culture", "growth", "team", "ownership", "different"]
+      },
+      {
+        "text": "Good, that lines up with how we operate. Tell me about a time something you were working on went wrong. What happened?",
+        "keyTerms": ["went wrong", "what happened", "time"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["mistake", "project", "learned", "fixed", "failure"]
+      },
+      {
+        "text": "I appreciate the honesty there, a lot of candidates dodge that question entirely. We move fast here, sometimes messily. How do you handle ambiguity?",
+        "keyTerms": ["move fast", "messily", "ambiguity"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["comfortable", "adapt", "clarify", "flexible", "prioritize"]
+      },
+      {
+        "text": "Understood. Compensation-wise, what range are you targeting for this move?",
+        "keyTerms": ["compensation", "range", "targeting"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["range", "salary", "expecting", "market", "depends"]
+      },
+      {
+        "text": "Noted, that's within reason for the level we're hiring at. Do you have any questions for me before we wrap up?",
+        "keyTerms": ["questions for me", "wrap up", "reason"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["team", "culture", "next steps", "role", "expectations"]
+      }
+    ],
+    "difficulty": 4
+  },
+  {
+    "id": "conv_s10",
+    "title": "Asking for a Raise",
+    "setup": "You've scheduled time with your manager to discuss compensation after a year of expanded responsibilities. She's supportive but budget-conscious.",
+    "openingLine": "So you wanted to talk about your role — what's on your mind?",
+    "npcTurns": [
+      {
+        "text": "You're right that your scope has grown a lot this year. I want to be upfront that budget is tight right now. What number were you thinking?",
+        "keyTerms": ["scope", "grown", "budget tight", "number"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["percent", "range", "number", "market", "thinking"]
+      },
+      {
+        "text": "That's higher than I can approve outright, but let me push on it. Can you send me a summary of the specific projects that justify it?",
+        "keyTerms": ["push on it", "summary", "justify"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "sure", "send", "will do", "projects"]
+      },
+      {
+        "text": "Good. Even if the full number doesn't clear this cycle, is there anything else — title, flexibility, a bonus — that would matter to you?",
+        "keyTerms": ["full number", "title", "flexibility", "bonus"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["title", "flexibility", "bonus", "yes", "matters"]
+      },
+      {
+        "text": "That's reasonable, I can advocate for that piece even if the base salary takes longer. What's your timeline expectation on hearing back?",
+        "keyTerms": ["advocate", "base salary", "timeline"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["weeks", "month", "soon", "timeline", "when"]
+      }
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "conv_s11",
+    "title": "The Roommate Confrontation",
+    "setup": "Your roommate has repeatedly left dishes and shared bills unpaid for weeks. You've decided to finally bring it up directly.",
+    "openingLine": "Hey, do you have a few minutes? I wanted to talk about how things have been around the apartment.",
+    "npcTurns": [
+      {
+        "text": "Okay... I mean, I know the dishes have piled up a bit. Is this about that?",
+        "keyTerms": ["dishes", "piled up", "about that"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["dishes", "bills", "yes", "also", "money"]
+      },
+      {
+        "text": "Fair, I didn't realize the electric bill was still sitting there too. I've just been slammed at work, it's not intentional.",
+        "keyTerms": ["electric bill", "slammed", "not intentional"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "I hear you. What would actually make this easier for you going forward — a schedule, reminders, something else?",
+        "keyTerms": ["easier", "schedule", "reminders"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["schedule", "reminder", "split", "chart", "system"]
+      },
+      {
+        "text": "That sounds doable. I'll get the bill sorted tonight. Are we good?",
+        "keyTerms": ["bill sorted", "tonight", "we good"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "good", "thanks", "appreciate", "okay"]
+      }
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "conv_s12",
+    "title": "Comforting a Grieving Friend",
+    "setup": "Your close friend's father passed away last week. You've come over to sit with them for the evening.",
+    "openingLine": "Thanks for coming. I don't really know what I'm supposed to say to people right now.",
+    "npcTurns": [
+      {
+        "text": "It's weird, some moments I'm fine and then it just hits me out of nowhere. Is that normal?",
+        "keyTerms": ["hits me", "out of nowhere", "normal"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["normal", "yes", "grief", "common", "okay"]
+      },
+      {
+        "text": "I keep thinking about the last conversation we had. It wasn't even about anything important, just small talk.",
+        "keyTerms": ["last conversation", "small talk", "important"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Everyone keeps telling me he's in a better place. I don't know if that actually helps me, honestly.",
+        "keyTerms": ["better place", "doesn't help", "everyone keeps"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Can you just stay a bit longer? I don't want advice, I just don't want the house to feel this empty right now.",
+        "keyTerms": ["stay longer", "don't want advice", "house empty"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "stay", "of course", "here", "course"]
+      }
+    ],
+    "difficulty": 4
+  },
+  {
+    "id": "conv_s13",
+    "title": "Meeting the In-Laws for the First Time",
+    "setup": "You're having dinner at your partner's parents' house for the first time. Her father is friendly but clearly evaluating you.",
+    "openingLine": "So, my daughter says you two have been together almost a year now. How'd you two actually meet?",
+    "npcTurns": [
+      {
+        "text": "Interesting, small world. What do you do for work these days?",
+        "keyTerms": ["small world", "work", "these days"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["work", "job", "engineer", "company", "role"]
+      },
+      {
+        "text": "Good, stable field. My daughter mentioned you're close with your family too — do you all get together often?",
+        "keyTerms": ["stable field", "close with your family", "get together"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "often", "holidays", "family", "close"]
+      },
+      {
+        "text": "That's good to hear, family matters a lot around here. Where do you two see things heading, if you don't mind me asking?",
+        "keyTerms": ["family matters", "heading", "don't mind me asking"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["future", "serious", "marriage", "together", "see"]
+      },
+      {
+        "text": "Fair enough, no need to rush an answer at the dinner table. Glad you're here — pass the potatoes?",
+        "keyTerms": ["no need to rush", "glad you're here", "potatoes"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      }
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "conv_s14",
+    "title": "The Customer Service Complaint Call",
+    "setup": "You're calling to dispute a billing error on your account. The representative sounds tired but is trying to be helpful.",
+    "openingLine": "Thanks for calling in, I see you're disputing a charge — can you walk me through what happened?",
+    "npcTurns": [
+      {
+        "text": "I understand the frustration, that's definitely not supposed to happen. Let me pull up your account — can you confirm the date of the charge?",
+        "keyTerms": ["pull up your account", "confirm", "date of the charge"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["date", "yes", "confirm", "charge", "here"]
+      },
+      {
+        "text": "Got it, I see the duplicate charge now. I can refund it, but it'll take three to five business days to post. Is that workable?",
+        "keyTerms": ["duplicate charge", "refund", "business days"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "fine", "okay", "workable", "acceptable"]
+      },
+      {
+        "text": "Great, I've submitted that now. Is there anything else on the account you wanted me to look at while I have it open?",
+        "keyTerms": ["submitted", "anything else", "account open"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["no", "that's all", "nothing else", "yes", "one thing"]
+      },
+      {
+        "text": "Perfect, you'll get a confirmation email shortly. Anything else I can help with today?",
+        "keyTerms": ["confirmation email", "anything else", "today"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["no", "that's it", "thanks", "all set", "good"]
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "conv_s15",
+    "title": "Mediating Two Arguing Friends",
+    "setup": "Two of your close friends had a falling out over a canceled trip and both came to you separately. Now they're in the same room, and it's tense.",
+    "openingLine": "I don't even know why we're doing this. She's the one who bailed on the trip with two days' notice.",
+    "npcTurns": [
+      {
+        "text": "Oh, so now it's my fault my mom got sick? Unbelievable.",
+        "keyTerms": ["my fault", "mom got sick", "unbelievable"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "I did tell her, the day I found out. She's acting like I sat on it for a week.",
+        "keyTerms": ["told her", "day i found out", "sat on it"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Fine — what exactly do you think I should've done differently, given my mom was in the hospital?",
+        "keyTerms": ["done differently", "mom", "hospital"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["nothing", "understand", "communicate", "sooner", "nonrefundable"]
+      },
+      {
+        "text": "...Okay, that's actually fair, the deposit thing wasn't really about the cancellation itself. I think I was just scared and took it out on you.",
+        "keyTerms": ["deposit thing", "scared", "took it out"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "I don't want to keep fighting about this. Can we just agree to actually talk to each other next time instead of going quiet?",
+        "keyTerms": ["keep fighting", "talk to each other", "going quiet"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "agreed", "deal", "sure", "okay"]
+      }
+    ],
+    "difficulty": 5
+  },
+  {
+    "id": "conv_s16",
+    "title": "The Awkward Reunion With an Ex",
+    "setup": "You unexpectedly run into an ex at a mutual friend's wedding. You haven't spoken in two years since the breakup.",
+    "openingLine": "Oh — wow, hi. I didn't know you'd be here. You look... good. This is weird, huh?",
+    "npcTurns": [
+      {
+        "text": "Yeah, it has been a while. I've actually been doing okay, mostly. How about you, still at the same job?",
+        "keyTerms": ["been a while", "doing okay", "same job"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["job", "same", "different", "yes", "actually"]
+      },
+      {
+        "text": "Good, glad to hear it. I wasn't sure how tonight would go, running into you like this.",
+        "keyTerms": ["wasn't sure", "running into you", "tonight"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Honestly, for what it's worth, I've thought about reaching out a few times, just to say there's no hard feelings on my end.",
+        "keyTerms": ["reaching out", "no hard feelings", "thought about"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "That actually means a lot to hear. Are we... okay? Like, can we be normal around each other tonight?",
+        "keyTerms": ["means a lot", "we okay", "normal tonight"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "okay", "fine", "we're good", "sure"]
+      }
+    ],
+    "difficulty": 4
+  },
+  {
+    "id": "conv_s17",
+    "title": "Requesting Feedback on Your Toast",
+    "setup": "You're giving a best man's toast at your brother's wedding in two days and asked a trusted friend to review a draft with you.",
+    "openingLine": "Okay, I read through it twice. Overall it's good, but can I be honest with you about a couple parts?",
+    "npcTurns": [
+      {
+        "text": "The opening story is great, but the middle section drags — it's like three separate stories mashed together. Which one matters most to you?",
+        "keyTerms": ["opening story", "middle section drags", "matters most"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["first", "childhood", "story", "matters", "important"]
+      },
+      {
+        "text": "Okay, that one's the strongest, cut the other two down to a sentence each. How are you planning to land the ending?",
+        "keyTerms": ["strongest", "cut down", "land the ending"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["toast", "cheers", "ending", "sentimental", "plan"]
+      },
+      {
+        "text": "That ending will actually get people. One more thing — how nervous are you about delivering this live?",
+        "keyTerms": ["get people", "nervous", "delivering live"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["nervous", "very", "little", "somewhat", "terrified"]
+      },
+      {
+        "text": "That's normal, everyone is. Want to run through it out loud with me right now once more?",
+        "keyTerms": ["that's normal", "run through", "out loud"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "sure", "let's do it", "okay", "please"]
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "conv_s18",
+    "title": "Negotiating the Price of a Used Car",
+    "setup": "You're trying to buy a used car from a private seller. He's listed it slightly above what comparable ones are going for.",
+    "openingLine": "So, I've had a lot of interest in this one already. What did you want to offer?",
+    "npcTurns": [
+      {
+        "text": "That's a bit lower than I was hoping for. What makes you land on that number specifically?",
+        "keyTerms": ["lower than hoping", "land on that number", "specifically"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["comparable", "listings", "market", "mileage", "research"]
+      },
+      {
+        "text": "Fair, I hadn't seen those other listings. I could come down some, but not all the way there. What if we met closer to the middle?",
+        "keyTerms": ["come down", "not all the way", "meet closer"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["middle", "sure", "meet", "okay", "depends"]
+      },
+      {
+        "text": "I can do that if you're paying cash today and taking it as-is, no additional inspection contingency. Deal?",
+        "keyTerms": ["paying cash", "as-is", "inspection contingency"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["deal", "yes", "agreed", "sure", "okay"]
+      },
+      {
+        "text": "Great, let's get the paperwork sorted then. Do you want to handle the transfer today or tomorrow?",
+        "keyTerms": ["paperwork sorted", "transfer", "today or tomorrow"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["today", "tomorrow", "now", "later", "whenever"]
+      }
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "conv_s19",
+    "title": "The Tense Talk With Your Teenager",
+    "setup": "Your sixteen-year-old has been coming home past curfew and shutting down whenever you bring it up. You're trying again tonight, differently this time.",
+    "openingLine": "I don't want this to turn into a fight. Can we just talk about the last couple weekends for a minute?",
+    "npcTurns": [
+      {
+        "text": "Here we go again. It's not a big deal, I'm just hanging out with my friends.",
+        "keyTerms": ["not a big deal", "hanging out", "here we go"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "...Fine. Honestly some nights I just don't want to come home yet, it's loud here with you and dad lately.",
+        "keyTerms": ["don't want to come home", "loud here", "you and dad"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "I didn't think you even noticed that stuff. Is that actually why you've been staying out later?",
+        "keyTerms": ["didn't think you noticed", "staying out later", "actually why"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["partly", "yes", "some", "not only", "maybe"]
+      },
+      {
+        "text": "Okay. I don't have a fix for the loud part tonight, but can we agree on a text-by-eleven thing instead of a hard curfew?",
+        "keyTerms": ["text-by-eleven", "hard curfew", "agree"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "okay", "fine", "deal", "sure"]
+      }
+    ],
+    "difficulty": 5
+  },
+  {
+    "id": "conv_s20",
+    "title": "Reconnecting With an Old Friend",
+    "setup": "You're grabbing coffee with a friend you haven't seen in five years, since before you both moved to different cities.",
+    "openingLine": "This feels so overdue. I honestly wasn't sure what to expect walking in here today.",
+    "npcTurns": [
+      {
+        "text": "Same, honestly. A lot's changed — I got divorced last year, actually. Feels strange saying it out loud still.",
+        "keyTerms": ["divorced", "last year", "strange saying"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "It's been a rough stretch, but I'm coming out the other side of it now, I think. What about you, how's life been treating you?",
+        "keyTerms": ["rough stretch", "other side", "life treating you"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["good", "busy", "life", "changed", "work"]
+      },
+      {
+        "text": "That's great to hear, genuinely. I always wondered if we'd drift for good once we both moved.",
+        "keyTerms": ["drift for good", "wondered", "both moved"],
+        "isQuestion": false,
+        "expectedAnswerTerms": []
+      },
+      {
+        "text": "Can we actually make this a regular thing again, even just twice a year? I don't want another five years to slip by.",
+        "keyTerms": ["regular thing", "twice a year", "slip by"],
+        "isQuestion": true,
+        "expectedAnswerTerms": ["yes", "definitely", "agreed", "let's", "sure"]
+      }
+    ],
+    "difficulty": 2
+  }
+]

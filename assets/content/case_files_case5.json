@@ -1,0 +1,80 @@
+[
+  {
+    "id": "case5",
+    "caseNumber": 5,
+    "title": "The Ruined Canvas",
+    "briefing": "The gallery's biggest night of the year is hours away when curator Nadia Osei finds Selene Vasquez's centerpiece, 'Low Tide,' smeared with fresh paint in its lower-left corner — hours before a six-figure sale is set to close. The vandalism is dry, the room was locked, and the guest list is short. You've been brought in quietly before the insurers get involved, to work out who touched the canvas and why.",
+    "characters": [
+      {
+        "id": "case5_curator",
+        "name": "Nadia Osei",
+        "role": "The Gallery Curator",
+        "portraitEmoji": "🖼️",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case5_curator_q1", "characterId": "case5_curator", "prompt": "Walk me through the discovery of the damage.", "responseText": "I opened the gallery at seven for final staging and found the lower-left section of Low Tide smeared, like someone dragged wet paint across it. It was already dry, so it happened hours earlier.", "flags": []},
+          {"id": "case5_curator_q2", "characterId": "case5_curator", "prompt": "Who had keys to the gallery that night?", "responseText": "Myself, Priya, and the night security guard, who was here the whole time and swears no one came through the front.", "flags": []},
+          {"id": "case5_curator_q3", "characterId": "case5_curator", "prompt": "Was there anything unusual scheduled for this morning, before the vandalism was discovered?", "responseText": "Yes — the insurer's appraiser was due at nine to do a condition report before the sale closes. That's routine for a piece this valuable.", "flags": ["reveals_motive"]},
+          {"id": "case5_curator_q4", "characterId": "case5_curator", "prompt": "Do you suspect Devon? He shows here next month.", "responseText": "He's competitive, sure, but he wouldn't risk his own reputation before his own opening. That's not how he operates.", "flags": ["challenges:case5_rival_artist"]}
+        ]
+      },
+      {
+        "id": "case5_rival_artist",
+        "name": "Devon Marsh",
+        "role": "The Rival Artist",
+        "portraitEmoji": "🎨",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case5_rival_artist_q1", "characterId": "case5_rival_artist", "prompt": "You and Selene have a public rivalry. Where were you last night?", "responseText": "At my own studio until midnight, prepping slides for my talk next month. Ask my neighbor, he heard my music through the wall.", "flags": ["red_herring"]},
+          {"id": "case5_rival_artist_q2", "characterId": "case5_rival_artist", "prompt": "You wrote that her work was 'derivative' in a group show catalog once.", "responseText": "I stand by it. That doesn't mean I'd ruin her painting — that's a critic's job, not mine.", "flags": ["reveals_motive"]},
+          {"id": "case5_rival_artist_q3", "characterId": "case5_rival_artist", "prompt": "Did you ever visit her studio before the show?", "responseText": "Once, months ago, to borrow a specific ultramarine pigment. I returned it the same week.", "flags": []},
+          {"id": "case5_rival_artist_q4", "characterId": "case5_rival_artist", "prompt": "Would her piece selling for six figures affect your own prices?", "responseText": "Honestly, it helps me. A rising tide lifts every boat in this scene, as much as I hate the metaphor.", "flags": ["contradiction"]}
+        ]
+      },
+      {
+        "id": "case5_assistant",
+        "name": "Priya Nair",
+        "role": "The Studio Assistant",
+        "portraitEmoji": "🖌️",
+        "isGuilty": true,
+        "dialogueTree": [
+          {"id": "case5_assistant_q1", "characterId": "case5_assistant", "prompt": "You worked closely with Selene on this piece. Anything go wrong during production?", "responseText": "It's a demanding process, lots of glazing layers. Nothing worth mentioning.", "flags": ["contradiction"]},
+          {"id": "case5_assistant_q2", "characterId": "case5_assistant", "prompt": "Where were you the night before the opening?", "responseText": "Here, actually, finishing the didactic labels until about eight. Then home.", "flags": ["contradiction"]},
+          {"id": "case5_assistant_q3", "characterId": "case5_assistant", "prompt": "Did you know about the appraiser's morning visit?", "responseText": "Everyone on staff did — Nadia mentioned it all week, we all knew the raking-light inspection was coming.", "flags": ["reveals_motive"]},
+          {"id": "case5_assistant_q4", "characterId": "case5_assistant", "prompt": "Have you ever touched up Selene's paintings yourself?", "responseText": "Only minor things, cleaning brush marks, nothing that would count as restoration. That's not really my place.", "flags": ["contradiction"]}
+        ]
+      },
+      {
+        "id": "case5_critic",
+        "name": "Walter Combs",
+        "role": "The Art Critic",
+        "portraitEmoji": "📝",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case5_critic_q1", "characterId": "case5_critic", "prompt": "You wrote a scathing draft review of this exact piece. Why?", "responseText": "I write drafts of everything before I see the final work — most never get published. This one didn't flatter Selene, no.", "flags": ["red_herring"]},
+          {"id": "case5_critic_q2", "characterId": "case5_critic", "prompt": "Where were you the night of the vandalism?", "responseText": "At a different opening across town until eleven, then home. There's a guestbook with my signature and the time.", "flags": []},
+          {"id": "case5_critic_q3", "characterId": "case5_critic", "prompt": "Do you have a personal history with Selene?", "responseText": "She once called my writing 'jealous nonsense' in an interview. I won't pretend that didn't sting.", "flags": ["reveals_motive"]},
+          {"id": "case5_critic_q4", "characterId": "case5_critic", "prompt": "Would a scandal help or hurt your reputation as a critic?", "responseText": "Hurt it, actually. If people think I'd sabotage art I've criticized, no gallery lets me in the door again.", "flags": ["contradiction"]}
+        ]
+      }
+    ],
+    "evidence": [
+      {"id": "case5_ev01", "title": "The Raking-Light Appraisal Notice", "description": "A calendar entry confirms the insurer's appraiser was scheduled for 9am the morning of the opening, standard procedure before a six-figure sale closes.", "subtle": false, "contradicts": [], "supportsCharacterId": null},
+      {"id": "case5_ev02", "title": "Mismatched Pigment Sample", "description": "Lab analysis of the smeared section shows two different paint batches beneath the surface — one older, one applied within the last month.", "subtle": true, "contradicts": [], "supportsCharacterId": "case5_assistant"},
+      {"id": "case5_ev03", "title": "Solvent Purchase Receipt", "description": "A hardware store receipt found in a studio drawer shows Priya purchased the exact specialty solvent spilled near the canvas, dated five weeks before the opening.", "subtle": true, "contradicts": [], "supportsCharacterId": "case5_assistant"},
+      {"id": "case5_ev04", "title": "Security Guard's Log", "description": "The night guard's log shows no entries or exits after 9pm besides staff already inside, ruling out an outside intruder.", "subtle": false, "contradicts": [], "supportsCharacterId": null},
+      {"id": "case5_ev05", "title": "Devon's Neighbor Statement", "description": "Devon's neighbor confirms hearing music and movement from his studio past midnight, consistent with his claimed alibi.", "subtle": false, "contradicts": ["case5_ev09"], "supportsCharacterId": "case5_rival_artist"},
+      {"id": "case5_ev06", "title": "Walter's Guestbook Signature", "description": "A signed guestbook from a rival gallery opening places Walter across town until at least 11pm, with a timestamped photo posted to the venue's account.", "subtle": false, "contradicts": [], "supportsCharacterId": "case5_critic"},
+      {"id": "case5_ev07", "title": "Priya's Studio Access Log", "description": "Digital keycard logs show Priya swiped into the gallery alone at 11:40pm, nearly four hours after she claimed she went home.", "subtle": false, "contradicts": [], "supportsCharacterId": "case5_assistant"},
+      {"id": "case5_ev08", "title": "Selene's Private Text to Nadia", "description": "A text from Selene to Nadia sent weeks earlier reads: 'Priya says the lower corner is fixed, looks perfect now' — referencing a repair no one else was told about.", "subtle": true, "contradicts": [], "supportsCharacterId": "case5_assistant"},
+      {"id": "case5_ev09", "title": "Anonymous Tip About Devon", "description": "An unsigned note left at the front desk claims Devon was seen near the gallery that night, but no camera or witness corroborates it.", "subtle": false, "contradicts": ["case5_ev05"], "supportsCharacterId": null}
+    ],
+    "solution": {
+      "correctCulpritId": "case5_assistant",
+      "keyEvidenceIds": ["case5_ev02", "case5_ev03", "case5_ev07", "case5_ev08"],
+      "explanation": "Weeks before the opening, Priya accidentally spilled solvent on Low Tide and secretly repaired it herself rather than confess to an already-stressed Selene, texting Nadia only that the corner was 'fixed.' Lab work later showed two different paint batches in that exact spot, and a hardware receipt tied Priya to the matching solvent. When she learned an insurance appraiser would inspect the canvas under raking light the morning of the opening — light that would expose her mismatched repair — she panicked. Keycard logs show she returned alone at 11:40pm and smeared fresh paint over the same section, gambling that overnight vandalism looked better than a hidden mistake. Devon's rivalry and Walter's harsh draft review were real but both had corroborated alibis across town."
+    },
+    "biasesTracked": ["anchoring_bias", "premature_closure", "confirmation_bias", "belief_perseverance"],
+    "minQuestionsBeforeAccusation": 10
+  }
+]

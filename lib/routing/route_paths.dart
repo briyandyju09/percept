@@ -34,8 +34,11 @@ class RoutePaths {
   static const String learnDisciplineDetail = '/learn/disciplines/:disciplineId';
   static const String learnLesson = '/learn/lesson/:lessonId';
   static const String learnLessonComplete = '/learn/lesson/:lessonId/complete';
-  static const String learnTopic = '/learn/topic/:disciplineId';
   static const String learnSaved = '/learn/saved';
+
+  // Library tab
+  static const String library = '/library';
+  static const String libraryDiscipline = '/library/:disciplineId';
 
   // Practice tab
   static const String practice = '/practice';

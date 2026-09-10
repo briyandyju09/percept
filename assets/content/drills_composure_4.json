@@ -1,0 +1,398 @@
+[
+  {
+    "id": "comp_d27",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 1,
+    "prompt": "Box breathing (tactical version): a steady four-part rhythm used by pressure-trained professionals to reset before a high-stakes conversation.",
+    "stimulusText": "Inhale through your nose for a count of 4. Hold the breath gently for a count of 4. Exhale slowly through your mouth for a count of 4. Hold at the bottom, lungs empty, for a count of 4. Repeat this even four-part cycle for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 90,
+    "questions": [
+      {
+        "id": "comp_d27_q1",
+        "prompt": "Where in your body did tension ease first — your shoulders, your jaw, your stomach — and where did it linger the longest?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest, specific observation of where tension eased or lingered — the useful part is noticing that different areas release at different speeds, not any single correct location.",
+        "explanation": "Box breathing gives the mind a concrete count to anchor to under stress, which is part of why it's widely used by first responders and military personnel before high-pressure moments."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d28",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 1,
+    "prompt": "Pursed-lip breathing: slowing your exhale through narrowed lips to create gentle resistance and stretch out the out-breath.",
+    "stimulusText": "Inhale slowly through your nose for a count of 2. Purse your lips as if about to whistle, and exhale slowly and steadily through your pursed lips for a count of 4, feeling the gentle resistance against the airflow. Repeat this pattern for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 75,
+    "questions": [
+      {
+        "id": "comp_d28_q1",
+        "prompt": "Did narrowing your lips make it easier or harder to control the length of your exhale, compared to breathing out through an open mouth?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest comparison — many people find the resistance actually makes the exhale easier to pace evenly, since it slows the airflow automatically rather than relying on willpower alone to stretch it out.",
+        "explanation": "Pursed-lip breathing is used clinically to help people with breathlessness control their exhale, and the same built-in resistance makes it a useful tool for deliberately slowing breathing in a stressful moment."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d29",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 3,
+    "prompt": "Rapid fire: judgment calls on composure in workplace conflict.",
+    "stimulusText": "Judge each claim or scenario about workplace conflict quickly and honestly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d29_q1",
+        "prompt": "Taking a brief pause before responding to a provocative comment in a meeting tends to produce a more composed reply than responding instantly.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "A short pause interrupts the automatic reflex loop and gives the more deliberate part of your thinking a chance to weigh in before you speak."
+      },
+      {
+        "id": "comp_d29_q2",
+        "prompt": "Raising your own volume to match an escalating colleague is generally an effective way to regain control of a heated conversation.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Matching escalation tends to intensify it further; staying at a lower, steadier volume is more often what brings the temperature of a conversation back down."
+      },
+      {
+        "id": "comp_d29_q3",
+        "prompt": "Naming the tension out loud, like saying 'I can feel this getting heated,' can sometimes lower the temperature of a conversation rather than raise it.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Naming what's happening in the room makes the tension explicit and shared rather than an unspoken pressure everyone is separately managing, which often defuses rather than escalates it."
+      },
+      {
+        "id": "comp_d29_q4",
+        "prompt": "It's generally wise to send an angry email immediately, while your points are still fresh, rather than waiting.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Written words are permanent and reread later at full intensity; waiting until you're calmer almost always produces a message you're glad you sent."
+      },
+      {
+        "id": "comp_d29_q5",
+        "prompt": "Consciously relaxing your jaw and shoulders during a tense exchange can measurably shift how calm you feel, not just how you look.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Emotion and physical tension run in both directions — deliberately loosening tense muscles can feed back into a calmer internal state, not just a calmer appearance."
+      },
+      {
+        "id": "comp_d29_q6",
+        "prompt": "In a disagreement, restating the other person's point in your own words before responding usually escalates the conflict further.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Restating a point signals you actually heard it, which tends to lower defensiveness rather than raise it, even when you go on to disagree."
+      },
+      {
+        "id": "comp_d29_q7",
+        "prompt": "A defensive tone is something only the other person can detect — you generally can't identify it in your own voice in the moment.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "With practice, most people can learn to notice the physical markers of their own defensiveness — a tightening throat, a clipped pace — while it's still happening."
+      },
+      {
+        "id": "comp_d29_q8",
+        "prompt": "Which of the following is the most composed way to handle a colleague interrupting you mid-sentence in a meeting?",
+        "type": "multipleChoice",
+        "options": [
+          "Raise your voice to talk over them",
+          "Pause, let them finish, then calmly continue your point",
+          "Stop talking entirely for the rest of the meeting",
+          "Interrupt them back immediately"
+        ],
+        "correctAnswer": "Pause, let them finish, then calmly continue your point",
+        "explanation": "Letting the interruption finish without a fight, then calmly returning to your point, preserves your credibility better than a scramble to talk over them."
+      },
+      {
+        "id": "comp_d29_q9",
+        "prompt": "Composure in a workplace disagreement means suppressing all visible emotion so nothing shows on your face.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure is about choosing a measured response while still feeling the emotion, not eliminating every visible trace of it — some visible feeling is normal and even useful."
+      },
+      {
+        "id": "comp_d29_q10",
+        "prompt": "Asking a clarifying question before reacting to a critical comment can create useful space to choose a measured response.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "A clarifying question both buys time and often surfaces that the comment wasn't as harsh or absolute as your first read of it."
+      },
+      {
+        "id": "comp_d29_q11",
+        "prompt": "Once a meeting has become tense, the most effective move is almost always to end it immediately without addressing anything.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Ending abruptly often leaves the actual issue unresolved and the tension unaddressed; a brief, calm acknowledgment before pausing tends to work better than a silent exit."
+      },
+      {
+        "id": "comp_d29_q12",
+        "prompt": "A coworker sends a sharply worded, accusatory email. What is generally the most composed first step?",
+        "type": "multipleChoice",
+        "options": [
+          "Reply within the next five minutes to set the record straight",
+          "Forward it to others immediately with your own commentary",
+          "Wait, reread it once you're calmer, and consider whether a call is better than a written reply",
+          "Ignore it completely and never respond"
+        ],
+        "correctAnswer": "Wait, reread it once you're calmer, and consider whether a call is better than a written reply",
+        "explanation": "Waiting to reread it calmer often reveals the email is less absolute than it first felt, and a live conversation frequently resolves written accusations faster than another email can."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d30",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write through your composed response in real time.",
+    "stimulusText": "In a team meeting, a coworker presents an idea you developed together as entirely their own, taking full credit in front of your manager and several colleagues.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d30_q1",
+        "prompt": "What would you say, if anything, in the meeting itself, and what would you specifically address privately with your coworker afterward instead?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A composed in-the-moment response might be a brief, factual addition rather than a public correction — 'building on the piece we worked out together, I'd add...' — without turning the meeting into a credit dispute. Afterward, a private, direct conversation naming what happened plainly ('I noticed the idea was presented as entirely yours — I want to talk about how we credit shared work going forward') addresses the real issue without the audience.",
+        "explanation": "Litigating credit in front of an audience often reads as petty regardless of who's right, while a calm private conversation addresses the actual problem and leaves room for it not to happen again."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d31",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 2,
+    "prompt": "Extended exhale breathing (4:8 ratio): making your exhale twice as long as your inhale to nudge your nervous system toward calm.",
+    "stimulusText": "Inhale through your nose for a count of 4. Exhale slowly through your nose or slightly parted lips for a count of 8, letting the breath trail all the way out. Repeat this 1:2 ratio for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 120,
+    "questions": [
+      {
+        "id": "comp_d31_q1",
+        "prompt": "Around which cycle, if any, did you notice your heart rate or general sense of urgency actually start to settle?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest observation of when, or whether, a shift was noticeable — some people feel it within a few cycles, others need more, and both are normal.",
+        "explanation": "A longer exhale relative to the inhale is one of the more direct levers into the parasympathetic ('rest and digest') side of the nervous system, since exhaling itself slightly slows heart rate."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d32",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 4,
+    "prompt": "Rapid fire: for each situation, choose the most composed response.",
+    "stimulusText": "Read each short scenario and pick the option that best represents a composed, measured response.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d32_q1",
+        "prompt": "Your flight is delayed for the third time and the gate agent has no new information. What's the most composed way to get updates?",
+        "type": "multipleChoice",
+        "options": [
+          "Raise your voice until someone escalates your complaint",
+          "Ask a specific, calm question about what information they do have and when the next update is expected",
+          "Repeatedly interrupt other passengers' conversations with the agent",
+          "Post an angry message publicly and refresh it every minute"
+        ],
+        "correctAnswer": "Ask a specific, calm question about what information they do have and when the next update is expected",
+        "explanation": "The gate agent usually has no more control over the delay than you do; a specific calm question is far more likely to get a useful answer than pressure or volume."
+      },
+      {
+        "id": "comp_d32_q2",
+        "prompt": "A friend's text reads as passive-aggressive, but you're not sure that's what they meant. Most composed next step?",
+        "type": "multipleChoice",
+        "options": [
+          "Assume the worst and reply just as sharply",
+          "Call or ask directly what they meant, rather than assuming the worst",
+          "Stop responding to them for several days without explanation",
+          "Forward the text to mutual friends for their read on it"
+        ],
+        "correctAnswer": "Call or ask directly what they meant, rather than assuming the worst",
+        "explanation": "Text strips out tone, so a direct, calm check-in resolves the ambiguity far more reliably than guessing at the worst possible reading."
+      },
+      {
+        "id": "comp_d32_q3",
+        "prompt": "A driver cuts you off aggressively in traffic. Most composed response?",
+        "type": "multipleChoice",
+        "options": [
+          "Tailgate them to make a point",
+          "Flash your lights repeatedly",
+          "Let it go and maintain a safe following distance",
+          "Follow them to their next turn"
+        ],
+        "correctAnswer": "Let it go and maintain a safe following distance",
+        "explanation": "You have no real stake in a stranger's driving beyond your own safety; letting it go costs nothing and removes any risk of further escalation."
+      },
+      {
+        "id": "comp_d32_q4",
+        "prompt": "Your boss publicly questions a decision you made in front of the team. Most composed immediate response?",
+        "type": "multipleChoice",
+        "options": [
+          "Argue back defensively in the meeting",
+          "Answer briefly and factually, then offer to discuss it further afterward",
+          "Say nothing and look visibly upset for the rest of the meeting",
+          "Question their judgment back in front of the same room"
+        ],
+        "correctAnswer": "Answer briefly and factually, then offer to discuss it further afterward",
+        "explanation": "A brief factual answer keeps the meeting on track, and offering a longer follow-up conversation shows confidence without turning the moment into a public standoff."
+      },
+      {
+        "id": "comp_d32_q5",
+        "prompt": "You receive harsh, anonymous feedback in a survey. Composed first step?",
+        "type": "multipleChoice",
+        "options": [
+          "Immediately dismiss it as obviously wrong",
+          "Spiral into reviewing every past decision you've made",
+          "Sit with it for a day before deciding how much weight to give it",
+          "Try to identify and confront who wrote it"
+        ],
+        "correctAnswer": "Sit with it for a day before deciding how much weight to give it",
+        "explanation": "A day's distance lets the initial sting fade enough to judge the feedback on its merits rather than react to how it felt in the first minute."
+      },
+      {
+        "id": "comp_d32_q6",
+        "prompt": "A group chat starts piling on you for a mistake. Composed move?",
+        "type": "multipleChoice",
+        "options": [
+          "Defend every single point raised, one by one",
+          "Acknowledge the mistake plainly once, then step back from the pile-on rather than defending every point",
+          "Leave the group chat immediately without a word",
+          "Escalate by pointing out everyone else's past mistakes"
+        ],
+        "correctAnswer": "Acknowledge the mistake plainly once, then step back from the pile-on rather than defending every point",
+        "explanation": "A single plain acknowledgment addresses the substance; continuing to engage with every follow-up comment usually just extends the pile-on."
+      },
+      {
+        "id": "comp_d32_q7",
+        "prompt": "You're waiting on a stressful medical test result. Composed coping strategy?",
+        "type": "multipleChoice",
+        "options": [
+          "Repeatedly search your symptoms online",
+          "Use a grounding or breathing practice and limit repeated searching for information",
+          "Ask everyone you know for their opinion on your odds",
+          "Avoid the topic entirely and pretend it isn't happening"
+        ],
+        "correctAnswer": "Use a grounding or breathing practice and limit repeated searching for information",
+        "explanation": "Repeated searching tends to spike anxiety without adding real information, while grounding practices and limiting the searching loop keep the waiting period more manageable."
+      },
+      {
+        "id": "comp_d32_q8",
+        "prompt": "Someone cuts in line ahead of you. Composed response?",
+        "type": "multipleChoice",
+        "options": [
+          "Start a loud confrontation",
+          "A brief, neutral comment, and letting it go if they don't respond well",
+          "Silently fume and complain to everyone else in line",
+          "Physically block their spot"
+        ],
+        "correctAnswer": "A brief, neutral comment, and letting it go if they don't respond well",
+        "explanation": "A brief neutral comment gives them a fair chance to correct an honest mistake, and letting it go afterward keeps a minor issue from becoming a bigger one."
+      },
+      {
+        "id": "comp_d32_q9",
+        "prompt": "Your presentation software crashes mid-talk. Composed response?",
+        "type": "multipleChoice",
+        "options": [
+          "Apologize repeatedly and visibly panic",
+          "Pause, acknowledge it briefly, and continue verbally from memory while it's fixed",
+          "Stop the talk entirely and reschedule",
+          "Blame the venue's equipment loudly"
+        ],
+        "correctAnswer": "Pause, acknowledge it briefly, and continue verbally from memory while it's fixed",
+        "explanation": "A brief acknowledgment and a calm continuation reads as competence under pressure, while repeated apologizing tends to draw more attention to the disruption than it deserves."
+      },
+      {
+        "id": "comp_d32_q10",
+        "prompt": "A friend gives sharp, unsolicited criticism of a big decision you made. Composed response?",
+        "type": "multipleChoice",
+        "options": [
+          "Immediately argue back point by point",
+          "Ask what specifically concerns them before reacting",
+          "End the friendship over the comment",
+          "Agree with everything on the spot to end the discomfort"
+        ],
+        "correctAnswer": "Ask what specifically concerns them before reacting",
+        "explanation": "Asking what specifically concerns them turns a vague sting into something concrete you can actually evaluate, rather than reacting to the tone alone."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "comp_d33",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write through what you'd actually do in the moment.",
+    "stimulusText": "You're three minutes into an important presentation when your mind suddenly goes blank mid-sentence. You can feel every eye in the room on you as the silence stretches.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d33_q1",
+        "prompt": "What's your actual recovery move in the first five seconds, and what would you specifically avoid doing?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A composed recovery might include a brief, calm pause, a glance at notes or slide if available, and a simple bridging phrase like 'let me pick that back up' rather than a rushed, apologetic scramble. What to avoid is over-apologizing, verbally spiraling about the blank moment, or rushing so fast that the next point comes out incoherent.",
+        "explanation": "A short silence reads to an audience as thoughtful far more often than it reads as a failure; the recovery is usually undone more by a flustered response than by the pause itself."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d34",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 2,
+    "prompt": "Humming bee breath (Bhramari): a gentle humming exhale that stretches out your out-breath and adds a soft vibration many people find calming.",
+    "stimulusText": "Inhale through your nose for a comfortable count. As you exhale, keep your mouth closed and make a steady, gentle humming sound through your nose for the length of the breath, feeling the light vibration in your face and throat. Repeat for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 90,
+    "questions": [
+      {
+        "id": "comp_d34_q1",
+        "prompt": "Did the humming vibration make it easier to notice your exhale slowing down compared to a silent breath?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest reflection — many people find the audible hum gives a clearer real-time sense of the exhale's pace than a silent breath does, since the sound itself changes if the breath speeds up or falters.",
+        "explanation": "This is a traditional yogic breathing practice; while it hasn't been studied as rigorously in controlled Western trials as some other techniques, the combination of an extended exhale and gentle vibration is commonly reported as calming."
+      }
+    ],
+    "estimatedMinutes": 2
+  }
+]

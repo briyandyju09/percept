@@ -1,0 +1,193 @@
+[
+  {
+    "id": "rp_l09",
+    "disciplineId": "reading_people",
+    "title": "Reading Discomfort in Interviews: The Interviewer's Side of the Table",
+    "hook": "A candidate who goes quiet on one question isn't necessarily hiding something — but noticing the quiet, without assuming why, is half the job of a good interviewer.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Interviews compress a lot of pressure into a short, artificial window, and pressure itself produces nearly identical visible signs whether its source is guilt, memory strain, unfamiliarity with the format, or plain ordinary nerves. A slower answer, a longer pause, a voice that drops in volume — these are pressure signatures, not truth signatures. Treating any of them as proof of deception or evasion confuses the presence of stress with its cause, which is exactly the mistake this whole discipline exists to prevent."},
+      {"type": "keyPoint", "text": "The moment discomfort shows up is a flag to look closer, never a verdict on its own."},
+      {"type": "paragraph", "text": "What's actually observable, without interpretation, is specific: the pause before this answer ran noticeably longer than the pauses before other answers; filler words like 'um' and 'so' increased on this particular question; the candidate's gaze shifted toward the door rather than staying on the interviewer. Each of these is a fact about timing and delivery, not a fact about honesty. Writing them down exactly as they happened, before reaching for a reason why, keeps the observation clean."},
+      {"type": "paragraph", "text": "A hypothesis might be that the question touched something the candidate is uneasy discussing — a gap in employment, a difficult departure from a previous job. A responsible alternative explanation sits right next to it: a rehearsed answer broke down under an unexpected follow-up, the candidate misheard part of the question, or an unrelated personal association was triggered by a word that had nothing to do with the job. Fatigue, unfamiliarity with interview settings, and cultural norms around eye contact all belong on that same list of alternatives, and none of them should be dismissed just because the first hypothesis felt more interesting."},
+      {"type": "paragraph", "text": "The practical move is to hold the observation lightly and ask a low-pressure follow-up rather than pivoting straight to an accusation dressed up as a question. Comparing the moment against that same candidate's own baseline — how they answered easier questions ten minutes earlier — is far more useful than comparing them to some imagined universal chart of what nervousness 'should' look like. Baselines are personal; charts are not."},
+      {"type": "keyPoint", "text": "A well-calibrated interviewer states a read as a percentage-flavored hunch — 'there's something here worth one more gentle question' — never as a fact about who the person is."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["interviews", "professional settings", "discomfort", "rapport"],
+    "relatedDrillIds": ["rp_d11", "rp_d31"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l10",
+    "disciplineId": "reading_people",
+    "title": "Negotiation Tells: What Tension Actually Looks Like",
+    "hook": "The other side just leaned back and folded their arms right after you named your number. Before you decide what that means, ask what else it could mean.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "Negotiation is one of the few settings where people actively expect to be read, and actively manage what they show because of it. That alone should lower confidence in any single cue: a counterpart who has negotiated before has often rehearsed a neutral or even misleading demeanor on purpose. Reading a negotiation well means treating the whole exchange as a stream of low-confidence data points rather than hunting for one moment that reveals the whole hand."},
+      {"type": "paragraph", "text": "Common observable moments include a pause before a counteroffer, a shift in posture right after a number is named, a change in speaking pace once the topic moves from pleasantries to terms, and a hand that stops gesturing and goes still. Each of these is worth noting as it happens, tied to the specific moment in the conversation that produced it, rather than as a floating impression of 'they seemed tense.'"},
+      {"type": "keyPoint", "text": "In negotiation, a cue tells you where to look closer, not what the other side is thinking."},
+      {"type": "paragraph", "text": "The habit of leaning back and crossing arms after a number is heard has at least three live hypotheses behind it: genuine discomfort with the offer, a practiced stalling tactic to make the number feel too high, or simple physical repositioning that has nothing to do with the offer at all — an itch, a cramped chair, a habit unrelated to this conversation. A negotiator who assumes the first explanation and adjusts their offer accordingly can end up negotiating against a signal that was never a signal."},
+      {"type": "paragraph", "text": "A more reliable approach uses the person's own baseline from the earlier, lower-stakes part of the conversation — how they sat and spoke before numbers were involved — as the comparison point, and treats any shift as a prompt to ask a clarifying question or offer a pause, not as licensed information about their walk-away price. Silence in particular is badly overread in negotiation: it can mean calculating, mean genuine hesitation, or simply mean the other party was taught that speaking first after an offer is a mistake."},
+      {"type": "keyPoint", "text": "State any read from a negotiation as a confidence-qualified hypothesis you're willing to test with a question, not as inside knowledge of the other side's limit."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["negotiation", "professional settings", "tension", "confidence calibration"],
+    "relatedDrillIds": ["rp_d12", "rp_d21"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l11",
+    "disciplineId": "reading_people",
+    "title": "The Duchenne Smile: What a \"Real\" Smile Actually Is (and Isn't)",
+    "hook": "There's a genuine, well-studied difference between the muscles used in a warm smile and a polite one — and also a long list of reasons that difference still won't tell you what someone feels.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "The psychologist Paul Ekman, building on earlier work by the French neurologist Guillaume Duchenne, described a distinction between two facial patterns often both called 'smiling.' A smile driven by the zygomatic major alone raises the corners of the mouth. What's often called a 'Duchenne smile' adds contraction of the orbicularis oculi, the muscle that also raises the cheeks and produces creasing at the outer corners of the eyes — the 'crinkle' many people describe as a smile 'reaching the eyes.'"},
+      {"type": "keyPoint", "text": "The eye-crinkle marker is a real, documented pattern — not proof of anything about how a specific person feels in a specific moment."},
+      {"type": "paragraph", "text": "The honest caveats matter more than the marker itself. Some people can voluntarily contract the orbicularis oculi at will, which erases the supposed tell for them specifically. Camera angle, fatigue, and even ordinary variation in facial anatomy change how visible the crinkling is. And the research linking this marker to genuine positive emotion was built mostly on posed, isolated smiles in controlled settings — real-world smiles happen inside conversations layered with politeness, social performance, and mixed feelings that don't sort cleanly into 'real' and 'fake.'"},
+      {"type": "paragraph", "text": "A practical way to use this: notice the marker as one data point among several, not a verdict. A smile with no eye involvement, held a beat too long, arriving slightly before or after the thing that was supposedly funny, is worth folding into a broader hypothesis about politeness rather than warmth — but always alongside an honest alternative, such as the person simply being tired, self-conscious on camera, or smiling from relief rather than amusement."},
+      {"type": "paragraph", "text": "Try this: over a week of ordinary conversations, notice how often you can actually see the eye-crinkle clearly, at a natural distance, without staring. Most people find it's harder to reliably spot in the wild than in a textbook photo — which is itself a useful, humbling data point about how much weight this cue can safely carry."},
+      {"type": "keyPoint", "text": "Observation: a specific mouth-and-eye pattern in a specific moment. Hypothesis: it may reflect a felt positive emotion. Alternative: politeness, relief, tiredness, or simple facial variation. Confidence: usually moderate at best, never total."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["facial expression", "Duchenne smile", "genuine vs polite", "emotion research"],
+    "relatedDrillIds": ["rp_d13", "rp_d34"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l12",
+    "disciplineId": "reading_people",
+    "title": "Polite Smiles Aren't Fake Smiles: A Necessary Distinction",
+    "hook": "Calling a polite smile 'fake' quietly assumes the person is trying to deceive you. Usually they're just being considerate.",
+    "mode": "socratic",
+    "blocks": [
+      {"type": "paragraph", "text": "The language commonly used around smiling — 'genuine' versus 'fake' — carries a hidden accusation. A polite smile at a mildly funny joke from a coworker, a professional smile at a difficult client, a reassuring smile at a nervous child, are all doing real social work. None of them are attempts to manufacture a false emotional state in the viewer's mind. Better language separates felt-emotion smiles from social-function smiles, and treats both as legitimate rather than treating the second category as a failed version of the first."},
+      {"type": "question", "text": "When was the last time you smiled without feeling much of anything — and was that smile dishonest, or was it doing a different, equally real job?"},
+      {"type": "question", "text": "If someone gave you a warm, socially-appropriate smile during a hard conversation, would you rather they had shown you their actual, less pleasant internal state instead?"},
+      {"type": "keyPoint", "text": "A social-function smile isn't a lie about feeling — it's a true statement about intention: 'I mean you no harm right now.'"},
+      {"type": "question", "text": "How much of what you'd call someone's 'fake smile' might actually be their genuine effort to make an interaction go smoothly, rather than evidence of anything hidden?"},
+      {"type": "paragraph", "text": "This distinction matters practically because mislabeling a social-function smile as 'fake' primes you to go looking for the hidden true feeling behind it — and you'll often find something, because everyone has some mixed feeling behind almost any smile if you look hard enough. That doesn't mean the polite smile was concealment. Treat a socially-appropriate smile as an honest observation of behavior, hold light hypotheses about the feeling behind it, keep genuine alternatives on the table, and resist the pull to call politeness dishonesty just because it's not identical to unfiltered joy."},
+      {"type": "keyPoint", "text": "Observation, hypothesis, alternative, confidence — applied here, the humble reading is: 'this smile served a social purpose; what's underneath it, if anything, I genuinely don't know yet.'"}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["smiling", "social function", "politeness", "genuine vs polite"],
+    "relatedDrillIds": ["rp_d13", "rp_d23"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l13",
+    "disciplineId": "reading_people",
+    "title": "Vocal Stress: Pitch, Pace, and the Limits of \"Voice Doesn't Lie\"",
+    "hook": "The claim that voice stress reveals hidden truth has sold a lot of software. The research behind it is far shakier than the pitch decks suggest.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Under acute stress, a person's voice does change in measurable ways: fundamental pitch commonly rises, speech rate can speed up or, just as often, slow down with more frequent pauses, and volume can shift in either direction depending on the person and the situation. These are real, physiologically grounded effects of arousal on the vocal tract. What is not well supported is the leap from 'this voice shows stress' to 'this person is lying' — arousal accompanies fear, excitement, anger, and simple public-speaking discomfort just as readily as it accompanies deception."},
+      {"type": "keyPoint", "text": "A raised pitch is evidence of arousal, not evidence of a lie — and plenty of true statements are delivered under real arousal."},
+      {"type": "paragraph", "text": "So-called 'voice stress analysis' tools, marketed for decades to workplaces, insurers, and even some law enforcement contexts, have repeatedly failed to outperform chance in controlled, blinded studies where researchers actually verified ground truth — a fact that has not stopped continued commercial use. This is a useful case study in how a plausible-sounding mechanism (stress affects the voice, therefore we can detect stress, therefore we can detect lies) quietly smuggles in two unjustified leaps."},
+      {"type": "paragraph", "text": "The honest way to use vocal cues: note specific, describable shifts — pitch rose noticeably on this sentence, a longer pause preceded this particular answer, pace slowed on this topic relative to the rest of the conversation. Compare each shift against that same speaker's own baseline earlier in the same conversation, since baseline pitch and pace vary enormously between people and comparing to a stranger's 'normal' voice is close to meaningless."},
+      {"type": "paragraph", "text": "Alternatives to keep on the table whenever a vocal shift shows up: the topic is simply emotionally significant regardless of truthfulness, the person is self-conscious about how they sound, background noise or a phone connection distorted the recording, or the question was harder to answer for reasons unrelated to honesty — recalling a date precisely, translating a thought from another language, or simply searching for the right word."},
+      {"type": "keyPoint", "text": "Confidence in a vocal-stress read should stay modest by default — treat it as one input worth a follow-up question, never as a standalone verdict."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["vocal cues", "voice stress", "arousal", "myth-busting"],
+    "relatedDrillIds": ["rp_d15", "rp_d24"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l14",
+    "disciplineId": "reading_people",
+    "title": "Display Rules: Why the Same Feeling Looks Different in Different Cultures",
+    "hook": "The face may show a small set of feelings the same way everywhere — but whether, when, and how much you're allowed to show them varies enormously, and that variation is not a footnote.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "'Display rules' is the term researchers, including Paul Ekman and his collaborators, use for the culturally learned norms that govern whether and how an internal state gets shown outwardly. A famous early study compared American and Japanese participants watching a stressful film alone versus in the presence of an authority figure; alone, facial reactions looked broadly similar across the two groups, but with an authority figure present, Japanese participants masked negative expressions with polite smiles far more than the American participants did. The felt experience wasn't necessarily different — the display was."},
+      {"type": "keyPoint", "text": "A cue that looks like 'restraint' in one setting and 'coldness' in another may be the exact same underlying feeling, filtered through a different display rule."},
+      {"type": "paragraph", "text": "Display rules extend well past facial expression: how much eye contact is respectful versus challenging, how physically close a comfortable conversational distance is, how loudly grief or celebration is expressed in public, whether direct disagreement is shown openly or communicated through indirection — all of these vary by culture, by context within a culture, by generation, and by individual family norms layered on top of both. Treating any one of these as a universal baseline for 'normal' behavior is a reliable way to misread people who were never using your rulebook to begin with."},
+      {"type": "paragraph", "text": "This is one of the strongest arguments for building a personal baseline before drawing conclusions about a specific person, rather than defaulting to a supposedly universal chart of what discomfort, respect, or honesty 'look like.' Someone who avoids direct eye contact during a difficult conversation may be doing so out of exactly the same respect that another culture expresses through unbroken eye contact — the internal stance can be identical while the display is opposite."},
+      {"type": "paragraph", "text": "The corrective habit: when a nonverbal signal from someone of a different cultural background than your own reads as 'off' to you, hold that reaction as information about the gap between your two display rules, not as information about their internal state. Ask, when reasonably possible, or hold the hypothesis loosely, alongside the very live alternative that you are simply applying the wrong rulebook."},
+      {"type": "keyPoint", "text": "Confidence should drop, not rise, whenever you're reading someone outside your own cultural frame — that's exactly the situation where your assumed baseline is least trustworthy."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["cultural variation", "display rules", "nonverbal norms", "cross-cultural"],
+    "relatedDrillIds": ["rp_d16", "rp_d25"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l15",
+    "disciplineId": "reading_people",
+    "title": "The Lie Detection Myth: Why Demeanor Alone Rarely Works",
+    "hook": "Decades of controlled research keep finding the same uncomfortable number: people judging honesty from behavior alone perform only slightly better than a coin flip.",
+    "mode": "caseStudy",
+    "blocks": [
+      {"type": "paragraph", "text": "A large body of research, summarized in a widely cited meta-analysis by Charles Bond and Bella DePaulo covering over two hundred studies and tens of thousands of judgments, converges on a strikingly consistent finding: average human accuracy at distinguishing truths from lies based on demeanor lands around 54 percent — barely above the 50 percent a coin flip would produce. This holds up not just for untrained members of the public but, in study after study, for groups who assumed their professional experience gave them an edge."},
+      {"type": "keyPoint", "text": "Fifty-four percent accuracy, across the best available research, is the honest baseline — and almost everyone believes their own accuracy is much higher than that."},
+      {"type": "paragraph", "text": "Groups tested include police officers, customs agents, judges, and therapists, and the finding across most of these groups is the same: professional experience correlates weakly at best with actual lie-detection accuracy, even though it correlates strongly with confidence. This gap between confidence and accuracy is arguably the single most important finding in the entire field, because overconfident judgment has real consequences — wrongful suspicion, false accusations, and decisions made as if a 'gut read' were forensic evidence."},
+      {"type": "paragraph", "text": "The mechanism behind the gap is understood reasonably well: there is no single reliable behavioral 'tell' for deception that holds consistently across people and contexts, because lying itself isn't one uniform psychological state — a habitual liar, a person lying under duress, and a person lying to protect someone else's feelings can produce completely different behavior, or none at all. Popular cue lists (avoiding eye contact, touching the face, crossing arms) have each failed to reliably predict deception in controlled studies where ground truth was actually verified."},
+      {"type": "paragraph", "text": "None of this means demeanor is worthless — it means demeanor alone, read for deception specifically, is close to worthless, while the same cues can still be legitimately informative about stress, discomfort, or engagement without needing to leap to 'lying.' The honest practice is to treat any single-encounter honesty judgment as low confidence by default, and to lean instead on corroborating evidence, consistency checked over time, and specific factual verification wherever it's available."},
+      {"type": "keyPoint", "text": "If you notice yourself feeling very confident someone is lying based only on how they're acting, that confidence itself is the strongest evidence in the room — evidence that you're overconfident, not that they're lying."}
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["deception research", "myth-busting", "lie detection", "confidence calibration"],
+    "relatedDrillIds": ["rp_d17", "rp_d26"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l16",
+    "disciplineId": "reading_people",
+    "title": "Reading a Room: Crowd Mood Without Reading Any One Face",
+    "hook": "You can often read the temperature of a hundred people faster and more reliably than you can read the mind of any one of them.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "Picture a concert where the band pauses mid-set to fix a technical problem. Within a few seconds, the room's overall energy is readable at a glance: a low hum of conversation rising, phones coming out, a scattering of impatient shifting near the front, versus, on a different night, a wave of enthusiastic chanting that fills the gap instead. Nobody needs to interpret any single audience member's face to register which of these is happening — the pattern is visible at the level of the whole crowd."},
+      {"type": "keyPoint", "text": "Crowd reading works on aggregate signals — noise level, motion, synchrony — not on decoding individuals, and it's often more reliable precisely because it isn't."},
+      {"type": "paragraph", "text": "Useful aggregate cues include the overall volume and its trend, how synchronized people's movements are (a crowd swaying together reads very differently from a crowd of people doing unrelated things), how many people are oriented toward the same focal point versus scattered attention, and how quickly a mood shift propagates outward from wherever it started. These are observable the same way weather is observable — no mind-reading required, just pattern recognition on a larger unit than one person."},
+      {"type": "paragraph", "text": "The honest hypothesis-versus-alternative habit still applies at crowd scale. A rising hum during a pause could reflect impatience, or it could reflect people simply using the natural break to chat, check phones, or discuss what they just watched — an entirely neutral use of dead air that looks similar from a distance. A crowd going quiet could mean disapproval, or it could mean rapt attention; the two often look nearly identical until something else in the scene disambiguates them, like where people's eyes are pointed."},
+      {"type": "paragraph", "text": "One caution particular to crowds: emotional contagion is a well-documented real phenomenon, and reading a crowd's mood can itself shift your own mood before you've consciously registered why. A useful discipline is to name the aggregate observation out loud or in your head — 'the noise level just rose and people are moving toward the exits' — before letting yourself absorb the room's feeling as your own conclusion about what's happening."},
+      {"type": "keyPoint", "text": "Crowd-level observation, hypothesis, alternative, and confidence work the same as individual reading — just at a different resolution, with the same requirement to hold conclusions loosely."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["crowd dynamics", "group behavior", "emotional contagion", "aggregate signals"],
+    "relatedDrillIds": ["rp_d18", "rp_d38"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l17",
+    "disciplineId": "reading_people",
+    "title": "Kids Aren't Small Adults: Developmental Differences in Nonverbal Tells",
+    "hook": "Applying adult cue-reading habits directly to a child is one of the most common and most avoidable mistakes in this whole field.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "Children's nonverbal behavior is shaped by a nervous system and a set of social skills still actively under construction, which means adult-calibrated assumptions about what a given cue 'means' frequently misfire when applied downward. A young child fidgeting, avoiding eye contact, or giving short answers is, developmentally, often doing exactly what's typical for their age and has little to do with concealment, discomfort with the specific adult, or anything resembling an adult 'tell.'"},
+      {"type": "keyPoint", "text": "A behavior that would be a meaningful deviation in an adult can be the ordinary baseline for a child of a given age — the same cue, different developmental context, different meaning entirely."},
+      {"type": "paragraph", "text": "Younger children in particular have less-developed capacity for the kind of impression management adults do automatically, which cuts both ways: their outward displays can be a more direct window into momentary feeling, but they're also far more reactive to context — a strange room, a loud sibling, hunger, or overstimulation can produce behavior that looks identical to genuine distress without reflecting anything about the situation an adult is trying to assess."},
+      {"type": "paragraph", "text": "A concrete example: a child who goes quiet and still at a birthday party could be overstimulated and shutting down, could be shy in the specific presence of unfamiliar relatives, could be simply tired at the end of a long day, or could be genuinely upset about something that happened minutes earlier. All four are common and none can be confidently distinguished from stillness alone — the useful move is asking a low-pressure question or offering an easy exit, not diagnosing from posture."},
+      {"type": "paragraph", "text": "Age matters as much as the specific cue: a toddler's tantrum reads very differently from a ten-year-old's silence, which reads differently again from a teenager's flat affect, because each stage carries its own typical baseline for emotional display and self-regulation. Comparing a child's behavior against an adult-calibrated mental chart, rather than against what's typical for that child at that age, is the single most common error adults make when trying to 'read' kids."},
+      {"type": "keyPoint", "text": "With children even more than with adults: observe the specific behavior, hold hypotheses loosely, keep age-typical and context-driven alternatives close at hand, and let confidence stay low until you've actually asked or checked."}
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["children", "developmental differences", "nonverbal cues", "context"],
+    "relatedDrillIds": ["rp_d19", "rp_d28"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "rp_l18",
+    "disciplineId": "reading_people",
+    "title": "Reading People on Video Calls: What the Frame Takes Away",
+    "hook": "A video call quietly deletes most of the channels this discipline relies on, and most people never notice how much thinner the remaining signal actually is.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "A video call compresses a person into a small rectangle showing mostly the face and shoulders, at a resolution and frame rate that can lag, freeze, or blur exactly the fine detail a trained observer would otherwise rely on. Posture, full gesture, foot position, and orientation toward an exit or a companion are usually invisible entirely. What remains — facial expression and voice — is exactly the pair of channels people are best at consciously managing, which quietly shifts the whole balance of what you're seeing toward performance and away from the harder-to-fake channels this discipline usually leans on."},
+      {"type": "keyPoint", "text": "Video calls don't just shrink the picture — they selectively remove the channels people manage least and keep the ones they manage most."},
+      {"type": "paragraph", "text": "Technical artifacts compound the problem: compression can flatten subtle expression changes, lag can desynchronize voice from face in ways that look like an odd delay in reaction, and an unflattering camera angle or poor lighting can make someone look tired, distracted, or evasive for reasons that have nothing to do with their actual state. A person glancing off-camera to read a message on a second monitor looks, on video, indistinguishable from a person avoiding eye contact out of discomfort."},
+      {"type": "paragraph", "text": "The honest adjustment is to lower confidence across the board on video relative to in-person reading, and to weight verbal content, response timing, and consistency across the call more heavily than fine facial detail, since those channels degrade less in a compressed video stream. Noticing that someone's video froze right before an important question is worth registering as a fact, but not worth building a theory of avoidance on, since freezing is a connection artifact far more often than a choice."},
+      {"type": "paragraph", "text": "A useful habit for calls that matter: note what you can't see as explicitly as what you can, and let the gaps stay gaps rather than filling them in with imagined body language. 'I can't see their hands or full posture' is itself a piece of honest information about the limits of this particular reading, not a problem to paper over with more confident guessing."},
+      {"type": "keyPoint", "text": "On video, the Observation → Hypothesis → Alternative → Confidence method still applies — it just needs an extra, standing alternative in every case: this could be the medium, not the person."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["video calls", "remote communication", "channel limits", "modern contexts"],
+    "relatedDrillIds": ["rp_d20", "rp_d29"],
+    "relatedCardIds": []
+  }
+]

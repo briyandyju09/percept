@@ -34,7 +34,7 @@ class ProgramGeneratedScreen extends ConsumerWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const SizedBox(height: PerceptSpacing.xl),
-              Text(focus.icon, style: const TextStyle(fontSize: 40)),
+              Text(focus.icon, style: const TextStyle(fontSize: PerceptGlyphSize.hero)),
               const SizedBox(height: PerceptSpacing.md),
               Text(
                 'Your training starts with ${focus.name}',
@@ -80,7 +80,7 @@ class ProgramGeneratedScreen extends ConsumerWidget {
       padding: const EdgeInsets.symmetric(vertical: PerceptSpacing.xs),
       child: Row(
         children: [
-          Text(glyph, style: const TextStyle(fontSize: 18)),
+          Text(glyph, style: const TextStyle(fontSize: PerceptGlyphSize.row)),
           const SizedBox(width: PerceptSpacing.md),
           Expanded(
             child: RichText(

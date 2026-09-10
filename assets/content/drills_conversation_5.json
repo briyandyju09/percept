@@ -1,0 +1,374 @@
+[
+  {
+    "id": "conv_d41",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Choose the response that keeps the conversation open rather than shutting it down.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d41_q1",
+        "prompt": "A coworker says, \"I don't think anyone actually reads my reports.\" What's the better reply?",
+        "type": "multipleChoice",
+        "options": ["\"That's probably true, most people skim everything.\"", "\"What makes you say that — did something happen?\"", "\"You should just stop writing them then.\"", "\"I'm sure they do, don't worry about it.\""],
+        "correctAnswer": "\"What makes you say that — did something happen?\"",
+        "explanation": "A curious follow-up invites them to say what's actually behind the comment instead of agreeing, dismissing, or reassuring on autopilot."
+      },
+      {
+        "id": "conv_d41_q2",
+        "prompt": "A friend mentions, \"Work's been weird lately.\" What keeps the door open?",
+        "type": "multipleChoice",
+        "options": ["\"Weird how?\"", "\"Yeah, work is always weird.\"", "\"At least you have a job.\"", "Change the subject to your own week."],
+        "correctAnswer": "\"Weird how?\"",
+        "explanation": "A short, specific follow-up signals interest without demanding a full explanation, which most people find easier to walk into."
+      },
+      {
+        "id": "conv_d41_q3",
+        "prompt": "Someone says, \"I probably shouldn't complain.\" What's the better response?",
+        "type": "multipleChoice",
+        "options": ["\"You're right, other people have it worse.\"", "\"Go ahead, I'm listening.\"", "\"Okay, so what's new with me...\"", "Say nothing and wait for them to change topics."],
+        "correctAnswer": "\"Go ahead, I'm listening.\"",
+        "explanation": "People often preface venting with self-deprecation to test whether it's welcome; explicitly inviting it removes the guesswork."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d42",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write how you would respond in the moment.",
+    "stimulusText": "You're catching up with an old friend over video call. Midway through, they mention offhand that they and their partner have separated, then quickly move on to ask about your week.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d42_q1",
+        "prompt": "Write what you'd say next, before answering their question about your week.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. Wait, hold on — I want to come back to what you just said about the separation before we move on. Are you doing okay?",
+        "explanation": "A strong answer notices the quick pivot away from something significant and gently pulls the conversation back rather than following their deflection."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d43",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "timedPressure",
+    "difficulty": 2,
+    "prompt": "Rapid-fire: decide quickly whether each statement about conversation is true or false.",
+    "stimulusText": "Answer each as fast as you accurately can.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 45,
+    "questions": [
+      {
+        "id": "conv_d43_q1",
+        "prompt": "Interrupting to finish someone's sentence for them always makes them feel understood.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "It often reads as impatience or presumption, even when the guess is correct."
+      },
+      {
+        "id": "conv_d43_q2",
+        "prompt": "Silence after someone finishes speaking is always a sign the conversation has failed.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "A brief pause often means the other person is still thinking or processing, not that something went wrong."
+      },
+      {
+        "id": "conv_d43_q3",
+        "prompt": "Mirroring someone's energy level early in a conversation tends to build rapport.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Matching pace and tone signals attunement, which most people register as comfort even without naming it."
+      },
+      {
+        "id": "conv_d43_q4",
+        "prompt": "Asking \"why\" questions during a conflict tends to lower the other person's defensiveness compared to \"what\" questions.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "\"Why\" often sounds like a demand to justify, while \"what\" questions tend to invite explanation without judgment."
+      },
+      {
+        "id": "conv_d43_q5",
+        "prompt": "Repeating back the gist of what someone said before responding is a form of active listening.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Reflecting content back confirms understanding and shows the other person they were actually heard."
+      },
+      {
+        "id": "conv_d43_q6",
+        "prompt": "Bringing up your own similar experience is always the wrong response to someone sharing a problem.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Shared experience can build connection, but it becomes a problem only when it hijacks the spotlight away from the other person."
+      },
+      {
+        "id": "conv_d43_q7",
+        "prompt": "Eye contact should be constant and unbroken to signal genuine interest.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Natural conversation includes breaks in eye contact; unbroken staring usually reads as intense or unsettling rather than attentive."
+      },
+      {
+        "id": "conv_d43_q8",
+        "prompt": "Someone crossing their arms during a conversation always means they're upset with you.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Crossed arms can also mean cold, tired, or simply a comfortable habit — a single cue rarely tells the whole story."
+      },
+      {
+        "id": "conv_d43_q9",
+        "prompt": "Validating a feeling means agreeing that the person's interpretation of events is correct.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Validation acknowledges that a feeling makes sense given what they experienced, without requiring you to agree with their conclusions."
+      },
+      {
+        "id": "conv_d43_q10",
+        "prompt": "Ending a conversation by naming a specific detail from it tends to make the closing feel warmer.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Referencing something specific shows you were actually engaged, rather than delivering a generic sign-off."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "conv_d44",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the better response for repairing a conversation that's gone slightly off track.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d44_q1",
+        "prompt": "You realize you've been talking about yourself for several minutes without a pause. What's the best move?",
+        "type": "multipleChoice",
+        "options": ["Keep going since you're already mid-story.", "Wrap up the point briefly and ask a question that hands the floor back.", "Apologize at length for talking too much.", "Stop mid-sentence and say nothing else for the rest of the conversation."],
+        "correctAnswer": "Wrap up the point briefly and ask a question that hands the floor back.",
+        "explanation": "A clean handoff corrects the imbalance without derailing into an over-apology that just extends your airtime further."
+      },
+      {
+        "id": "conv_d44_q2",
+        "prompt": "You just realized you misheard something and answered a different question than the one asked. What's best?",
+        "type": "multipleChoice",
+        "options": ["Let it go and hope no one noticed.", "Say, \"Sorry, I think I answered the wrong thing — can you ask again?\"", "Blame background noise even if there wasn't any.", "Change the subject entirely."],
+        "correctAnswer": "Say, \"Sorry, I think I answered the wrong thing — can you ask again?\"",
+        "explanation": "A quick, honest correction resolves the confusion faster than either ignoring it or fabricating an excuse."
+      },
+      {
+        "id": "conv_d44_q3",
+        "prompt": "You made a joke that clearly didn't land and the room went quiet. What's the best recovery?",
+        "type": "multipleChoice",
+        "options": ["Explain the joke in detail to justify it.", "Acknowledge it briefly (\"okay, that one didn't land\") and move on.", "Repeat the joke louder.", "Insist everyone is being too sensitive."],
+        "correctAnswer": "Acknowledge it briefly (\"okay, that one didn't land\") and move on.",
+        "explanation": "A light, quick acknowledgment defuses the awkwardness far better than defending or over-explaining a joke that already missed."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d45",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write how you'd navigate the conversation.",
+    "stimulusText": "A close friend asks for your honest opinion on a business idea you privately think is unlikely to work. They seem excited and have already put money into it.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d45_q1",
+        "prompt": "Write what you would actually say to them.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. I can see how excited you are, and I want to be honest with you because you asked — here's what concerns me, but I also want to hear your thinking on it before I say more.",
+        "explanation": "A strong answer is honest about the concern without crushing their excitement outright, and treats them as capable of weighing the feedback themselves."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d46",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Choose the response that best de-escalates a defensive reaction.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d46_q1",
+        "prompt": "You point out a scheduling error and your coworker snaps, \"Are you saying I don't know how to do my job?\" What's the best reply?",
+        "type": "multipleChoice",
+        "options": ["\"No, I just noticed the dates don't match — want to look at it together?\"", "\"I never said that, calm down.\"", "\"Well, clearly there's a problem somewhere.\"", "\"Forget it, I'll just fix it myself.\""],
+        "correctAnswer": "\"No, I just noticed the dates don't match — want to look at it together?\"",
+        "explanation": "Naming the specific, narrow issue and offering to collaborate defuses the perceived personal attack without backing down from the actual point."
+      },
+      {
+        "id": "conv_d46_q2",
+        "prompt": "A friend says, \"I feel like you always take her side.\" What best de-escalates?",
+        "type": "multipleChoice",
+        "options": ["\"That's not true at all.\"", "\"I can see why it might feel that way — can you tell me about a time that stood out?\"", "\"You're being paranoid.\"", "\"Well, maybe because she's usually right.\""],
+        "correctAnswer": "\"I can see why it might feel that way — can you tell me about a time that stood out?\"",
+        "explanation": "Acknowledging the feeling before contesting the facts keeps the person from having to fight to be heard first."
+      },
+      {
+        "id": "conv_d46_q3",
+        "prompt": "Your voice and your counterpart's are both starting to rise. What's the best immediate move?",
+        "type": "multipleChoice",
+        "options": ["Match their volume so you're heard.", "Lower your own volume and slow your pace deliberately.", "Walk away without a word.", "Point out that they're the one who's being loud."],
+        "correctAnswer": "Lower your own volume and slow your pace deliberately.",
+        "explanation": "Deliberately lowering your own register often pulls the whole exchange down with it, since tone is contagious in both directions."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d47",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then write your opening line.",
+    "stimulusText": "You're at a friend's housewarming party and don't know anyone. Someone is standing alone near the snack table, also looking like they don't know anyone.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d47_q1",
+        "prompt": "Write the opening line you'd use to start talking to them.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. I don't think I know a single person here either — how do you know the host?",
+        "explanation": "A strong opener names the shared situation honestly and offers an easy, low-stakes question to answer."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "conv_d48",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 5,
+    "prompt": "Choose the better move for handling a conversational power imbalance.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d48_q1",
+        "prompt": "A senior executive keeps talking over you in a meeting. What's the most effective in-the-moment response?",
+        "type": "multipleChoice",
+        "options": ["Stay silent and wait for the meeting to end.", "Say, \"I want to finish this point, then I'll hand it to you\" and keep going briefly.", "Interrupt back louder to match their energy.", "Send a complaint email afterward without addressing it live."],
+        "correctAnswer": "Say, \"I want to finish this point, then I'll hand it to you\" and keep going briefly.",
+        "explanation": "Naming the intent to finish, briefly and calmly, reclaims the floor without turning the interruption into an open confrontation."
+      },
+      {
+        "id": "conv_d48_q2",
+        "prompt": "A mentor gives feedback in a tone that feels dismissive, but the content is useful. What's the best response?",
+        "type": "multipleChoice",
+        "options": ["Reject the feedback because of the tone.", "Separate the tone from the content and respond to the substance.", "Match their dismissive tone back.", "Say nothing and quietly resent it."],
+        "correctAnswer": "Separate the tone from the content and respond to the substance.",
+        "explanation": "Extracting the useful signal from an unhelpful delivery lets you benefit from the feedback without letting the tone derail the exchange."
+      },
+      {
+        "id": "conv_d48_q3",
+        "prompt": "In a group discussion, one person keeps steering every topic back to themselves. What's the most graceful way to rebalance it?",
+        "type": "multipleChoice",
+        "options": ["Call them out directly in front of everyone.", "Wait for a natural pause and redirect a question explicitly to someone quieter.", "Try to out-talk them.", "Say nothing and let the imbalance continue."],
+        "correctAnswer": "Wait for a natural pause and redirect a question explicitly to someone quieter.",
+        "explanation": "Redirecting the floor to someone else rebalances the group without turning it into a confrontation with the dominant speaker."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d49",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then write how you would open this difficult conversation.",
+    "stimulusText": "You need to tell a close friend that something they said at a group dinner last week, which they probably don't remember saying, actually hurt you.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d49_q1",
+        "prompt": "Write your opening line for bringing this up.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. Something's been sitting with me since dinner last week and I want to bring it up because our friendship matters to me — is now an okay time?",
+        "explanation": "A strong answer signals care for the relationship up front, asks for consent to have the conversation, and doesn't lead with blame."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "conv_d50",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the better way to ask a follow-up question that deepens the conversation.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d50_q1",
+        "prompt": "Someone mentions they recently moved across the country for a new job. What's the best follow-up?",
+        "type": "multipleChoice",
+        "options": ["\"Cool.\"", "\"What made you decide it was worth the move?\"", "\"I could never move that far.\"", "\"Is the job better than your old one?\""],
+        "correctAnswer": "\"What made you decide it was worth the move?\"",
+        "explanation": "This question invites them to share the reasoning and stakes behind a major decision, rather than a simple yes/no comparison."
+      },
+      {
+        "id": "conv_d50_q2",
+        "prompt": "A colleague mentions they just finished a big project. What's the best follow-up?",
+        "type": "multipleChoice",
+        "options": ["\"Glad that's over, huh?\"", "\"What part of it are you most proud of?\"", "\"What's next on your plate?\"", "\"Must be nice to have free time now.\""],
+        "correctAnswer": "\"What part of it are you most proud of?\"",
+        "explanation": "Asking about pride invites reflection and often surfaces the most meaningful part of the story, rather than just moving past it."
+      },
+      {
+        "id": "conv_d50_q3",
+        "prompt": "A friend says they've taken up painting again after years away from it. What's the best follow-up?",
+        "type": "multipleChoice",
+        "options": ["\"That's a nice hobby.\"", "\"What brought you back to it now?\"", "\"Are you any good?\"", "\"I always meant to try that too.\""],
+        "correctAnswer": "\"What brought you back to it now?\"",
+        "explanation": "Asking about the return invites a more personal story than a generic compliment or a question centered on your own interests."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

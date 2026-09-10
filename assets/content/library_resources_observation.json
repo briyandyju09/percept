@@ -1,0 +1,251 @@
+[
+  {
+    "id": "lib_obs_book01",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "The Invisible Gorilla",
+    "subtitle": "Christopher Chabris & Daniel Simons",
+    "description": "Built around the famous selective-attention experiment where half of viewers miss a person in a gorilla suit walking through a basketball-passing scene, this book explains how confident we are in our own perception and memory, and how often that confidence is misplaced.",
+    "tags": [
+      "attention",
+      "perception",
+      "inattentional blindness"
+    ]
+  },
+  {
+    "id": "lib_obs_book02",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "Visual Intelligence",
+    "subtitle": "Amy E. Herman",
+    "description": "A lawyer and art historian who trains FBI agents, doctors, and police officers using close analysis of paintings, arguing that deliberately slowing down to describe exactly what is in front of you (rather than what you assume) is a trainable skill that transfers to any profession.",
+    "tags": [
+      "perception training",
+      "attention to detail",
+      "art-based observation"
+    ]
+  },
+  {
+    "id": "lib_obs_book03",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "Mastermind: How to Think Like Sherlock Holmes",
+    "subtitle": "Maria Konnikova",
+    "description": "A psychologist uses Arthur Conan Doyle's fictional detective as a framework for real cognitive science, contrasting mindful, effortful observation with the mind's default habit of jumping to conclusions from partial information.",
+    "tags": [
+      "deduction",
+      "attention",
+      "cognitive habits"
+    ]
+  },
+  {
+    "id": "lib_obs_book04",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "The Art of Noticing",
+    "subtitle": "Rob Walker",
+    "description": "A collection of practical exercises for breaking out of autopilot perception in everyday environments, drawing on artists, writers, and researchers who have built careers on paying closer attention than most people bother to.",
+    "tags": [
+      "everyday attention",
+      "environmental scanning",
+      "creativity"
+    ]
+  },
+  {
+    "id": "lib_obs_book05",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "Left of Bang",
+    "subtitle": "Patrick Van Horne & Jason A. Riley",
+    "description": "Adapted from the Marine Corps' Combat Hunter program, this book teaches a structured method for reading environmental and behavioral baselines so that anomalies (that indicate threat or opportunity) become noticeable before an incident happens rather than after.",
+    "tags": [
+      "situational awareness",
+      "baseline behavior",
+      "anomaly detection"
+    ]
+  },
+  {
+    "id": "lib_obs_book06",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "The Gift of Fear",
+    "subtitle": "Gavin de Becker",
+    "description": "A security consultant argues that pre-conscious perception of danger cues is often accurate and gets overridden by social conditioning, drawing on case studies of violence to show how subtle observed signals precede most predatory behavior.",
+    "tags": [
+      "intuition",
+      "threat assessment",
+      "situational awareness"
+    ]
+  },
+  {
+    "id": "lib_obs_book07",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "Seeing What Others Don't",
+    "subtitle": "Gary Klein",
+    "description": "A cognitive psychologist studies real insight moments across science, medicine, and firefighting to argue that noticing what doesn't fit an expected pattern is a distinct and learnable skill, separate from simply gathering more data.",
+    "tags": [
+      "insight",
+      "pattern recognition",
+      "expertise"
+    ]
+  },
+  {
+    "id": "lib_obs_book08",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "Sources of Power: How People Make Decisions",
+    "subtitle": "Gary Klein",
+    "description": "Based on studies of firefighters, nurses, and military commanders under time pressure, this book lays out the recognition-primed decision model, showing how experienced observers use rapid pattern-matching rather than weighing explicit options.",
+    "tags": [
+      "expert perception",
+      "decision-making",
+      "pattern recognition"
+    ]
+  },
+  {
+    "id": "lib_obs_book09",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "Incognito: The Secret Lives of the Brain",
+    "subtitle": "David Eagleman",
+    "description": "A neuroscientist explains how much of perception happens outside conscious awareness, using illusions and case studies to show that what we experience as direct observation is a heavily edited, delayed reconstruction built by the brain.",
+    "tags": [
+      "neuroscience of perception",
+      "unconscious processing"
+    ]
+  },
+  {
+    "id": "lib_obs_book10",
+    "disciplineId": "observation",
+    "type": "book",
+    "title": "Eyewitness Testimony",
+    "subtitle": "Elizabeth F. Loftus",
+    "description": "A landmark academic work documenting how memory for observed events is reconstructive rather than a recording, and how confidence in a visual memory has surprisingly little relationship to its accuracy.",
+    "tags": [
+      "memory",
+      "eyewitness reliability",
+      "perception errors"
+    ]
+  },
+  {
+    "id": "lib_obs_expert01",
+    "disciplineId": "observation",
+    "type": "expert",
+    "title": "Daniel Simons",
+    "subtitle": "Cognitive psychologist, University of Illinois; co-creator of the invisible gorilla experiment",
+    "description": "Beyond the famous gorilla study, Simons runs an ongoing research program on change blindness and on why people overestimate their own ability to multitask, notice change, and remember accurately.",
+    "tags": [
+      "inattentional blindness",
+      "change blindness"
+    ]
+  },
+  {
+    "id": "lib_obs_expert02",
+    "disciplineId": "observation",
+    "type": "expert",
+    "title": "Elizabeth Loftus",
+    "subtitle": "Distinguished Professor of Psychology and Law, UC Irvine",
+    "description": "Loftus's decades of experiments on the misinformation effect established that misleading post-event information can implant false details into a witness's memory, and she has served as an expert witness in hundreds of criminal trials involving eyewitness evidence.",
+    "tags": [
+      "false memory",
+      "eyewitness testimony"
+    ]
+  },
+  {
+    "id": "lib_obs_expert03",
+    "disciplineId": "observation",
+    "type": "expert",
+    "title": "Gary Klein",
+    "subtitle": "Cognitive psychologist; pioneer of Naturalistic Decision Making",
+    "description": "Klein's field studies of fireground commanders led him to develop the recognition-primed decision (RPD) model, which describes how experts size up a situation almost instantly by matching it to remembered patterns rather than deliberating over alternatives.",
+    "tags": [
+      "naturalistic decision making",
+      "expertise"
+    ]
+  },
+  {
+    "id": "lib_obs_expert04",
+    "disciplineId": "observation",
+    "type": "expert",
+    "title": "Ronald Rensink",
+    "subtitle": "Vision scientist, University of British Columbia",
+    "description": "Rensink's flicker-paradigm experiments, in which large changes to a scene go unnoticed if timed to disrupt visual continuity, helped establish change blindness as a rigorously studied phenomenon distinct from simple inattention.",
+    "tags": [
+      "change blindness",
+      "vision science"
+    ]
+  },
+  {
+    "id": "lib_obs_expert05",
+    "disciplineId": "observation",
+    "type": "expert",
+    "title": "Amy Herman",
+    "subtitle": "Founder, The Art of Perception",
+    "description": "Herman built a training program, used by the FBI, Scotland Yard, and medical schools, that has professionals analyze fine art in order to practice separating objective observation from inference and assumption.",
+    "tags": [
+      "observation training",
+      "professional perception"
+    ]
+  },
+  {
+    "id": "lib_obs_area01",
+    "disciplineId": "observation",
+    "type": "researchArea",
+    "title": "Inattentional blindness",
+    "subtitle": "",
+    "description": "The well-replicated finding that people often fail to notice a fully visible, unexpected object or event when their attention is focused elsewhere, even when it appears directly in their field of view.",
+    "tags": [
+      "attention",
+      "perception limits"
+    ]
+  },
+  {
+    "id": "lib_obs_area02",
+    "disciplineId": "observation",
+    "type": "researchArea",
+    "title": "Change blindness",
+    "subtitle": "",
+    "description": "A body of research showing that people frequently fail to detect substantial changes to a visual scene when the change coincides with a brief disruption, such as an eye movement, a flicker, or a film cut, revealing that visual memory of a scene is far sparser than it feels.",
+    "tags": [
+      "vision",
+      "visual memory"
+    ]
+  },
+  {
+    "id": "lib_obs_area03",
+    "disciplineId": "observation",
+    "type": "researchArea",
+    "title": "Recognition-primed decision making",
+    "subtitle": "",
+    "description": "A model from naturalistic decision-making research describing how experienced practitioners under time pressure recognize a situation as typical of a known pattern and act on the first workable option that comes to mind, rather than comparing multiple options analytically.",
+    "tags": [
+      "expertise",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "lib_obs_area04",
+    "disciplineId": "observation",
+    "type": "researchArea",
+    "title": "Eyewitness memory reliability",
+    "subtitle": "",
+    "description": "A well-established research area documenting how observed events are stored and later reconstructed rather than replayed, and how factors like leading questions, stress, and time delay can distort recalled detail even when the witness feels certain.",
+    "tags": [
+      "memory",
+      "reliability"
+    ]
+  },
+  {
+    "id": "lib_obs_area05",
+    "disciplineId": "observation",
+    "type": "researchArea",
+    "title": "Perceptual expertise",
+    "subtitle": "",
+    "description": "Research into how domain experts, such as chess masters or radiologists, come to perceive meaningful chunks and patterns in their field almost instantly, where novices see only unconnected individual details, largely as a result of extensive deliberate practice.",
+    "tags": [
+      "expertise",
+      "pattern recognition"
+    ]
+  }
+]

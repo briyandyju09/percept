@@ -26,7 +26,7 @@ class EmptyState extends StatelessWidget {
       child: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
-          Text(glyph, style: const TextStyle(fontSize: 40)),
+          Text(glyph, style: const TextStyle(fontSize: PerceptGlyphSize.hero)),
           const SizedBox(height: PerceptSpacing.md),
           Text(
             title,

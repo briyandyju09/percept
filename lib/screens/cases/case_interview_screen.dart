@@ -79,7 +79,7 @@ class _CaseInterviewScreenState extends ConsumerState<CaseInterviewScreen> {
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
-                            Text(c.portraitEmoji, style: const TextStyle(fontSize: 26)),
+                            Text(c.portraitEmoji, style: const TextStyle(fontSize: PerceptGlyphSize.row)),
                             const SizedBox(height: 4),
                             Text(
                               c.name,

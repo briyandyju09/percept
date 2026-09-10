@@ -1,0 +1,342 @@
+[
+  {
+    "id": "psy_d41",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Read each scenario and identify how the behavior of other people is shaping an individual's own choice, independent of their own judgment.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d41_q1",
+        "prompt": "A tourist walking down a street with two nearly identical restaurants chooses the one with a long line outside, assuming it must be better, even without checking either menu. What is this called?",
+        "type": "multipleChoice",
+        "options": ["Social proof", "Authority bias", "Reciprocity", "Anchoring"],
+        "correctAnswer": "Social proof",
+        "explanation": "Social proof is the tendency to look at what other people are doing as a shortcut for figuring out the right or best choice, especially under uncertainty."
+      },
+      {
+        "id": "psy_d41_q2",
+        "prompt": "A website displays '1,240 people bought this in the last week' next to a product, and sales increase noticeably after the label is added, even though nothing about the product itself changed. What principle explains the sales increase?",
+        "type": "multipleChoice",
+        "options": ["Social proof", "The halo effect", "Loss aversion", "The framing effect"],
+        "correctAnswer": "Social proof",
+        "explanation": "Showing evidence that many other people have already chosen a product acts as a social cue that the choice is safe or good, increasing others' likelihood of choosing it too."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "psy_d42",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify how a sense of limited availability is shaping how desirable something seems.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d42_q1",
+        "prompt": "An online store displays 'only 2 left in stock!' next to an item, and shoppers who see this message are more likely to buy it quickly, even when a nearly identical item without the message sits unsold nearby. What principle is being used here?",
+        "type": "multipleChoice",
+        "options": ["Scarcity bias", "Anchoring", "Reciprocity", "Confirmation bias"],
+        "correctAnswer": "Scarcity bias",
+        "explanation": "Perceived scarcity of an item tends to increase its perceived desirability and urgency to acquire it, independent of the item's actual features or value."
+      },
+      {
+        "id": "psy_d42_q2",
+        "prompt": "A limited-time sale that says 'ends in 2 hours' produces a rush of purchases in the final hour, even from customers who had been considering the same item, at the same price, for days without buying. What best explains the last-minute rush?",
+        "type": "multipleChoice",
+        "options": ["Scarcity bias applied to time rather than quantity — a limited window increases urgency", "The sunk cost fallacy from having considered it for days", "The endowment effect toward the item", "The halo effect toward the sale"],
+        "correctAnswer": "Scarcity bias applied to time rather than quantity — a limited window increases urgency",
+        "explanation": "Scarcity can apply to time as much as quantity — a closing window creates the same urgency-driven desirability increase as a dwindling supply does."
+      },
+      {
+        "id": "psy_d42_q3",
+        "prompt": "Which of these is the best defense against scarcity-driven impulse purchases?",
+        "type": "multipleChoice",
+        "options": ["Deliberately asking whether you would want the item at this price even without the scarcity message, before deciding", "Buying quickly to avoid missing out", "Checking how many other people have already bought it", "Waiting to see if the item restocks"],
+        "correctAnswer": "Deliberately asking whether you would want the item at this price even without the scarcity message, before deciding",
+        "explanation": "Isolating the decision from the artificial urgency by asking about the item's value on its own merits directly counteracts the pressure scarcity framing is designed to create."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d43",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A charity worker asks residents to first sign a small, low-effort petition supporting a neighborhood safety cause. Two weeks later, a different volunteer visits the same residents and asks if they'd be willing to put a large, unattractive safety sign on their front lawn for a month. Residents who signed the earlier petition agree to the large sign at a dramatically higher rate than residents who weren't asked to sign anything first, even though the two requests were unrelated in any practical sense.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d43_q1",
+        "prompt": "What principle explains why signing the small petition made residents much more likely to agree to the larger, more inconvenient request later?",
+        "type": "textInput",
+        "correctAnswer": "This illustrates the commitment and consistency principle: once someone takes even a small action aligned with a position (like signing a petition supporting neighborhood safety), they become motivated to behave consistently with that earlier commitment, making them more likely to agree to a larger, related request later, even if the later request is far more costly than the first. People have a strong internal (and social) drive to appear, and to see themselves as, consistent with their prior stated positions.",
+        "explanation": "This is a well-replicated finding from compliance research (the 'foot-in-the-door' technique): a small initial commitment reliably increases the likelihood of agreeing to a larger subsequent request tied to the same cause or identity."
+      },
+      {
+        "id": "psy_d43_q2",
+        "prompt": "Knowing about this principle, what should someone watch for in their own life to avoid being escalated into commitments they wouldn't have agreed to upfront?",
+        "type": "textInput",
+        "correctAnswer": "Examples: notice when a new, larger request is being justified mainly by reference to an earlier, smaller commitment you made ('you already said you support this cause, so...'), rather than being evaluated on its own merits; before agreeing to an escalated request, explicitly ask whether you would say yes to it if it were the very first thing being asked, with no prior commitment involved; be cautious about signing or agreeing to small, seemingly costless asks from an unfamiliar solicitor, since these are sometimes deliberately used as a foot-in-the-door for a larger future ask.",
+        "explanation": "Because the technique specifically works by leveraging a person's desire for self-consistency, deliberately evaluating each new request independently of past commitments is the most direct way to avoid being escalated past what you would have agreed to from the start."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d44",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify whether the person is mistakenly assuming other people share their own current feelings, tastes, or state of mind.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d44_q1",
+        "prompt": "A shopper who is very hungry while grocery shopping buys far more food than usual, later realizing at home that they overestimated how hungry they — and by extension everyone in the household — would actually be over the coming week. What best explains the overbuying?",
+        "type": "multipleChoice",
+        "options": ["Projection bias — a temporary internal state (hunger) is mistakenly projected onto future or others' preferences", "The endowment effect toward the groceries", "Scarcity bias about food availability", "The halo effect toward healthy-looking food"],
+        "correctAnswer": "Projection bias — a temporary internal state (hunger) is mistakenly projected onto future or others' preferences",
+        "explanation": "Projection bias describes the tendency to overestimate how much a current, often temporary, internal state will persist into the future or apply to other situations and people."
+      },
+      {
+        "id": "psy_d44_q2",
+        "prompt": "A manager who is personally energized by early-morning meetings assumes the whole team must feel the same way and schedules all key meetings at 7 a.m., without considering that most of the team may not share her personal preference. What is this an example of?",
+        "type": "multipleChoice",
+        "options": ["Projection bias — assuming one's own current state or preference is broadly shared by others", "Authority bias toward the manager's decision", "The framing effect of the meeting time", "The sunk cost fallacy in scheduling"],
+        "correctAnswer": "Projection bias — assuming one's own current state or preference is broadly shared by others",
+        "explanation": "Projecting a personal preference or state onto other people, without checking whether it's actually shared, is a common way projection bias distorts decisions that affect a group."
+      },
+      {
+        "id": "psy_d44_q3",
+        "prompt": "What practice would most directly help someone avoid projection bias when making a decision that affects other people?",
+        "type": "multipleChoice",
+        "options": ["Explicitly asking other people about their actual preferences, rather than assuming those preferences match your own", "Trusting your gut feeling in the moment", "Deciding quickly before your mood changes", "Assuming the majority feels the way you do unless told otherwise"],
+        "correctAnswer": "Explicitly asking other people about their actual preferences, rather than assuming those preferences match your own",
+        "explanation": "Since projection bias specifically arises from substituting your own current state for others' actual preferences, directly asking removes the substitution and replaces it with real information."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d45",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You arrive late to a meeting and immediately explain to yourself that traffic was unusually bad and you couldn't have done anything differently. Later that same week, a coworker arrives late to a meeting you're in, and your first thought is that they're 'disorganized' and 'don't respect other people's time' — even though, for all you know, they may have hit the exact same traffic you did.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d45_q1",
+        "prompt": "What is the name for this pattern of explaining your own behavior situationally while explaining someone else's identical behavior dispositionally, and how does it relate to (but differ from) the fundamental attribution error?",
+        "type": "textInput",
+        "correctAnswer": "This is the actor-observer bias: people tend to attribute their own behavior to the situation ('traffic was bad') while attributing other people's identical behavior to their character or disposition ('they're disorganized'). It's closely related to the fundamental attribution error — which more generally describes overweighting disposition when explaining others' behavior — but actor-observer bias specifically highlights the asymmetry between how you explain your own actions versus someone else's, even when the actions and possible situational causes are the same.",
+        "explanation": "The actor-observer asymmetry is a well-documented extension of attribution research: you have direct access to your own situational pressures (you felt the traffic) but not to someone else's, which makes a dispositional explanation for their behavior feel more available even when it's equally unwarranted."
+      },
+      {
+        "id": "psy_d45_q2",
+        "prompt": "What is a concrete way to reduce the actor-observer asymmetry the next time a coworker is late, given that you don't actually have access to their situational reasons the way you do to your own?",
+        "type": "textInput",
+        "correctAnswer": "Examples: before assuming a dispositional explanation, deliberately ask yourself what situational factors might explain the coworker's lateness, the same way you'd explain your own; ask the coworker directly what happened, rather than silently inferring a character judgment; recall a recent time you were late for a mundane situational reason, and consciously extend the same charitable assumption to the coworker.",
+        "explanation": "Because the asymmetry stems from unequal access to situational information — you know your own reasons but not theirs — deliberately imagining plausible situational causes, or simply asking, closes that information gap and reduces the biased attribution."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d46",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "Two colleagues watch the exact same presentation. Afterward, one says it was 'clearly persuasive and well-reasoned' and assumes anyone who disagrees must be either uninformed or has some hidden agenda. The other found it 'clearly weak and one-sided' and assumes the same about anyone who liked it. Neither considers that a reasonable, informed person could have watched the identical presentation and genuinely landed on a different, equally reasonable conclusion.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d46_q1",
+        "prompt": "What is the term for the belief that one's own perception of a situation is the objective, unfiltered truth — such that anyone who disagrees must be biased, uninformed, or acting in bad faith — and why is this belief especially self-reinforcing in disagreements?",
+        "type": "textInput",
+        "correctAnswer": "This is naive realism: the assumption that you see the world objectively and as it truly is, so that people who disagree with your take must be biased, misinformed, or have some ulterior motive, rather than simply having reasonably interpreted the same information differently. It's self-reinforcing because it doesn't just apply to isolated facts — it applies to your very sense of your own perception being neutral, which makes it hard to even consider that your own reasonably-held view might itself be one interpretation among several rather than the plain truth.",
+        "explanation": "Naive realism is considered a foundational bias in social psychology because it underlies many other conflicts: once each side assumes their own view is simply 'how things are,' disagreement gets explained by the other side's flaws rather than by genuine, reasonable differences in interpretation."
+      },
+      {
+        "id": "psy_d46_q2",
+        "prompt": "What is one specific practice the two colleagues could use in their next disagreement to interrupt naive realism, without either side having to concede the other is 'right'?",
+        "type": "textInput",
+        "correctAnswer": "Examples: each person explicitly states what specific aspects of the presentation led them to their conclusion, rather than jumping to a global judgment, so the disagreement becomes about specific, checkable points rather than a clash of characters; each person tries to state the other's view back to them in a way the other person would agree is a fair summary, before responding to it; both explicitly acknowledge upfront that a reasonable, well-informed person could have reached the other conclusion, even if they still personally disagree.",
+        "explanation": "Because naive realism specifically blocks the possibility that a disagreement could be reasonable rather than a sign of the other person's bias, explicitly separating specific claims from global character judgments, and steelmanning the other view, are established ways to interrupt it."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d47",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Read each scenario and identify whether the person is failing to predict how a different emotional or physical state will change their own future behavior.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d47_q1",
+        "prompt": "While calm and well-rested, a person confidently plans to 'stay completely level-headed' during an upcoming heated family argument. In the moment, however, flooded with anger, they say things they later regret and can barely recognize their earlier calm intentions. What does this gap between the plan and the behavior illustrate?",
+        "type": "multipleChoice",
+        "options": ["Hot-cold empathy gap", "Self-serving bias", "The halo effect", "Anchoring"],
+        "correctAnswer": "Hot-cold empathy gap",
+        "explanation": "The hot-cold empathy gap describes the difficulty people have accurately predicting how a 'hot' emotional or physiological state (like anger, hunger, or arousal) will change their own future behavior, while planning from a 'cold,' calm state."
+      },
+      {
+        "id": "psy_d47_q2",
+        "prompt": "A dieter, feeling full and satisfied after a big lunch, buys a week's worth of healthy groceries and feels confident they'll have no trouble resisting snacks. By 9 p.m., hungry again, they eat through the entire 'treat' cabinet they had also, almost as an afterthought, bought that day. What best explains the mismatch between the earlier confidence and the later behavior?",
+        "type": "multipleChoice",
+        "options": ["Hot-cold empathy gap — the satiated 'cold' state at the store failed to predict the hungry 'hot' state at night", "The planning fallacy about grocery shopping time", "The sunk cost fallacy about the groceries", "The endowment effect toward the snacks"],
+        "correctAnswer": "Hot-cold empathy gap — the satiated 'cold' state at the store failed to predict the hungry 'hot' state at night",
+        "explanation": "The dieter's cold-state confidence (full, calm) failed to accurately model how differently they'd behave in a later hot state (hungry, tempted), which is the central mechanism of the hot-cold empathy gap."
+      },
+      {
+        "id": "psy_d47_q3",
+        "prompt": "Which strategy best accounts for the hot-cold empathy gap when planning for a future situation likely to involve a strong emotional or physical state?",
+        "type": "multipleChoice",
+        "options": ["Making structural decisions in advance (like not buying tempting snacks at all) rather than relying on in-the-moment willpower during the hot state", "Reminding yourself in the moment to 'just be strong'", "Waiting until you're in the hot state to make the relevant decision, so you can judge it accurately", "Trusting your calm-state prediction, since it reflects your 'true' preferences"],
+        "correctAnswer": "Making structural decisions in advance (like not buying tempting snacks at all) rather than relying on in-the-moment willpower during the hot state",
+        "explanation": "Since the gap specifically means in-the-moment behavior in a hot state can't be reliably predicted or controlled by cold-state intentions, removing the temptation structurally, in advance, sidesteps the gap rather than relying on willpower to close it."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d48",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify whether the person is overestimating how much other people share their own opinions, habits, or choices.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d48_q1",
+        "prompt": "A survey finds that people who regularly recycle estimate that a large majority of their neighbors also recycle regularly, while people who rarely recycle estimate that only a small minority of their neighbors do, even though the actual neighborhood rate is the same regardless of who's asked. What is this pattern called?",
+        "type": "multipleChoice",
+        "options": ["False consensus effect", "Social proof", "Groupthink", "In-group bias"],
+        "correctAnswer": "False consensus effect",
+        "explanation": "The false consensus effect is the tendency to overestimate how widely one's own beliefs, habits, or choices are shared by others, which is why each group projected its own behavior onto its estimate of the neighborhood."
+      },
+      {
+        "id": "psy_d48_q2",
+        "prompt": "An employee who personally dislikes a new company policy assumes 'everyone' in the office feels the same way, based mainly on the two coworkers who happened to complain to them, without polling anyone else. What is this an example of?",
+        "type": "multipleChoice",
+        "options": ["False consensus effect, reinforced by only hearing from people who share the same view", "Groupthink among the coworkers", "The bystander effect in the office", "Authority bias toward company leadership"],
+        "correctAnswer": "False consensus effect, reinforced by only hearing from people who share the same view",
+        "explanation": "Assuming a personal opinion is the majority view, based on a small, self-selected sample of people who happen to agree, is a textbook instance of the false consensus effect."
+      },
+      {
+        "id": "psy_d48_q3",
+        "prompt": "What would be the most direct way to correct for false consensus effect before assuming 'most people' share your view on an issue?",
+        "type": "multipleChoice",
+        "options": ["Systematically survey a representative sample of people, rather than relying on your own impression or a self-selected group of people you happen to talk to", "Ask only your closest friends for their opinion", "Assume the opposite of what you believe is more common", "Trust your initial impression, since it usually reflects the majority"],
+        "correctAnswer": "Systematically survey a representative sample of people, rather than relying on your own impression or a self-selected group of people you happen to talk to",
+        "explanation": "Because the bias specifically arises from projecting your own view onto an unrepresentative sample, an actual systematic survey is the direct way to replace the projected estimate with real data."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d49",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A child who genuinely loves drawing and does it happily every day for fun is enrolled in a rewards program at school: for every drawing she completes, she gets a small prize. After a few months, the rewards program ends. She draws far less often afterward than she did before the program started, even less than baseline, seemingly having lost some of her original enthusiasm for drawing itself.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d49_q1",
+        "prompt": "What is the name for this phenomenon, where adding an external reward for an already-enjoyable activity ends up reducing the person's original, internal motivation to do it?",
+        "type": "textInput",
+        "correctAnswer": "This is the overjustification effect: introducing an external reward (the prize) for a behavior that was originally intrinsically motivated (drawing for its own enjoyment) can cause the person to reattribute their motivation to the external reward rather than to their own enjoyment. Once the reward is removed, the activity can feel less appealing than before the reward was ever introduced, because the person has come to see the reward, not the joy of drawing itself, as the reason they were doing it.",
+        "explanation": "The overjustification effect is a well-documented finding in motivation research, and it's a key reason incentive programs can sometimes backfire on tasks people already found intrinsically enjoyable, by crowding out the original internal motivation."
+      },
+      {
+        "id": "psy_d49_q2",
+        "prompt": "If a parent or teacher wanted to encourage a child's interest in an activity without risking the overjustification effect, what could they do differently than a per-drawing prize program?",
+        "type": "textInput",
+        "correctAnswer": "Examples: offer praise and attention focused on the child's effort or enjoyment of the process, rather than a tangible prize tied to output; avoid making the reward contingent specifically on the activity that's already intrinsically enjoyable, and instead recognize unrelated, less enjoyable tasks with external rewards instead; provide occasional, unexpected recognition rather than a predictable, expected prize tied directly to each instance of the activity, since research suggests expected, contingent rewards are more likely to undermine intrinsic motivation than surprise ones.",
+        "explanation": "Because the overjustification effect is specifically triggered by making an already-enjoyable activity contingent on an expected external reward, shifting encouragement toward the person's own experience of the activity, or making rewards unexpected rather than predictable, reduces the risk of crowding out intrinsic motivation."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d50",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 5,
+    "prompt": "Read each scenario, which may involve more than one bias at once, and identify the single bias that best explains the core error in the person's reasoning.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d50_q1",
+        "prompt": "A hiring manager decides within the first 90 seconds of an interview, based on a firm handshake and confident tone, that a candidate is 'clearly the best one,' and spends the rest of the interview mentally confirming that impression rather than testing it. Which single bias captures the initial 90-second judgment itself, before the confirming behavior kicks in?",
+        "type": "multipleChoice",
+        "options": ["Halo effect", "Confirmation bias", "Anchoring", "Hindsight bias"],
+        "correctAnswer": "Halo effect",
+        "explanation": "The initial global impression of competence, formed from unrelated traits like a firm handshake and confident tone, is a halo effect — even though it then goes on to trigger a separate confirmation-bias-driven interview, the very first leap itself is the halo effect."
+      },
+      {
+        "id": "psy_d50_q2",
+        "prompt": "After a company's product launch fails, the CEO says in a memo, 'I always had a bad feeling about this — the warning signs were obvious in retrospect,' even though no such warning was documented or expressed by the CEO before the launch. Which bias best explains the CEO's memo?",
+        "type": "multipleChoice",
+        "options": ["Hindsight bias", "Self-serving bias", "Just-world fallacy", "Illusion of control"],
+        "correctAnswer": "Hindsight bias",
+        "explanation": "Believing, after the fact, that an outcome was predictable or 'obvious,' despite no evidence of having predicted it beforehand, is the defining pattern of hindsight bias."
+      },
+      {
+        "id": "psy_d50_q3",
+        "prompt": "A team that unanimously agreed on a risky plan in a fast, low-debate meeting later learns that two members privately had serious doubts they didn't voice. When asked why they stayed quiet, one says, 'the room felt so confident, I assumed I was missing something everyone else already understood.' Which bias best explains this member's specific reasoning for staying silent?",
+        "type": "multipleChoice",
+        "options": ["Groupthink, driven partly by social proof from the apparent unanimity of the room", "The sunk cost fallacy", "The framing effect", "Anchoring"],
+        "correctAnswer": "Groupthink, driven partly by social proof from the apparent unanimity of the room",
+        "explanation": "Suppressing private doubts because the group's apparent confidence is read as a signal that dissent must be misguided is the core mechanism of groupthink, closely tied to social proof."
+      },
+      {
+        "id": "psy_d50_q4",
+        "prompt": "A financial planner shows a client two mathematically identical retirement projections — one stated as 'a 5% chance your savings run out before age 90' and the other as 'a 95% chance your savings last until age 90.' The client reacts with visible alarm to the first framing and calm confidence to the second. Which bias best explains the client's different emotional reactions to identical numbers?",
+        "type": "multipleChoice",
+        "options": ["Framing effect", "Loss aversion", "Anchoring", "Availability heuristic"],
+        "correctAnswer": "Framing effect",
+        "explanation": "Presenting mathematically identical information as a loss-oriented risk versus a gain-oriented probability changes the emotional response to it, which is the defining pattern of the framing effect."
+      }
+    ],
+    "estimatedMinutes": 6
+  }
+]

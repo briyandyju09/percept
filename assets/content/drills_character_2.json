@@ -1,0 +1,342 @@
+[
+  {
+    "id": "char_d11",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "Two years ago, a close friend spread a false rumor about you during a rough patch in your friendship, which cost you some standing at work before it got sorted out. You never fully addressed it and drifted apart, but you still think about it whenever their name comes up. They recently reached out, warmly, with no mention of it, as if hoping time alone had settled things.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d11_q1",
+        "prompt": "What would forgiving this friend actually require of you, and what would it not require? Be specific about the difference.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Forgiving would require you to stop re-litigating the incident in your own head and to stop letting it silently color every interaction. It would not require pretending it didn't happen, trusting them the same way you once did, or reconciling to the same closeness as before — those are separate decisions about rebuilding trust, made on their own timeline if at all.",
+        "explanation": "A common trap is treating forgiveness and reconciliation as one decision. They aren't — you can genuinely let go of the resentment while still deciding, deliberately, how much access someone gets back to your life."
+      },
+      {
+        "id": "char_d11_q2",
+        "prompt": "What is one concrete step you could take this week that would move you toward closing this account, regardless of whether the friend ever directly acknowledges what happened?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Examples: writing out the incident honestly and then deciding, on paper, to stop bringing it up in your own mind as evidence against them; responding to their outreach on your own terms without reopening the old grievance; or, if you want more closure, naming the old hurt once, briefly, without expecting an apology, purely to say it out loud and be done rehearsing it privately.",
+        "explanation": "Forgiveness that depends on the other person's cooperation keeps you waiting indefinitely. The steps that actually work are ones you can complete entirely on your own."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d12",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each short scenario and identify which virtue is most clearly being exercised.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d12_q1",
+        "prompt": "An employee notices her manager's expense report includes a personal dinner miscoded as a client meeting. She flags it privately to the manager rather than staying silent or reporting it publicly first. What virtue is most clearly on display?",
+        "type": "multipleChoice",
+        "options": ["Integrity", "Patience", "Gratitude", "Curiosity"],
+        "correctAnswer": "Integrity",
+        "explanation": "Acting according to a stated ethical standard even when silence would be easier and go unnoticed is the core of integrity — she chose the honest, slightly uncomfortable path over the convenient one."
+      },
+      {
+        "id": "char_d12_q2",
+        "prompt": "A man returns a wallet he found on the street, cash and all, to its owner without taking anything or telling anyone about it afterward. What best describes what he demonstrated?",
+        "type": "multipleChoice",
+        "options": ["Honesty combined with humility", "Generosity", "Forgiveness", "Curiosity"],
+        "correctAnswer": "Honesty combined with humility",
+        "explanation": "Returning something in full when no one would have known otherwise is honesty; doing it without publicizing it afterward adds the humility of not needing credit for doing the right thing."
+      },
+      {
+        "id": "char_d12_q3",
+        "prompt": "A student admits to her teacher that she copied a homework answer, even though the teacher hadn't noticed and likely never would have. What virtue does this best illustrate?",
+        "type": "multipleChoice",
+        "options": ["Honesty", "Resilience", "Patience", "Envy"],
+        "correctAnswer": "Honesty",
+        "explanation": "Volunteering an inconvenient truth with nothing to gain and something to lose is close to a pure test of honesty as a character trait rather than a strategic choice."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d13",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You've decided to help a struggling acquaintance pay an overdue bill. You could post about it afterward, which would likely earn you some praise and might even inspire others to help him too — or you could send the money privately and never mention it to anyone. You notice you're leaning toward posting about it, and you're not entirely sure why.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d13_q1",
+        "prompt": "What's one honest reason you might be drawn to posting about the gift, and is that reason disqualifying, or just worth noticing?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Honest reasons might include wanting recognition, wanting to inspire others to give too, or wanting proof to yourself that you're a generous person. Wanting to inspire others isn't disqualifying — it can genuinely multiply the good done. Wanting recognition for its own sake is worth noticing, because it means part of the motive is about your own image rather than the person you're helping.",
+        "explanation": "The test isn't whether visibility happens, but whether the act was designed around getting credit. Mixed motives are normal; the goal is noticing them honestly rather than pretending they aren't there."
+      },
+      {
+        "id": "char_d13_q2",
+        "prompt": "If you decided to give privately instead, what would you actually lose, and is that loss about you or about the person you're helping?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "You'd lose the praise, social credit, and possibly the multiplying effect of inspiring others to help. Most of what you'd lose is about you, not about the person receiving the help — the help itself lands exactly the same either way.",
+        "explanation": "Separating what you'd lose into 'benefits to the recipient' versus 'benefits to your own reputation' is a clean way to see how much of the pull toward visibility was ever really about them."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d14",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify the healthier way of processing the envy or comparison described.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d14_q1",
+        "prompt": "A man feels a sharp pang of envy when a peer at work gets promoted ahead of him. Which response makes the best use of that feeling?",
+        "type": "multipleChoice",
+        "options": ["Asking honestly what specifically he wants that the promotion represents, and whether he's actually pursued it", "Quietly deciding the peer must have gotten the promotion unfairly", "Suppressing the feeling entirely and acting as if it never happened", "Telling other coworkers he's happy for the peer even though he privately isn't, to avoid seeming bitter"],
+        "correctAnswer": "Asking honestly what specifically he wants that the promotion represents, and whether he's actually pursued it",
+        "explanation": "Envy reliably points at something you actually want. Treating it as information rather than shame or an excuse to discredit the other person is what makes it useful instead of corrosive."
+      },
+      {
+        "id": "char_d14_q2",
+        "prompt": "A woman scrolling social media feels consistently worse about her own life after seeing friends' vacation photos. What is the most useful long-term response?",
+        "type": "multipleChoice",
+        "options": ["Naming, specifically, that she's comparing her full ordinary life to their curated highlights, and redirecting her attention to something real in her own day", "Posting her own highlight photos more often to compete", "Unfollowing everyone whose life looks better than hers", "Assuming their photos are probably staged or exaggerated so she can dismiss the feeling"],
+        "correctAnswer": "Naming, specifically, that she's comparing her full ordinary life to their curated highlights, and redirecting her attention to something real in her own day",
+        "explanation": "Dismissing others' happiness as fake is a defensive shortcut that avoids the real work; naming the asymmetry honestly and reinvesting attention elsewhere addresses the actual mechanism."
+      },
+      {
+        "id": "char_d14_q3",
+        "prompt": "A writer feels envy reading a debut novel that's getting acclaim. Which use of that envy is most constructive?",
+        "type": "multipleChoice",
+        "options": ["Studying what specifically the book does well and applying an honest lesson to her own writing", "Avoiding the book and any discussion of it entirely", "Publicly praising it while privately hoping it fails to gain more traction", "Concluding that success in this field is mostly luck, so there's nothing to learn"],
+        "correctAnswer": "Studying what specifically the book does well and applying an honest lesson to her own writing",
+        "explanation": "Envy directed at someone succeeding in a field you care about is often the most usable kind — it identifies exactly where to look for a real, specific lesson."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d15",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A close friend confides in you, clearly upset, that she's considering leaving her marriage — she hasn't told anyone else, including her husband. A few days later, at a group dinner, the conversation turns to relationships and someone asks how her marriage is going. You know something the table doesn't, and for a moment it would be easy to hint at it or share a vague version of it to seem more in-the-know.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d15_q1",
+        "prompt": "What's the test you should apply before saying anything, even a vague or partial version of what you know?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Ask whether your friend would want you to be the one sharing this, right now, with this specific group — even a vague or partial version. If the answer is no or uncertain, say nothing and redirect the conversation neutrally, such as 'you'd have to ask her.'",
+        "explanation": "A confidence isn't only broken by sharing full details — hints and vague implications can betray it just as effectively while giving you deniability, which makes them tempting and equally worth resisting."
+      },
+      {
+        "id": "char_d15_q2",
+        "prompt": "What does resisting the urge to hint at this actually cost you socially, and why might it be worth that cost anyway?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "It might cost you a moment of seeming interesting or in-the-know at the table. It's worth it because trustworthiness is built from exactly these small, low-stakes, unwatched moments — and it's the reputation that determines whether people will ever confide in you again.",
+        "explanation": "The cost of discretion is almost always small and immediate; the cost of a leaked confidence is larger, delayed, and often irreversible to the relationship."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d16",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify the response that best reflects humility after success.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d16_q1",
+        "prompt": "A team's project wins a major award. The team lead is interviewed and asked what made it work. What's the most genuinely humble, accurate response?",
+        "type": "multipleChoice",
+        "options": ["Naming specific teammates and their exact contributions alongside her own", "Insisting she doesn't deserve any credit at all", "Accepting the credit fully since she led the project", "Deflecting the question entirely and changing the subject"],
+        "correctAnswer": "Naming specific teammates and their exact contributions alongside her own",
+        "explanation": "Genuine humility is accurate accounting, not false modesty — naming real contributions from others alongside your own honest share is more truthful than either hogging credit or refusing all of it."
+      },
+      {
+        "id": "char_d16_q2",
+        "prompt": "A salesman has his best quarter ever and starts privately attributing it entirely to his own skill, forgetting the unusually favorable market conditions everyone on his team benefited from. What would a more humble, accurate self-assessment include?",
+        "type": "multipleChoice",
+        "options": ["Acknowledging both his real effort and the external market conditions that helped", "Deciding the good quarter was entirely luck and his skill played no role", "Assuming the trend will obviously continue because of his talent", "Avoiding thinking about the quarter's causes at all"],
+        "correctAnswer": "Acknowledging both his real effort and the external market conditions that helped",
+        "explanation": "Success usually has multiple real causes. Humility isn't denying your own contribution — it's refusing to erase the other contributing factors just because they're less flattering to include."
+      },
+      {
+        "id": "char_d16_q3",
+        "prompt": "After a public win, which private habit best protects someone from letting success distort their self-view?",
+        "type": "multipleChoice",
+        "options": ["Writing down everyone and everything that contributed to the outcome besides their own effort", "Reading only the most flattering praise they received", "Avoiding any reflection on the win to stay focused on the next goal", "Comparing the win to a rival's lesser achievement"],
+        "correctAnswer": "Writing down everyone and everything that contributed to the outcome besides their own effort",
+        "explanation": "Success removes the natural check that failure provides. Deliberately auditing the full set of contributing factors is a concrete way to replace that missing check."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d17",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You missed a critical deadline on a shared project because you underestimated how long a task would take and didn't ask for help until it was too late. Your team had to scramble, and the client noticed. It's now two days later, and you're still replaying the moment you realized you were behind, telling yourself you're fundamentally unreliable and shouldn't be trusted with anything important again.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d17_q1",
+        "prompt": "Separate what you're responsible for here from the conclusion your mind is drawing about your character. What's the accountable version, described as an action rather than a trait?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "The accountable version: 'I underestimated a task's timeline and didn't flag it or ask for help early enough, which caused a scramble and a client-visible problem.' The unaccountable, spiraling version is 'I'm fundamentally unreliable' — a permanent character verdict the single incident doesn't actually support.",
+        "explanation": "Responsibility names a specific action and its specific consequence. Spiraling swaps that specific claim for a much larger, permanent one about identity that the facts don't require."
+      },
+      {
+        "id": "char_d17_q2",
+        "prompt": "What is the one concrete repair action available to you right now, and how would you know when it's time to stop replaying the mistake and consider the account closed?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A concrete repair might be a direct apology to the team and client along with a specific process change, like flagging risk earlier on future tasks. The account is reasonably closed once that repair is made and you've identified the concrete lesson — further replaying past that point isn't producing new insight, just more discomfort.",
+        "explanation": "The test for whether reflection has become unproductive spiraling is simple: is it still generating new information or action, or just repeating the same self-criticism with nothing added?"
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d18",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify the response that best reflects genuine patience rather than suppressed irritation or avoidance.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d18_q1",
+        "prompt": "A grandmother tells the same story for the fifth time this month. What response best reflects patience rather than mere tolerance?",
+        "type": "multipleChoice",
+        "options": ["Listening with genuine attention, recognizing the story matters to her even if you've heard it before", "Interrupting to say she's already told this one", "Nodding along while mentally checked out until she finishes", "Avoiding calling her as often to reduce how many times you hear it"],
+        "correctAnswer": "Listening with genuine attention, recognizing the story matters to her even if you've heard it before",
+        "explanation": "Patience isn't just enduring the repetition silently — it's engaging with why the moment matters to the other person, which is a different and more genuine thing than simply not complaining."
+      },
+      {
+        "id": "char_d18_q2",
+        "prompt": "A new coworker asks the same question you've already answered twice. What is the most patient, useful response?",
+        "type": "multipleChoice",
+        "options": ["Answering again, and considering whether a different explanation or a written reference would help it stick", "Answering again while sighing audibly to signal your frustration", "Telling them to check their notes from before, without answering", "Complaining to another coworker about how often this happens"],
+        "correctAnswer": "Answering again, and considering whether a different explanation or a written reference would help it stick",
+        "explanation": "Genuine patience looks for what would actually help the other person learn, rather than just enduring the repetition while privately resenting it."
+      },
+      {
+        "id": "char_d18_q3",
+        "prompt": "A friend takes an unusually long time to decide on weekend plans, changing his mind twice. Which response reflects patience without becoming a doormat?",
+        "type": "multipleChoice",
+        "options": ["Giving him a reasonable window to decide, and naming a simple deadline if it's genuinely affecting your plans", "Agreeing to whatever he eventually decides no matter how it affects you", "Making the decision for him without saying anything", "Canceling on him preemptively to avoid the frustration of waiting"],
+        "correctAnswer": "Giving him a reasonable window to decide, and naming a simple deadline if it's genuinely affecting your plans",
+        "explanation": "Patience with someone's pace doesn't require unlimited accommodation — naming a fair boundary while still extending goodwill is patience combined with honesty, not patience instead of it."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d19",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You were laid off two weeks ago in a company-wide restructuring that had nothing to do with your individual performance. Rent is due in three weeks. You've applied to a few jobs but keep finding yourself unable to focus for more than twenty minutes before your mind spirals into worst-case scenarios about money and what this says about your career.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d19_q1",
+        "prompt": "What is a small, fixed daily action you could commit to regardless of how confident or motivated you feel on a given day, and why might that matter more than waiting to feel ready?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Something like one job application, one outreach message to a former colleague, or one hour of a relevant skill, done every weekday regardless of mood. It matters because resilience after a real setback usually depends on a minimum that doesn't require confidence to be present — waiting to feel ready before acting often means waiting indefinitely.",
+        "explanation": "A fixed, mood-independent minimum action is one of the most reliable structures for getting through an extended setback without either collapsing or burning out from frantic overwork."
+      },
+      {
+        "id": "char_d19_q2",
+        "prompt": "Separate the fact of the layoff from the story your mind is building about what it means about you. What's the narrow, factual claim, versus the larger, unsupported one?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Narrow factual claim: 'the company restructured and eliminated my role for business reasons unrelated to my individual work.' Unsupported larger claim: 'this proves I'm not good at what I do' or 'my career is over.' The layoff is a fact about a company decision, not a verdict on personal worth or ability.",
+        "explanation": "Setbacks like layoffs support only a narrow, specific claim about circumstances. The sweeping identity-level conclusion is usually an unearned leap that does most of the emotional damage."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d20",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify whether the person's actions are consistent with their stated values.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d20_q1",
+        "prompt": "A man says his top value is family, but reviewing his last week, he worked late every night, skipped his daughter's recital for a call that could have been rescheduled, and spent no unscheduled time with his family. What does this reveal?",
+        "type": "multipleChoice",
+        "options": ["A real gap between his stated value and his actual weekly behavior", "That family isn't actually important to anyone who works hard", "That his stated value is accurate because he intends to prioritize family eventually", "Nothing meaningful, since one week isn't representative"],
+        "correctAnswer": "A real gap between his stated value and his actual weekly behavior",
+        "explanation": "A single week is exactly the kind of concrete evidence a values audit should look at — intentions and eventual plans don't substitute for what a calendar actually shows over real time."
+      },
+      {
+        "id": "char_d20_q2",
+        "prompt": "A woman claims honesty is her top value, and this week she corrected a cashier who undercharged her, told a friend a difficult truth they needed to hear, and declined to exaggerate her role in a work success. What does this show?",
+        "type": "multipleChoice",
+        "options": ["Her stated value and her actual behavior are well aligned", "She is being honest only when it's easy", "This proves nothing since honesty can't really be observed", "She should also have publicized these actions to prove the value further"],
+        "correctAnswer": "Her stated value and her actual behavior are well aligned",
+        "explanation": "Multiple small, low-visibility choices that match a stated value — especially ones with a minor personal cost, like correcting an undercharge — are strong, concrete evidence the value is actually lived, not just claimed."
+      },
+      {
+        "id": "char_d20_q3",
+        "prompt": "What is the most useful way to close a real gap between a stated value and actual weekly behavior, once it's been identified?",
+        "type": "multipleChoice",
+        "options": ["Schedule a specific, concrete action tied to that value onto the actual calendar", "Restate the value more emphatically to reinforce the intention", "Wait for a less busy season before addressing it", "Lower the priority you claim to place on that value to match current behavior"],
+        "correctAnswer": "Schedule a specific, concrete action tied to that value onto the actual calendar",
+        "explanation": "Abstract commitments rarely survive a busy week. A specific, scheduled action is far more likely to actually happen than a renewed but vague intention."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

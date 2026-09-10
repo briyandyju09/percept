@@ -147,7 +147,7 @@ class _ConversationSimulatorScreenState
     return Align(
       alignment: isUser ? Alignment.centerRight : Alignment.centerLeft,
       child: Container(
-        margin: const EdgeInsets.symmetric(vertical: 4),
+        margin: const EdgeInsets.symmetric(vertical: PerceptSpacing.xs),
         padding: const EdgeInsets.symmetric(
           horizontal: PerceptSpacing.md,
           vertical: PerceptSpacing.sm,

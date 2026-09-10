@@ -1,0 +1,152 @@
+[
+  {
+    "id": "card_psy_101",
+    "disciplineId": "psychology",
+    "hook": "The least skilled people in a room are often the most confident in it.",
+    "concept": "The Dunning-Kruger effect describes how limited knowledge or skill in a domain can leave a person unable to recognize their own gaps, producing inflated confidence, while genuine experts, more aware of the domain's real complexity, often express more caution and nuance.",
+    "tryIt": "Next time you feel very confident about a topic you've only briefly studied, list three specific sub-questions within that topic you couldn't currently answer. If the list is hard to generate, treat that difficulty itself as a signal worth noticing.",
+    "whyExplanation": "The skills needed to perform a task well substantially overlap with the skills needed to judge your own performance at it, so a novice is often missing the very yardstick required to see their own blind spots — while an expert's broader view of the field tends to surface more open questions, not fewer.",
+    "sourceCitation": "Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. Journal of Personality and Social Psychology.",
+    "tags": ["overconfidence", "self-assessment", "expertise", "metacognition"]
+  },
+  {
+    "id": "card_psy_102",
+    "disciplineId": "psychology",
+    "hook": "A crowd of witnesses can make someone in trouble less likely to get help, not more.",
+    "concept": "The bystander effect describes how the presence of more potential helpers reduces any single person's felt responsibility to act, because responsibility gets diffused across everyone present.",
+    "tryIt": "If you're ever the one needing help in a crowd, point at one specific person and give them a direct task ('you, in the blue jacket, call an ambulance'). If you're a bystander, notice the pull to assume 'someone else will handle it' and treat that thought as a cue to act, not a reason to wait.",
+    "whyExplanation": "Diffusion of responsibility means each witness can privately reason that their own inaction is acceptable because other people are also present and equally able to help, which can leave everyone waiting simultaneously.",
+    "sourceCitation": "Latané, B., & Darley, J. M. (1968). Group inhibition of bystander intervention in emergencies. Journal of Personality and Social Psychology.",
+    "tags": ["social psychology", "helping behavior", "diffusion of responsibility"]
+  },
+  {
+    "id": "card_psy_103",
+    "disciplineId": "psychology",
+    "hook": "Ask ten people how long their project will take, and almost all of them will be wrong in the same direction.",
+    "concept": "The planning fallacy is the tendency to underestimate how long a task will take or how much it will cost, even when a person has direct evidence that similar past projects ran long.",
+    "tryIt": "Before starting your next project, ask two or three people who've done something similar for their actual timeline and cost, and use that as your baseline estimate instead of your own best-case plan.",
+    "whyExplanation": "Planners naturally focus on their own specific, detailed, optimistic scenario (the 'inside view') rather than the track record of how comparable projects have generally gone (the 'outside view'), so even people who correctly estimate that most similar projects run over still expect their own to be the exception.",
+    "sourceCitation": null,
+    "tags": ["forecasting", "decision-making", "overconfidence", "planning"]
+  },
+  {
+    "id": "card_psy_104",
+    "disciplineId": "psychology",
+    "hook": "Losing $50 hurts more than finding $50 feels good — and that lopsidedness quietly runs a lot of your decisions.",
+    "concept": "Loss aversion describes how losses are typically felt about twice as intensely as equivalent gains, which makes people risk-averse when protecting a sure gain but risk-seeking when trying to avoid a sure loss.",
+    "tryIt": "Next time you're avoiding a decision because it 'feels like a loss' (canceling a subscription, selling an underperforming investment), reframe the situation as a fresh choice: would you buy in today, at today's price, knowing what you know now?",
+    "whyExplanation": "Because losses are weighted more heavily than gains of the same size, the same objective tradeoff can produce opposite decisions depending on whether it's framed as avoiding a loss or securing a gain — a core finding of prospect theory.",
+    "sourceCitation": "Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica.",
+    "tags": ["prospect theory", "risk", "decision-making", "framing"]
+  },
+  {
+    "id": "card_psy_105",
+    "disciplineId": "psychology",
+    "hook": "Paying too much for a bad concert can make you like it more, not less.",
+    "concept": "Cognitive dissonance is the discomfort of holding two conflicting beliefs at once, and one common way people resolve that discomfort is by revising one of the beliefs — often the evaluation of a choice — rather than admitting a decision was a mistake.",
+    "tryIt": "Next time you catch yourself defending a purchase, decision, or commitment more enthusiastically than the facts seem to warrant, ask: would I feel this positively about it if I hadn't already paid the cost?",
+    "whyExplanation": "The bigger the investment (money, time, public commitment) behind a choice, the more discomfort is created by evidence the choice was bad, and the stronger the pull to revise the evaluation upward rather than tolerate the dissonance.",
+    "sourceCitation": "Festinger, L. (1957). A Theory of Cognitive Dissonance.",
+    "tags": ["cognitive dissonance", "self-justification", "decision-making"]
+  },
+  {
+    "id": "card_psy_106",
+    "disciplineId": "psychology",
+    "hook": "You'll remember a ten-day vacation almost entirely by its best moment and its last day.",
+    "concept": "The peak-end rule describes how people judge and remember an experience mainly by its most intense moment and how it ended, largely ignoring the experience's total duration.",
+    "tryIt": "If you're designing an experience for someone else — a dinner, an event, a service interaction — put extra care into how it ends, since that moment will disproportionately shape how the whole thing is remembered.",
+    "whyExplanation": "Retrospective evaluations of an experience are dominated by its peak intensity and its final moments, not by an average across every moment, which is why a gentle ending can leave a better memory than a rougher one even after the same total duration.",
+    "sourceCitation": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., & Redelmeier, D. A. (1993). When more pain is preferred to less. Psychological Science.",
+    "tags": ["memory", "experience design", "judgment"]
+  },
+  {
+    "id": "card_psy_107",
+    "disciplineId": "psychology",
+    "hook": "Furniture you build yourself feels more valuable than the exact same furniture pre-assembled.",
+    "concept": "The IKEA effect describes how putting personal labor into creating something increases how much a person values it, independent of the finished product's actual quality.",
+    "tryIt": "When judging the value of something you made yourself, try to imagine an identical, pre-made version and ask honestly whether you'd rate it the same — that comparison helps separate the object's real quality from the value your own effort added to it.",
+    "whyExplanation": "Effort invested in creating an object becomes psychologically bound up with its perceived value, so people will rate a self-assembled item as more attractive and worth more money than an objectively identical item they didn't have to build.",
+    "sourceCitation": "Norton, M. I., Mochon, D., & Ariely, D. (2012). The IKEA effect: When labor leads to love. Journal of Consumer Psychology.",
+    "tags": ["labor", "valuation", "ownership", "consumer behavior"]
+  },
+  {
+    "id": "card_psy_108",
+    "disciplineId": "psychology",
+    "hook": "The moment you own a coffee mug, you'll demand twice as much money to give it up as you'd pay to buy it.",
+    "concept": "The endowment effect describes how simply owning an object, even briefly and even if ownership was assigned at random, increases the value a person places on it.",
+    "tryIt": "Before setting a price to sell something you own, or before rejecting an offer as 'too low,' compare it to what a genuinely uninvolved third party (a recent comparable sale) would say it's worth, rather than your own felt sense of its value.",
+    "whyExplanation": "Owners of an item consistently demand more to part with it than non-owners are willing to pay for an identical item, a gap that shouldn't exist for a rational actor if ownership itself carries no information about quality — which suggests ownership itself is doing the inflating.",
+    "sourceCitation": "Kahneman, D., Knetsch, J. L., & Thaler, R. H. (1990). Experimental tests of the endowment effect and the Coase theorem. Journal of Political Economy.",
+    "tags": ["ownership", "valuation", "behavioral economics"]
+  },
+  {
+    "id": "card_psy_109",
+    "disciplineId": "psychology",
+    "hook": "In a lineup of five job candidates, you'll remember the first and last vividly — and barely recall the middle three.",
+    "concept": "The serial position effect describes how items at the beginning of a sequence (the primacy effect) and the end of a sequence (the recency effect) are remembered better than items in the middle.",
+    "tryIt": "If you're evaluating a series of options back-to-back — candidates, proposals, wines — write a brief, specific note immediately after each one, rather than relying on your memory of all of them at the end.",
+    "whyExplanation": "Early items get more rehearsal time before new information interferes, helping move them into longer-term memory, while the most recent items are still fresh in short-term memory at the moment of recall — leaving the middle items with neither advantage.",
+    "sourceCitation": null,
+    "tags": ["memory", "recall", "evaluation", "cognitive psychology"]
+  },
+  {
+    "id": "card_psy_110",
+    "disciplineId": "psychology",
+    "hook": "Calm you and angry you make very different promises — and only one of them has to keep them.",
+    "concept": "The hot-cold empathy gap describes the difficulty people have accurately predicting how a 'hot' emotional or physiological state (anger, hunger, arousal) will change their own future behavior, while they're planning from a calm, 'cold' state.",
+    "tryIt": "For any decision you know you'll face under emotional or physical pressure (an argument, a late-night craving), make the decision structurally in advance — removing the tempting option entirely — rather than trusting your cold-state willpower to hold in the moment.",
+    "whyExplanation": "Predictions made in a calm state consistently underestimate how much a future hot state will change behavior, because the cold state simply can't simulate what the hot state will feel like — which is why removing the choice point in advance tends to work better than relying on in-the-moment self-control.",
+    "sourceCitation": "Loewenstein, G. (1996). Out of control: Visceral influences on behavior. Organizational Behavior and Human Decision Processes.",
+    "tags": ["self-control", "emotion", "decision-making", "prediction"]
+  },
+  {
+    "id": "card_psy_111",
+    "disciplineId": "psychology",
+    "hook": "Paying a child to draw can make them draw less once the payments stop — even less than before you started paying.",
+    "concept": "The overjustification effect describes how adding an external reward for an already-enjoyable activity can undermine a person's original intrinsic motivation to do it.",
+    "tryIt": "If you want to encourage someone's existing interest in an activity, favor unpredictable, process-focused praise over a predictable, output-tied reward, which is more likely to shift their sense of why they're doing it.",
+    "whyExplanation": "Once an external reward is introduced for a behavior someone already did for its own sake, they can come to attribute their motivation to the reward rather than to their own enjoyment — so removing the reward later leaves less motivation behind than there was to begin with.",
+    "sourceCitation": "Lepper, M. R., Greene, D., & Nisbett, R. E. (1973). Undermining children's intrinsic interest with extrinsic reward. Journal of Personality and Social Psychology.",
+    "tags": ["motivation", "rewards", "intrinsic motivation", "child development"]
+  },
+  {
+    "id": "card_psy_112",
+    "disciplineId": "psychology",
+    "hook": "You assume you see things as they really are — and that anyone who disagrees must be missing something.",
+    "concept": "Naive realism is the assumption that your own perception of a situation is the objective, unfiltered truth, so that people who disagree must be biased, uninformed, or acting in bad faith, rather than reasonably interpreting the same information differently.",
+    "tryIt": "In your next disagreement, try to state the other person's position back to them in a way they'd agree is fair, before responding to it — and notice whether you're able to do that without editorializing.",
+    "whyExplanation": "Naive realism is self-reinforcing because it applies to your sense of your own perception being neutral in the first place, which makes it hard to even consider that your own view is one reasonable interpretation among several rather than simply 'how things are.'",
+    "sourceCitation": "Ross, L., & Ward, A. (1996). Naive realism in everyday life: Implications for social conflict and misunderstanding.",
+    "tags": ["social cognition", "conflict", "perception", "disagreement"]
+  },
+  {
+    "id": "card_psy_113",
+    "disciplineId": "psychology",
+    "hook": "Your own lateness was 'bad traffic.' Someone else's identical lateness is 'disorganized.'",
+    "concept": "The actor-observer bias describes how people tend to attribute their own behavior to the situation, while attributing someone else's identical behavior to their character or disposition.",
+    "tryIt": "Next time you catch yourself making a character judgment about someone else's behavior, pause and ask what situational explanation you'd offer if you had done the exact same thing.",
+    "whyExplanation": "You have direct access to your own situational pressures (you felt the traffic yourself) but not to anyone else's, which makes a dispositional explanation feel more available for their behavior even when it's just as unwarranted as it would be for your own.",
+    "sourceCitation": "Jones, E. E., & Nisbett, R. E. (1971). The actor and the observer: Divergent perceptions of the causes of behavior.",
+    "tags": ["attribution", "social cognition", "judgment"]
+  },
+  {
+    "id": "card_psy_114",
+    "disciplineId": "psychology",
+    "hook": "If you recycle, you probably think most of your neighbors do too. If you don't, you probably think most of them don't either.",
+    "concept": "The false consensus effect is the tendency to overestimate how widely one's own beliefs, habits, or choices are shared by other people.",
+    "tryIt": "Before assuming 'most people' agree with you on something, ask whether that estimate is based on an actual representative sample, or mainly on the small, self-selected group of people you happen to talk to.",
+    "whyExplanation": "People tend to project their own behavior and opinions onto their estimate of the broader population, especially when their social circle already skews toward people who share their views, which inflates the perceived consensus well beyond the real rate.",
+    "sourceCitation": "Ross, L., Greene, D., & House, P. (1977). The false consensus effect: An egocentric bias in social perception and attribution processes.",
+    "tags": ["social perception", "self-projection", "consensus"]
+  },
+  {
+    "id": "card_psy_115",
+    "disciplineId": "psychology",
+    "hook": "Given identical 50/50 odds, most people will still pay extra just to know the odds are exactly 50/50.",
+    "concept": "Ambiguity aversion is the preference for a known, quantified risk over an equally likely but unknown or ambiguous one, even when there's no actual reason to think the ambiguous option is worse.",
+    "tryIt": "Before avoiding an option just because it feels less knowable (an unfamiliar investment, an unfamiliar job offer), ask whether you're avoiding it because of genuinely worse expected value, or simply because its odds haven't been quantified yet — and consider researching it enough to convert that ambiguity into an estimate.",
+    "whyExplanation": "The discomfort here comes specifically from not knowing the odds at all, separate from what the odds actually are, which is why people will choose a known 50/50 bet over an unknown bet that they themselves estimate averages out to the same 50/50 odds.",
+    "sourceCitation": "Ellsberg, D. (1961). Risk, ambiguity, and the Savage axioms. Quarterly Journal of Economics.",
+    "tags": ["ambiguity", "risk", "decision-making", "uncertainty"]
+  }
+]

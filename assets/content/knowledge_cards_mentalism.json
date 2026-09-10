@@ -1,0 +1,152 @@
+[
+  {
+    "id": "card_ment_101",
+    "disciplineId": "mentalism",
+    "hook": "The words 'you have a need for others to like you' feel written just for you — because they're written for everyone.",
+    "concept": "The Forer effect (also called the Barnum effect) describes how people rate vague, universally applicable personality descriptions as highly accurate for themselves specifically, especially when told the description was prepared just for them.",
+    "tryIt": "Write five broad personality sentences that could describe almost anyone, then ask a friend to rate how personally accurate they feel on a scale of 1-10 without telling them the sentences are generic.",
+    "whyExplanation": "People naturally search for ways a general statement applies to their own life and ignore the ways it doesn't, which is why identical text can feel uncannily personal to many different readers at once.",
+    "sourceCitation": "Named for psychologist Bertram Forer's 1948 personality-test experiment",
+    "tags": ["cold reading", "perception"]
+  },
+  {
+    "id": "card_ment_102",
+    "disciplineId": "mentalism",
+    "hook": "Your hand can answer a question before you consciously decide anything.",
+    "concept": "The ideomotor effect is the real, measurable tendency for people to make tiny, involuntary muscle movements in the direction of what they're focused on or expecting, without any awareness they're doing it.",
+    "tryIt": "Hold a small weighted object on a string still over a table and silently think 'circle' for thirty seconds — notice any subtle drift in its motion.",
+    "whyExplanation": "Thoughts and expectations trigger faint neuromuscular activity even when no deliberate movement is intended, which is the same real phenomenon behind muscle-reading acts, dowsing, and Ouija board planchette movement.",
+    "sourceCitation": null,
+    "tags": ["ideomotor", "perception"]
+  },
+  {
+    "id": "card_ment_103",
+    "disciplineId": "mentalism",
+    "hook": "Ask a room to name 'any random number 1-10' and watch how few actually pick one.",
+    "concept": "When people are asked to generate a 'random' number quickly, their answers cluster heavily around a small handful of choices (7 is the classic example) due to predictable patterns in how humans approximate randomness.",
+    "tryIt": "Ask five different friends, one at a time, to say a random number between 1 and 10 as fast as they can, and tally which numbers come up.",
+    "whyExplanation": "True randomness feels 'wrong' to intuition — people unconsciously avoid numbers that feel too obvious (like 1 or 10) or too even, clustering instead around numbers that feel appropriately unpredictable, which is exactly what a statistical force exploits.",
+    "sourceCitation": null,
+    "tags": ["forcing", "statistics"]
+  },
+  {
+    "id": "card_ment_104",
+    "disciplineId": "mentalism",
+    "hook": "A gorilla can walk through the middle of the action and half the room won't see it.",
+    "concept": "Inattentional blindness means that when attention is narrowly focused on one task, even large, unexpected, and fully visible events can go completely unnoticed — the basis for most visual misdirection in performance.",
+    "tryIt": "Next time you're absorbed in counting something (like passes in a ball game video), notice how much of the surrounding scene you genuinely can't recall afterward.",
+    "whyExplanation": "Vision only deeply processes what attention selects; a performer directing attention narrowly toward one hand or one idea reliably makes an entire secret action in plain sight go unnoticed.",
+    "sourceCitation": "Related to the 'invisible gorilla' studies by Simons & Chabris",
+    "tags": ["misdirection", "attention"]
+  },
+  {
+    "id": "card_ment_105",
+    "disciplineId": "mentalism",
+    "hook": "Ten guesses miss and one lands — and that's the one people remember.",
+    "concept": "Confirmation bias means people naturally give more weight to the hits in a cold reading and quietly forget or reinterpret the misses, which is what makes an imperfect string of guesses feel like an unbroken run of accuracy afterward.",
+    "tryIt": "Write down ten broad guesses about a friend's week, deliver them all, then afterward ask them to recall the reading — notice how much more they remember the hits than the misses.",
+    "whyExplanation": "This filtering happens automatically and without any intent to deceive on the listener's part, which is exactly why cold reading can feel so convincing even to a skeptical audience.",
+    "sourceCitation": null,
+    "tags": ["cold reading", "bias"]
+  },
+  {
+    "id": "card_ment_106",
+    "disciplineId": "mentalism",
+    "hook": "The world's best memory athletes aren't remembering more — they're organizing better.",
+    "concept": "The method of loci converts abstract information into vivid mental images and 'places' them along a familiar mental route (like your childhood home), turning recall into simply walking the route again in your mind.",
+    "tryIt": "Pick five random grocery items and mentally 'place' one vivid, exaggerated image of each item at five spots along your walk from your front door to your kitchen, then try recalling all five in order an hour later.",
+    "whyExplanation": "Human memory is naturally strong at spatial and visual recall, so converting a list into a sequence of vivid images along a known path leverages a memory system that's already highly developed, rather than relying on rote repetition.",
+    "sourceCitation": null,
+    "tags": ["memory", "technique"]
+  },
+  {
+    "id": "card_ment_107",
+    "disciplineId": "mentalism",
+    "hook": "People don't remember a show — they remember its best moment and its last moment.",
+    "concept": "The peak-end rule describes how people judge an entire experience largely by its most intense point and how it ended, largely disregarding the average quality of everything in between.",
+    "tryIt": "After your next performance or presentation, ask a friend to describe it back to you and notice how much of their summary centers on just the strongest moment and the closing beat.",
+    "whyExplanation": "Memory doesn't store experiences as a continuous average — it compresses them into a few representative snapshots, which is why a strong climax and a warm close can make an otherwise uneven show feel excellent in hindsight.",
+    "sourceCitation": "From behavioral research by Daniel Kahneman and colleagues on retrospective evaluation",
+    "tags": ["performance craft", "memory"]
+  },
+  {
+    "id": "card_ment_108",
+    "disciplineId": "mentalism",
+    "hook": "A small, harmless stumble can make people like you more, not less.",
+    "concept": "The pratfall effect describes how a minor, non-catastrophic mistake made by someone who is otherwise seen as highly competent can actually increase how likable they appear, by making them seem more human and relatable.",
+    "tryIt": "Notice the next time a speaker or performer makes a tiny self-aware joke about a small flub — watch how the room's warmth toward them visibly increases rather than decreases.",
+    "whyExplanation": "A flawless performance can feel intimidating or distant, while an acknowledged small imperfection signals authenticity, which is why experienced performers sometimes let a minor miss stand rather than scrambling to hide it.",
+    "sourceCitation": "First described in research by psychologist Elliot Aronson",
+    "tags": ["performance craft", "likability"]
+  },
+  {
+    "id": "card_ment_109",
+    "disciplineId": "mentalism",
+    "hook": "The story you tell in minute two can quietly decide the answer someone gives in minute twenty.",
+    "concept": "Priming is the well-documented effect where recent exposure to a word, image, or idea makes that concept more mentally available, subtly increasing the odds it gets chosen later even in an apparently free decision.",
+    "tryIt": "Casually mention the word 'ocean' a few times in an unrelated conversation, then later ask a friend to name 'any body of water' and see how often it matches.",
+    "whyExplanation": "Recently activated concepts sit closer to the surface of memory and get retrieved more easily than concepts that haven't been recently triggered, which is a real cognitive mechanism performers use to seed later 'free' choices.",
+    "sourceCitation": null,
+    "tags": ["priming", "forcing"]
+  },
+  {
+    "id": "card_ment_110",
+    "disciplineId": "mentalism",
+    "hook": "The first number someone hears quietly drags every guess afterward toward it.",
+    "concept": "Anchoring bias means an initial number or reference point, even an arbitrary one, skews people's subsequent numerical estimates toward it, whether they're guessing a price, a quantity, or an answer to a puzzle.",
+    "tryIt": "Ask one group of friends 'is the population of a small city more or less than 200,000?' and another group 'more or less than 2,000?' before asking both to guess the actual number — compare the guesses.",
+    "whyExplanation": "The mind adjusts insufficiently away from a starting reference point, so even an obviously arbitrary number shifts a later independent estimate — a real bias performers can use to nudge numeric guesses in forcing routines.",
+    "sourceCitation": "From research by Amos Tversky and Daniel Kahneman on judgment under uncertainty",
+    "tags": ["bias", "forcing"]
+  },
+  {
+    "id": "card_ment_111",
+    "disciplineId": "mentalism",
+    "hook": "'Ninety percent successful' and 'ten percent fail' describe the exact same fact — and land completely differently.",
+    "concept": "The framing effect shows that people respond differently to logically identical information depending on whether it's presented in terms of gains or losses, which is why the same trick's reveal can be scripted to feel like a triumphant hit or fall flat depending on the wording.",
+    "tryIt": "Describe one upcoming plan to a friend framed around what could go right, then describe an unrelated but similarly likely plan framed around what could go wrong, and notice the difference in their reaction.",
+    "whyExplanation": "Framing changes the emotional weight attached to identical facts, which is why performers script reveals around what was gained or overcome rather than neutral factual description.",
+    "sourceCitation": "From prospect theory research by Kahneman and Tversky",
+    "tags": ["framing", "performance craft"]
+  },
+  {
+    "id": "card_ment_112",
+    "disciplineId": "mentalism",
+    "hook": "A room full of people is easier to lead than any single person in it.",
+    "concept": "Group settings tend to increase conformity and suggestibility, since individuals unconsciously look to others' reactions as a cue for how to respond, making a group audience often more responsive to a suggestion than an isolated individual would be.",
+    "tryIt": "Notice how much faster laughter spreads through a group audience compared to how a single friend reacts to the same joke told one-on-one.",
+    "whyExplanation": "Humans use the visible reactions of others as social proof for how to interpret an ambiguous situation, which is part of why stage suggestion and group mentalism routines often land more strongly in a crowd than in a private one-on-one setting.",
+    "sourceCitation": null,
+    "tags": ["suggestibility", "group dynamics"]
+  },
+  {
+    "id": "card_ment_113",
+    "disciplineId": "mentalism",
+    "hook": "The moment a trick is explained, it suddenly looks 'obvious' — even though it wasn't a second earlier.",
+    "concept": "Hindsight bias is the tendency, once an outcome is known, to feel like it was predictable all along — which is why an audience member who's shown a method afterward often insists 'I should have seen that.'",
+    "tryIt": "After watching a magic trick explained online, try to honestly recall whether you actually suspected the real method before being told, versus how obvious it feels now.",
+    "whyExplanation": "Once a method is revealed, memory quietly rewrites the earlier experience of watching it to make the outcome feel more foreseeable than it actually was, which is part of why explained tricks so often disappoint compared to how baffling they felt live.",
+    "sourceCitation": null,
+    "tags": ["memory", "perception"]
+  },
+  {
+    "id": "card_ment_114",
+    "disciplineId": "mentalism",
+    "hook": "A busy mind has less room left to notice anything else.",
+    "concept": "Working memory has a limited capacity, so when it's occupied by a demanding task (like solving a quick math problem or processing a joke), attention available for monitoring everything else in the environment drops sharply.",
+    "tryIt": "Try to notice a small visual change in a room while simultaneously counting backward from 100 by sevens out loud, and compare how much you miss versus just sitting quietly.",
+    "whyExplanation": "Attention and working memory draw from the same limited pool of cognitive resources, so loading one with a demanding task reliably starves awareness elsewhere — the mechanism behind timing a secret action to a moment of high mental load.",
+    "sourceCitation": null,
+    "tags": ["attention", "misdirection"]
+  },
+  {
+    "id": "card_ment_115",
+    "disciplineId": "mentalism",
+    "hook": "Some of the very first 'mind readers' publicly admitted their spirit raps were just cracked toe joints.",
+    "concept": "In 1888, Margaret Fox — one of the sisters whose 'spirit rappings' had helped launch the 19th-century Spiritualism movement — publicly demonstrated that the sounds were produced by cracking her joints, admitting the whole practice had been a trick.",
+    "tryIt": "Look up one historical mentalism or 'psychic' effect from the 1800s and try to identify the mundane mechanical method behind it before reading the explanation.",
+    "whyExplanation": "The Fox sisters' confession is an early, well-documented reminder that dramatic-seeming phenomena often have entirely physical explanations — a useful historical anchor for framing modern mentalism honestly as trained performance craft rather than genuine supernatural ability.",
+    "sourceCitation": "Margaret Fox's 1888 public confession, widely documented in histories of the Spiritualism movement",
+    "tags": ["history", "ethics"]
+  }
+]

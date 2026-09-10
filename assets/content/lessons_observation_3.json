@@ -1,0 +1,402 @@
+[
+  {
+    "id": "obs_l19",
+    "disciplineId": "observation",
+    "title": "The Conversation You Weren't Supposed to Hear",
+    "hook": "A barista named Theo picked up on a complaint three sentences before it arrived — because he was listening to more than the words.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Theo overheard a customer's clipped, fast tone and a slight rise in pitch on a phone call in line, unrelated to any order. He predicted frustration was likely and adjusted his own pace and warmth at the counter accordingly, rather than assuming the worst about the customer. When the person did seem irritated placing their order, Theo asked a simple clarifying question instead of assuming it was about the coffee — and found out the tension had nothing to do with the shop at all."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tone, pace, and pauses carry real information independent of the words used. The same sentence said quickly and clipped, versus slowly and evenly, reads completely differently — often before the literal content tells you anything at all."
+      },
+      {
+        "type": "keyPoint",
+        "text": "How something is said usually arrives before what is said — tone and pace are their own channel of information."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ambient sound tells you about an environment even without looking — a low steady hum versus scattered voices versus sudden quiet each describe a different kind of room, useful when your eyes are occupied elsewhere: driving, reading, or lost in a crowd."
+      },
+      {
+        "type": "paragraph",
+        "text": "The caution matters just as much as the skill. Auditory cues are, if anything, more ambiguous than visual ones — the same clipped tone can mean irritation, pain, hurry, or nothing at all. The discipline is to let them raise a gentle hypothesis, then check it, as Theo did, rather than to treat a tone of voice as a verdict on someone's mood or intent."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": [
+      "auditory observation",
+      "sound",
+      "listening"
+    ],
+    "relatedDrillIds": [
+      "obs_d35",
+      "obs_d45"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l20",
+    "disciplineId": "observation",
+    "title": "Notice With More Than Your Eyes",
+    "hook": "Try this next time you walk into a room you want to remember: close your observation loop with your nose and your hands, not just your eyes.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Next time you're somewhere you actually want to remember well, run a deliberate sensory pass. Look, as always — but also name one smell in the air and one texture you can touch or that's visibly present. It takes maybe five extra seconds and it changes what sticks."
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's why it works: each sense you tag a memory with is another handle you can use to pull it back out later. A memory filed under 'sight only' has one retrieval path; the same memory filed under sight, smell, and touch has three, and any one of them can trigger the rest."
+      },
+      {
+        "type": "keyPoint",
+        "text": "More senses tagged to a memory means more ways back into it later — this is why a smell can suddenly bring back a whole scene."
+      },
+      {
+        "type": "paragraph",
+        "text": "It also catches things vision alone misses entirely. A faint burning smell can register well before any smoke is visible. A handrail that wobbles under your hand tells you something a glance never would. Sound does the same — the pitch of a room's background hum can tell you it's more crowded than it looks."
+      },
+      {
+        "type": "paragraph",
+        "text": "Don't force this into every moment of your day — it's a deliberate tool for the handful of scenes you actually want to keep, not a constant background task. Use it on purpose, the way you'd use a camera: when it's worth the extra few seconds."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": [
+      "multisensory",
+      "smell",
+      "tactile"
+    ],
+    "relatedDrillIds": [
+      "obs_d21",
+      "obs_d34"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l21",
+    "disciplineId": "observation",
+    "title": "Why You Miss the Obvious: Change Blindness",
+    "hook": "You can stare directly at something that changed and still not see it change — and it's not a flaw, it's how looking works.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Vision isn't a continuous video feed — it's closer to a series of snapshots stitched together, with real gaps during blinks, saccades (the quick eye jumps between fixations), and moments of distraction. A change that happens to land in one of those gaps can go completely unnoticed, even in something you were looking directly at."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Your eyes don't record continuously — changes that land in the gaps between glances can vanish entirely from awareness."
+      },
+      {
+        "type": "paragraph",
+        "text": "This has been shown repeatedly in classic demonstrations where a person in a scene is swapped for someone else during a brief visual interruption, and a large share of observers never notice — not because they weren't looking, but because the swap happened exactly during the interruption."
+      },
+      {
+        "type": "paragraph",
+        "text": "The practical fix isn't 'look harder' — it's active comparison. Instead of a general impression of 'same as before,' deliberately check specific details against what you remember: is this exactly the same mug, exactly the same position. A gut sense of sameness is not evidence of sameness."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Trust a specific comparison over a general feeling that 'nothing changed' — the feeling is often just the absence of a flagged difference, not proof one isn't there."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": [
+      "change blindness",
+      "attention",
+      "perception"
+    ],
+    "relatedDrillIds": [
+      "obs_d18",
+      "obs_d33"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l22",
+    "disciplineId": "observation",
+    "title": "The Beginner's Eye vs the Expert's Eye",
+    "hook": "A radiologist and a first-year student can stare at the identical scan and, in a real sense, see two different images.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Experts across domains — radiologists, chess players, birders, mechanics — don't see more raw detail than beginners; they see the same detail organized into larger, meaningful units built from thousands of hours of feedback-corrected exposure. A birder doesn't consciously check wingspan, beak shape, and coloring separately — the whole pattern arrives at once as 'that's a red-tailed hawk.' This is called chunking."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chunking is built specifically through repetition paired with correction — seeing many examples and finding out, each time, whether your read was right. Passive exposure without feedback, like looking at birds for years without ever confirming an ID, builds far weaker chunks than deliberate practice with a way to check yourself."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Expertise isn't sharper eyesight — it's detail pre-organized into larger, faster units by thousands of corrected repetitions."
+      },
+      {
+        "type": "paragraph",
+        "text": "But expertise has a cost: overlearned patterns can make experts blind to things outside their trained categories, or to their own field's most ordinary features, precisely because habituation stops flagging them as noteworthy. A beginner sometimes catches an oddity an expert has stopped seeing at all, simply because it hasn't yet been chunked into 'normal.'"
+      },
+      {
+        "type": "paragraph",
+        "text": "The practical move is to deliberately alternate — build expert-style pattern drills in your area of practice, but periodically add a 'notice like a beginner' pass, describing a familiar scene as if seeing it for the first time, to surface what over-familiarity has quietly erased."
+      }
+    ],
+    "estimatedMinutes": 9,
+    "tags": [
+      "expertise",
+      "pattern recognition",
+      "chunking"
+    ],
+    "relatedDrillIds": [
+      "obs_d28",
+      "obs_d43"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l23",
+    "disciplineId": "observation",
+    "title": "Tracks in the Mud",
+    "hook": "A broken twig, a smear in the mud, a bent blade of grass — none of it is proof of anything, and all of it is worth reading anyway.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A naturalist guide crouches over a short muddy trail: two sets of prints, one deep and one shallow, disturbed leaf litter to one side, a broken low branch at chest height. She reconstructs a plausible story — an adult and something smaller, moving quickly, startled near the branch — while repeatedly qualifying it as 'could be' rather than 'is.'"
+      },
+      {
+        "type": "paragraph",
+        "text": "This is the essence of naturalist tracking — reading indirect evidence left behind rather than requiring a direct sighting, and building a provisional, revisable account from small physical signs rather than a single confident conclusion."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Tracking reads what was left behind, not what you saw directly — which means every read stays a hypothesis, not a fact."
+      },
+      {
+        "type": "paragraph",
+        "text": "The same skill transfers well outside the woods — noticing that a meeting room's chairs are pushed in unevenly (someone left in a hurry), that a usually full mug rack is missing two mugs (guests, or a dishwasher run), that a cat's usual perch has fresh fur but the cat itself is nowhere visible. Indirect signs are everywhere once you start reading for them."
+      },
+      {
+        "type": "paragraph",
+        "text": "A tracker's humility is the actual discipline here — holding 'this probably means X' instead of 'this means X,' and staying genuinely willing to be wrong when better evidence turns up. Confidence should track the evidence, not outpace it."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": [
+      "nature",
+      "tracking",
+      "indirect evidence"
+    ],
+    "relatedDrillIds": [
+      "obs_d34",
+      "obs_d49"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l24",
+    "disciplineId": "observation",
+    "title": "Reading a Face Without Overreading It",
+    "hook": "What can a facial expression actually tell you — and where does the popular idea of 'reading people' quietly overpromise?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "What's reliable? A facial expression can genuinely leak a flash of momentary emotion — a tightening around the eyes, a brief downturn — often faster than the person consciously controls it. That much has real support. What it cannot reliably tell you is intent, honesty, or the reason behind the feeling."
+      },
+      {
+        "type": "paragraph",
+        "text": "Isn't there research on reading lies from micro-expressions? There's a popularized version of this that claims far more certainty than the underlying evidence supports, treating a flash of expression as a lie detector and overselling what a single facial cue can carry. A raised eyebrow can mean surprise, skepticism, mild pain, or nothing at all."
+      },
+      {
+        "type": "keyPoint",
+        "text": "An expression is one weak data point, not a verdict — hold it loosely and combine it with context before drawing any conclusion."
+      },
+      {
+        "type": "paragraph",
+        "text": "So what's the responsible way to use this? Notice an expression, notice the context around it, and resist the pull to convert a single flash of face into a confident story about someone's honesty or character. The skill is in the noticing, not in the certainty you attach afterward."
+      },
+      {
+        "type": "paragraph",
+        "text": "And where's the line into something harmful? Using facial reads to profile or judge strangers — assuming guilt, dishonesty, or hostility from a glance — turns a modest observational skill into something that can genuinely damage people who did nothing but have an expressive face."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": [
+      "body language",
+      "micro-expressions",
+      "restraint"
+    ],
+    "relatedDrillIds": [
+      "obs_d25",
+      "obs_d17"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l25",
+    "disciplineId": "observation",
+    "title": "The Awareness That Isn't Paranoia",
+    "hook": "The calmest person in the room is often the most aware one — the two are not opposites.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Closing up a small shop at night, an employee notices a side door usually locked is slightly ajar, and a car idling across the street for longer than a normal pickup would take. Instead of panicking, she calmly notes both, checks the door properly, and chooses a different, more visible route to her own car. Nothing dramatic happens — but the noticing plus the calm adjustment is the whole point."
+      },
+      {
+        "type": "paragraph",
+        "text": "Personal-safety training often describes something similar: a relaxed, sustainable baseline awareness of your surroundings, noticing what's normal for a place, as opposed to a constantly clenched hypervigilance that exhausts people within a day and, ironically, notices less because it's too strained to sustain attention."
+      },
+      {
+        "type": "keyPoint",
+        "text": "A calm, sustainable baseline awareness catches more real anomalies than a tense, exhausting hypervigilance ever can."
+      },
+      {
+        "type": "paragraph",
+        "text": "The actual mechanism is comparison against a baseline — you can't recognize 'that door is usually locked' without first having registered, unconsciously, that it's usually locked. Building situational awareness is really building a good baseline sense of normal for the places you regularly move through, so anomalies register as anomalies instead of blending in."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is not a license for reflexive suspicion of strangers or profiling based on appearance; the skill is noticing genuine deviations from a place's actual normal pattern, not treating everyone unfamiliar as a threat. Awareness without that restraint curdles into something that helps no one."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": [
+      "situational awareness",
+      "safety",
+      "calm attention"
+    ],
+    "relatedDrillIds": [
+      "obs_d32",
+      "obs_d37"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l26",
+    "disciplineId": "observation",
+    "title": "Sketch It to See It",
+    "hook": "You don't need to be able to draw to let five minutes with a pencil teach your eyes something a camera never will.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Pick any scene in front of you and give yourself five minutes to sketch it — badly is completely fine, this isn't an art exercise. What matters is that sketching forces you to look, then look again, then look a third time to check a proportion, in a way that snapping a photo never requires. A camera captures instantly; a sketch makes you slow down and actually notice."
+      },
+      {
+        "type": "paragraph",
+        "text": "Photography still has its own value — for comparing two moments later, for catching something you can review at leisure, for a permanent record a sketch can't match. The two tools aren't competing; a photo is for capturing, a sketch is for training the noticing itself."
+      },
+      {
+        "type": "keyPoint",
+        "text": "A photo captures a scene instantly; a sketch forces you to actually see it — use each for what it's good at."
+      },
+      {
+        "type": "paragraph",
+        "text": "Here's a specific drill: look at a scene for thirty seconds, look away, sketch it from memory, then compare your sketch to the real thing. The gaps between what you drew and what's actually there are more informative than the sketch itself — they show you exactly what your attention skipped."
+      },
+      {
+        "type": "paragraph",
+        "text": "Keep the bar low. A stick-figure sketch that captures the right number of objects in the right rough positions has done its job completely — this is a looking exercise wearing a drawing costume, not an art class."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": [
+      "sketching",
+      "photography",
+      "technique"
+    ],
+    "relatedDrillIds": [
+      "obs_d24",
+      "obs_d47"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l27",
+    "disciplineId": "observation",
+    "title": "Name It to Notice It",
+    "hook": "The fastest way to actually see a thing is often to try to name it.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Naming or labeling something you see — the species of a tree, the era of a building's architecture, the specific model of a bag — forces a closer, more specific look than a general glance does, because you can't apply the wrong name to something you haven't actually examined. This connects to 'dual coding': pairing a visual memory with a verbal label gives you two ways to store and retrieve it instead of one."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Trying to name something forces closer attention than passively looking at it — you can't misname a detail you never actually noticed."
+      },
+      {
+        "type": "paragraph",
+        "text": "Try building small working vocabularies in domains you pass through often: a handful of tree names on your regular walk, a few architectural terms for your commute, common fabric or material names if you shop often. You don't need expertise, just enough vocabulary that naming something becomes possible rather than everything defaulting to 'tree' or 'building.'"
+      },
+      {
+        "type": "paragraph",
+        "text": "The goal is closer looking, not showing off vocabulary. If naming something starts to feel like a performance rather than a genuine prompt to look harder, or if jargon starts substituting for actually checking the thing in front of you, the exercise has stopped doing its job."
+      },
+      {
+        "type": "keyPoint",
+        "text": "The point of the label is the look it forces, not the label itself."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": [
+      "curiosity",
+      "naming",
+      "vocabulary"
+    ],
+    "relatedDrillIds": [
+      "obs_d15",
+      "obs_d44"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l28",
+    "disciplineId": "observation",
+    "title": "The Debrief: Reviewing What You Saw",
+    "hook": "Noticing things all day is only half the practice — the other half happens afterward, in a few honest minutes of review.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The debrief is the closing step of the observation loop. Without it, a day full of noticing details just evaporates, indistinguishable in memory from a day of not noticing at all. A short daily review, written or spoken, turns scattered attention into a record you can actually learn from over weeks."
+      },
+      {
+        "type": "paragraph",
+        "text": "A simple template works well: three to five things noticed today, in a line or two each; then, just as important, one thing you realize now you missed — a conversation you tuned out of, a person you walked past without registering, a detail a friend mentioned that surprised you. The miss list, done honestly, is usually more valuable than the hit list."
+      },
+      {
+        "type": "keyPoint",
+        "text": "The honest miss list — what you now realize you didn't notice — teaches you more than the list of things you caught."
+      },
+      {
+        "type": "paragraph",
+        "text": "Over weeks, reviewing past entries becomes its own memory exercise and starts to reveal patterns: certain times of day, certain settings, certain kinds of details you reliably miss. That turns a vague sense of 'I should notice more' into a specific, addressable list."
+      },
+      {
+        "type": "paragraph",
+        "text": "Don't treat the debrief as a test to pass. There's no score to protect, no reason to inflate the hit list or skip the miss list because it feels like failure. The entire value of the practice sits in the honesty of the miss column, not in a flattering tally of catches."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": [
+      "journaling",
+      "debrief",
+      "review"
+    ],
+    "relatedDrillIds": [
+      "obs_d16",
+      "obs_d50"
+    ],
+    "relatedCardIds": []
+  }
+]

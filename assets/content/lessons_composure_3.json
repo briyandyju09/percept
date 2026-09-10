@@ -1,0 +1,328 @@
+[
+  {
+    "id": "comp_l19",
+    "disciplineId": "composure",
+    "title": "Self-Compassion After a Reactive Outburst",
+    "hook": "Dana snapped at her son over a spilled cup of juice. What she did in the next ten minutes mattered more than the snap itself.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Dana had been up since five, the kitchen was a mess, and when her son knocked over a full cup of juice for the second time that morning, she heard her own voice come out sharper and louder than she meant it to be. He flinched. She felt the immediate double hit that follows almost every reactive outburst: the original frustration, now joined by a wave of shame at how she'd handled it. Her first instinct was the familiar internal script — 'what is wrong with me, I'm turning into my own worst version of a parent' — the kind of harsh self-talk that feels like accountability but mostly just adds a second layer of distress on top of the first."
+      },
+      {
+        "type": "paragraph",
+        "text": "Self-compassion research, most notably from psychologist Kristin Neff, distinguishes this harsh self-criticism from something different and, counterintuitively, more effective: treating yourself with the same basic kindness you'd offer a friend who made the same mistake. This isn't about excusing the behavior or lowering your standards — it's built on three specific components. Mindfulness: noticing the reaction and the shame without exaggerating or minimizing either. Common humanity: recognizing that snapping at a kid over spilled juice while exhausted is an extremely ordinary human failure, not evidence of being uniquely broken. And self-kindness: speaking to yourself the way you'd speak to a friend in the same spot, rather than the way you'd speak to an enemy."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Self-compassion is not the same as self-esteem or letting yourself off the hook — it's a faster, more accurate route back to a calm enough state to actually repair what happened."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dana took thirty seconds — not to forgive herself in some grand sense, just to notice the shame spiral starting and name it plainly: 'I'm tired, that came out harsher than I meant, that happens.' Then she crouched down to her son's level and said, simply, 'I'm sorry I raised my voice, the juice isn't a big deal, let's clean it up together.' No lecture about her own bad morning, no over-apologizing that would have made him responsible for managing her guilt. Research on self-compassion consistently finds that people who can do this — regulate their own shame quickly rather than spiraling in it — are actually more likely to take real accountability afterward, not less, because shame that isn't managed tends to turn into defensiveness or avoidance instead of repair."
+      },
+      {
+        "type": "paragraph",
+        "text": "The pattern generalizes past parenting: after any moment you're not proud of — an impatient reply to a coworker, a short temper with a partner — the useful sequence is the same. Notice what happened without minimizing it. Remind yourself, honestly, that this is an ordinary human lapse and not a verdict on your character. Then move directly to repair, briefly and specifically, rather than spending ten minutes in self-punishment that helps no one, including you."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["selfCompassion", "repair", "shame", "parenting"],
+    "relatedDrillIds": ["comp_d40", "comp_d41"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l20",
+    "disciplineId": "composure",
+    "title": "Teaching Composure to Others",
+    "hook": "Kids don't learn to stay calm from being told to. They learn it from watching what you do with your own storm.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "If you want someone else — a child, a younger colleague, anyone you're mentoring — to develop real composure, the least effective method is telling them to calm down in the moment they're upset. That instruction, however well-intentioned, tends to land as dismissive, because it asks someone to suppress a feeling on command rather than helping them actually process it. The far more effective route, well-supported in developmental psychology, is modeling: people, especially children, absorb emotional regulation largely by watching how the adults around them handle their own difficult moments, not by being lectured about it."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is sometimes called co-regulation: a calmer nervous system nearby actually helps regulate a dysregulated one, in a fairly literal, physiological sense — a steady voice, a slower pace, a relaxed posture from you can measurably help bring someone else's arousal down, the same emotional-contagion effect covered in the leadership lesson, just running the other direction. Practically, this means your own composure in front of a frustrated child or a rattled junior colleague is not a side detail — it is a large part of the actual lesson, whether or not you say a single word about it."
+      },
+      {
+        "type": "keyPoint",
+        "text": "The most effective composure lesson you can give another person is rarely a sentence — it's them watching you stay steady while something goes wrong."
+      },
+      {
+        "type": "paragraph",
+        "text": "The second-most useful tool, especially with kids, is language for the feeling itself — sometimes summarized as 'name it to tame it': helping someone put a specific word to what they're feeling ('you're frustrated because the tower fell down again') tends to measurably reduce the intensity of the emotion, likely because naming a feeling engages more regulated, verbal parts of the brain rather than leaving the experience as pure, wordless overwhelm. This works far better than either ignoring the feeling or shaming it ('don't cry over this, it's not a big deal') — both of which teach, quietly, that the feeling itself was the problem, rather than teaching what to do with it."
+      },
+      {
+        "type": "paragraph",
+        "text": "A simple, teachable technique that works well with kids specifically is turning breathing into something concrete rather than abstract: 'smell the flower, blow out the candle' (a slow nasal inhale, a slow mouth exhale) gives a young child something to physically do with a big feeling, without requiring them to understand what a nervous system is. The version for a teenager or an adult you're mentoring is more direct: naming your own process out loud in a shared hard moment — 'I'm feeling pretty frustrated right now, I'm going to take a second before I respond' — which does double duty: it regulates you, and it shows them, in real time, what regulation actually looks like from the inside."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["teaching", "coRegulation", "modeling", "kids"],
+    "relatedDrillIds": ["comp_d42", "comp_d46"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l21",
+    "disciplineId": "composure",
+    "title": "The Vagus Nerve and the Body's Brake Pedal",
+    "hook": "What is actually slowing your heart rate down after a scare — and is it really as simple as the popular 'vagus nerve hack' videos make it sound?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Here's a fair question worth asking before believing any single online claim about the vagus nerve: what is it actually, mechanically? The vagus nerve is the longest cranial nerve in the body, running from the brainstem down through the neck and chest to most major organs, and it's the primary channel of the parasympathetic nervous system — the branch responsible for slowing heart rate, aiding digestion, and generally returning the body to a resting state after activation. So when something calms you down after a stressful moment, the vagus nerve is very often mechanically involved. That part is well established."
+      },
+      {
+        "type": "paragraph",
+        "text": "But here's the harder question: does that mean any specific 'trick' — humming, cold water on the face, a particular breathing pattern — reliably and meaningfully 'stimulates' it in a way that produces a lasting change in your baseline stress resilience? This is where the evidence gets thinner than the popular claims suggest. Heart-rate variability (a measure loosely tied to vagal activity) does shift in the short term with slow breathing and some of these techniques — that part has decent support. Claims that a single daily habit meaningfully raises your 'vagal tone' as a stable trait, in the way strength training raises muscle mass, are considerably less settled in the research."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Slow exhale-dominant breathing has the most consistent evidence behind it of any single 'vagus nerve' technique.",
+        "meta": {
+          "myth": "There's one specific vagus nerve hack — humming, cold water, a particular pressure point — that works dramatically better than the others and can permanently boost your calm.",
+          "fact": "Among the popularly cited methods, slow breathing with a longer exhale than inhale has the most consistent research support for producing a measurable short-term shift in heart-rate variability. Most other methods have smaller or less consistent evidence behind them, and none produce a permanent trait change from occasional use — they're in-the-moment tools, not one-time upgrades."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "The honest, well-supported version is simple: slow, exhale-dominant breathing reliably nudges the parasympathetic system in the moment. That's a real and useful tool — it just isn't the dramatic permanent hack the internet often sells it as."
+      },
+      {
+        "type": "paragraph",
+        "text": "So, what's the practical takeaway? Use breathing as your primary, evidence-backed tool for in-the-moment regulation — an exhale roughly twice as long as your inhale, for a minute or two, whenever your body is activated and you need it to come down. Feel free to try humming, cold water, or other variations if they help you personally; there's little downside. Just hold the claims about them loosely, and don't mistake a pleasant in-the-moment sensation for a scientifically settled permanent upgrade to your nervous system."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["vagusNerve", "physiology", "breathing", "research"],
+    "relatedDrillIds": ["comp_d13", "comp_d20"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l22",
+    "disciplineId": "composure",
+    "title": "When the Talk Goes Off Script",
+    "hook": "The slide won't load. The question is hostile. Your mind goes blank mid-sentence. None of it has to sink the talk.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Every experienced speaker has a story about the moment something broke mid-talk — the clicker died, a slide showed the wrong version, a question landed with more hostility than the room warranted. What separates a recoverable moment from a spiral usually isn't the disruption itself; it's whether the speaker has a small, pre-decided set of default moves for exactly this kind of moment, so they're not improvising from zero while also managing adrenaline."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a technical failure: name it plainly and move on ('looks like the slides are catching up, I'll keep going') rather than apologizing repeatedly or letting silence stretch while you fix it live in front of everyone. For a hostile or aggressive question: resist the urge to answer instantly and defensively. A brief pause, then restating the question in neutral language ('so the concern is whether this scales past our current team — that's fair, here's how I'd think about it') both buys you a second to compose an answer and often visibly de-escalates the questioner, because they feel accurately heard rather than argued with immediately."
+      },
+      {
+        "type": "keyPoint",
+        "text": "The composed response to going blank mid-sentence is a short, unbothered pause and a simple restart — not a rushed, apologetic scramble that draws more attention to the gap than the gap itself would have."
+      },
+      {
+        "type": "paragraph",
+        "text": "If your mind genuinely goes blank, the recoverable move is almost embarrassingly simple: pause, take a breath, and say something like 'let me pick that back up' or just restate your last full sentence to get momentum going again. Audiences read a short pause as thoughtful far more often than they read it as a failure — it's usually only the speaker who experiences the silence as unbearable. The two- or three-second gap that feels like an eternity from the podium is barely noticed from the seats."
+      }
+    ],
+    "estimatedMinutes": 4,
+    "tags": ["publicSpeaking", "recovery", "composure", "presentation"],
+    "relatedDrillIds": ["comp_d25", "comp_d18"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l23",
+    "disciplineId": "composure",
+    "title": "Reading the Room Before It Escalates",
+    "hook": "By the time voices are raised, de-escalation is already playing defense. The real skill is noticing the shift five minutes earlier.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Most conflict-management advice focuses on what to do once a confrontation is already loud — how to lower your voice, how to give someone an exit, how to avoid inflammatory phrases. All of that is genuinely useful, but it's reactive by nature: it's damage control after tension has already crossed a threshold. The more advanced, less-discussed skill is noticing the earlier signs that a conversation or a room is drifting toward conflict, while there's still room to gently redirect it before anyone's raised their voice at all."
+      },
+      {
+        "type": "paragraph",
+        "text": "Early warning signs tend to be small and physical before they're verbal: a shift toward faster, clipped speech; a rise in pitch; crossed arms tightening into a more closed posture; a person leaning forward slightly more than the conversation calls for; jaw or fist tension. None of these guarantee an argument is coming, but noticing the pattern — several of these appearing together, building over a couple of minutes rather than appearing once and passing — is a meaningfully earlier signal than waiting for a raised voice."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Preventive attention to rising tension is a trainable habit, not a personality trait some people just have.",
+        "meta": {
+          "myth": "Some people are naturally good at sensing when a room is about to get tense, and it's mostly an innate social instinct.",
+          "fact": "Conflict-management training programs, including those used in fields like healthcare and hospitality, teach early-warning-sign recognition as an explicit, practicable skill — a checklist of physical and vocal cues, built through repetition, not an innate gift limited to a few people."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "The highest-leverage moment in de-escalation is usually the quiet one, two or three minutes before anyone raises their voice — a small redirect there costs almost nothing and prevents the harder work later."
+      },
+      {
+        "type": "paragraph",
+        "text": "When you notice the early signs, the intervention doesn't need to be dramatic. A brief, genuine check-in ('this is clearly a frustrating topic — want to take a beat before we keep going?'), a change of subject for a minute, or simply slowing your own pace and volume slightly, often defuses tension before it needs a full de-escalation response at all. This is a skill best practiced deliberately: in your next few tense-adjacent conversations, spend a portion of your attention specifically scanning for these early signals rather than waiting to react once the conversation has already turned."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["deescalation", "earlyWarning", "conflict", "attention"],
+    "relatedDrillIds": ["comp_d50", "comp_d16"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l24",
+    "disciplineId": "composure",
+    "title": "Boredom, Rest, and Numbness Aren't the Same Thing",
+    "hook": "Priya thought her Sunday afternoons on the couch were rest. They were something closer to hiding.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Priya had gotten into the habit of collapsing onto the couch most Sunday afternoons and scrolling for three or four hours, telling herself it was well-earned rest after a demanding week. When a friend asked her, genuinely curious, whether she felt rested afterward, she realized she usually didn't — she felt flat, a little foggy, and mildly irritable, which is a strange result for something billed as relaxation. What she'd built wasn't rest. It was closer to numbness: a low-effort way of not feeling anything much, rather than a genuine recovery of energy or attention."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is a useful three-way distinction. Boredom is an active, if uncomfortable, state — your mind is present and aware that it wants stimulation, which is exactly the condition that produces daydreaming, idle creative thought, and noticing your own internal state. Rest is a genuine reduction in demand on your attention and body, restorative because it actually lowers load. Numbness — hours of passive scrolling, low-grade background noise, half-watched shows — often looks like rest from the outside but functions more like a low hum that keeps your attention just occupied enough to avoid boredom, without ever actually lowering the load or letting your mind wander freely. It's neither true rest nor productive boredom; it's a kind of avoidance dressed up as relaxation."
+      },
+      {
+        "type": "keyPoint",
+        "text": "If a period of 'rest' consistently leaves you foggier and more irritable rather than recharged, it's worth asking honestly whether it was actually rest, or a low-effort way of avoiding boredom instead."
+      },
+      {
+        "type": "paragraph",
+        "text": "Priya's actual test, run over a few Sundays: she replaced one scrolling hour with a genuinely low-stimulation hour — sitting outside without her phone, or lying down with music but no screen. The first attempt was uncomfortable; boredom showed up almost immediately, and her hand kept reaching for a phone that wasn't there. By the third week, she noticed the hour left her calmer and more like herself afterward than the scrolling version ever had, even though, on paper, both had looked like 'doing nothing.' The composure lesson underneath this: not all downtime is equal, and telling the difference requires actually noticing how you feel afterward, not just whether the activity looked restful."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["boredom", "rest", "numbness", "attention"],
+    "relatedDrillIds": ["comp_d29"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l25",
+    "disciplineId": "composure",
+    "title": "Why Notifications Are Built to Break Your Composure",
+    "hook": "This isn't a willpower failure. The interruption was engineered, tested, and shipped specifically to work on you.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "It's worth being precise about what's actually happening when a notification pulls your attention away from something you intended to focus on: it is, in a very literal sense, an engineered outcome. The core mechanism, intermittent variable reinforcement, was first documented by B.F. Skinner in experiments where animals that received rewards on an unpredictable schedule kept responding far more persistently than animals on a fixed, predictable schedule — the exact principle slot machines are built around, and the same principle underlying a feed, a like count, or a message badge whose content you can't predict until you open it."
+      },
+      {
+        "type": "paragraph",
+        "text": "This matters for a composure discipline specifically because unpredictable reward schedules don't just create a habit — they create a habit that's unusually resistant to willpower-based fixes, precisely because the uncertainty itself is what's reinforcing, not the content behind it. Telling yourself 'I'll just be more disciplined about checking my phone' is fighting a system explicitly engineered, at enormous scale and expense, to outlast exactly that kind of resolve. This isn't a personal failing; it's closer to being outmatched by a well-funded opponent."
+      },
+      {
+        "type": "mythVsFact",
+        "text": "Beating a variable-reward system usually requires changing the environment, not just trying harder.",
+        "meta": {
+          "myth": "People who check their phones constantly just have weaker willpower than people who don't.",
+          "fact": "Behavioral research on variable-reward schedules consistently shows that structural changes — removing the cue entirely, adding friction, batching checks — outperform willpower-based approaches for exactly this kind of habit, because the reward schedule was engineered to beat willpower specifically, regardless of how disciplined the individual is."
+        }
+      },
+      {
+        "type": "keyPoint",
+        "text": "The most effective composure defense against notification-driven reactivity is structural, not motivational — remove the cue, don't just try to resist it."
+      },
+      {
+        "type": "paragraph",
+        "text": "In practice, this means the interventions that actually work tend to look unglamorous: turning off badge counts and banner previews so the unpredictable-reward loop has nothing to visually trigger it, physically separating yourself from the device during blocks that matter, and batching checks into a few set windows so the decision to look happens on a schedule you set rather than one dictated by whatever just arrived. None of this is about willpower or moral discipline. It's closer to childproofing your own environment against a system that was built, quite deliberately, to be very good at capturing exactly the kind of attention composure depends on."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["notifications", "variableReward", "attention", "behavioralDesign"],
+    "relatedDrillIds": ["comp_d23"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l26",
+    "disciplineId": "composure",
+    "title": "Composure Under Public Criticism",
+    "hook": "The critique landed in front of the whole team. What Alan did in the next thirty seconds mattered more than whether the critique was fair.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Alan presented a plan he'd spent three weeks building, and a senior colleague, in front of the full team, said flatly that the approach had a serious flaw and should probably be scrapped. It wasn't said cruelly, but it also wasn't softened, and Alan felt the familiar heat rise — the urge to defend every decision on the spot, point by point, partly because the critique might be right and partly because it was landing in front of an audience. He took a beat, longer than felt natural, before responding at all."
+      },
+      {
+        "type": "paragraph",
+        "text": "What he said was closer to, 'That's a fair concern on the scaling piece — let me think about it and come back with either a fix or a revised recommendation by Thursday.' No defensiveness, but also no collapse into agreeing with everything just to end the discomfort quickly. He separated two things that felt fused in the moment: the content of the critique, which deserved genuine consideration, and the discomfort of being critiqued in front of people, which didn't need to be resolved by either fighting back or capitulating instantly."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Composure under public criticism isn't agreeing with everything to make the discomfort stop, and it isn't defending everything to protect your ego — it's holding the two separately: take the content seriously, manage the discomfort on your own time."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is a genuinely hard skill because public criticism activates status concerns as much as it activates the actual substance of the feedback — a part of you is tracking how this looks to everyone watching, not just whether the point is valid. The composed move is to notice that status pull without acting on it in the moment: you don't have to win the room right then. A brief, non-defensive acknowledgment, followed by a real answer later once you've actually thought it through, almost always reads better in hindsight than either an instant rebuttal or a nervous, over-apologetic retreat."
+      },
+      {
+        "type": "paragraph",
+        "text": "Alan came back Thursday with a genuine answer — he'd found the colleague was partly right, revised one part of the plan, and kept another part he could now defend with more specifics than he'd had in the room. Nobody remembered the tense thirty seconds after the meeting; what stuck was that he'd handled being publicly wrong-footed without either an outburst or a collapse, which, over time, is exactly the reputation composed leaders tend to build."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["leadership", "criticism", "composure", "workplace"],
+    "relatedDrillIds": ["comp_d33", "comp_d31"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l27",
+    "disciplineId": "composure",
+    "title": "Structured vs. Free Journaling: Picking the Right Tool",
+    "hook": "Not every hard day calls for the same kind of page. Knowing which one you need is half the skill.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Journaling isn't one technique — it's a family of them, and picking the wrong version for the moment can leave it feeling useless even though the practice itself is sound. Free writing (sometimes called 'morning pages') — unfiltered, unstructured, whatever comes to mind — is well suited to a foggy, unfocused mood, where the goal is simply to get a backlog of half-formed thoughts out of your head and onto a page before you can think clearly about anything else."
+      },
+      {
+        "type": "paragraph",
+        "text": "Structured journaling — specific prompts like 'what am I actually worried about, and what's within my control about it,' or a nightly three-things-that-went-well entry — tends to work better when you're spiraling on something specific, because unstructured writing in that state can accidentally deepen a rumination loop rather than break it. A prompt gives your attention somewhere concrete to land, rather than circling the same worry with slightly different words."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Use free writing when your head is foggy and cluttered; use a structured prompt when your head is stuck on one specific worry and needs a concrete question to answer instead."
+      },
+      {
+        "type": "paragraph",
+        "text": "One specific structured tool worth knowing: a 'worry time' entry, where you write down the specific worry, what's actually within your control about it, and one small action you can take in the next day — then deliberately close the notebook. This gives an anxious thought somewhere to go and a stopping point, rather than an open-ended loop that keeps running in the background all evening."
+      }
+    ],
+    "estimatedMinutes": 4,
+    "tags": ["journaling", "structuredWriting", "worry", "reflection"],
+    "relatedDrillIds": ["comp_d39"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "comp_l28",
+    "disciplineId": "composure",
+    "title": "The Sleep Debt–Irritability Loop",
+    "hook": "One bad night rarely breaks you. It's the fourth or fifth in a row, quietly stacking, that does.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Sleep debt accumulates in a way that's easy to underestimate, because a single short night is usually manageable — most people can push through one rough night without much visible change in temperament. The problem is that the effects compound: a night or two of insufficient sleep raises baseline reactivity slightly, that reactivity produces more friction and stress during the day, elevated stress makes falling and staying asleep that night harder, and the next day starts from an even lower baseline. By the fourth or fifth night in this pattern, people are often noticeably shorter-tempered, more easily overwhelmed, and less able to recognize that sleep, not the day's specific irritations, is the actual driver."
+      },
+      {
+        "type": "paragraph",
+        "text": "The trap here is that the loop disguises its own cause. On night five of poor sleep, the argument with a partner or the frustration at work feels completely justified by its own content — it doesn't feel like 'I'm reacting this strongly because I'm exhausted,' it feels like 'this situation genuinely warranted this reaction.' Recognizing the loop requires a slightly unnatural move: stepping back and asking about your sleep debt specifically, rather than trusting your in-the-moment read of how serious the trigger actually was."
+      },
+      {
+        "type": "keyPoint",
+        "text": "When you notice several consecutive days of shorter temper, check sleep debt before you check the day's events for an explanation — the loop is easy to miss from the inside precisely because each individual reaction feels fully justified."
+      },
+      {
+        "type": "paragraph",
+        "text": "Practical break points, in order of effectiveness: protecting a consistent wake time even after a bad night, since a stable wake time helps rebuild a healthy sleep drive faster than sleeping in does; cutting stimulating input (screens, hard conversations, intense exercise) in the last hour before bed on nights you're already behind; and, simplest of all, lowering your own expectations of your patience on days you know you're running a deficit, and deliberately building in more slack for the small stuff rather than trusting your usual baseline of tolerance."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["sleep", "irritability", "sleepDebt", "reactivity"],
+    "relatedDrillIds": ["comp_d30"],
+    "relatedCardIds": []
+  }
+]

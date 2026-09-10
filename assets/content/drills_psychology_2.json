@@ -1,0 +1,342 @@
+[
+  {
+    "id": "psy_d11",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify the pattern in how people judge their own competence.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d11_q1",
+        "prompt": "A novice at chess after learning the rules for a week feels certain he could beat a club champion, while an actual grandmaster describes feeling like there's still a great deal she doesn't understand about the game. What's this mismatch called?",
+        "type": "multipleChoice",
+        "options": ["Dunning-Kruger effect", "Halo effect", "Self-serving bias", "Overconfidence effect"],
+        "correctAnswer": "Dunning-Kruger effect",
+        "explanation": "People with limited skill in a domain often lack the very knowledge needed to recognize their own gaps, while genuine experts are more aware of how much remains to master."
+      },
+      {
+        "id": "psy_d11_q2",
+        "prompt": "A junior employee who just finished an online course confidently tells senior engineers their architecture is 'obviously wrong,' while the senior engineers, who've spent 15 years in the field, describe the tradeoffs as 'complicated' and avoid absolute statements. What best explains the junior employee's confidence?",
+        "type": "multipleChoice",
+        "options": ["Dunning-Kruger effect", "Authority bias", "Framing effect", "Hindsight bias"],
+        "correctAnswer": "Dunning-Kruger effect",
+        "explanation": "Limited expertise can produce inflated confidence because the skills needed to perform well in a domain often overlap with the skills needed to judge one's own performance accurately."
+      },
+      {
+        "id": "psy_d11_q3",
+        "prompt": "Which of the following would most directly help someone avoid overestimating their competence in an unfamiliar domain?",
+        "type": "multipleChoice",
+        "options": ["Seeking specific, critical feedback from people more skilled than themselves", "Trusting their gut instinct more", "Avoiding comparison to experts", "Focusing on how quickly they learned the basics"],
+        "correctAnswer": "Seeking specific, critical feedback from people more skilled than themselves",
+        "explanation": "Because self-assessment is unreliable precisely when skill is low, external, expert feedback is one of the few ways to close the gap between perceived and actual competence."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d12",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify how the presence of other people is shaping (or failing to shape) a person's willingness to help.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d12_q1",
+        "prompt": "A person collapses on a crowded train platform. Dozens of commuters glance over but keep walking, each apparently assuming someone else will step in — until, ten minutes later, no one has. What's this phenomenon called?",
+        "type": "multipleChoice",
+        "options": ["Bystander effect", "Groupthink", "In-group bias", "Social proof"],
+        "correctAnswer": "Bystander effect",
+        "explanation": "As the number of witnesses to an emergency increases, any individual's felt personal responsibility to act tends to decrease, since responsibility is diffused across the group."
+      },
+      {
+        "id": "psy_d12_q2",
+        "prompt": "A driver stops immediately to help a stranded motorist on an empty rural road at night, but says she probably would have assumed someone else would stop if it had happened on a busy highway during rush hour. What does her reasoning illustrate?",
+        "type": "multipleChoice",
+        "options": ["Diffusion of responsibility, a core mechanism of the bystander effect", "The halo effect", "Anchoring", "The sunk cost fallacy"],
+        "correctAnswer": "Diffusion of responsibility, a core mechanism of the bystander effect",
+        "explanation": "The more potential helpers who are present, the more each individual can rationalize that responsibility belongs to someone else, which is exactly the mechanism the driver describes."
+      },
+      {
+        "id": "psy_d12_q3",
+        "prompt": "In emergency-response training, which instruction is specifically designed to counteract the bystander effect in a crowd?",
+        "type": "multipleChoice",
+        "options": ["Point directly at one specific bystander and assign them a task, such as 'you, call 911'", "Wait for a person in a uniform to take charge", "Announce the emergency loudly to the whole crowd", "Assume the first person who reacts will coordinate everyone else"],
+        "correctAnswer": "Point directly at one specific bystander and assign them a task, such as 'you, call 911'",
+        "explanation": "Directly assigning responsibility to one named individual removes the ambiguity that allows diffusion of responsibility to take hold."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "psy_d13",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify how the person is attributing success and failure.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d13_q1",
+        "prompt": "A sales rep attributes a record quarter to her own skill and hard work, but attributes a bad quarter the following period to 'an unfair territory' and 'a slow market.' What pattern is this?",
+        "type": "multipleChoice",
+        "options": ["Self-serving bias", "Fundamental attribution error", "Halo effect", "Hindsight bias"],
+        "correctAnswer": "Self-serving bias",
+        "explanation": "Crediting successes to internal factors like skill while blaming failures on external circumstances is the defining asymmetry of self-serving bias."
+      },
+      {
+        "id": "psy_d13_q2",
+        "prompt": "A student who aces an exam says 'I really understood the material,' but after failing another exam says 'the test was unfair and badly written.' What is this pattern most likely to protect?",
+        "type": "multipleChoice",
+        "options": ["The student's self-esteem, by preserving a favorable self-image regardless of outcome", "The student's accurate calibration of their own ability", "The student's relationship with the professor", "The student's long-term memory of the material"],
+        "correctAnswer": "The student's self-esteem, by preserving a favorable self-image regardless of outcome",
+        "explanation": "Self-serving attributions are widely understood as a self-esteem protection mechanism, though they come at the cost of accurate self-assessment and learning from failure."
+      },
+      {
+        "id": "psy_d13_q3",
+        "prompt": "Which practice would most directly counteract self-serving bias when reviewing a failed project?",
+        "type": "multipleChoice",
+        "options": ["Explicitly listing the internal, controllable factors that contributed to the outcome, not just external ones", "Focusing only on what went right", "Comparing the outcome to a competitor's project", "Asking the team to vote on whether the project succeeded"],
+        "correctAnswer": "Explicitly listing the internal, controllable factors that contributed to the outcome, not just external ones",
+        "explanation": "Since the bias specifically suppresses attention to one's own contribution to failure, deliberately surfacing internal factors is the direct countermeasure."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d14",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and decide whether the person is overestimating their influence over a chance-driven outcome.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d14_q1",
+        "prompt": "A gambler blows on the dice and bets more aggressively when he gets to throw them himself than when someone else throws them for him, believing his throwing style affects the outcome. What is this called?",
+        "type": "multipleChoice",
+        "options": ["Illusion of control", "Gambler's fallacy", "Availability heuristic", "Anchoring"],
+        "correctAnswer": "Illusion of control",
+        "explanation": "Physically participating in a chance event — like throwing the dice yourself — commonly inflates a person's felt influence over a purely random outcome."
+      },
+      {
+        "id": "psy_d14_q2",
+        "prompt": "An office worker presses the elevator 'close door' button repeatedly, feeling that doing so speeds up the doors, even in buildings where that button is disconnected. What does this illustrate?",
+        "type": "multipleChoice",
+        "options": ["Illusion of control", "Just-world fallacy", "Status quo bias", "Halo effect"],
+        "correctAnswer": "Illusion of control",
+        "explanation": "The action of pressing a button creates a felt sense of causal influence over an outcome the person actually has no control over."
+      },
+      {
+        "id": "psy_d14_q3",
+        "prompt": "Which of these choices is a random, chance-driven outcome that illusion of control would predict people to feel unusually confident about, if they picked the outcome themselves rather than having it assigned?",
+        "type": "multipleChoice",
+        "options": ["Picking your own lottery numbers rather than getting a random quick-pick", "Choosing a doctor based on reviews", "Selecting a stock based on a company's earnings report", "Picking a restaurant based on a friend's recommendation"],
+        "correctAnswer": "Picking your own lottery numbers rather than getting a random quick-pick",
+        "explanation": "Studies on lottery tickets specifically find that people who chose their own numbers demand a higher price to sell the ticket back than people who received random numbers, despite identical odds."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d15",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "At the start of a home renovation, a couple estimates the kitchen remodel will take three weeks and cost $15,000, based on the contractor's quote and their own optimistic assumptions. Even though nearly every renovation they've heard about from friends took at least twice as long and cost significantly more, they're confident theirs will go smoothly because they've 'planned carefully.'",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d15_q1",
+        "prompt": "What is this pattern of underestimating time and cost called, and why does knowing other people's renovations ran long not seem to change the couple's own prediction?",
+        "type": "textInput",
+        "correctAnswer": "This is the planning fallacy — the tendency to underestimate how long a task will take or how much it will cost, even when you have direct evidence from similar past cases. People tend to focus on their own specific plan and best-case scenario ('inside view') rather than weighting the outside view of how similar projects have generally gone, which is why others' overruns don't automatically update their own prediction.",
+        "explanation": "The planning fallacy is a well-replicated finding, and the couple's reasoning shows the classic mechanism: substituting an optimistic, detail-specific inside view for the more accurate outside view based on comparable past cases."
+      },
+      {
+        "id": "psy_d15_q2",
+        "prompt": "What is one concrete step the couple could take to produce a more realistic estimate, using what actually happened in comparable renovations rather than their own specific plan?",
+        "type": "textInput",
+        "correctAnswer": "Examples: ask several people who've done similar renovations for their actual timeline and final cost, then use that distribution (not the contractor's best-case quote) as the baseline estimate; explicitly build in a buffer based on the average overrun reported by others; ask the contractor for their worst-case timeline in addition to the best case.",
+        "explanation": "This is exactly the 'reference class forecasting' technique recommended as the standard fix for the planning fallacy — anchoring the estimate to the actual outcomes of comparable past projects rather than to the specifics of the current plan."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d16",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Read each scenario and identify whether the person's judgment reflects a belief that the world is fundamentally fair — that people generally get what they deserve.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d16_q1",
+        "prompt": "After hearing that a coworker was laid off, a colleague immediately assumes 'she probably wasn't working hard enough,' without knowing anything about the actual reasons for the layoff. What is this reasoning an example of?",
+        "type": "multipleChoice",
+        "options": ["Just-world fallacy", "Fundamental attribution error", "Hindsight bias", "Sunk cost fallacy"],
+        "correctAnswer": "Just-world fallacy",
+        "explanation": "Assuming a bad outcome must be deserved, absent any actual evidence, reflects the need to believe the world is fundamentally fair — bad things only happen to people who 'deserve' them."
+      },
+      {
+        "id": "psy_d16_q2",
+        "prompt": "A juror reasons that a robbery victim 'must have been careless' simply because they were robbed, even though the victim did everything reasonably expected for personal safety. What motivates this kind of reasoning, according to research on the just-world fallacy?",
+        "type": "multipleChoice",
+        "options": ["A psychological need to believe the world is fair, which is threatened by random, undeserved misfortune", "A desire to protect the defendant", "Confirmation bias about the defendant's guilt", "Reciprocity toward the victim"],
+        "correctAnswer": "A psychological need to believe the world is fair, which is threatened by random, undeserved misfortune",
+        "explanation": "Blaming a victim for misfortune they didn't cause helps preserve the belief that bad things only happen for a reason — protecting the believer's sense that the world is orderly and controllable."
+      },
+      {
+        "id": "psy_d16_q3",
+        "prompt": "Which statement best reflects a more accurate, less just-world-biased view of misfortune?",
+        "type": "multipleChoice",
+        "options": ["Bad things sometimes happen to people through no fault of their own, and their character shouldn't be inferred from the outcome alone", "If something bad happens to someone, they probably did something to deserve it", "People who suffer setbacks typically lack good judgment", "Fair outcomes are the norm, so misfortune usually signals a personal failing"],
+        "correctAnswer": "Bad things sometimes happen to people through no fault of their own, and their character shouldn't be inferred from the outcome alone",
+        "explanation": "This directly rejects the assumption that outcomes reliably track deservingness, which is the core distortion the just-world fallacy produces."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d17",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify how the person is weighing immediate versus future rewards.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d17_q1",
+        "prompt": "Someone repeatedly chooses to stay up late watching videos, even though they know full well they'll regret it and feel exhausted the next day — a tradeoff they say they'd never make if asked in the abstract, a week in advance. What does this reveal?",
+        "type": "multipleChoice",
+        "options": ["Present bias — the pull of an immediate reward is disproportionately stronger than the same tradeoff considered in advance", "The sunk cost fallacy", "The framing effect", "Loss aversion"],
+        "correctAnswer": "Present bias — the pull of an immediate reward is disproportionately stronger than the same tradeoff considered in advance",
+        "explanation": "People often value immediate rewards far more than a rational, consistent discounting of the future would predict, which is why the same tradeoff looks different up close than it does from a week away."
+      },
+      {
+        "id": "psy_d17_q2",
+        "prompt": "Given a choice between $100 today and $110 in a week, many people take the $100 now — but given a choice between $100 in 30 days and $110 in 37 days, most people are happy to wait the extra week. What does this inconsistency demonstrate?",
+        "type": "multipleChoice",
+        "options": ["Hyperbolic discounting: the pull of 'now' is disproportionate, even though the actual time delay (7 days) is identical in both choices", "The anchoring effect", "The halo effect", "The availability heuristic"],
+        "correctAnswer": "Hyperbolic discounting: the pull of 'now' is disproportionate, even though the actual time delay (7 days) is identical in both choices",
+        "explanation": "A consistent discount rate would treat both choices the same way; the fact that immediacy specifically changes the preference is the signature of hyperbolic, rather than exponential, discounting."
+      },
+      {
+        "id": "psy_d17_q3",
+        "prompt": "Which strategy is most directly designed to counteract present bias in saving for retirement?",
+        "type": "multipleChoice",
+        "options": ["Automatically enrolling employees in a savings plan by default, so the future-oriented choice requires no in-the-moment decision", "Giving employees a detailed lecture on compound interest", "Asking employees to predict their retirement date", "Offering a one-time bonus for signing up"],
+        "correctAnswer": "Automatically enrolling employees in a savings plan by default, so the future-oriented choice requires no in-the-moment decision",
+        "explanation": "Default enrollment removes the moment-of-choice tradeoff where present bias would normally favor immediate consumption over future saving, which is why default-based programs measurably increase savings rates."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d18",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're offered a choice: a guaranteed $50, or a coin flip with a 50% chance of winning $110 and a 50% chance of winning nothing. Even though the coin flip has a higher expected value ($55 vs. $50), you take the guaranteed $50. Later that day, you're offered a different choice: a guaranteed loss of $50, or a coin flip with a 50% chance of losing $110 and a 50% chance of losing nothing. This time, you take the coin flip, even though it has a worse expected value (-$55 vs. -$50).",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d18_q1",
+        "prompt": "What does the pattern across these two choices reveal about how losses and gains are weighed, and why does the same person become risk-averse for gains but risk-seeking for losses?",
+        "type": "textInput",
+        "correctAnswer": "This reflects loss aversion: losses are felt roughly twice as strongly as equivalent gains, so people become cautious (risk-averse) when protecting a sure gain, but become willing to gamble (risk-seeking) when trying to avoid a sure loss, even at worse expected value. The underlying asymmetry is that the pain of losing $50 outweighs the pleasure of an equivalent $50 gain, which flips the person's risk preference depending on how the choice is framed as a gain or a loss.",
+        "explanation": "This is the classic gain/loss framing pattern documented in prospect theory: risk-aversion for gains paired with risk-seeking for losses, driven by losses being weighted more heavily than equivalent gains."
+      },
+      {
+        "id": "psy_d18_q2",
+        "prompt": "How might a financial advisor use an understanding of loss aversion to help a client stick to a long-term investment plan during a market downturn?",
+        "type": "textInput",
+        "correctAnswer": "Examples: frame the downturn as a paper loss that is only realized if the client sells, rather than a locked-in loss, since realizing it triggers the sharper emotional pain of loss aversion; show the client the plan's original long-term goal rather than the day-to-day balance, since frequent checking of losses increases the temptation to sell at a bad time; pre-commit to a rule (like not checking the account for months) before the downturn happens, when the client is not yet in a loss-averse emotional state.",
+        "explanation": "Because loss aversion is triggered by attention to losses at the moment of decision, reducing the frequency and salience of loss-framed information is a well-supported way to help investors avoid panic-selling."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d19",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A city council member has publicly championed a new transit project for two years. When an independent audit finds the project is significantly over budget and behind schedule, she reads the report carefully but focuses her public response entirely on the audit's methodology, questioning its assumptions and sample size, while barely addressing the budget and schedule findings themselves.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d19_q1",
+        "prompt": "What is this pattern of reasoning called, and how does it differ from someone who is simply lying about the audit's findings?",
+        "type": "textInput",
+        "correctAnswer": "This is motivated reasoning: rather than knowingly lying, the council member is likely genuinely, sincerely unconvinced by the report, because her prior public commitment to the project creates a motivation to find reasons to discount unwelcome evidence. Unlike deliberate lying, motivated reasoning operates largely below conscious awareness — she may honestly believe her methodological critique is fair, even though the same critique would likely not occur to her, or would be judged less harshly, if the audit had confirmed the project was on track.",
+        "explanation": "Motivated reasoning is distinct from lying precisely because it's not consciously strategic — the person genuinely believes their selectively critical evaluation is objective, because the motivation shapes what counts as a 'flaw' in evidence they don't want to accept."
+      },
+      {
+        "id": "psy_d19_q2",
+        "prompt": "What is one concrete practice that could help someone in this position evaluate unwelcome evidence more fairly, given that the bias operates largely outside conscious awareness?",
+        "type": "textInput",
+        "correctAnswer": "Examples: before reading the report, write down in advance what evidence or methodology would be considered a fair critique regardless of the conclusion, so standards aren't set after seeing the (unwelcome) result; ask a neutral third party with no stake in the project's outcome to independently evaluate whether the same methodological critique would apply equally to a report that had reached the opposite conclusion; deliberately seek out one person likely to disagree with the project and ask them to stress-test her response before making it public.",
+        "explanation": "Pre-committing to evaluation standards before seeing the result, and seeking genuinely disinterested outside review, are among the few practices with research support for reducing motivated reasoning, since they remove the opportunity to adjust the bar for evidence after the fact."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d20",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A restaurant owner reads ten reviews of her new location: eight are glowingly positive, and two are sharply critical about slow service one night. She finds herself dwelling on the two negative reviews for days, mentally rehearsing them, while the eight positive ones barely register a day later.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d20_q1",
+        "prompt": "What is this asymmetry in emotional impact called, and why might it have made evolutionary sense even though it can feel disproportionate in daily life?",
+        "type": "textInput",
+        "correctAnswer": "This is negativity bias — negative information and events tend to have a stronger, more lasting psychological impact than equally significant positive ones. It likely has roots in survival value: for an organism where the cost of missing a threat (a predator, spoiled food, a social betrayal) is much higher than the cost of missing an equivalent opportunity, weighting negative information more heavily was adaptive, even though in modern contexts like reading restaurant reviews it can produce disproportionate rumination over a small fraction of the feedback.",
+        "explanation": "Negativity bias is a well-documented and broadly reproducible finding across memory, attention, and emotional response, and evolutionary accounts commonly point to the asymmetric cost of missing threats versus missing opportunities."
+      },
+      {
+        "id": "psy_d20_q2",
+        "prompt": "What is one practical habit the restaurant owner could use to keep the two negative reviews from dominating her overall sense of how the restaurant is doing?",
+        "type": "textInput",
+        "correctAnswer": "Examples: deliberately tally or re-read the positive reviews with the same attention she gives the negative ones, rather than letting the negative ones get disproportionate rehearsal; look at the actual ratio (8 positive to 2 negative) as a number rather than trusting her felt impression, which negativity bias will have skewed; separate 'is there an actionable fix here' (worth addressing, like slow service) from 'how should I feel about the business overall,' since the two negative reviews may warrant a fix without warranting the emotional weight she's giving them.",
+        "explanation": "Because negativity bias distorts the felt weight of information rather than the actual distribution of it, deliberately re-examining the real ratio of feedback is a direct, practical countermeasure."
+      }
+    ],
+    "estimatedMinutes": 4
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "id": "lib_gen_book01",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "Thinking, Fast and Slow",
+    "subtitle": "Daniel Kahneman",
+    "description": "Kahneman's synthesis of decades of research (much with Amos Tversky) on two modes of thought—fast, intuitive System 1 and slow, deliberate System 2—and the systematic biases that arise when the fast system is left unchecked.",
+    "tags": [
+      "decision-making",
+      "cognitive-bias"
+    ]
+  },
+  {
+    "id": "lib_gen_book02",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "Influence: The Psychology of Persuasion",
+    "subtitle": "Robert Cialdini",
+    "description": "Cialdini identifies a small set of psychological principles—reciprocity, commitment, social proof, authority, liking, and scarcity—that reliably drive compliance, based on both experiments and his own fieldwork inside sales organizations.",
+    "tags": [
+      "persuasion",
+      "compliance"
+    ]
+  },
+  {
+    "id": "lib_gen_book03",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "How to Win Friends and Influence People",
+    "subtitle": "Dale Carnegie",
+    "description": "A decades-old but still widely read guide to basic interpersonal communication—genuine interest in others, remembering names, and avoiding direct criticism—that remains a common reference point for practical people skills.",
+    "tags": [
+      "communication",
+      "interpersonal"
+    ]
+  },
+  {
+    "id": "lib_gen_book04",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "Nonviolent Communication: A Language of Life",
+    "subtitle": "Marshall B. Rosenberg",
+    "description": "A structured communication framework (observation, feeling, need, request) designed to express honestly and listen empathically even in conflict, developed by Rosenberg from his work in mediation and civil rights contexts.",
+    "tags": [
+      "communication",
+      "conflict"
+    ]
+  },
+  {
+    "id": "lib_gen_book05",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "Predictably Irrational",
+    "subtitle": "Dan Ariely",
+    "description": "Ariely's behavioral economics experiments show that people's departures from 'rational' decision-making are not random but follow consistent, predictable patterns—relevant to understanding real human judgment rather than idealized models of it.",
+    "tags": [
+      "behavioral-economics",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "lib_gen_book06",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "The Righteous Mind",
+    "subtitle": "Jonathan Haidt",
+    "description": "Haidt examines why people with different political and moral commitments struggle to persuade each other, arguing moral judgments are grounded in intuition first and reasoning second.",
+    "tags": [
+      "moral-psychology",
+      "persuasion"
+    ]
+  },
+  {
+    "id": "lib_gen_book07",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "Never Split the Difference",
+    "subtitle": "Chris Voss (with Tahl Raz)",
+    "description": "A former FBI lead hostage negotiator's account of negotiation tactics—tactical empathy, calibrated questions, active listening—developed under genuinely high-stakes conditions and adapted for everyday use.",
+    "tags": [
+      "negotiation",
+      "communication"
+    ]
+  },
+  {
+    "id": "lib_gen_book08",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "subtitle": "Susan Cain",
+    "description": "Cain reviews personality psychology research on introversion and extroversion, challenging the assumption that effective communication and leadership require an extroverted style.",
+    "tags": [
+      "personality",
+      "introversion"
+    ]
+  },
+  {
+    "id": "lib_gen_book09",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "Sapiens: A Brief History of Humankind",
+    "subtitle": "Yuval Noah Harari",
+    "description": "A sweeping account of human history organized around the idea that shared stories—money, nations, religions—are what allow large numbers of strangers to cooperate, a useful broad lens on group behavior.",
+    "tags": [
+      "human-behavior",
+      "history"
+    ]
+  },
+  {
+    "id": "lib_gen_book10",
+    "disciplineId": "general",
+    "type": "book",
+    "title": "Blink: The Power of Thinking Without Thinking",
+    "subtitle": "Malcolm Gladwell",
+    "description": "Gladwell explores rapid, unconscious judgment ('thin-slicing'), presenting cases where snap decisions outperform deliberation as well as cases where the same fast judgments go badly wrong.",
+    "tags": [
+      "intuition",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "lib_gen_expert01",
+    "disciplineId": "general",
+    "type": "expert",
+    "title": "Daniel Kahneman",
+    "subtitle": "Psychologist; 2002 Nobel Memorial Prize in Economic Sciences",
+    "description": "Kahneman and his longtime collaborator Amos Tversky founded much of modern behavioral economics by documenting systematic biases in human judgment under uncertainty.",
+    "tags": [
+      "behavioral-economics",
+      "judgment"
+    ]
+  },
+  {
+    "id": "lib_gen_expert02",
+    "disciplineId": "general",
+    "type": "expert",
+    "title": "Robert Cialdini",
+    "subtitle": "Professor emeritus, Arizona State University",
+    "description": "Cialdini's persuasion research is unusual for its method: he took entry-level jobs in sales, fundraising, and advertising to study compliance professionals' techniques directly, work he later extended in 'Pre-Suasion.'",
+    "tags": [
+      "persuasion",
+      "field-research"
+    ]
+  },
+  {
+    "id": "lib_gen_expert03",
+    "disciplineId": "general",
+    "type": "expert",
+    "title": "Jonathan Haidt",
+    "subtitle": "Social psychologist, NYU Stern School of Business",
+    "description": "Beyond his work on moral intuition, Haidt co-founded Heterodox Academy to promote viewpoint diversity in research, and more recently wrote 'The Anxious Generation' on adolescent mental health and technology.",
+    "tags": [
+      "moral-psychology",
+      "research"
+    ]
+  },
+  {
+    "id": "lib_gen_area01",
+    "disciplineId": "general",
+    "type": "researchArea",
+    "title": "Behavioral Economics",
+    "subtitle": "",
+    "description": "A field, recognized with the 2017 Nobel Memorial Prize awarded to Richard Thaler, that studies how real human decision-making systematically departs from the rational-actor assumptions of classical economic models.",
+    "tags": [
+      "behavioral-economics"
+    ]
+  },
+  {
+    "id": "lib_gen_area02",
+    "disciplineId": "general",
+    "type": "researchArea",
+    "title": "Dual-Process Theory of Cognition",
+    "subtitle": "",
+    "description": "A well-studied framework in cognitive psychology distinguishing fast, automatic thought processes from slower, effortful, deliberate ones, used to explain a wide range of judgment and decision-making phenomena.",
+    "tags": [
+      "cognition",
+      "dual-process"
+    ]
+  }
+]

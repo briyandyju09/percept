@@ -1,0 +1,244 @@
+[
+  {
+    "id": "lib_conv_book01",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "Nonviolent Communication: A Language of Life",
+    "subtitle": "Marshall B. Rosenberg",
+    "description": "Lays out a four-part framework, observation, feeling, need, and request, for expressing oneself and listening to others without triggering defensiveness, developed by Rosenberg through decades of mediation work in conflict zones and schools.",
+    "tags": [
+      "NVC",
+      "empathy",
+      "conflict resolution"
+    ]
+  },
+  {
+    "id": "lib_conv_book02",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "Difficult Conversations",
+    "subtitle": "Douglas Stone, Bruce Patton & Sheila Heen",
+    "description": "From the Harvard Negotiation Project, this book breaks a hard conversation into three simultaneous layers, what happened, feelings, and identity, and argues most conflicts escalate because people fight over the first while the real friction is in the other two.",
+    "tags": [
+      "difficult conversations",
+      "conflict"
+    ]
+  },
+  {
+    "id": "lib_conv_book03",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "Crucial Conversations",
+    "subtitle": "Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler",
+    "description": "A practical framework for staying honest and staying in dialogue during conversations where stakes are high, opinions differ, and emotions run strong, built around noticing early when a conversation is shifting from productive dialogue into silence or attack.",
+    "tags": [
+      "high-stakes conversation",
+      "dialogue"
+    ]
+  },
+  {
+    "id": "lib_conv_book04",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "Never Split the Difference",
+    "subtitle": "Chris Voss & Tahl Raz",
+    "description": "A former FBI lead hostage negotiator's account of tactics like mirroring, labeling, and calibrated open-ended questions, developed in life-or-death negotiations and adapted here for everyday and business negotiation.",
+    "tags": [
+      "negotiation",
+      "tactical empathy"
+    ]
+  },
+  {
+    "id": "lib_conv_book05",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "Getting to Yes",
+    "subtitle": "Roger Fisher & William Ury",
+    "description": "The foundational text of principled negotiation from the Harvard Negotiation Project, arguing for separating people from the problem, focusing on underlying interests rather than stated positions, and knowing your best alternative before you negotiate.",
+    "tags": [
+      "negotiation",
+      "interest-based bargaining"
+    ]
+  },
+  {
+    "id": "lib_conv_book06",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "You're Not Listening",
+    "subtitle": "Kate Murphy",
+    "description": "A journalist examines why genuine listening has become rare, drawing on interviews with hostage negotiators, bartenders, and CIA officers to show that most people listen for a gap to speak rather than to actually understand.",
+    "tags": [
+      "active listening",
+      "attention in conversation"
+    ]
+  },
+  {
+    "id": "lib_conv_book07",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "Just Listen",
+    "subtitle": "Mark Goulston",
+    "description": "Written by a psychiatrist who trained hostage negotiators, this book focuses on techniques for reaching people who feel unheard or defensive, arguing that most persuasion fails because it skips past making the other person feel understood first.",
+    "tags": [
+      "listening",
+      "persuasion",
+      "rapport"
+    ]
+  },
+  {
+    "id": "lib_conv_book08",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "Supercommunicators",
+    "subtitle": "Charles Duhigg",
+    "description": "Synthesizes research on why some conversations click and others fall flat, centered on the idea that every conversation is really a practical, emotional, or social one, and that talking past each other often happens when people are having different types of conversation at once.",
+    "tags": [
+      "rapport",
+      "conversation types"
+    ]
+  },
+  {
+    "id": "lib_conv_book09",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "The Lost Art of Listening",
+    "subtitle": "Michael P. Nichols",
+    "description": "A family therapist's clinically grounded look at why listening breaks down even between people who care about each other, focused on how the urge to fix, judge, or relate everything back to yourself gets in the way of hearing what someone actually means.",
+    "tags": [
+      "listening",
+      "relationships"
+    ]
+  },
+  {
+    "id": "lib_conv_book10",
+    "disciplineId": "conversation",
+    "type": "book",
+    "title": "How to Have Impossible Conversations",
+    "subtitle": "Peter Boghossian & James Lindsay",
+    "description": "A practical guide to discussing deeply divisive topics without triggering defensiveness, drawing on street epistemology and Socratic questioning techniques to keep a conversation about differing convictions from turning into a standoff.",
+    "tags": [
+      "polarized topics",
+      "Socratic questioning"
+    ]
+  },
+  {
+    "id": "lib_conv_expert01",
+    "disciplineId": "conversation",
+    "type": "expert",
+    "title": "Marshall B. Rosenberg",
+    "subtitle": "Psychologist; founder of Nonviolent Communication",
+    "description": "Rosenberg developed and personally mediated NVC in some of the most conflict-heavy settings possible, including Rwanda, Israel, and Palestine, arguing that most conflict escalates not over stated positions but over unmet needs that never get named.",
+    "tags": [
+      "NVC",
+      "mediation"
+    ]
+  },
+  {
+    "id": "lib_conv_expert02",
+    "disciplineId": "conversation",
+    "type": "expert",
+    "title": "Chris Voss",
+    "subtitle": "Former lead FBI international hostage negotiator; founder, The Black Swan Group",
+    "description": "Voss spent over two decades negotiating with kidnappers and terrorists for the FBI and now teaches 'tactical empathy,' the idea that acknowledging another party's emotional state, rather than only their arguments, is what actually opens room to negotiate.",
+    "tags": [
+      "hostage negotiation",
+      "tactical empathy"
+    ]
+  },
+  {
+    "id": "lib_conv_expert03",
+    "disciplineId": "conversation",
+    "type": "expert",
+    "title": "William Ury",
+    "subtitle": "Co-founder, Harvard Program on Negotiation",
+    "description": "Beyond co-authoring Getting to Yes, Ury has mediated in conflicts including Cold War arms-control talks, and later worked focused specifically on 'getting to yes with yourself' first, arguing that internal readiness shapes whether a negotiation with someone else can succeed at all.",
+    "tags": [
+      "negotiation",
+      "conflict mediation"
+    ]
+  },
+  {
+    "id": "lib_conv_expert04",
+    "disciplineId": "conversation",
+    "type": "expert",
+    "title": "Carl Rogers",
+    "subtitle": "Humanistic psychologist; developed person-centered therapy",
+    "description": "Rogers's concept of unconditional positive regard and his method of reflective listening, restating what a speaker seems to mean and feel before responding, became foundational to how active listening is taught far outside of therapy, in negotiation, coaching, and everyday rapport-building.",
+    "tags": [
+      "active listening",
+      "person-centered therapy"
+    ]
+  },
+  {
+    "id": "lib_conv_expert05",
+    "disciplineId": "conversation",
+    "type": "expert",
+    "title": "John Gottman",
+    "subtitle": "Psychologist; co-founder, The Gottman Institute",
+    "description": "Through decades of recorded observation of couples' conversations, Gottman identified specific communication patterns, criticism, contempt, defensiveness, and stonewalling, that predict relationship breakdown with unusually high reliability in his research samples.",
+    "tags": [
+      "relationship communication",
+      "conflict patterns"
+    ]
+  },
+  {
+    "id": "lib_conv_area01",
+    "disciplineId": "conversation",
+    "type": "researchArea",
+    "title": "Active listening",
+    "subtitle": "",
+    "description": "A well-established communication practice, rooted in Carl Rogers's clinical work, of reflecting back the content and emotion of what a speaker says before responding, shown across studies to increase a speaker's sense of being understood and to reduce escalation in disagreements.",
+    "tags": [
+      "listening",
+      "rapport"
+    ]
+  },
+  {
+    "id": "lib_conv_area02",
+    "disciplineId": "conversation",
+    "type": "researchArea",
+    "title": "Rapport and behavioral mimicry",
+    "subtitle": "",
+    "description": "Research on the 'chameleon effect' finds that people unconsciously mirror one another's posture, tone, and mannerisms during positive interactions, and that deliberate, subtle mirroring can increase liking and cooperation, though the effect is modest and easily undermined if it comes across as forced.",
+    "tags": [
+      "rapport",
+      "mirroring"
+    ]
+  },
+  {
+    "id": "lib_conv_area03",
+    "disciplineId": "conversation",
+    "type": "researchArea",
+    "title": "BATNA and negotiation leverage",
+    "subtitle": "",
+    "description": "A core concept from negotiation theory, the Best Alternative to a Negotiated Agreement, holding that a party's real leverage in any negotiation comes from how good their walk-away option is, not from how forcefully they argue their position.",
+    "tags": [
+      "negotiation theory",
+      "leverage"
+    ]
+  },
+  {
+    "id": "lib_conv_area04",
+    "disciplineId": "conversation",
+    "type": "researchArea",
+    "title": "The Four Horsemen of relationship communication",
+    "subtitle": "",
+    "description": "From John Gottman's long-running observational studies of couples, four specific communication patterns, criticism, contempt, defensiveness, and stonewalling, were found to predict relationship dissolution with notable accuracy, giving conversational red flags a real empirical basis rather than folk wisdom alone.",
+    "tags": [
+      "conflict patterns",
+      "relationship research"
+    ]
+  },
+  {
+    "id": "lib_conv_area05",
+    "disciplineId": "conversation",
+    "type": "researchArea",
+    "title": "Tactical empathy",
+    "subtitle": "",
+    "description": "A negotiation approach, developed from FBI hostage-negotiation practice, centered on explicitly naming the other party's likely emotions and constraints (labeling) and repeating back their last few words (mirroring) to draw out more information and lower defensiveness, rather than leading with your own counter-arguments.",
+    "tags": [
+      "negotiation",
+      "empathy"
+    ]
+  }
+]

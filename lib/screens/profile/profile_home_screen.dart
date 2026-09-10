@@ -97,7 +97,7 @@ class ProfileHomeScreen extends ConsumerWidget {
         padding: const EdgeInsets.symmetric(vertical: PerceptSpacing.sm),
         child: Row(
           children: [
-            Text(glyph, style: const TextStyle(fontSize: 18)),
+            Text(glyph, style: const TextStyle(fontSize: PerceptGlyphSize.row)),
             const SizedBox(width: PerceptSpacing.md),
             Expanded(child: Text(label, style: PerceptTypography.body(context.textPrimary))),
             Icon(CupertinoIcons.chevron_forward, size: 16, color: context.textTertiary),

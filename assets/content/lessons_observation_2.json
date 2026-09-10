@@ -1,0 +1,408 @@
+[
+  {
+    "id": "obs_l09",
+    "disciplineId": "observation",
+    "title": "Training Peripheral Vision",
+    "hook": "Most of what you'll ever notice first arrives in the corners of your eyes, not the center — and almost nobody trains that on purpose.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Your retina isn't uniform. The center — the fovea — is packed with cone cells built for color and fine detail, but it covers only the middle two degrees of your visual field. Everything outside that is periphery, dominated by rod cells that are far more sensitive to motion, contrast, and low light, but nearly useless for reading text or identifying a face. This is why you can 'sense' someone approaching from the side well before you could describe what they're wearing — your peripheral system flagged movement long before your central vision had a chance to resolve it."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Peripheral vision is built to detect, not to identify. Treat a peripheral catch as a cue to look, never as a finished observation."
+      },
+      {
+        "type": "paragraph",
+        "text": "You can train the detection side deliberately. Pick a fixed point ahead of you — a doorknob, a distant sign — and hold your gaze there without letting your eyes drift. Without moving your eyes, try to name what's happening at the edges of your vision: a color, a shape, movement, nothing more specific than that. Walk a familiar hallway the same way, gaze forward, attention pushed outward. Most people are startled by how much is already there once they stop letting their eyes do all the work and let attention range independently of gaze."
+      },
+      {
+        "type": "paragraph",
+        "text": "This matters most in places where turning your head to check everything would be exhausting or socially strange — a train platform, a busy kitchen, a meeting room. Peripheral awareness lets you keep a loose read on a wide space while your center of gaze stays on the task or conversation in front of you. It's a background process, not a substitute for direct attention when something actually needs it."
+      },
+      {
+        "type": "keyPoint",
+        "text": "A strong peripheral catch still needs a direct look before you act on it — the periphery tells you where to point your attention, not what's there."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": [
+      "peripheral vision",
+      "training",
+      "attention"
+    ],
+    "relatedDrillIds": [
+      "obs_d20",
+      "obs_d13"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l10",
+    "disciplineId": "observation",
+    "title": "Reading a Crowd Without Getting Lost in It",
+    "hook": "A crowd isn't a thousand strangers to scan one by one — it's a shape with a current, and the current is what you actually need to read.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Start with a coarse sweep before zooming into detail. Divide any crowded space into near, mid, and far zones, and notice the density gradient across them — where people are packed tight, where there's room to move, where a gap has opened for no obvious reason. That gradient alone tells you more about a space in three seconds than trying to track individual faces ever will."
+      },
+      {
+        "type": "paragraph",
+        "text": "Most crowds have a dominant direction of flow — toward an exit, along a platform, around a stage. Once you've found that current, the far more useful thing to notice isn't the crowd itself but who breaks from it: the person moving against the grain, the one standing completely still while everyone else drifts past, the cluster that's noticeably denser than the space around it."
+      },
+      {
+        "type": "keyPoint",
+        "text": "In a crowd, the anomaly is the signal: the person going against the flow, the one not moving at all, the cluster that's denser than it should be."
+      },
+      {
+        "type": "paragraph",
+        "text": "People whose job depends on reading crowds — ushers, security staff, event coordinators — tend to scan in structured sectors, left to right and near to far, rather than letting their gaze wander freely. That's not habit for its own sake: working memory holds only three or four items comfortably at once, and a systematic sweep guarantees coverage in a way that free-roaming attention doesn't."
+      },
+      {
+        "type": "paragraph",
+        "text": "The caution runs the other way, too. A crowd-level read — 'this line feels tense,' 'this room feels restless' — describes an aggregate mood, not a guarantee about any single person inside it. Treat a crowd read as a weather forecast for the room, not a verdict about any one person standing in it."
+      },
+      {
+        "type": "keyPoint",
+        "text": "A crowd read is a probability about the room, never a fact about one person in it."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": [
+      "crowds",
+      "public spaces",
+      "pattern recognition"
+    ],
+    "relatedDrillIds": [
+      "obs_d20",
+      "obs_d46"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l11",
+    "disciplineId": "observation",
+    "title": "The Notification That Wasn't There",
+    "hook": "The most useful thing Priya noticed that morning wasn't on the screen — it was what was missing from it.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Priya, an office admin, drops a stack of signed papers on a coworker's desk and glances at his monitor out of habit. His inbox, usually cluttered with a few dozen unread messages, reads zero. Odd, she thinks, and files it away without another thought."
+      },
+      {
+        "type": "paragraph",
+        "text": "Weeks later it clicks: he'd been quietly clearing his inbox in the days before announcing he was leaving the company. The tell hadn't been something new appearing on his screen — it was something familiar disappearing from it. Reading a screen, she realizes, is often about noticing what's changed by vanishing, not just what's changed by showing up: an app that's always open now closed, a tab count that's suddenly low, a battery indicator reading a percentage that doesn't match the time of day."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Interfaces leak information through absence as often as through what's displayed — a missing icon, an empty inbox, an unusually clean desktop."
+      },
+      {
+        "type": "paragraph",
+        "text": "The underlying principle holds for any screen: timestamps, read receipts, notification badges, and battery levels all carry real information the same way a scuffed shoe or a wilted plant does in the physical world. The same discipline applies too — notice, don't assume, and verify before acting on what a glance suggested."
+      },
+      {
+        "type": "keyPoint",
+        "text": "A glance can register a detail; lingering to read someone's screen is a choice, and it's the wrong one."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": [
+      "digital observation",
+      "screens",
+      "ethics"
+    ],
+    "relatedDrillIds": [
+      "obs_d31"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l12",
+    "disciplineId": "observation",
+    "title": "What Does the Dark Actually Hide?",
+    "hook": "Ask what your eyes actually lose after sunset, and the honest answer is more specific — and more useful — than 'everything.'",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "What do you lose first in low light? Color. The cone cells that give you color vision need far more light than the rod cells that take over in dim conditions, which is why a red jacket at dusk can look almost gray. Fine detail goes next — reading a face or a small label gets unreliable well before it becomes truly dark."
+      },
+      {
+        "type": "paragraph",
+        "text": "What do you keep? Motion and rough shape. Rods are far more sensitive to movement and contrast than cones, so you'll often 'catch' that something moved in the dark well before you could say what it was. This is also why looking slightly to the side of a dim object, rather than straight at it, often lets you see it better — you're shifting the image onto the rod-dense periphery instead of the cone-dense center."
+      },
+      {
+        "type": "keyPoint",
+        "text": "In low light, look slightly off to the side of what you're trying to see, not directly at it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Why does full night vision take so long to arrive? Rod adaptation is a slow chemical process — it takes twenty to thirty minutes for your eyes to reach their full dark sensitivity, and a single bright flash, like a phone screen or headlights, resets much of that progress instantly."
+      },
+      {
+        "type": "paragraph",
+        "text": "So what should you actually trust in the dark? Motion and silhouette, cautiously. Not color, not fine identification. The honest move in low light isn't to squint harder — it's to lower your confidence in what you think you saw and, where it matters, confirm with another sense or another light source before acting."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": [
+      "low light",
+      "night vision",
+      "attention"
+    ],
+    "relatedDrillIds": [
+      "obs_d29",
+      "obs_d49"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l13",
+    "disciplineId": "observation",
+    "title": "Noticing Under Pressure",
+    "hook": "A calm scan and a scan under adrenaline are not the same skill — the second one has to be built on purpose.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "During a chaotic multi-patient intake, an ER triage nurse nearly missed a subtle but serious sign in a quiet patient because her attention had locked onto the loudest, most visually obvious case in the room. She caught it only because of a pre-trained habit: a deliberate second wide scan of the whole bay before moving on to the next task, run almost automatically regardless of how the first pass had gone."
+      },
+      {
+        "type": "paragraph",
+        "text": "The mechanism behind the near-miss is well documented and close to universal: acute stress and adrenaline reliably narrow the attentional field. Gross threat detection sharpens, but peripheral awareness and fine detail both degrade, and it happens faster than conscious control can compensate for."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Stress buys you sharper focus on the obvious threat and a narrower field around it — plan for the narrowing rather than trying to will it away."
+      },
+      {
+        "type": "paragraph",
+        "text": "There are real countermeasures. A few slow breaths before scanning measurably widens attention back out. Deciding in advance exactly what you're checking for — a pre-brief — means the check needs less spare attention capacity, which matters most exactly when stress is what's taking that spare capacity away. And building a 'second wide scan' into a fixed routine means it runs on habit rather than requiring a deliberate choice in the moment."
+      },
+      {
+        "type": "keyPoint",
+        "text": "You can't out-think tunnel vision in the moment it happens — you can only pre-build habits that need less attention to run."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": [
+      "stress",
+      "situational awareness",
+      "adrenaline"
+    ],
+    "relatedDrillIds": [
+      "obs_d29",
+      "obs_d39"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l14",
+    "disciplineId": "observation",
+    "title": "Build Yourself a Memory Palace",
+    "hook": "You already have a perfect scaffold for remembering anything you can see — it's the layout of a place you already know by heart.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Pick a route you could walk with your eyes closed — your childhood home, your regular commute, your apartment. That's your palace. The method of loci works because your brain is extraordinarily good at remembering spatial layouts, far better than it is at remembering plain lists, so you're going to borrow that strength and lend it to whatever you actually need to recall."
+      },
+      {
+        "type": "paragraph",
+        "text": "Walk the route in your head and assign one detail to each stop, in order. If you just scanned a desk — laptop, stapler, two pens, sticky note, framed photo — put the laptop at your front door, the stapler on the hallway rug, the pens on the kitchen counter, the sticky note on the fridge, the photo on the table. Make each image a little absurd or oversized; strange images stick far better than plain ones."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Order matters more than logic — walk the same route every time, and let the images be strange rather than sensible."
+      },
+      {
+        "type": "paragraph",
+        "text": "To recall later, walk the palace again in your head, stop by stop, and read off what you placed. This takes real practice before it feels fast — your first few palaces will feel clumsy and slow, and that's normal. Start with palaces of five or six items before trying to stretch to twenty. The method scales with rehearsal, not with talent."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Don't expect instant results — a memory palace is a technique you get faster at, not a trick that works on the first try."
+      }
+    ],
+    "estimatedMinutes": 9,
+    "tags": [
+      "memory palace",
+      "visual memory",
+      "technique"
+    ],
+    "relatedDrillIds": [
+      "obs_d18",
+      "obs_d24"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l15",
+    "disciplineId": "observation",
+    "title": "Catching Yourself Not Paying Attention",
+    "hook": "The most useful observation skill might be noticing your own attention has already wandered.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Mind-wandering is normal, frequent, and largely invisible from the inside — you usually only notice you'd drifted well after the fact, if at all. Missing something in plain sight because attention was elsewhere, sometimes called inattentional blindness, is a structural feature of how attention works, not a character flaw."
+      },
+      {
+        "type": "keyPoint",
+        "text": "You cannot watch everything at once — attention is a spotlight, not a floodlight, and it moves whether or not you're tracking it."
+      },
+      {
+        "type": "paragraph",
+        "text": "A simple habit helps: a periodic, neutral check-in — 'where actually was my attention for the last minute?' — a few times a day, logged briefly. Over weeks this builds a rough map of your own predictable blind windows: right after lunch, mid-scroll, in the middle of a familiar drive."
+      },
+      {
+        "type": "paragraph",
+        "text": "Resist turning this into self-criticism. The point of the check-in is data, not guilt. Noticing a lapse and calmly returning attention is the entire skill; dwelling on having lapsed just extends the lapse."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Noticing you drifted is already the save — you don't need to also be annoyed about it."
+      }
+    ],
+    "estimatedMinutes": 5,
+    "tags": [
+      "metacognition",
+      "attention lapses"
+    ],
+    "relatedDrillIds": [
+      "obs_d16",
+      "obs_d23"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l16",
+    "disciplineId": "observation",
+    "title": "Making Observation a Daily Practice",
+    "hook": "A single sharp afternoon of noticing things won't build the skill — a boring two minutes a day, every day, will.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Observation responds to the same principles as any other trainable skill: frequency beats intensity, and short daily reps beat rare long ones for building something that actually lasts. Treat it less like an occasional feat of attention and more like a habit you're quietly compounding."
+      },
+      {
+        "type": "paragraph",
+        "text": "A workable micro-drill: before leaving any room, take a moment to silently note five details, then check yourself against the room a moment later. Vary contexts deliberately — commute one day, kitchen the next, a meeting the day after — so the skill generalizes instead of only working in one overlearned environment."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Rotate contexts on purpose — a skill trained in only one setting quietly turns into 'knowing that one room,' not observation."
+      },
+      {
+        "type": "paragraph",
+        "text": "A lightweight journal helps too. A single line most days — 'noticed: cracked mug handle, new wall clock' — turns scattered noticing into a reviewable record, and reviewing past entries is itself a memory exercise."
+      },
+      {
+        "type": "paragraph",
+        "text": "Watch for burnout. Treating every waking moment as a drill is exhausting and unsustainable; the practice should stay closer to curiosity and play than to constant vigilance. Two honest minutes beat twenty resentful ones."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Consistency over intensity: a small daily habit you actually keep beats an ambitious one you abandon in a week."
+      }
+    ],
+    "estimatedMinutes": 9,
+    "tags": [
+      "practice",
+      "routine",
+      "discipline"
+    ],
+    "relatedDrillIds": [
+      "obs_d21",
+      "obs_d22"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l17",
+    "disciplineId": "observation",
+    "title": "What My Neighbor Noticed That I Didn't",
+    "hook": "Standing on the same street corner, the two of us were looking at completely different things.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Standing with a neighbor who'd grown up in a different country, both of us watched the same street market. She immediately clocked which stalls were family-run versus which had hired staff — a social read built from a lifetime around different norms of family business and hierarchy that I couldn't see at all. I, meanwhile, noticed which vendors had the freshest produce out front, a habit built from years of grocery shopping on a tight budget."
+      },
+      {
+        "type": "paragraph",
+        "text": "Both of us were, in our own way, observant. But we'd been trained by entirely different needs: one by social navigation in a different cultural context, the other by years of specific practical necessity. Neither noticing was more correct than the other — we were simply tuned to different questions."
+      },
+      {
+        "type": "keyPoint",
+        "text": "What people notice reflects what their environment has needed them to track, not some fixed baseline of general attentiveness."
+      },
+      {
+        "type": "paragraph",
+        "text": "The pattern shows up everywhere once you look for it. City dwellers tend to register exits and crowd density almost automatically. People who grew up around unpredictable weather read the sky and wind in ways I'd miss entirely. A mechanic's ear snags on an engine sound that means nothing to anyone else in the car. None of this means your own habitual noticing is the neutral, universal default — it's a trained lens, same as everyone else's."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Comparing notes with someone from a different background is one of the fastest ways to discover your own blind spots."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": [
+      "cross-cultural",
+      "attention",
+      "perspective"
+    ],
+    "relatedDrillIds": [
+      "obs_d17",
+      "obs_d46"
+    ],
+    "relatedCardIds": []
+  },
+  {
+    "id": "obs_l18",
+    "disciplineId": "observation",
+    "title": "Where's the Line Between Observing and Intruding?",
+    "hook": "Sharpening your eye for detail raises an honest question: detail about what, and about whom, and with what right?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Is people-watching in a public café harmless? Usually — brief, general attention to a public scene, without singling anyone out, rarely causes harm and is exactly the kind of practice this discipline is built on. The trouble starts somewhere specific: not with looking, but with lingering, targeting, and recording."
+      },
+      {
+        "type": "paragraph",
+        "text": "What actually crosses the line? Three things tend to: duration (a glance versus a fixed stare), specificity (a scene versus one person, tracked), and permanence (looking versus photographing or writing down identifying details of a stranger without reason). Any one of those turns ordinary noticing into something closer to surveillance."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Notice scenes and patterns, not individuals — the moment your attention fixes on one stranger and stays there, ask why."
+      },
+      {
+        "type": "paragraph",
+        "text": "What about vulnerable moments — someone crying, arguing, or clearly in distress? The honest answer is to look away, or at least stop studying. Observation practiced on someone else's hard moment isn't skill-building, it's using a stranger's pain as free material. The skill has plenty of neutral, willing, or public-facing material to train on without that."
+      },
+      {
+        "type": "paragraph",
+        "text": "Does this mean giving up the discipline in public? No — it means practicing it with restraint built in from the start: general scenes over individuals, public settings over private ones, memory over photographs of strangers. A skill this useful is worth keeping ethically clean, because the moment it isn't, it stops being observation and starts being something people are right to resent."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": [
+      "ethics",
+      "people-watching",
+      "restraint"
+    ],
+    "relatedDrillIds": [
+      "obs_d17",
+      "obs_d46"
+    ],
+    "relatedCardIds": []
+  }
+]

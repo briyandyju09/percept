@@ -8,6 +8,7 @@ import '../../state/practice_providers.dart';
 import '../../state/repository_providers.dart';
 import '../../theme/spacing.dart';
 import '../../theme/typography.dart';
+import '../../utils/gradable_text.dart';
 import '../../widgets/timer_ring.dart';
 
 enum _Phase { study, questions }
@@ -52,11 +53,24 @@ class _DrillPlayScreenState extends ConsumerState<DrillPlayScreen> {
   bool _gradeAnswer(dynamic question, dynamic answer) {
     final correct = question.correctAnswer;
     if (correct == null) return true;
+    final text = (answer ?? '').toString().trim();
+
     if (question.type == 'textInput') {
-      final text = (answer ?? '').toString().trim();
-      return text.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).length >= 3;
+      final correctText = correct.toString().trim();
+      // A long/hedged correctAnswer means this is genuinely open-ended
+      // (a reflection, not a quiz question with one right answer) —
+      // credit any substantive attempt. A short, literal correctAnswer
+      // means there IS a real answer to get right, so grade it via
+      // lenient token-overlap matching instead of word-counting.
+      final isOpenReflection =
+          looksHedgy(correctText) || wordCount(correctText) > 5;
+      if (isOpenReflection) {
+        return wordCount(text) >= 3;
+      }
+      return text.isNotEmpty && tokenOverlapMatches(text, correctText);
     }
-    final a = answer?.toString().trim().toLowerCase() ?? '';
+
+    final a = text.toLowerCase();
     final c = correct.toString().trim().toLowerCase();
     return a.isNotEmpty && a == c;
   }

@@ -1,0 +1,406 @@
+[
+  {
+    "id": "conv_d11",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Choose the version of feedback that's specific and actionable rather than vague or character-based.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d11_q1",
+        "prompt": "A teammate's report was hard to follow. Which feedback is most useful?",
+        "type": "multipleChoice",
+        "options": ["You need to communicate better.", "The report jumped between three topics without headers, so I lost the thread by page two.", "This wasn't great, honestly.", "You're just not a strong writer."],
+        "correctAnswer": "The report jumped between three topics without headers, so I lost the thread by page two.",
+        "explanation": "It names the specific behavior and its concrete effect, giving them something exact to fix next time."
+      },
+      {
+        "id": "conv_d11_q2",
+        "prompt": "Which feedback separates the behavior from the person's character?",
+        "type": "multipleChoice",
+        "options": ["You're always so disorganized.", "This particular handoff was missing the client's contact info.", "You clearly don't care about details.", "This is just who you are at work."],
+        "correctAnswer": "This particular handoff was missing the client's contact info.",
+        "explanation": "It critiques one instance of behavior instead of making a sweeping claim about identity, which is far easier to hear and act on."
+      },
+      {
+        "id": "conv_d11_q3",
+        "prompt": "You want to give feedback about a curt email a coworker sent. What's the best first move?",
+        "type": "multipleChoice",
+        "options": ["Send it in the group chat so others learn too.", "Privately ask if now's a good time to flag something from the email.", "Wait for their next review cycle.", "Mention it sarcastically in the next meeting."],
+        "correctAnswer": "Privately ask if now's a good time to flag something from the email.",
+        "explanation": "Privacy and asking permission both reduce defensiveness and let the feedback actually be heard rather than performed for an audience."
+      },
+      {
+        "id": "conv_d11_q4",
+        "prompt": "Which sentence names both the impact of the behavior and a path forward?",
+        "type": "multipleChoice",
+        "options": ["That was a mess.", "When the numbers weren't checked, the client caught an error before we did — let's add a second review going forward.", "You should be more careful with numbers.", "This can't happen again."],
+        "correctAnswer": "When the numbers weren't checked, the client caught an error before we did — let's add a second review going forward.",
+        "explanation": "It states the concrete impact and offers a specific forward-looking change, which is what makes feedback actionable."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d12",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the response that receives criticism without becoming defensive.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d12_q1",
+        "prompt": "Your manager says your last update left out key risks. Best first response?",
+        "type": "multipleChoice",
+        "options": ["That's fair, I focused too much on wins — I'll add a risks section next time.", "I did mention risks, you just missed it.", "Nobody told me to include that.", "I've been really busy, that's why."],
+        "correctAnswer": "That's fair, I focused too much on wins — I'll add a risks section next time.",
+        "explanation": "It finds the true part of the criticism and commits to a concrete change, rather than arguing or making excuses."
+      },
+      {
+        "id": "conv_d12_q2",
+        "prompt": "A friend says your last few plans have all been last-minute cancellations. You feel a flash of defensiveness. What's the better internal move first?",
+        "type": "multipleChoice",
+        "options": ["Immediately explain all the reasons you had to cancel.", "Pause for a moment and ask yourself what part of that is actually true.", "Point out a time they canceled on you.", "Change the subject to avoid the discomfort."],
+        "correctAnswer": "Pause for a moment and ask yourself what part of that is actually true.",
+        "explanation": "A brief pause to find the true kernel lets your slower thinking catch up before a defensive reply takes over."
+      },
+      {
+        "id": "conv_d12_q3",
+        "prompt": "Criticism was delivered harshly, but has a real point buried in it. Best response?",
+        "type": "multipleChoice",
+        "options": ["I want to hear this, but the way that came out stung — can we try again?", "Well if you're going to be rude about it, forget it.", "I don't need to hear this right now.", "Just silently absorb it without saying anything about the tone."],
+        "correctAnswer": "I want to hear this, but the way that came out stung — can we try again?",
+        "explanation": "It separates the useful signal from the harsh delivery, addressing both honestly instead of rejecting the whole thing."
+      },
+      {
+        "id": "conv_d12_q4",
+        "prompt": "Which question helps most in the moment right after criticism lands?",
+        "type": "multipleChoice",
+        "options": ["Is this fair, separate from whether it means I'm bad at my job entirely?", "How do I prove them wrong fastest?", "Why are they attacking me?", "What's the harshest comeback I can give?"],
+        "correctAnswer": "Is this fair, separate from whether it means I'm bad at my job entirely?",
+        "explanation": "Separating fairness from a referendum on your whole worth is what keeps a specific critique from spiraling into shame."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d13",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the heated exchange, then write a reply that lowers the temperature instead of raising it.",
+    "stimulusText": "You're in a heated argument with your partner. Their voice has risen and they say: 'You never listen to me, you just wait for your turn to talk and then do whatever you wanted anyway!'",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d13_q1",
+        "prompt": "Write a calm, de-escalating reply that names what's happening and shows you want to actually hear them.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. I can hear this really matters to you, and I want to actually understand it instead of arguing — can you tell me one time that happened?",
+        "explanation": "A strong answer lowers pace and volume in tone, validates that it matters, and invites specifics instead of matching the escalation."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d14",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Choose the apology that actually names the behavior and its impact, rather than deflecting.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d14_q1",
+        "prompt": "You forgot a friend's birthday. Which is the strongest apology?",
+        "type": "multipleChoice",
+        "options": ["Sorry, things have been crazy.", "I'm sorry I forgot your birthday — I know that probably made you feel unimportant to me, and that's not true.", "Sorry you're upset about this.", "I said sorry already, what more do you want?"],
+        "correctAnswer": "I'm sorry I forgot your birthday — I know that probably made you feel unimportant to me, and that's not true.",
+        "explanation": "It names the specific action and its likely emotional impact, without an excuse or minimizing language attached."
+      },
+      {
+        "id": "conv_d14_q2",
+        "prompt": "Which phrase silently cancels the apology that comes before it?",
+        "type": "multipleChoice",
+        "options": ["'...and I'm going to fix it by...'", "'...but I was really stressed that day.'", "'...and I understand if you're still upset.'", "'...which was completely on me.'"],
+        "correctAnswer": "'...but I was really stressed that day.'",
+        "explanation": "'But' followed by a justification turns an apology into an excuse, undercutting the ownership that came before it."
+      },
+      {
+        "id": "conv_d14_q3",
+        "prompt": "'I'm sorry you feel that way' is a weak apology mainly because:",
+        "type": "multipleChoice",
+        "options": ["It's too short.", "It locates the problem in the other person's feelings instead of naming your own action.", "It uses the word 'sorry' too casually.", "It should be said in person instead."],
+        "correctAnswer": "It locates the problem in the other person's feelings instead of naming your own action.",
+        "explanation": "It avoids ever stating what you did, which means it repairs nothing even though it technically contains an apology word."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d15",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the response that says no clearly and kindly, without a mushy maybe.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d15_q1",
+        "prompt": "A friend asks you to help them move this weekend, and you already have other plans you want to keep. Best reply?",
+        "type": "multipleChoice",
+        "options": ["Maybe, let me see how the weekend goes.", "I can't this weekend, I've already got plans — but let me know if you need anything for next time.", "Ugh, I really don't want to, but okay I guess.", "Why didn't you ask me sooner?"],
+        "correctAnswer": "I can't this weekend, I've already got plans — but let me know if you need anything for next time.",
+        "explanation": "It's a clear, warm no with no ambiguity, instead of a vague maybe that could turn into a last-minute disappointment."
+      },
+      {
+        "id": "conv_d15_q2",
+        "prompt": "Which response over-explains in a way that invites the other person to argue with your reasons?",
+        "type": "multipleChoice",
+        "options": ["I can't take this on right now.", "I can't, because of reason one, and also reason two, and also reason three, and honestly reason four too.", "I really wish I could, the timing just doesn't work.", "Not this time, but ask me again next month."],
+        "correctAnswer": "I can't, because of reason one, and also reason two, and also reason three, and honestly reason four too.",
+        "explanation": "A long list of justifications sounds like building a case, which invites debate rather than simply landing as a clean no."
+      },
+      {
+        "id": "conv_d15_q3",
+        "prompt": "What best separates saying no to a request from rejecting the person?",
+        "type": "multipleChoice",
+        "options": ["Saying no without any warmth at all.", "Adding 'I really wish I could, this timing just doesn't work.'", "Avoiding the person until it blows over.", "Agreeing and then canceling later."],
+        "correctAnswer": "Adding 'I really wish I could, this timing just doesn't work.'",
+        "explanation": "It makes explicit that the no is about capacity, not about how much you value the person, instead of leaving that to guesswork."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d16",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then write a direct request instead of a hint.",
+    "stimulusText": "You've had a brutal week at work and you're exhausted. Your partner asks what's wrong, and you've been quietly sighing near the pile of dishes hoping they'll notice and help without you having to ask.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d16_q1",
+        "prompt": "Write a direct, specific request for what you actually need right now.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. I've had a rough week — could you take the dishes tonight? I just need a break.",
+        "explanation": "A strong answer names the situation briefly and states a specific, answerable request instead of relying on hints or sighs."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d17",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Choose the response that moves small talk toward something a little more real.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d17_q1",
+        "prompt": "Someone asks 'how's work going?' Which answer opens the door to real conversation?",
+        "type": "multipleChoice",
+        "options": ["Busy.", "Busy, actually kind of a rough stretch, we lost a big client last week.", "Fine, thanks.", "Same old, same old."],
+        "correctAnswer": "Busy, actually kind of a rough stretch, we lost a big client last week.",
+        "explanation": "It offers a small, specific, genuine detail that hands the other person an opening to go further if they want."
+      },
+      {
+        "id": "conv_d17_q2",
+        "prompt": "What's the biggest complaint people actually have about small talk?",
+        "type": "multipleChoice",
+        "options": ["The topics themselves are inherently boring.", "It never moves past the surface for the whole conversation.", "It takes too long to get through.", "It's only used by strangers."],
+        "correctAnswer": "It never moves past the surface for the whole conversation.",
+        "explanation": "Small talk itself does real social work — the actual complaint is about conversations that stay on the ramp indefinitely."
+      },
+      {
+        "id": "conv_d17_q3",
+        "prompt": "A new coworker keeps answers short and light after several exchanges. What's the best move?",
+        "type": "multipleChoice",
+        "options": ["Ask an increasingly personal question to force depth.", "Stay light with them — not every relationship needs to go deeper.", "Point out that they seem closed off.", "Stop talking to them altogether."],
+        "correctAnswer": "Stay light with them — not every relationship needs to go deeper.",
+        "explanation": "Depth should be voluntary and reciprocal; forcing it where it isn't wanted creates its own kind of discomfort."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d18",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then write what you'd do in the moment to actually remember the name.",
+    "stimulusText": "You're introduced to someone new at a work event. Your attention is split between deciding how to greet them and planning what to say next, and their name flies by.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d18_q1",
+        "prompt": "Describe, in your own words, exactly what you'd do differently in that one second when they say their name.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. Stop planning my next sentence and give the one second they say their name my full attention, then use it once naturally in the next minute.",
+        "explanation": "A strong answer names giving undivided attention in that specific moment, then reinforcing it with natural, early repetition."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d19",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the response that reads the room correctly before contributing.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d19_q1",
+        "prompt": "You walk into a meeting where the team just got bad news about a failed launch. What should you do first?",
+        "type": "multipleChoice",
+        "options": ["Launch straight into your unrelated cheerful weekend story.", "Pause, sense the low energy, and match it before contributing anything.", "Make a joke to lighten the mood immediately.", "Ask why everyone looks so serious."],
+        "correctAnswer": "Pause, sense the low energy, and match it before contributing anything.",
+        "explanation": "Matching a heavy room's energy first, before trying to shift it, avoids landing as tone-deaf to what everyone is feeling."
+      },
+      {
+        "id": "conv_d19_q2",
+        "prompt": "What's the simplest habit for reading the room before speaking?",
+        "type": "multipleChoice",
+        "options": ["Pausing a few seconds at the threshold to take in the room before contributing.", "Always speaking first to set the tone.", "Waiting for someone else to explain the mood to you.", "Assuming the room feels the same as it did last time."],
+        "correctAnswer": "Pausing a few seconds at the threshold to take in the room before contributing.",
+        "explanation": "A brief observational pause costs nothing and prevents most timing mistakes before they happen."
+      },
+      {
+        "id": "conv_d19_q3",
+        "prompt": "Before bringing up a request or opinion in a one-on-one, what's the best first step?",
+        "type": "multipleChoice",
+        "options": ["Ask how they're doing today, and actually listen to the answer.", "Assume their mood hasn't changed since last time you spoke.", "Lead with the request immediately for efficiency.", "Wait for them to bring up their own mood unprompted."],
+        "correctAnswer": "Ask how they're doing today, and actually listen to the answer.",
+        "explanation": "A genuine check-in gathers the information you need to calibrate what you say next, rather than assuming nothing has changed."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d20",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "timedPressure",
+    "difficulty": 4,
+    "prompt": "Rapid fire: judge each conversational move as good or bad advice, as fast as you can.",
+    "stimulusText": "You'll see a series of quick claims about de-escalation, feedback, and apology. Judge each one fast.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d20_q1",
+        "prompt": "Raising your own volume to match someone who's yelling helps de-escalate an argument.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Matching escalation tends to produce more escalation; lowering your own pace and volume works far better."
+      },
+      {
+        "id": "conv_d20_q2",
+        "prompt": "Naming what's happening, like 'I can tell this matters to you,' can help de-escalate a heated moment.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Naming the moment answers the underlying question of whether someone is being taken seriously, which lowers tension."
+      },
+      {
+        "id": "conv_d20_q3",
+        "prompt": "Feedback given publicly in a meeting lands just as well as feedback given privately.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Public feedback is usually received as a correction in front of an audience rather than absorbed as private coaching."
+      },
+      {
+        "id": "conv_d20_q4",
+        "prompt": "Asking 'is now a good time' before giving unsolicited feedback tends to reduce defensiveness.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Handing someone a small amount of control over the moment measurably reduces how defensive they feel."
+      },
+      {
+        "id": "conv_d20_q5",
+        "prompt": "'I'm sorry you feel that way' fully counts as owning your part of a mistake.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "It shifts the problem onto the other person's feelings instead of naming your own action, so it repairs very little."
+      },
+      {
+        "id": "conv_d20_q6",
+        "prompt": "A clear, early no is usually kinder than a mushy maybe that turns into a late cancellation.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "A vague maybe keeps someone planning around you, then disappoints them later, often at a worse moment."
+      },
+      {
+        "id": "conv_d20_q7",
+        "prompt": "Hinting at a need through sighs is generally more effective than directly asking for it.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Hinting mostly produces confusion and resentment; a direct, specific request is easier for someone to actually act on."
+      },
+      {
+        "id": "conv_d20_q8",
+        "prompt": "The one second right after someone says their name is the most important moment for actually remembering it.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Forgetting names is usually an attention problem in that first second, not a fundamental memory limitation."
+      },
+      {
+        "id": "conv_d20_q9",
+        "prompt": "Reading the room before you speak means assuming the mood is the same as it was last time you were together.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Reading the room means actually gathering fresh information about the current mood, not relying on past assumptions."
+      },
+      {
+        "id": "conv_d20_q10",
+        "prompt": "Over-explaining the reasons behind a no can invite the other person to argue with each reason.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "A long list of justifications turns a clean no into a case that can be debated point by point."
+      }
+    ],
+    "estimatedMinutes": 4
+  }
+]

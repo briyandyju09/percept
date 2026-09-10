@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ment_d41",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Identify the real phenomenon behind a swinging pendulum 'answering' yes/no questions.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d41_q1",
+        "prompt": "A spectator holds a pendulum still, and it begins swinging in a direction that seems to answer a yes/no question 'on its own.' What actually causes the movement?",
+        "type": "multipleChoice",
+        "options": ["Ideomotor micro-movements in the spectator's own hand, amplified by the pendulum's length", "The pendulum detecting a real energy field", "A hidden magnet under the table", "Pure random air currents"],
+        "correctAnswer": "Ideomotor micro-movements in the spectator's own hand, amplified by the pendulum's length",
+        "explanation": "This is the same real ideomotor effect behind Ouija boards and dowsing rods: tiny, unconscious muscle movements in the holder's hand get mechanically amplified by the pendulum's swing, creating the illusion of an external force answering the question."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "ment_d42",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Identify the technique of layering multiple general statements together.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d42_q1",
+        "prompt": "A performer delivers several broad personality statements back-to-back — about ambition, self-doubt, and relationships — each one general enough alone to fit most people, and by the end the spectator feels 'completely read.' What is this cumulative effect called?",
+        "type": "multipleChoice",
+        "options": ["Chunking or stacking Barnum statements, where the combined weight of several broad hits feels far more specific than any single one", "A single highly specific and accurate statement", "A statistical force applied to personality traits", "Genuine psychological profiling from a distance"],
+        "correctAnswer": "Chunking or stacking Barnum statements, where the combined weight of several broad hits feels far more specific than any single one",
+        "explanation": "No individual Barnum statement is very convincing on its own, but stacking several in a row creates a cumulative impression of accuracy — each broad 'hit' reinforces the last, so the spectator experiences the total as far more specific and personal than any single line actually is."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d43",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "In a private reading, you want a client to 'freely' land on the number 3 out of any number they could think of, using conversational psychological forcing rather than a physical prop.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d43_q1",
+        "prompt": "Script the exact conversational lead-up you'd use to nudge the client toward 3, and explain briefly why it still counts as a genuinely free choice from their perspective.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Script: 'Think of any small number — nothing too big, just something simple, quick, the first one that pops into your head, like counting on one hand.' This nudges toward small, fast, single-digit numbers under 5 without ever naming 3 directly, and because most people under that framing default to 3, it lands reliably. It's still a free choice because nothing was said that logically forces one specific number — it's a statistical bias in how people respond to that framing, not a command.",
+        "explanation": "Conversational psychological forces work by narrowing the field of likely answers through subtle framing (small, quick, simple) rather than naming an outcome directly, exploiting well-documented biases in how people generate numbers 'at random' — the choice remains procedurally free even though the outcome is statistically predictable."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d44",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Consider why mentalists commit to a distinct on-stage persona.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d44_q1",
+        "prompt": "Why do most professional mentalists develop a consistent stage persona (tone of voice, values, worldview) rather than simply performing tricks as themselves?",
+        "type": "multipleChoice",
+        "options": ["A committed persona gives the audience a coherent character to trust and follow throughout the show, making the whole performance feel intentional rather than a string of unrelated tricks", "A persona is legally required for mentalism performances", "It disguises the performer's real identity from the audience", "It has no effect on the show and is purely for personal preference"],
+        "correctAnswer": "A committed persona gives the audience a coherent character to trust and follow throughout the show, making the whole performance feel intentional rather than a string of unrelated tricks",
+        "explanation": "A well-built persona (calm and analytical, playful and mysterious, whatever suits the performer) gives an audience a consistent lens to interpret every effect through, which turns a set of individual illusions into a unified, memorable theatrical experience."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "ment_d45",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "After a show, an audience member approaches you privately and asks if you can use your 'abilities' to tell her whether she should take a new job or a specific investment opportunity.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d45_q1",
+        "prompt": "Write the response you'd give her, and name the ethical tag most relevant to why a mentalist should never answer this kind of question in character.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Tag: Manipulation risk. Response: 'I really appreciate you asking, but what I do on stage is a performance skill, not real insight into the future — I'd never want you making an actual financial or career decision based on anything from my act. That's a conversation for a trusted advisor or mentor, not a mentalist.' This draws a firm line the moment a request moves from entertainment into a real-stakes decision.",
+        "explanation": "The clearest ethical boundary in mentalism is refusing to let performance techniques be mistaken for real guidance on high-stakes real-world decisions — a responsible performer breaks character immediately rather than risk someone acting on a fictional 'reading' for something as consequential as money or career."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d46",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Evaluate an honest description of reading behavioral 'tells.'",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d46_q1",
+        "prompt": "A performer says noticing someone's breathing quicken or their voice tighten when discussing a topic is similar to a poker player reading a 'tell.' Is this an honest framing?",
+        "type": "multipleChoice",
+        "options": ["Yes — both rely on noticing real, observable physiological changes tied to stress or interest, without claiming to know the specific cause for certain", "No — physiological tells are 100% reliable indicators of exactly what someone is thinking", "No — tells don't exist and are pure performer invention", "Yes, but only because the performer can read minds directly"],
+        "correctAnswer": "Yes — both rely on noticing real, observable physiological changes tied to stress or interest, without claiming to know the specific cause for certain",
+        "explanation": "Both poker tells and mentalism 'tells' rest on the same honest foundation: real physiological signs of arousal or stress are genuinely observable, but a good performer (or player) treats them as probabilistic clues to combine with other information, not certain proof of a specific thought."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d47",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Identify the timing principle at work.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d47_q1",
+        "prompt": "A performer executes a secret move not during a moment of high tension, but in a quieter, seemingly unimportant beat right after the audience thinks 'the trick is basically over.' What's this timing principle called?",
+        "type": "multipleChoice",
+        "options": ["The off-beat: hiding a method in a moment the audience has already mentally dismissed as unimportant", "A convincer", "A rainbow ruse", "A statistical force"],
+        "correctAnswer": "The off-beat: hiding a method in a moment the audience has already mentally dismissed as unimportant",
+        "explanation": "The off-beat exploits how attention naturally relaxes once a viewer believes the 'important' part of a trick has already happened — performing the actual secret move in that lull is often safer than hiding it during an obviously tense moment the audience is watching closely."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d48",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You're writing the final thirty seconds of your show's closing speech, right after your biggest reveal of the night.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d48_q1",
+        "prompt": "Write a closing line that lands with warmth and wonder while still being honest that the show was a crafted performance, not real psychic ability.",
+        "type": "textInput",
+        "correctAnswer": "e.g. 'Everything you saw tonight was built from psychology, practice, and a genuine love of surprising people — no real mind-reading required, just a lot of hours behind the curtain. Thank you for being such a wonderful audience to fool.' This closes on warmth and gratitude while being plainly honest about the craft behind the show.",
+        "explanation": "A strong close reinforces the emotional high of the final reveal while gently reaffirming the show's honest frame, which lets the audience leave feeling delighted rather than misled — the two goals aren't in tension when the performer is confident in their craft."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d49",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Distinguish responsible suggestibility screening from manipulative pressure.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d49_q1",
+        "prompt": "During volunteer selection for a stage-suggestion segment, a performer privately notes who responds well to simple test suggestions, and only invites those people up — versus a performer who pressures a clearly reluctant volunteer to 'just go along with it' once on stage. What separates these two approaches ethically?",
+        "type": "multipleChoice",
+        "options": ["Consent and responsiveness: selecting willing, naturally responsive volunteers versus coercing an unwilling one into compliance", "Nothing — both approaches produce the same result on stage", "The first approach is illegal while the second is standard practice", "Only the amount of stage lighting used"],
+        "correctAnswer": "Consent and responsiveness: selecting willing, naturally responsive volunteers versus coercing an unwilling one into compliance",
+        "explanation": "Ethical suggestibility work is built on selecting genuinely responsive, willing participants rather than forcing an unwilling or unresponsive person to perform compliance for the crowd — the same suggestion technique can be a fun, consensual bit or a manipulative embarrassment depending entirely on this distinction."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d50",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "Consider a full mentalism routine: (1) pre-show research on a volunteer via social media, (2) a scripted psychological force to land them on a specific card, (3) a cold-reading personality segment with Barnum statements, and (4) a dramatic reveal implying you 'saw it coming all along.'",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d50_q1",
+        "prompt": "Go through all four parts and identify which of the four ethical tags (Performance, Psychological principle, Manipulation risk, Consent/audience-trust) applies most strongly to each, and explain your reasoning in a few sentences.",
+        "type": "textInput",
+        "correctAnswer": "e.g. (1) Pre-show research: Manipulation risk — real information used to feel supernatural, needs honest framing if pressed. (2) Psychological force: Psychological principle — a genuine, well-documented cognitive bias, low risk since it's just a playing card. (3) Cold reading: Psychological principle plus Manipulation risk — powerful technique that could exploit vulnerability if not handled gently. (4) Dramatic reveal: Performance and Consent/audience-trust — the framing must stay honest that this is theater, not real foresight, to preserve trust with the room.",
+        "explanation": "A single routine usually layers several techniques with different risk profiles — low-stakes mechanical forces carry little ethical weight, while techniques touching real personal information or claims of genuine ability carry real risk and require deliberate guardrails; naming the tags for each beat is how a responsible performer audits their own material."
+      }
+    ],
+    "estimatedMinutes": 6
+  }
+]

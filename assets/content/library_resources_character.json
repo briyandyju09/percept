@@ -1,0 +1,242 @@
+[
+  {
+    "id": "lib_char_book01",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "Man's Search for Meaning",
+    "subtitle": "Viktor Frankl",
+    "description": "Frankl's account of surviving Nazi concentration camps and the psychotherapeutic approach (logotherapy) he developed from it, arguing that finding meaning is what sustains people through unavoidable suffering.",
+    "tags": [
+      "meaning",
+      "resilience"
+    ]
+  },
+  {
+    "id": "lib_char_book02",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "Nicomachean Ethics",
+    "subtitle": "Aristotle",
+    "description": "The foundational text of virtue ethics, arguing that character is built through repeated practice of virtuous action until it becomes habitual, and that virtue typically lies as a mean between two extremes.",
+    "tags": [
+      "virtue-ethics",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "lib_char_book03",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "Meditations",
+    "subtitle": "Marcus Aurelius",
+    "description": "The private notebook of a Roman emperor practicing Stoic philosophy, focused on self-discipline, duty, and maintaining equanimity regardless of circumstance.",
+    "tags": [
+      "stoicism",
+      "discipline"
+    ]
+  },
+  {
+    "id": "lib_char_book04",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "Atomic Habits",
+    "subtitle": "James Clear",
+    "description": "A practical synthesis of habit-formation research showing how small, consistent behavioral changes compound over time, and why identity ('the kind of person who...') drives discipline more reliably than willpower alone.",
+    "tags": [
+      "habits",
+      "discipline"
+    ]
+  },
+  {
+    "id": "lib_char_book05",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "Grit: The Power of Passion and Perseverance",
+    "subtitle": "Angela Duckworth",
+    "description": "Duckworth's research-based case that sustained effort toward long-term goals ('grit') predicts achievement better than talent alone, drawing on her studies of West Point cadets, spelling-bee competitors, and others.",
+    "tags": [
+      "perseverance",
+      "research"
+    ]
+  },
+  {
+    "id": "lib_char_book06",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "The Power of Habit",
+    "subtitle": "Charles Duhigg",
+    "description": "An accessible explanation of the cue-routine-reward habit loop and how identifying 'keystone habits' can be used to deliberately reshape behavior.",
+    "tags": [
+      "habits",
+      "behavior-change"
+    ]
+  },
+  {
+    "id": "lib_char_book07",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "Mindset: The New Psychology of Success",
+    "subtitle": "Carol Dweck",
+    "description": "Dweck's research distinguishing a 'fixed' mindset, which treats ability as static, from a 'growth' mindset, which treats it as developed through effort—directly relevant to how people respond to setbacks and failure.",
+    "tags": [
+      "mindset",
+      "resilience"
+    ]
+  },
+  {
+    "id": "lib_char_book08",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "Thanks!: How the New Science of Gratitude Can Make You Happier",
+    "subtitle": "Robert Emmons",
+    "description": "Emmons summarizes his own experimental research on gratitude practices, presenting evidence for their measurable effects on well-being rather than treating gratitude as merely a nice sentiment.",
+    "tags": [
+      "gratitude",
+      "research"
+    ]
+  },
+  {
+    "id": "lib_char_book09",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "The Road to Character",
+    "subtitle": "David Brooks",
+    "description": "Brooks contrasts 'resume virtues' (achievements) with 'eulogy virtues' (humility, honesty, courage), profiling historical figures who built the latter through struggle and self-examination.",
+    "tags": [
+      "virtue",
+      "integrity"
+    ]
+  },
+  {
+    "id": "lib_char_book10",
+    "disciplineId": "character",
+    "type": "book",
+    "title": "Extreme Ownership",
+    "subtitle": "Jocko Willink and Leif Babin",
+    "description": "Two former Navy SEAL officers argue, from their own combat leadership experience, that taking full responsibility for outcomes—rather than assigning blame—is the basis of both discipline and effective leadership.",
+    "tags": [
+      "accountability",
+      "discipline"
+    ]
+  },
+  {
+    "id": "lib_char_expert01",
+    "disciplineId": "character",
+    "type": "expert",
+    "title": "Angela Duckworth",
+    "subtitle": "Psychologist, University of Pennsylvania",
+    "description": "Beyond her original grit research, Duckworth founded Character Lab, a nonprofit that develops and tests practical tools for building character strengths in students.",
+    "tags": [
+      "grit",
+      "education"
+    ]
+  },
+  {
+    "id": "lib_char_expert02",
+    "disciplineId": "character",
+    "type": "expert",
+    "title": "Carol Dweck",
+    "subtitle": "Psychologist, Stanford University",
+    "description": "Dweck's growth-mindset research began with studies of how children respond differently to failure and praise, work that has since been extended (and debated) across education and organizational settings.",
+    "tags": [
+      "mindset",
+      "research"
+    ]
+  },
+  {
+    "id": "lib_char_expert03",
+    "disciplineId": "character",
+    "type": "expert",
+    "title": "Robert Emmons",
+    "subtitle": "Psychologist, UC Davis; gratitude researcher",
+    "description": "Emmons is among the field's founding researchers on gratitude as a measurable psychological variable and edits the Journal of Positive Psychology, one of the discipline's core academic outlets.",
+    "tags": [
+      "gratitude",
+      "positive-psychology"
+    ]
+  },
+  {
+    "id": "lib_char_expert04",
+    "disciplineId": "character",
+    "type": "expert",
+    "title": "Viktor Frankl",
+    "subtitle": "Neurologist, psychiatrist, and Holocaust survivor",
+    "description": "Frankl developed logotherapy, sometimes called the 'Third Viennese School of Psychotherapy' after Freud's and Adler's, centered on the search for meaning as a primary human motivation.",
+    "tags": [
+      "logotherapy",
+      "meaning"
+    ]
+  },
+  {
+    "id": "lib_char_expert05",
+    "disciplineId": "character",
+    "type": "expert",
+    "title": "Brené Brown",
+    "subtitle": "Research professor, University of Houston",
+    "description": "Brown's qualitative research on vulnerability, shame, and courage argues that the willingness to be seen as imperfect is a precondition for genuine connection and resilience, not a weakness to be hidden.",
+    "tags": [
+      "vulnerability",
+      "courage"
+    ]
+  },
+  {
+    "id": "lib_char_area01",
+    "disciplineId": "character",
+    "type": "researchArea",
+    "title": "Positive Psychology and Character Strengths",
+    "subtitle": "",
+    "description": "Founded by Martin Seligman, this field studies what enables people to flourish rather than only what goes wrong; Christopher Peterson and Seligman's VIA classification catalogs widely recognized character strengths across cultures.",
+    "tags": [
+      "positive-psychology",
+      "strengths"
+    ]
+  },
+  {
+    "id": "lib_char_area02",
+    "disciplineId": "character",
+    "type": "researchArea",
+    "title": "Moral Psychology",
+    "subtitle": "",
+    "description": "Research on how people actually reason about right and wrong, including Jonathan Haidt's moral foundations theory, which argues moral judgment is driven more by fast intuition than by deliberate reasoning.",
+    "tags": [
+      "moral-psychology",
+      "haidt"
+    ]
+  },
+  {
+    "id": "lib_char_area03",
+    "disciplineId": "character",
+    "type": "researchArea",
+    "title": "Self-Control and Delayed Gratification",
+    "subtitle": "",
+    "description": "Walter Mischel's marshmallow studies linked children's ability to delay gratification to later life outcomes; later replication attempts found the effect is real but smaller and more dependent on socioeconomic context than the original studies suggested.",
+    "tags": [
+      "self-control",
+      "mischel"
+    ]
+  },
+  {
+    "id": "lib_char_area04",
+    "disciplineId": "character",
+    "type": "researchArea",
+    "title": "Post-Traumatic Growth",
+    "subtitle": "",
+    "description": "Richard Tedeschi and Lawrence Calhoun's research area documents how some people report genuine positive psychological change—not just recovery—after struggling with highly challenging life events.",
+    "tags": [
+      "resilience",
+      "growth"
+    ]
+  },
+  {
+    "id": "lib_char_area05",
+    "disciplineId": "character",
+    "type": "researchArea",
+    "title": "Habit Formation Timelines",
+    "subtitle": "",
+    "description": "A 2010 study by Phillippa Lally and colleagues tracked how long it actually takes a new behavior to become automatic, finding an average of about 66 days with wide individual variation—directly countering the popular but unsupported '21 days' claim.",
+    "tags": [
+      "habits",
+      "research"
+    ]
+  }
+]

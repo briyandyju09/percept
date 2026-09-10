@@ -1,0 +1,233 @@
+[
+  {
+    "id": "obs_d41",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "prompt": "Study the laundry room scene below for 18 seconds, then answer without looking back.",
+    "stimulusText": "A laundry room has a washing machine mid-cycle with its door light glowing blue, a basket of folded towels stacked by color: white, then gray, then navy. A single sock lies alone on the floor near the dryer, and a bottle of detergent sits open with its cap missing.",
+    "stimulusFacts": [
+      "the washing machine's door light glowed blue during its cycle",
+      "folded towels were stacked white, then gray, then navy",
+      "a single sock lay alone on the floor near the dryer",
+      "the detergent bottle was open with its cap missing"
+    ],
+    "stimulusSeconds": 18,
+    "questions": [
+      {"id": "obs_d41_q1", "prompt": "What color was the washing machine's door light?", "type": "multipleChoice", "options": ["Blue", "Red", "Green", "White"], "correctAnswer": "Blue", "explanation": "Indicator lights are small but distinct details that a quick scan can catch if you look for them deliberately."},
+      {"id": "obs_d41_q2", "prompt": "What was the order of the folded towel stack, top to bottom?", "type": "textInput", "options": [], "correctAnswer": "white, gray, navy", "explanation": "Sequences of similar items are easier to hold in memory once you commit to their order rather than just their colors."},
+      {"id": "obs_d41_q3", "prompt": "True or False: the detergent bottle's cap was missing.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "True", "explanation": "Noticing a missing part of an object is as valuable as noticing the object itself."},
+      {"id": "obs_d41_q4", "prompt": "Where was the lone sock found?", "type": "textInput", "options": [], "correctAnswer": "on the floor near the dryer", "explanation": "Locating a stray object relative to a fixed landmark makes the detail easier to recall later."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "obs_d42",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 1,
+    "prompt": "Study the pet store window below for 18 seconds, then answer without looking back.",
+    "stimulusText": "A pet store window displays three fish tanks in a row, the middle one empty with a 'Tank Under Repair' sign taped to the glass. The left tank holds orange fish, the right tank holds striped fish. A bag of dog food leans against the window's edge, its corner slightly torn.",
+    "stimulusFacts": [
+      "three fish tanks were in a row, the middle one empty",
+      "the middle tank had a 'Tank Under Repair' sign taped to it",
+      "the left tank held orange fish, the right tank held striped fish",
+      "a bag of dog food leaned against the window's edge with a torn corner"
+    ],
+    "stimulusSeconds": 18,
+    "questions": [
+      {"id": "obs_d42_q1", "prompt": "Which tank was empty?", "type": "multipleChoice", "options": ["Left", "Middle", "Right", "None were empty"], "correctAnswer": "Middle", "explanation": "Position among a set of similar objects is the kind of detail worth locking down before answering."},
+      {"id": "obs_d42_q2", "prompt": "What did the sign on the empty tank say?", "type": "textInput", "options": [], "correctAnswer": "Tank Under Repair", "explanation": "Signage explaining an anomaly is easy to skip if you register the anomaly but not its explanation."},
+      {"id": "obs_d42_q3", "prompt": "What kind of fish were in the left tank?", "type": "multipleChoice", "options": ["Orange fish", "Striped fish", "No fish", "Black fish"], "correctAnswer": "Orange fish", "explanation": "Pairing a feature with its position (left versus right) prevents the two tanks' contents from swapping in memory."},
+      {"id": "obs_d42_q4", "prompt": "True or False: the dog food bag was undamaged.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "Its corner was torn — small damage on a background object is still worth registering."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "obs_d43",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 2,
+    "prompt": "Study the airport gate scene for 15 seconds, then answer from memory.",
+    "stimulusText": "At an airport gate, a departure screen shows a flight status that changed from 'On Time' to 'Delayed' moments ago, the old status still faintly visible in a ghosting effect. A row of six charging outlets has only two occupied, both by phones with cracked screens. A gate agent adjusts her name tag, which reads 'Priya,' before making an announcement.",
+    "stimulusFacts": [
+      "the flight status changed from 'On Time' to 'Delayed'",
+      "the row of six charging outlets had only two occupied",
+      "both occupied outlets had phones with cracked screens",
+      "the gate agent's name tag read 'Priya'"
+    ],
+    "stimulusSeconds": 15,
+    "questions": [
+      {"id": "obs_d43_q1", "prompt": "What did the flight status change to?", "type": "textInput", "options": [], "correctAnswer": "Delayed", "explanation": "A status that just changed is a moment worth catching, since the old value can linger and confuse memory."},
+      {"id": "obs_d43_q2", "prompt": "How many of the six charging outlets were occupied?", "type": "numericInput", "options": [], "correctAnswer": "2", "explanation": "Counting occupied slots against a known total is easier than estimating from scratch."},
+      {"id": "obs_d43_q3", "prompt": "What did both occupied phones have in common?", "type": "multipleChoice", "options": ["Cracked screens", "Matching cases", "The same brand", "Low battery"], "correctAnswer": "Cracked screens", "explanation": "A shared trait across two separate items is a detail that ties two observations together into one memorable fact."},
+      {"id": "obs_d43_q4", "prompt": "What was the gate agent's name?", "type": "textInput", "options": [], "correctAnswer": "Priya", "explanation": "Name tags are a reliable, checkable detail that's easy to skip when attention goes to the announcement instead."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d44",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 2,
+    "prompt": "Study the museum display case for 15 seconds, then answer from memory.",
+    "stimulusText": "A museum case displays seven arrowheads arranged in a fan pattern, with a small placard noting they date to roughly 1200 CE. One arrowhead sits slightly outside the fan's curve, as if placed last. A magnifying glass on a stand nearby is angled toward the second arrowhead from the left. The case's glass has a faint fingerprint smudge in the upper right corner.",
+    "stimulusFacts": [
+      "seven arrowheads were arranged in a fan pattern",
+      "the placard dated them to roughly 1200 CE",
+      "one arrowhead sat slightly outside the fan's curve",
+      "the magnifying glass was angled toward the second arrowhead from the left",
+      "the case's glass had a fingerprint smudge in the upper right corner"
+    ],
+    "stimulusSeconds": 15,
+    "questions": [
+      {"id": "obs_d44_q1", "prompt": "How many arrowheads were displayed?", "type": "numericInput", "options": [], "correctAnswer": "7", "explanation": "A fan-shaped arrangement can be counted more reliably by scanning in one consistent direction."},
+      {"id": "obs_d44_q2", "prompt": "What date did the placard give for the arrowheads?", "type": "textInput", "options": [], "correctAnswer": "1200 CE", "explanation": "Placard text is easy to skip when the objects themselves are more visually interesting."},
+      {"id": "obs_d44_q3", "prompt": "Which arrowhead did the magnifying glass point toward?", "type": "multipleChoice", "options": ["The first from the left", "The second from the left", "The last one", "The one outside the curve"], "correctAnswer": "The second from the left", "explanation": "Directional details like where a tool points require careful attention, not just noting that the tool exists."},
+      {"id": "obs_d44_q4", "prompt": "True or False: all seven arrowheads followed the same curve.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "One sat slightly outside the curve — an outlier within an otherwise regular pattern is worth flagging."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d45",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Each question below shows four groups of shapes. Three follow the same rule — find the one that breaks it.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "obs_d45_q1", "prompt": "Which group of shapes breaks the pattern followed by the others: circle-square-circle, triangle-square-triangle, star-square-star, or circle-triangle-circle?", "type": "multipleChoice", "options": ["circle-square-circle", "triangle-square-triangle", "star-square-star", "circle-triangle-circle"], "correctAnswer": "circle-triangle-circle", "explanation": "The other three groups all sandwich a square between two matching shapes; this one uses a triangle instead of a square as the middle shape."},
+      {"id": "obs_d45_q2", "prompt": "Which sequence breaks the pattern: 100-90-80, 50-40-30, 12-11-10, or 60-50-40?", "type": "multipleChoice", "options": ["100-90-80", "50-40-30", "12-11-10", "60-50-40"], "correctAnswer": "12-11-10", "explanation": "The other three sequences all decrease by 10 at each step; this one decreases by only 1, breaking the shared rule."},
+      {"id": "obs_d45_q3", "prompt": "Which word set breaks the pattern: (cat, bat, hat), (dog, log, fog), (sun, fun, run), or (pen, ten, cup)?", "type": "multipleChoice", "options": ["(cat, bat, hat)", "(dog, log, fog)", "(sun, fun, run)", "(pen, ten, cup)"], "correctAnswer": "(pen, ten, cup)", "explanation": "The other three sets all rhyme with each other; 'cup' does not rhyme with 'pen' and 'ten', breaking the pattern."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "obs_d46",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 3,
+    "prompt": "Study the hospital waiting room for 12 seconds, then answer without looking back.",
+    "stimulusText": "A hospital waiting room has a wall-mounted TV playing with the volume muted, closed captions running two seconds behind the speaker's mouth. A stack of magazines on the side table has one issue turned upside down. A vending machine displays an 'Out of Order' sticker over the snack row, and a nurse calls a name that doesn't match anyone in the room, then checks her clipboard and corrects herself.",
+    "stimulusFacts": [
+      "the TV played muted with captions running two seconds behind",
+      "one magazine in the stack was turned upside down",
+      "the vending machine had an 'Out of Order' sticker over the snack row",
+      "the nurse called a mismatched name, then corrected herself after checking her clipboard"
+    ],
+    "stimulusSeconds": 12,
+    "questions": [
+      {"id": "obs_d46_q1", "prompt": "How far behind the speaker's mouth did the captions run?", "type": "numericInput", "options": [], "correctAnswer": "2", "explanation": "Timing mismatches are subtle and easy to miss if you're focused on the picture rather than the sync."},
+      {"id": "obs_d46_q2", "prompt": "True or False: all the magazines were right side up.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "One issue was upside down — a small orientation detail that a careful glance, not a quick one, would catch."},
+      {"id": "obs_d46_q3", "prompt": "What was out of order on the vending machine?", "type": "textInput", "options": [], "correctAnswer": "the snack row", "explanation": "Specifying which part of a machine is affected is more useful than just noting the machine had an issue."},
+      {"id": "obs_d46_q4", "prompt": "What did the nurse do after calling the wrong name?", "type": "multipleChoice", "options": ["Checked her clipboard and corrected herself", "Called security", "Ignored it and left", "Called the same name again"], "correctAnswer": "Checked her clipboard and corrected herself", "explanation": "Following a mistake through to its correction gives a fuller, more accurate picture than stopping at the error itself."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "obs_d47",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 4,
+    "prompt": "Study the restaurant kitchen pass for 9 seconds, then answer without looking back.",
+    "stimulusText": "A restaurant kitchen pass has four plated dishes lined up under a heat lamp, one missing its garnish while the other three have identical parsley sprigs. A ticket printer spits out an order stamped '14:32,' just as the chef calls out 'table nine, fire!' A stack of clean side plates wobbles slightly, and a bottle of hot sauce sits capped but visibly sticky around its rim.",
+    "stimulusFacts": [
+      "four plated dishes waited under the heat lamp, one missing its garnish",
+      "the other three dishes had identical parsley sprigs",
+      "the ticket printer stamped an order '14:32' as the chef called 'table nine, fire!'",
+      "the hot sauce bottle was capped but sticky around its rim"
+    ],
+    "stimulusSeconds": 9,
+    "questions": [
+      {"id": "obs_d47_q1", "prompt": "How many plated dishes were under the heat lamp?", "type": "numericInput", "options": [], "correctAnswer": "4", "explanation": "Counting a small group under time pressure is easier when one item's difference (missing garnish) anchors the rest."},
+      {"id": "obs_d47_q2", "prompt": "What was missing from one of the dishes?", "type": "textInput", "options": [], "correctAnswer": "garnish", "explanation": "An inconsistency among otherwise identical items is exactly the kind of detail a fast scan is trained to catch."},
+      {"id": "obs_d47_q3", "prompt": "What time was stamped on the printed ticket?", "type": "textInput", "options": [], "correctAnswer": "14:32", "explanation": "Timestamps are precise, checkable details that are easy to lose amid a noisy, fast-moving scene."},
+      {"id": "obs_d47_q4", "prompt": "True or False: the hot sauce bottle was open.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "It was capped but sticky — noticing the cap's state separately from the residue is a finer distinction worth making."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "obs_d48",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 4,
+    "prompt": "Study the construction site for 9 seconds, then answer without looking back.",
+    "stimulusText": "A construction site has a crane holding a steel beam mid-lift, swaying slightly more than the beam beside it already placed. A safety sign lists '47 days since last incident,' the '47' clearly painted over an earlier, different number. Two workers share one hard hat between them, passing it back and forth as they take turns entering a restricted zone. A generator hums unevenly, its exhaust pipe rattling loose at one joint.",
+    "stimulusFacts": [
+      "the crane's beam swayed more than the already-placed beam beside it",
+      "the safety sign's '47 days' was painted over an earlier, different number",
+      "two workers shared one hard hat, passing it back and forth to enter a restricted zone",
+      "the generator's exhaust pipe rattled loose at one joint"
+    ],
+    "stimulusSeconds": 9,
+    "questions": [
+      {"id": "obs_d48_q1", "prompt": "What did the safety sign say the count was?", "type": "numericInput", "options": [], "correctAnswer": "47", "explanation": "A number that's been painted over is a strong signal that it recently changed and is worth double-checking."},
+      {"id": "obs_d48_q2", "prompt": "True or False: each worker had their own hard hat.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "They shared a single hard hat between them — a safety-relevant detail that's easy to miss in a busy scene."},
+      {"id": "obs_d48_q3", "prompt": "What was rattling loose on the generator?", "type": "textInput", "options": [], "correctAnswer": "the exhaust pipe", "explanation": "Mechanical faults are often audible before they're visible, which is why they're easy to note but hard to pin down precisely."},
+      {"id": "obs_d48_q4", "prompt": "Which beam swayed more?", "type": "multipleChoice", "options": ["The one being lifted by the crane", "The one already placed", "Neither swayed", "Both swayed equally"], "correctAnswer": "The one being lifted by the crane", "explanation": "Comparing two similar objects directly is more reliable than judging either one in isolation."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "obs_d49",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "recallQuiz",
+    "difficulty": 5,
+    "prompt": "A clerk stamps eight documents in sequence. Study the order for 15 seconds, then recall specific positions.",
+    "stimulusText": "A clerk stamps eight documents in this order, left to right: invoice, permit, lease, waiver, deed, manifest, affidavit, receipt.",
+    "stimulusFacts": [
+      "position 1: invoice",
+      "position 2: permit",
+      "position 3: lease",
+      "position 4: waiver",
+      "position 5: deed",
+      "position 6: manifest",
+      "position 7: affidavit",
+      "position 8: receipt"
+    ],
+    "stimulusSeconds": 15,
+    "questions": [
+      {"id": "obs_d49_q1", "prompt": "Which document was fourth in the sequence?", "type": "multipleChoice", "options": ["Lease", "Waiver", "Deed", "Manifest"], "correctAnswer": "Waiver", "explanation": "Breaking an eight-item sequence into two groups of four makes each half easier to hold in memory."},
+      {"id": "obs_d49_q2", "prompt": "What document came immediately before 'manifest'?", "type": "textInput", "options": [], "correctAnswer": "deed", "explanation": "Recalling what precedes a landmark item is a different retrieval path than recalling absolute position, and both are worth practicing."},
+      {"id": "obs_d49_q3", "prompt": "Which position was 'affidavit' in?", "type": "numericInput", "options": [], "correctAnswer": "7", "explanation": "Items near the end of a sequence benefit from recency, but pinning the exact position still takes deliberate counting."},
+      {"id": "obs_d49_q4", "prompt": "What was the very first document stamped?", "type": "textInput", "options": [], "correctAnswer": "invoice", "explanation": "The first item usually anchors well, which makes it a good check on whether the rest of your recall is reliable."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "obs_d50",
+    "disciplineId": "observation",
+    "labCategory": "Observation Lab",
+    "type": "observationSprint",
+    "difficulty": 5,
+    "prompt": "Study the crime-scene-style tableau for only 7 seconds. This is the hardest sprint in the set — expect to miss details, and treat every correct answer as a real win.",
+    "stimulusText": "A staged tableau for an investigation class: an overturned chair lies three feet from a desk, its cushion facing away from the desk rather than toward it. A desk drawer hangs open with papers fanned out, one sheet torn cleanly in half with only one half visible. A wall clock has stopped at 3:47, its glass cracked in a spiderweb pattern radiating from the lower left. A single muddy footprint faces the window rather than the door, and a coffee mug on the desk is still warm according to a placed thermometer reading showing 89 degrees.",
+    "stimulusFacts": [
+      "the overturned chair lay three feet from the desk, cushion facing away from it",
+      "the desk drawer hung open with papers fanned out, one sheet torn with only one half visible",
+      "the wall clock stopped at 3:47 with a spiderweb crack radiating from the lower left",
+      "the muddy footprint faced the window rather than the door",
+      "the thermometer reading on the mug showed 89 degrees"
+    ],
+    "stimulusSeconds": 7,
+    "questions": [
+      {"id": "obs_d50_q1", "prompt": "What time had the wall clock stopped at?", "type": "textInput", "options": [], "correctAnswer": "3:47", "explanation": "Stopped clocks are a classic detail-under-pressure test since the exact digits compete with several other facts for attention."},
+      {"id": "obs_d50_q2", "prompt": "How many feet from the desk did the overturned chair lie?", "type": "numericInput", "options": [], "correctAnswer": "3", "explanation": "Distance estimates are hard to hold precisely in seven seconds — noticing you're estimating is itself useful information."},
+      {"id": "obs_d50_q3", "prompt": "Which direction did the muddy footprint face?", "type": "multipleChoice", "options": ["Toward the window", "Toward the door", "Toward the desk", "Toward the chair"], "correctAnswer": "Toward the window", "explanation": "Directional facts are easy to invert under time pressure, which is exactly why this drill isolates them."},
+      {"id": "obs_d50_q4", "prompt": "What temperature did the thermometer reading show?", "type": "numericInput", "options": [], "correctAnswer": "89", "explanation": "A precise number embedded in a dense scene is one of the last details a rushed scan picks up, if it picks it up at all."},
+      {"id": "obs_d50_q5", "prompt": "True or False: the torn sheet of paper had both halves visible.", "type": "trueFalse", "options": ["True", "False"], "correctAnswer": "False", "explanation": "Only one half was visible — noting what's missing, not just what's torn, completes the observation."}
+    ],
+    "estimatedMinutes": 6
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "rp_d21",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're negotiating a salary offer. After you make your counter-ask, the hiring manager goes silent for nearly ten seconds, looking down at a printed sheet before responding, \"Let me see what I can do.\"",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d21_q1", "prompt": "What did you concretely observe, separate from any guess about what the silence means?", "type": "textInput", "correctAnswer": "A roughly ten-second silence, gaze directed down at a printed sheet, followed by the specific phrase \"Let me see what I can do.\"", "explanation": "This isolates the timing, the visual behavior, and the exact wording used, all of which are useful raw material for the next step."},
+      {"id": "rp_d21_q2", "prompt": "What's a hypothesis about what the pause indicates, and a genuinely different alternative?", "type": "textInput", "correctAnswer": "Hypothesis: your counter-ask exceeded what she expected and she's genuinely recalculating whether it's feasible. Alternative: she's consulting a pre-set approval range on that printed sheet as a matter of routine regardless of the specific number, or she's using a deliberate pause as a standard negotiating tactic taught in most negotiation training, unrelated to how reasonable your number actually was.", "explanation": "A long pause before a non-committal phrase is consistent with genuine recalculation, routine policy-checking, or rehearsed tactic — all producing an identical visible pattern."},
+      {"id": "rp_d21_q3", "prompt": "How confident should you be that this pause reveals her true assessment of your ask, and what confidence range fits?", "type": "textInput", "correctAnswer": "Low, around 15-25 percent, since the phrase used was itself deliberately non-committal, and the pause alone doesn't distinguish genuine surprise from routine process or rehearsed tactic.", "explanation": "The safest interpretation treats this as inconclusive and worth following up on with a direct, low-pressure question rather than a private read of her position."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d22",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Each item describes reasoning built on a single cue. Identify the flaw.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d22_q1", "prompt": "\"She looked away from me while answering, so she must be lying.\" What's the core problem with this reasoning?", "type": "multipleChoice", "options": ["Gaze aversion has not held up as a reliable deception marker in controlled research and has many innocent causes", "This is a scientifically validated and universally reliable indicator of deception", "The observation itself is impossible to make accurately", "Gaze aversion only matters when combined with crossed arms"], "correctAnswer": "Gaze aversion has not held up as a reliable deception marker in controlled research and has many innocent causes", "explanation": "Discomfort with direct eye contact, cultural norms, social anxiety, and simply thinking hard about an answer can all produce gaze aversion with no connection to dishonesty."},
+      {"id": "rp_d22_q2", "prompt": "A manager says, \"He answered too quickly and confidently — that's suspicious, honest people hesitate.\" What's wrong here?", "type": "multipleChoice", "options": ["This assumes a specific delivery style equals honesty or dishonesty, when confident, fast answers are also typical of well-prepared, truthful responses", "Fast, confident answers are always a reliable sign of deception", "This reasoning correctly applies established deception research", "Speed of response has never been studied in relation to honesty"], "correctAnswer": "This assumes a specific delivery style equals honesty or dishonesty, when confident, fast answers are also typical of well-prepared, truthful responses", "explanation": "Delivery confidence correlates with rehearsal and personality far more reliably than with truthfulness — treating speed itself as suspicious ignores far more common, innocent explanations."},
+      {"id": "rp_d22_q3", "prompt": "\"He touched his nose right after I asked the hard question — classic deception tell.\" What's the issue?", "type": "multipleChoice", "options": ["Face-touching has been tested directly in deception research and has not reliably distinguished liars from truth-tellers", "Face-touching is one of the few universally validated deception cues", "This observation couldn't have actually happened as described", "Face-touching only counts as a cue if it happens on the left side of the face"], "correctAnswer": "Face-touching has been tested directly in deception research and has not reliably distinguished liars from truth-tellers", "explanation": "Popular 'tell' checklists including face-touching have been directly tested against verified truth-tellers and liars and have generally failed to reliably distinguish them."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d23",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "At a dinner party, a guest gives a toast praising the host's cooking. Around the table, most guests smile and nod. One guest's smile appears a half-second after everyone else's, doesn't reach her eyes, and fades quickly once attention moves elsewhere.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d23_q1", "prompt": "Describe exactly what was different about this one guest's smile, without yet concluding what she actually felt.", "type": "textInput", "correctAnswer": "Her smile started slightly later than the group's, lacked visible eye-corner engagement, and faded faster once the group's attention shifted away from the toast.", "explanation": "This documents timing, muscle involvement, and duration — three concrete, comparable details rather than a vague overall impression."},
+      {"id": "rp_d23_q2", "prompt": "What's a hypothesis about this smile, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: she felt less genuine warmth toward the toast than the rest of the table, perhaps due to a private disagreement with the host or simply less investment in the meal. Alternative: she was distracted or a beat behind in following the toast, was self-conscious being watched at a dinner table, or simply this is her normal social smile style regardless of how she actually feels — not everyone's polite smile involves visible eye-crinkling even when they mean it.", "explanation": "A delayed, socially-appropriate smile fitting the social function of politeness doesn't require assuming resentment or dishonesty — many people's genuine social smiles simply look this way."},
+      {"id": "rp_d23_q3", "prompt": "How confident should you be that this smile reveals a negative feeling toward the host or toast, and what confidence range fits?", "type": "textInput", "correctAnswer": "Low, around 15-25 percent, since a socially-appropriate but less enthusiastic smile is extremely common and doesn't require any hidden negative feeling to explain it.", "explanation": "Calling a merely polite smile 'fake' or suspicious assumes deception where ordinary social performance is a far more common and simpler explanation."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d24",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "During a performance review, an employee has been speaking clearly. When asked about a missed deadline, he stammers slightly over his first few words, then continues in his normal speaking style for the rest of the answer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d24_q1", "prompt": "What is the precise, observable vocal event here, and exactly where in the answer did it occur?", "type": "textInput", "correctAnswer": "A brief stammer over the first few words of the answer specifically to the missed-deadline question, with normal fluent speech resuming for the remainder of the answer.", "explanation": "Locating the disfluency to the very start of the answer, rather than throughout it, is a useful and specific detail for generating hypotheses."},
+      {"id": "rp_d24_q2", "prompt": "What's one hypothesis for the stammer, and one honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: the deadline miss is something he feels genuinely uncomfortable or embarrassed discussing. Alternative: he simply hadn't decided yet exactly how to phrase the explanation and the stammer reflects normal verbal planning under mild performance-review pressure, unrelated to guilt about the miss itself.", "explanation": "A brief stammer at the very start of an answer is common whenever someone is organizing a response in real time, independent of whether the underlying content is comfortable or not."},
+      {"id": "rp_d24_q3", "prompt": "How confident should the reviewer be that this stammer indicates the employee is being evasive about the real reason for the miss, and what's a well-calibrated confidence range?", "type": "textInput", "correctAnswer": "Low, roughly 15-25 percent, since a brief stammer confined to the opening of an answer is common under ordinary review-related pressure and doesn't reliably distinguish evasiveness from simple momentary nervousness or planning.", "explanation": "The stammer is genuine evidence of some arousal at that moment, but arousal under performance-review pressure is close to universal regardless of whether the underlying explanation is fully honest."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d25",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "At a funeral in a culture unfamiliar to you, several close family members appear composed, speaking calmly and even smiling briefly while greeting guests, while a distant relative sobs openly in the back of the room.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d25_q1", "prompt": "What did you observe, described only behaviorally, without assuming what it says about anyone's actual grief?", "type": "textInput", "correctAnswer": "Close family members displayed calm speech and brief smiles while greeting guests; a more distant relative displayed open sobbing at the back of the room.", "explanation": "This states the visible display pattern without yet assuming who is grieving 'more' based on outward display alone."},
+      {"id": "rp_d25_q2", "prompt": "What's a hypothesis assuming display equals felt grief, and an alternative rooted in display rules?", "type": "textInput", "correctAnswer": "Hypothesis (risky default): the composed family members are less affected by the loss than the openly sobbing relative. Alternative: the close family members may be following a cultural or role-based display rule that expects composure from immediate family in front of guests specifically, regardless of the intensity of their private grief, while the distant relative may simply have fewer social expectations constraining their display.", "explanation": "Display rules research shows that outward expression is shaped by social role and cultural norms as much as by the underlying felt emotion — composed behavior in a host role doesn't indicate less grief underneath."},
+      {"id": "rp_d25_q3", "prompt": "How confident should an outside observer be that outward composure versus visible sobbing accurately ranks the depth of each person's grief, and what's a well-calibrated confidence range?", "type": "textInput", "correctAnswer": "Very low, likely under 20 percent, because grief display is heavily filtered by cultural norms and social role, and an observer outside that specific cultural context has little basis for calibrating what 'normal' composed or expressive grief looks like there.", "explanation": "This is a clear case where confidence should fall specifically because the observer lacks a shared cultural baseline, not rise because the display is easy to see."}
+    ],
+    "estimatedMinutes": 6
+  },
+  {
+    "id": "rp_d26",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Test your understanding of why trained professionals still struggle at lie detection.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d26_q1", "prompt": "In studies comparing groups like judges, customs officers, and clinical psychologists to untrained college students on lie-detection tasks, what pattern is most consistently found?", "type": "multipleChoice", "options": ["Most professional groups perform close to the same accuracy as untrained students, despite reporting more confidence", "Professional groups reliably score at least 20 points higher in accuracy", "Untrained students consistently outperform every professional group tested", "All groups tested perform above 90 percent accuracy"], "correctAnswer": "Most professional groups perform close to the same accuracy as untrained students, despite reporting more confidence", "explanation": "This pattern, documented across multiple studies including work by Ekman and O'Sullivan, is one of the most robust and sobering findings in deception research."},
+      {"id": "rp_d26_q2", "prompt": "What is a leading explanation for why professional experience often fails to translate into better lie-detection accuracy?", "type": "multipleChoice", "options": ["Most professionals rarely receive clear, timely feedback on whether their real-world judgments were actually correct", "Professionals simply don't pay enough attention during interactions", "Lie detection is a skill that cannot improve with any amount of practice under any conditions", "Professional training programs never address deception detection at all"], "correctAnswer": "Most professionals rarely receive clear, timely feedback on whether their real-world judgments were actually correct", "explanation": "Skills typically improve through repeated practice paired with clear feedback, and most real-world roles involving honesty judgments rarely provide that feedback loop."},
+      {"id": "rp_d26_q3", "prompt": "What's the most responsible practical conclusion to draw from this research for someone whose job involves assessing honesty?", "type": "multipleChoice", "options": ["Treat any single-encounter behavioral read as a low-confidence input and lean more on corroboration and consistency over time", "Trust your gut fully, since years of job experience make your instincts reliable", "Stop making any judgments about honesty at all, since no useful information exists in behavior", "Rely exclusively on a fixed checklist of classic deception cues for every case"], "correctAnswer": "Treat any single-encounter behavioral read as a low-confidence input and lean more on corroboration and consistency over time", "explanation": "The research doesn't argue for abandoning judgment, but for calibrating it honestly and weighting external, verifiable evidence more heavily than in-the-moment demeanor."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d27",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A rumor of layoffs spreads through the office before a scheduled team meeting. When the meeting starts, conversation is noticeably quieter than usual, several people are checking phones under the table, and normal pre-meeting joking is absent.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d27_q1", "prompt": "What are the concrete, group-level observations here, compared against this team's normal baseline?", "type": "textInput", "correctAnswer": "Lower overall conversation volume than usual, visible phone-checking under the table by several people, and an absence of the group's typical pre-meeting joking.", "explanation": "Each detail is compared explicitly against this specific team's normal pattern rather than some assumed universal baseline for meetings in general."},
+      {"id": "rp_d27_q2", "prompt": "What's a hypothesis for the room's changed energy, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: the layoff rumor has created anxiety that's suppressing the team's normal energy. Alternative: this coincides with a genuinely busy, stressful week unrelated to the rumor — a looming deadline, for instance — that would produce the same quieter, more phone-focused mood regardless of whether anyone believed the rumor.", "explanation": "A quiet, phone-heavy room is also the ordinary signature of a busy or tired team on a hard week, independent of any specific rumor."},
+      {"id": "rp_d27_q3", "prompt": "How confident should a manager be that the room's mood is specifically about the layoff rumor rather than something else, and what's a reasonable confidence range?", "type": "textInput", "correctAnswer": "Moderate, roughly 40-55 percent, since the timing right after the rumor spread is suggestive, but a genuinely busy week is a real competing explanation that hasn't been ruled out, and both could also be true simultaneously.", "explanation": "Timing that lines up with a plausible cause raises confidence somewhat above the low end, but without more direct information a manager still shouldn't treat it as confirmed."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d28",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "At a crowded birthday party, a five-year-old who was playing happily an hour ago suddenly starts crying loudly when a group of relatives sings \"Happy Birthday\" around him.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d28_q1", "prompt": "What is observable here, described without yet assuming a specific cause for the crying?", "type": "textInput", "correctAnswer": "A shift from apparent enjoyment during earlier play to loud crying that began specifically when a group gathered around him singing.", "explanation": "Anchoring the change to the specific triggering moment (the group singing) is more useful than a vague note that he 'became upset' sometime during the party."},
+      {"id": "rp_d28_q2", "prompt": "What's a hypothesis about the crying, and an honest, age-appropriate alternative?", "type": "textInput", "correctAnswer": "Hypothesis: the sudden attention and being the center of a group singing at him is overwhelming and overstimulating for a five-year-old. Alternative: he's simply overtired after a long, exciting party day, and the singing happened to be the moment that tipped him over, or something unrelated (a toy taken by another child moments earlier) actually caused it and the timing with the singing is coincidental.", "explanation": "Sudden overstimulation from group attention is a well-known and very common trigger at this age, but genuine fatigue or an unrelated small incident moments earlier are equally ordinary explanations worth ruling in or out."},
+      {"id": "rp_d28_q3", "prompt": "How confident should an adult be that the singing itself, rather than general overstimulation or fatigue, specifically caused the crying, and what's a reasonable confidence range?", "type": "textInput", "correctAnswer": "Moderate, around 40-50 percent, since the timing points toward the singing as a plausible trigger, but overtiredness and unrelated incidents are common enough at this age that they can't be ruled out just from the timing alone.", "explanation": "Timing supports a reasonable hypothesis without confirming it; a gentle check-in and comfort works regardless of the exact cause, which is the practical point of holding confidence moderate here."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d29",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "During a one-on-one video call, your colleague's camera angle is low, pointed slightly upward from her desk. She rarely looks directly at the camera, glancing instead toward what appears to be her screen, and her replies come a beat slower than usual.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d29_q1", "prompt": "What can you actually observe here, distinguishing the camera setup itself from her behavior?", "type": "textInput", "correctAnswer": "A low, upward-angled camera position, gaze directed toward her screen rather than the camera lens, and replies arriving slightly slower than her usual pace.", "explanation": "Separating the camera's physical angle from her behavior is important, since the angle itself can make ordinary screen-glancing look more pronounced than it would from a better-placed camera."},
+      {"id": "rp_d29_q2", "prompt": "What's a hypothesis that assumes disengagement, and an alternative that accounts for the camera setup and normal screen use?", "type": "textInput", "correctAnswer": "Hypothesis: she's distracted or disengaged from the conversation. Alternative: she's reading your shared notes or the meeting agenda on her screen while listening, which is normal and often helpful engagement, and the awkward camera angle is simply exaggerating how much she appears to be looking away.", "explanation": "Looking at meeting-relevant material on-screen is a common and legitimate form of engagement that a low camera angle can make look like disinterest."},
+      {"id": "rp_d29_q3", "prompt": "How confident should you be that she's genuinely disengaged from the conversation, and what's a well-calibrated confidence range?", "type": "textInput", "correctAnswer": "Low, roughly 15-25 percent, since camera angle and normal on-screen note-reading fully account for the observed pattern without needing to assume disengagement, and video calls generally warrant extra caution before reading facial or gaze cues as meaningful.", "explanation": "Video call artifacts and normal multitasking with meeting materials make this pattern common among fully engaged participants, not just disengaged ones."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d30",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A close friend texts \"I'm fine, just tired\" when you ask how they're doing. On a call later that day, their voice is flatter and quieter than usual, they give short answers, and they change the subject quickly whenever you ask a follow-up question.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d30_q1", "prompt": "List each separate channel of observation here — text content, vocal quality, answer length, and conversational steering — without combining them into a conclusion yet.", "type": "textInput", "correctAnswer": "Text content: says 'fine, just tired.' Voice: flatter and quieter than their baseline. Answer length: shorter than usual. Conversational pattern: actively changes the subject away from follow-up questions.", "explanation": "Logging each channel separately before combining them is the core synthesis discipline — it prevents one vivid detail from dominating the read before all the evidence is on the table."},
+      {"id": "rp_d30_q2", "prompt": "What single hypothesis best accounts for all four observations together, and what alternative would also explain most or all of them?", "type": "textInput", "correctAnswer": "Hypothesis: something is genuinely bothering them and they're giving the minimal socially expected answer while avoiding discussing it further. Alternative: they really are just physically tired — flat voice and short answers fit fatigue on their own — and the subject-changing reflects not wanting to make a low-energy evening into a longer conversation, not necessarily concealment of distress.", "explanation": "Fatigue alone plausibly explains three of the four observations (voice, length, subject-changing to keep the call short); it's a genuine competing explanation, not just something to dismiss in favor of the more dramatic hypothesis."},
+      {"id": "rp_d30_q3", "prompt": "How confident should you be that something more than tiredness is going on, and what's an appropriate way to act on that confidence level?", "type": "textInput", "correctAnswer": "Moderate confidence, roughly 40-55 percent, that something beyond simple tiredness is present — high enough to justify a gentle, non-pressuring check-in ('you sound a little off tonight — anything you want to talk about, no pressure'), but not high enough to assume you know what it is or to push past their choice to change the subject.", "explanation": "Multiple weak signals converging raises confidence above any single one alone, but the honest response to moderate confidence is an open, low-pressure question — not a confident private diagnosis of a friend's inner state."}
+    ],
+    "estimatedMinutes": 6
+  }
+]

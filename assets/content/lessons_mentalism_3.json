@@ -1,0 +1,292 @@
+[
+  {
+    "id": "ment_l19",
+    "disciplineId": "mentalism",
+    "title": "Improvisation vs. the Scripted Line",
+    "hook": "The best mentalism reads as effortless — which is exactly why audiences can't tell how much of it was actually written months in advance.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Fully scripted material — memorized word for word, tested and refined over repeated performances — and genuine improvisation — adapting live to what a specific volunteer says or does — are both legitimate performance tools. The real skill is knowing which parts of a routine can flex in the moment and which absolutely must not."
+      },
+      {
+        "type": "paragraph",
+        "text": "As a practical rule: reveal lines and any equivoque or one-ahead branch points should stay locked and scripted, because their exact wording is load-bearing for the whole effect. The connective tissue between beats — small talk, transitions, reacting to an unexpected comment from a volunteer — is where genuine improvisation should live, because audiences can usually tell rehearsed banter from real presence, even when they can't say exactly how."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance — this is a pure craft distinction between scripted and improvised material, with no manipulation risk, since neither approach involves deceiving anyone about the nature of the show itself."
+      },
+      {
+        "type": "paragraph",
+        "text": "The goal is for the improvised parts to feel spontaneous and for the scripted parts, through sheer repetition, to also feel spontaneous — so that a good audience member genuinely cannot tell which lines were written months ago and which were invented thirty seconds earlier."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["improvisation", "scripting", "adaptability"],
+    "relatedDrillIds": ["ment_d31", "ment_d32"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l20",
+    "disciplineId": "mentalism",
+    "title": "Real Psychology, No Gimmick",
+    "hook": "Some mentalism effects need a prop or a sleight to work. Others need nothing at all except how a question is phrased.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Some mentalism effects rely on physical technique — forces, switches, gimmicked props. Others rely entirely on genuine, well-documented psychology: priming a word or number earlier in a conversation so it comes to mind 'spontaneously' later, or setting an expectation that narrows what a person will actually choose, with no prop or sleight involved at all."
+      },
+      {
+        "type": "paragraph",
+        "text": "A concrete example is expectation narrowing: asking someone to 'think of a two-digit number, both digits odd, both different' mathematically restricts the pool of likely answers far more than the question feels like it does, and a performer who knows the statistically most common answer to that constrained prompt can appear to divine an individual's private thought using nothing but real probability and real psychology."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🧠 Psychological principle · 🎭 Performance — this category deserves its own flag because it succeeds without any physical deception at all, sitting closest to genuine psychology and furthest from sleight, though it's still deployed inside a performance frame rather than a claim of real mind-reading."
+      },
+      {
+        "type": "paragraph",
+        "text": "Genuine psychological techniques still require honest framing. Knowing the most common answer to a constrained question isn't magic, but presenting it as a unique read of one individual's private thought — rather than a correct bet on population-level odds — blurs into overclaiming. Good scripting credits the technique's real mechanism implicitly, through a modest delivery rather than a dramatic one that oversells the moment as more mysterious than it actually is."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["priming", "expectation", "psychology", "genuine technique"],
+    "relatedDrillIds": ["ment_d33", "ment_d34"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l21",
+    "disciplineId": "mentalism",
+    "title": "The Forced Choice",
+    "hook": "The card felt freely chosen. It wasn't — and the method for making that true has nothing to do with fast hands.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A magician spreads a shuffled deck, a spectator 'freely' cuts to a card, and yet the performer named that exact card before it was ever turned over. Without teaching any specific sleight mechanics, it's worth understanding conceptually what a force actually is: any procedure engineered so that the choice options a spectator believes are open are actually narrowed to a single, predetermined outcome, whether through physical setup — a pre-arranged deck — through timing, or through the wording techniques covered in equivoque."
+      },
+      {
+        "type": "paragraph",
+        "text": "Physical forces rely on setup and props, and are categorically more mechanical; psychological forces rely entirely on how a question is asked. Practitioners choose based on context: close-up work with a physical deck of cards has room for a physical force, while phone or remote mentalism relies almost entirely on psychological forces, since there's no shared physical prop the performer can control in advance."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle · ⚠️ Manipulation risk — a force's entire function is manufacturing a false sense of free choice, making it one of the technique families this discipline is most explicit about confining strictly to a disclosed performance context."
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful craft note: the tell that gives away a weak force usually isn't the mechanism itself, it's overselling the freedom — 'truly, absolutely any card you want!' — when a single, quieter mention of 'pick one' reads as far more natural, and is considerably less likely to raise suspicion."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["forcing", "cards", "conceptual technique"],
+    "relatedDrillIds": ["ment_d35", "ment_d36"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l22",
+    "disciplineId": "mentalism",
+    "title": "Muscle Reading and the Clever Hans Effect",
+    "hook": "A horse that could supposedly do arithmetic turned out to be reading something else entirely — the unconscious tells of the people watching it.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The ideomotor effect describes small, involuntary muscle movements that occur when a person concentrates intensely on a physical task or location, even without any conscious intention to move. 'Muscle reading' acts — finding a hidden object while holding a volunteer's wrist — work by detecting these micro-tensions as the volunteer unconsciously guides toward or away from the target, not by reading anyone's thoughts."
+      },
+      {
+        "type": "paragraph",
+        "text": "The clearest historical illustration is the case of Clever Hans, a horse in early-1900s Germany who appeared to solve arithmetic problems by tapping a hoof the correct number of times. A careful investigation found the horse was actually reading tiny, unconscious postural cues from its handler and onlookers, who would relax slightly at the correct tap count — meaning the horse's remarkable 'ability' was really detecting other people's own unconscious tells, not doing math at all."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle · ⚠️ Manipulation risk — the ideomotor effect is genuine, replicated psychology, but a performance built on it risks implying real telepathy unless it's explicitly framed as detecting unconscious physical tension rather than reading a mind."
+      },
+      {
+        "type": "paragraph",
+        "text": "A muscle-reading act that says, in effect, 'I can find a hidden object by feeling for the tiny unconscious tension in your arm as you think about its location' is accurate, honest, and still genuinely astonishing. A version that implies real mind-reading instead crosses directly into the overclaiming this course consistently avoids."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["muscle reading", "ideomotor effect", "Clever Hans"],
+    "relatedDrillIds": ["ment_d37", "ment_d38"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l23",
+    "disciplineId": "mentalism",
+    "title": "Confederates and the Line You Don't Cross",
+    "hook": "A hidden helper in the audience can be a harmless staging convention — or the exact mechanism of a real fraud. What decides which one it is?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A confederate, sometimes called a stooge, is an audience member secretly working with the performer while appearing to be a random volunteer. Worth sitting with: does using one make an effect more or less impressive, and does it matter whether the audience ever finds out?"
+      },
+      {
+        "type": "paragraph",
+        "text": "There are low-risk, industry-tolerated uses — a planted 'second phone' for a specific technical effect, common practice that doesn't misrepresent the actual claim being made to the audience — and there are higher-risk ones, like implying that every audience 'volunteer' across an entire show is secretly a plant to inflate claims of ability, or using a confederate to fabricate a fake testimonial."
+      },
+      {
+        "type": "paragraph",
+        "text": "A harder question: if a paid psychic act uses a hidden confederate to gather information about a client beforehand — a documented tactic sometimes called a 'hot read' — does that cross from performance craft into fraud? The answer is plain: yes. Once money changes hands for what's presented as genuine insight, and a hidden accomplice is feeding the performer information, that's deception for financial gain, not entertainment."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: ⚠️ Manipulation risk · 🤝 Ethical use — confederates sit on a spectrum from a harmless staging convention to outright fraud, and the deciding factor is always whether the audience's understanding of what kind of event they're watching is being genuinely violated."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["stooges", "confederates", "ethics", "disclosure"],
+    "relatedDrillIds": ["ment_d39", "ment_d40"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l24",
+    "disciplineId": "mentalism",
+    "title": "The Q&A Act",
+    "hook": "A single wrong billet handled at the wrong moment can quietly unravel every reveal that comes after it.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Consider the classic structure of a 'Q&A act': audience members write questions on billets before the show, and the performer appears to answer some of them live, seemingly divining details about the person who asked. Breaking down its phases: collection, a natural handling moment that quietly supports switches or one-ahead setup; sorting, a visible shuffle that's often actually organizing items by a hidden system; and delivery, where answers are given in a deliberately vague-to-specific order, building confidence before the sharpest, most detailed hit."
+      },
+      {
+        "type": "paragraph",
+        "text": "A strong Q&A act mixes several techniques covered elsewhere in this discipline — billet handling, one-ahead structuring, equivoque for ambiguous questions — so no single method runs long enough in a row for a pattern to become noticeable. It also deliberately scatters a few vague or 'missed' answers among the specific hits, since a perfect hit rate on every single billet reads as suspicious, while a realistic mix of specific and vague reads as far more convincing."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle — this is a structural case study combining techniques already covered elsewhere, not a new manipulation concern on its own, provided the show stays disclosed as a demonstration of skill."
+      },
+      {
+        "type": "paragraph",
+        "text": "Because a Q&A act runs on cumulative trust built across many small reveals, one exposed method early on — an audience member glimpsing a billet switch, say — can collapse trust in every reveal that follows. That's exactly why pacing safe, well-rehearsed methods first and riskier flourishes later is standard structural advice for this format."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["Q&A act", "structure", "billets", "predictions"],
+    "relatedDrillIds": ["ment_d41", "ment_d42"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l25",
+    "disciplineId": "mentalism",
+    "title": "Designing an Out",
+    "hook": "The wrong card gets named. The prediction doesn't match. Professional performers don't hope this never happens — they script for it.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "An 'out' is a pre-planned alternate ending or recovery line for the moment an effect doesn't land exactly as designed — the wrong card gets named, a prediction doesn't match, a volunteer breaks the expected pattern entirely. Professional mentalists build outs into every routine as a matter of course, rather than hoping nothing ever goes sideways."
+      },
+      {
+        "type": "paragraph",
+        "text": "Outs come in a few recognizable categories. A 'multiple out' structure builds the effect so that several genuinely different results all lead to an impressive-looking conclusion — common in prediction routines with more than one plausible target answer. A graceful acknowledgment out reframes an apparent miss as a deliberate pivot rather than a failure — 'that's an unusual one, let's try this differently' — delivered without a trace of panic in the voice."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance — this is practical resilience craft with no manipulation risk of its own; well-designed outs actually keep a performer honest by giving them a way to avoid pretending a miss was really a hit."
+      },
+      {
+        "type": "paragraph",
+        "text": "Practice suggestion: for your next routine, write down the three most likely ways it could go differently than planned, and script a specific recovery line for each one before performing it live, rather than improvising damage control under pressure in the moment."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["failure recovery", "outs", "improvisation", "professionalism"],
+    "relatedDrillIds": ["ment_d43", "ment_d44"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l26",
+    "disciplineId": "mentalism",
+    "title": "Memory as Performance",
+    "hook": "This is the one mentalism feat that needs exactly zero deception to be genuinely astonishing.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Feats like memorizing a shuffled deck's exact order, or recalling fifty audience-called-out items, rest on genuine, learnable memory techniques — peg systems, the method of loci, chaining vivid images to abstract items — rather than on any special innate gift. Decades of research on memory athletes confirm the technique, not raw talent, accounts for nearly all of the performance."
+      },
+      {
+        "type": "paragraph",
+        "text": "Performance framing matters here in a way it doesn't for other mentalism categories, because memory feats require zero deception at all: the deck really is memorized, the order really is recalled correctly. Scripting should lean into genuine amazement at the technique itself — 'here's the system, and yes, you could learn it too' — rather than implying anything supernatural, since honesty here is not just ethical, it's actually more impressive."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle — flagged specifically because, unlike most of this discipline's other techniques, memory demonstrations carry no manipulation risk at all: the feat is genuinely real and can be disclosed in full without weakening it."
+      },
+      {
+        "type": "paragraph",
+        "text": "A practice note worth trying: presenting the 'how' briefly at the end of a memory routine, a fast and honest explanation of the peg system used, frequently increases audience appreciation rather than deflating it — a reaction unique to this category among mentalism effects."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["memory demonstration", "peg systems", "performance framing"],
+    "relatedDrillIds": ["ment_d45", "ment_d46"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l27",
+    "disciplineId": "mentalism",
+    "title": "Invisible Tools, Visible Ethics",
+    "hook": "A hidden earpiece can turn one performer into something that looks like it knows everything about a room in real time — which is exactly why it needs the clearest ethics of any tool in this discipline.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Modern mentalism increasingly makes use of hidden earpieces, smartphone-based information relay, and offstage confederates running backend research, expanding what a single performer can appear to know in real time. Conceptually, these tools extend the same core structural ideas covered elsewhere in this course — one-ahead structuring, confederate use — into a technological register, without changing their underlying nature."
+      },
+      {
+        "type": "paragraph",
+        "text": "What changes is the ethical stakes. A hidden earpiece is a bigger claim on audience trust than a folded billet, because if it's exposed, it reads less like 'a clever performance trick' and more like deliberate real-time fraud, especially in any context implying genuine paranormal ability rather than disclosed skill. The bigger the technological assist, the more explicit the 'this is a performance' framing needs to be — not less."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: ⚠️ Manipulation risk · 🤝 Ethical use — modern invisible-tech tools raise the ethical stakes of any mentalism act because they scale deception capacity far beyond what unaided sleight or scripting can accomplish, requiring correspondingly clearer disclosure of the entertainment frame."
+      },
+      {
+        "type": "paragraph",
+        "text": "This course teaches the performance psychology and scripting principles underlying all of mentalism, whether technology-assisted or not — but treats any use of hidden real-time technology to imply genuine supernatural ability, especially for payment, as sitting entirely outside legitimate performance craft."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["technology", "ethics", "modern mentalism", "disclosure"],
+    "relatedDrillIds": ["ment_d47", "ment_d48"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l28",
+    "disciplineId": "mentalism",
+    "title": "From Opening Line to Closing Beat",
+    "hook": "Audiences remember how a show ends far more vividly than how it began — which changes everything about how a set should be built.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A full mentalism set has a structure worth designing deliberately. The opener should be fast, visually clear, and low-risk, establishing credibility and stakes before the audience has invested real trust. The middle section can flex in length depending on the room's energy, drawing on the pacing skills covered elsewhere in this discipline. The closer should be chosen specifically for maximum emotional impact — usually the routine with the strongest, most personal reveal — since audiences remember how a show ends far more than how it began."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pacing variety matters across a full set: alternate high-energy, broad-audience effects with quieter, single-volunteer moments so the room's collective attention resets rather than fatigues. Avoid stacking two similarly-feeling reveals back to back — the second one reads as diminishing returns, even when it's technically harder to perform than the first."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance — full-set sequencing is structural stagecraft, not itself a new manipulation concern beyond the individual techniques already covered elsewhere in this discipline."
+      },
+      {
+        "type": "paragraph",
+        "text": "A strong full set is rehearsed as a whole, not just as a set of isolated routines, since the transitions between effects — small talk, resets, prop changes — are exactly where audience attention drifts if they aren't scripted with the same care given to the reveals themselves."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["show structure", "booking", "pacing", "set design"],
+    "relatedDrillIds": ["ment_d49", "ment_d50"],
+    "relatedCardIds": []
+  }
+]

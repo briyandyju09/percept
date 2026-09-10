@@ -1,0 +1,306 @@
+[
+  {
+    "id": "comp_d19",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 2,
+    "prompt": "4-7-8 breathing: a slower, more demanding pattern often used to wind down before a stressful transition or before sleep.",
+    "stimulusText": "Inhale quietly through your nose for a count of 4. Hold your breath for a count of 7. Exhale completely through your mouth, making a soft whoosh sound, for a count of 8. Repeat this cycle for the full timer, without straining if the hold feels uncomfortable at first — shorten the counts proportionally if needed.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 100,
+    "questions": [
+      {
+        "id": "comp_d19_q1",
+        "prompt": "Did the 7-second hold feel manageable or did you need to shorten it? What does that tell you about pacing this pattern for yourself?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest reflection noting whether the hold felt comfortable or forced — the pattern is meant to be adapted proportionally to your own lung capacity and comfort rather than forced at the exact 4-7-8 ratio from the first attempt.",
+        "explanation": "The 4-7-8 pattern, popularized by Dr. Andrew Weil, is intentionally more demanding than simple exhale-focused breathing, which is part of why it's often used as a longer wind-down tool rather than a fast in-the-moment reset."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d20",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 2,
+    "prompt": "Coherent (resonance) breathing: slow, even breathing at roughly five to six breaths per minute.",
+    "stimulusText": "Inhale gently through your nose for a slow count of 5 to 6 seconds, then exhale gently through your nose or mouth for an equal count of 5 to 6 seconds, with no pause in between. Keep the rhythm smooth and even, roughly five to six full breaths per minute, for the duration of the timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 150,
+    "questions": [
+      {
+        "id": "comp_d20_q1",
+        "prompt": "How did this even, unhurried rhythm compare to your normal resting breathing rate — did it feel slower than usual, or close to your baseline?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest comparison to normal breathing pace — most people breathe noticeably faster than five to six breaths per minute at rest, so this pace typically feels deliberately slower than usual.",
+        "explanation": "A pace around five to six breaths per minute is often cited as close to a resonance frequency where heart rate variability tends to synchronize smoothly with the breath, though individual resonance frequencies do vary somewhat person to person."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d21",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 1,
+    "prompt": "Diaphragmatic (belly) breathing: breathing from the belly rather than the chest to engage a fuller, calmer breath.",
+    "stimulusText": "Place one hand on your chest and one on your belly. Breathe in slowly through your nose so the hand on your belly rises noticeably while the hand on your chest stays relatively still. Exhale slowly through pursed lips, feeling your belly fall. Continue this belly-led breathing for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 120,
+    "questions": [
+      {
+        "id": "comp_d21_q1",
+        "prompt": "Was it easy or difficult to keep your chest still while your belly did the moving? What does that suggest about your usual breathing habit?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest reflection — many people default to shallow, chest-dominant breathing under everyday stress, so noticing this pattern is difficult at first is common and useful information.",
+        "explanation": "Chronic shallow chest breathing is associated with a more activated stress state, while diaphragmatic breathing engages a fuller breath that tends to support a calmer physiological baseline."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d22",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 3,
+    "prompt": "Rapid fire: true or false, on handling public speaking anxiety.",
+    "stimulusText": "Judge each claim about public speaking nerves quickly and honestly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d22_q1",
+        "prompt": "Reframing pre-speech nerves as excitement rather than trying to feel calm has been shown to improve performance in some studies.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Research on arousal reappraisal found that people who relabeled nervous arousal as excitement performed better than those who tried to suppress or calm the feeling directly."
+      },
+      {
+        "id": "comp_d22_q2",
+        "prompt": "The physiological symptoms of public speaking anxiety are fundamentally different from a general fight-or-flight response.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Public speaking anxiety produces the same core physiological signature as fight-or-flight — racing heart, shallow breathing, adrenaline — just triggered by a social rather than physical threat."
+      },
+      {
+        "id": "comp_d22_q3",
+        "prompt": "It's generally more effective to over-rehearse your opening line specifically than to rehearse the whole talk equally.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "The first moments of a talk are when adrenaline most compromises working memory, so having the opening deeply automatic reduces the risk of an early stumble."
+      },
+      {
+        "id": "comp_d22_q4",
+        "prompt": "A two-second pause after a key point generally reads to an audience as confidence rather than as a mistake.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Pauses that feel uncomfortably long to the speaker are usually read by an audience as deliberate and confident rather than as an error."
+      },
+      {
+        "id": "comp_d22_q5",
+        "prompt": "If you lose your place mid-sentence, the best recovery is a rushed, repeated apology while you find your spot again.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "A calm, brief pause and simple restart recovers better than an anxious, over-apologetic scramble, which tends to draw more attention to the mistake."
+      },
+      {
+        "id": "comp_d22_q6",
+        "prompt": "Public speaking anxiety is a rare fear that only affects a small minority of people.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Public speaking anxiety is consistently reported as one of the most common fears across large surveys, not a rare or unusual experience."
+      },
+      {
+        "id": "comp_d22_q7",
+        "prompt": "A physiological sigh right before going on stage can help lower heart rate faster than normal breathing alone.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "The double-inhale, long-exhale pattern of a physiological sigh is one of the fastest-acting tools for shifting toward a calmer physiological state."
+      },
+      {
+        "id": "comp_d22_q8",
+        "prompt": "Audiences typically remember a speaker's single \"um\" or minor stumble far longer and in more detail than the speaker does.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Audiences generally forget small stumbles within minutes; speakers tend to overestimate how memorable their own minor mistakes were to the room."
+      },
+      {
+        "id": "comp_d22_q9",
+        "prompt": "Trying to feel completely calm rather than accepting the nervous energy is generally the more effective mental strategy before speaking.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Research suggests reappraising the energy as excitement tends to work better than trying to force yourself into full calm, which is a harder and less reliable shift to make on demand."
+      },
+      {
+        "id": "comp_d22_q10",
+        "prompt": "Composed public speaking means eliminating nervous physiological arousal entirely before you go on.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure in public speaking is about working with the arousal skillfully, not eliminating it — even experienced speakers typically still show measurable physiological activation."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d23",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 2,
+    "prompt": "Rapid fire: true or false, on digital reactivity and notifications.",
+    "stimulusText": "Judge each claim about notifications and phone habits quickly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d23_q1",
+        "prompt": "Unpredictable, variable rewards tend to produce stronger habitual checking behavior than rewards on a predictable schedule.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "This is the well-documented intermittent reinforcement effect, the same principle behind slot machines and much of notification design."
+      },
+      {
+        "id": "comp_d23_q2",
+        "prompt": "Structural changes, like turning off badges or physically separating from your phone, tend to outperform pure willpower for reducing compulsive checking.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Because the reward schedule is engineered to be persistent, structural changes that remove the cue tend to be more reliable than relying on willpower alone."
+      },
+      {
+        "id": "comp_d23_q3",
+        "prompt": "People who check their phones compulsively simply have weaker willpower than people who don't.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "This behavior is shaped by a well-engineered variable-reward system, not primarily by a personal character deficit — it can affect people regardless of general self-discipline."
+      },
+      {
+        "id": "comp_d23_q4",
+        "prompt": "Batching phone checks into a few set windows a day is a reasonable structural strategy for reducing reactivity.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Batching moves the decision of when to check onto your own schedule instead of the app's, reducing the number of unplanned reactive checks."
+      },
+      {
+        "id": "comp_d23_q5",
+        "prompt": "Every unplanned notification check is functionally unrelated to how you handle other kinds of emotional reactivity.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Repeated unplanned checks are small reps in letting an external signal override your own intention, a pattern that can generalize to other reactive habits."
+      },
+      {
+        "id": "comp_d23_q6",
+        "prompt": "The core mechanism behind notification-driven checking behavior was first documented in early 20th-century behavioral research on reward schedules.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "B.F. Skinner's research on intermittent reinforcement schedules, decades before smartphones existed, documented the same core mechanism modern notification systems use."
+      },
+      {
+        "id": "comp_d23_q7",
+        "prompt": "Turning off banner previews and badge counts removes one of the main visual triggers for reflexive checking.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Badges and banners are direct visual cues that trigger the checking urge; removing them reduces how often that urge fires in the first place."
+      },
+      {
+        "id": "comp_d23_q8",
+        "prompt": "Most notification-driven checking involves a fully deliberate, conscious decision each time.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Much of this checking happens as a fast reflex, with the hand moving toward the device before a real decision has been consciously made."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d24",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write through your actual response, including what you'd resist saying.",
+    "stimulusText": "A family gathering turns tense when a relative brings up an old grievance in front of everyone, clearly hoping to provoke a reaction. You feel your face get hot and an old, familiar defensive script rising in your throat.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d24_q1",
+        "prompt": "What does a composed response look like here, and what specifically would you hold back from saying even though it's on the tip of your tongue?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A composed response might include a brief pause to let the initial heat pass, a calm and short acknowledgment ('I don't think this is the moment for that, but I'm happy to talk about it separately'), and declining to escalate by matching the provocation. What you'd hold back is the sharpest, most wounding version of the old script — the line designed to hurt rather than resolve anything.",
+        "explanation": "Provocation in front of an audience often specifically aims for an emotional reaction; declining to perform that reaction, while still setting a clear boundary, removes most of the payoff for the provocation."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d25",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write through how you'd actually respond in real time.",
+    "stimulusText": "You're mid-presentation when an audience member asks a question in a clearly hostile, borderline aggressive tone, implying your entire approach is flawed, in front of the rest of the room.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d25_q1",
+        "prompt": "What would you say in the first few seconds, and how would your tone differ from the questioner's?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A composed response takes a brief pause, restates the underlying concern in neutral language ('so the concern is whether this holds up at scale — that's a fair question, here's how I'd think about it'), and answers in a noticeably calmer, more measured tone than the question was asked in, without matching the hostility or getting defensive.",
+        "explanation": "Restating a hostile question neutrally both buys a moment to compose an answer and often visibly de-escalates the questioner, who tends to feel heard rather than argued with."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d26",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario and write through your composed, de-escalating response.",
+    "stimulusText": "A stranger in a parking lot yells at you over a minor traffic misunderstanding, getting increasingly loud and stepping closer as they speak.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d26_q1",
+        "prompt": "Describe your body language, tone, and the actual words you'd use in the first ten seconds of this encounter.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A de-escalating response keeps your voice notably quieter and slower than theirs, your hands visible and open, and a small step back to widen the space rather than closing it further. Words stay simple and non-provocative — something like 'you're right, let me sort this out' — rather than a defensive counter-explanation of who was actually at fault.",
+        "explanation": "Refusing to match rising volume or closing distance removes the mirror that escalating aggression is often looking for, which tends to bring the intensity down without requiring you to concede anything you don't actually agree with."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

@@ -8,7 +8,7 @@ import '../../state/practice_providers.dart';
 import '../../state/repository_providers.dart';
 import '../../theme/spacing.dart';
 import '../../theme/typography.dart';
-import '../../widgets/percept_tag_chip.dart';
+import '../../widgets/percept_card.dart';
 import '../../widgets/section_header.dart';
 
 class DisciplineDetailScreen extends ConsumerWidget {
@@ -36,14 +36,14 @@ class DisciplineDetailScreen extends ConsumerWidget {
             const SizedBox(height: PerceptSpacing.sm),
             GestureDetector(
               onTap: () => context.push(
-                RoutePaths.withParam(RoutePaths.learnTopic, 'disciplineId', disciplineId),
+                RoutePaths.withParam(RoutePaths.libraryDiscipline, 'disciplineId', disciplineId),
               ),
               child: Row(
                 children: [
-                  Icon(CupertinoIcons.book, size: 16, color: context.perceptPrimary),
-                  const SizedBox(width: 6),
+                  const Text('📚', style: TextStyle(fontSize: PerceptGlyphSize.inline)),
+                  const SizedBox(width: PerceptSpacing.sm),
                   Text(
-                    'Browse the knowledge library',
+                    'Browse the library',
                     style: PerceptTypography.subhead(context.perceptPrimary),
                   ),
                 ],
@@ -51,46 +51,35 @@ class DisciplineDetailScreen extends ConsumerWidget {
             ),
             const SectionHeader('Lessons'),
             for (final lesson in lessons)
-              Padding(
-                padding: const EdgeInsets.only(bottom: PerceptSpacing.sm),
-                child: GestureDetector(
-                  onTap: () => context.push(
-                    RoutePaths.withParam(RoutePaths.learnLesson, 'lessonId', lesson.id),
-                  ),
-                  child: Container(
-                    padding: const EdgeInsets.all(PerceptSpacing.cardPadding),
-                    decoration: BoxDecoration(
-                      color: context.perceptSurface,
-                      borderRadius: BorderRadius.circular(PerceptRadii.card),
-                      border: Border.all(color: context.perceptHairline),
-                    ),
-                    child: Row(
-                      children: [
-                        Expanded(
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text(lesson.title, style: PerceptTypography.bodyEmphasis(context.textPrimary)),
-                              const SizedBox(height: 2),
-                              Text(lesson.hook, style: PerceptTypography.footnote(context.textSecondary), maxLines: 2, overflow: TextOverflow.ellipsis),
-                              const SizedBox(height: 6),
-                              Row(
-                                children: [
-                                  PerceptPlainChip('${lesson.estimatedMinutes} min'),
-                                  const SizedBox(width: 6),
-                                  PerceptPlainChip(lesson.mode.name),
-                                ],
-                              ),
-                            ],
+              PerceptCard(
+                margin: const EdgeInsets.only(bottom: PerceptSpacing.sm),
+                onTap: () => context.push(
+                  RoutePaths.withParam(RoutePaths.learnLesson, 'lessonId', lesson.id),
+                ),
+                child: Row(
+                  children: [
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(lesson.title, style: PerceptTypography.bodyEmphasis(context.textPrimary)),
+                          const SizedBox(height: 2),
+                          Text(
+                            lesson.hook,
+                            style: PerceptTypography.footnote(context.textSecondary),
+                            maxLines: 2,
+                            overflow: TextOverflow.ellipsis,
                           ),
-                        ),
-                        if (ref.watch(isLessonCompletedProvider(lesson.id)))
-                          Icon(CupertinoIcons.check_mark_circled_solid, color: context.perceptPrimary)
-                        else
-                          Icon(CupertinoIcons.chevron_forward, color: context.textTertiary, size: 18),
-                      ],
+                          const SizedBox(height: PerceptSpacing.xs),
+                          PerceptMetaLine(['${lesson.estimatedMinutes} min', lesson.mode.name]),
+                        ],
+                      ),
                     ),
-                  ),
+                    if (ref.watch(isLessonCompletedProvider(lesson.id)))
+                      Icon(CupertinoIcons.check_mark_circled_solid, color: context.perceptPrimary)
+                    else
+                      Icon(CupertinoIcons.chevron_forward, color: context.textTertiary, size: 18),
+                  ],
                 ),
               ),
             const SizedBox(height: PerceptSpacing.xxl),

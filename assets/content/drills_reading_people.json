@@ -29,7 +29,7 @@
       {
         "id": "rp_d01_q3",
         "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
-        "type": "numericInput",
+        "type": "textInput",
         "options": [],
         "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 30-50 range",
         "explanation": "A single cluster of two co-occurring cues (quieter voice, new fidgeting) around one topic is suggestive but not proof — it hasn't been checked against her baseline or confirmed by other evidence. Confidence in the 30-50% range reflects 'worth a follow-up question' without overclaiming certainty. Confidence above 70% here would outrun the evidence; confidence near 0% would ignore that the timing is genuinely informative."
@@ -67,7 +67,7 @@
       {
         "id": "rp_d02_q3",
         "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
-        "type": "numericInput",
+        "type": "textInput",
         "options": [],
         "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 35-55 range",
         "explanation": "The deviation from Raj's baseline communication style is a meaningful signal, which nudges confidence above a coin flip, but hedged language has enough legitimate everyday uses that certainty isn't warranted. A follow-up clarifying question would do more to resolve this than raising confidence further would."
@@ -105,7 +105,7 @@
       {
         "id": "rp_d03_q3",
         "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
-        "type": "numericInput",
+        "type": "textInput",
         "options": [],
         "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 25-45 range",
         "explanation": "A single, sub-second facial micro-change, however precisely timed, is one of the weakest standalone signals in this discipline — it tells you a moment mattered but not why. Confidence should stay modest until other channels (voice, word choice, follow-up answers) either reinforce or contradict it."
@@ -143,7 +143,7 @@
       {
         "id": "rp_d04_q3",
         "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
-        "type": "numericInput",
+        "type": "textInput",
         "options": [],
         "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 35-55 range",
         "explanation": "The clear deviation from Marcus's known baseline, plus the topic-specific timing, makes this a moderately strong single signal — stronger than an isolated cue with no baseline comparison, but still short of anything close to certain."
@@ -181,7 +181,7 @@
       {
         "id": "rp_d05_q3",
         "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
-        "type": "numericInput",
+        "type": "textInput",
         "options": [],
         "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 30-50 range",
         "explanation": "Voice and pause changes are common across both emotional and purely cognitive explanations, so this pair of cues alone shouldn't push confidence much past the midpoint. What would help is comparing this pause length to how he normally answers factual questions."
@@ -219,7 +219,7 @@
       {
         "id": "rp_d06_q3",
         "prompt": "On a scale of 0-100, how confident are you in your first hypothesis over the alternative, and why?",
-        "type": "numericInput",
+        "type": "textInput",
         "options": [],
         "correctAnswer": "there is no single correct number here — a well-calibrated answer typically falls in the 40-60 range",
         "explanation": "Two independent language patterns (a qualifier replacing a direct answer, plus a fast topic change) clustering together is stronger evidence than either alone, which can justify a confidence somewhat above the midpoint — but a cluster of two is still not a cluster large enough, nor corroborated by other channels, to justify high certainty."

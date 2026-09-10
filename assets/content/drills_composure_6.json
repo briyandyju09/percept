@@ -1,0 +1,440 @@
+[
+  {
+    "id": "comp_d43",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 1,
+    "prompt": "Box breathing, quick version: a faster three-count cycle for when you need a reset in a hurry and don't have time for a longer count.",
+    "stimulusText": "Inhale through your nose for a count of 3. Hold gently for a count of 3. Exhale through your mouth for a count of 3. Hold at the bottom, lungs empty, for a count of 3. Repeat this quicker box pattern for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 60,
+    "questions": [
+      {
+        "id": "comp_d43_q1",
+        "prompt": "Could you realistically use this exact pattern in the middle of a real stressful moment — say, standing in a hallway before a hard conversation? Why or why not?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest, practical reflection — the quick 3-count version is designed to be usable almost anywhere in under a minute, so the useful answer is about whether the specific context (privacy, time, etc.) would actually allow it.",
+        "explanation": "A shorter count trades some depth of reset for portability, making it more realistic to actually use in the narrow windows real stressful moments often provide."
+      }
+    ],
+    "estimatedMinutes": 1
+  },
+  {
+    "id": "comp_d44",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write through your composed response in real time.",
+    "stimulusText": "In a meeting with senior leadership, your manager publicly attributes a team failure specifically to your work, even though the mistake was actually a shared one across several people.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d44_q1",
+        "prompt": "What would you say in the room in the moment, and what would you address with your manager privately afterward?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "In the room, a composed response might briefly and factually note the shared nature of the work without a lengthy defense — 'a few of us were involved in that piece, happy to walk through the details' — rather than either accepting sole blame silently or arguing at length in front of leadership. Privately, you'd raise directly and calmly how the mistake was attributed, and ask that credit and blame both reflect who was actually involved going forward.",
+        "explanation": "A brief factual correction in the room protects the record without turning the meeting into a public dispute, while the private follow-up addresses the pattern itself where it can actually be resolved."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d45",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 3,
+    "prompt": "Rapid fire: true or false, on common myths about composure.",
+    "stimulusText": "Judge each claim about what composure actually is quickly and honestly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d45_q1",
+        "prompt": "Composure means never feeling strong emotion in high-pressure situations.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure is about how you handle a strong emotion, not about eliminating it — strong feeling and a measured response can coexist."
+      },
+      {
+        "id": "comp_d45_q2",
+        "prompt": "A person can be composed and still clearly disagree with someone.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Composure describes tone and control, not agreement — a calm, clear disagreement is still composed."
+      },
+      {
+        "id": "comp_d45_q3",
+        "prompt": "Composure is the same thing as being emotionally cold or detached.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure can include visible warmth and genuine feeling; it's distinct from a flat, detached affect."
+      },
+      {
+        "id": "comp_d45_q4",
+        "prompt": "Some physiological arousal, like a slightly elevated heart rate, can coexist with a genuinely composed, effective response.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Even experienced, visibly composed performers often show measurable physiological arousal underneath — composure doesn't require a flat internal state."
+      },
+      {
+        "id": "comp_d45_q5",
+        "prompt": "Composure is a fixed personality trait that can't meaningfully change with practice.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Like most regulation skills, composure responds to deliberate practice over time rather than being fixed from birth."
+      },
+      {
+        "id": "comp_d45_q6",
+        "prompt": "Staying quiet no matter what is always the most composed choice in a conflict.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure can include speaking up firmly and clearly; silence isn't automatically the more composed option, especially when a boundary actually needs to be set."
+      },
+      {
+        "id": "comp_d45_q7",
+        "prompt": "Naming your own emotional state out loud, calmly, can be part of a composed response rather than a failure of it.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Calmly saying 'I'm feeling frustrated right now' is itself a controlled, deliberate act, and is generally compatible with composure rather than undermining it."
+      },
+      {
+        "id": "comp_d45_q8",
+        "prompt": "Composed people never make mistakes under pressure.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure affects how someone responds to pressure, not whether they're immune to error — composed people still make mistakes, they typically just recover from them more steadily."
+      },
+      {
+        "id": "comp_d45_q9",
+        "prompt": "It's possible to look composed on the outside while still doing real internal work to manage a strong reaction.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Visible calm often reflects active internal regulation happening in real time, not the absence of any internal struggle."
+      },
+      {
+        "id": "comp_d45_q10",
+        "prompt": "Composure only matters in dramatic, high-stakes situations, not everyday small frictions.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Everyday small frictions are actually where composure gets the most repetition, since high-stakes moments are comparatively rare."
+      },
+      {
+        "id": "comp_d45_q11",
+        "prompt": "Setting a firm boundary calmly is compatible with being composed.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "A firm, calmly stated boundary is a clear example of composure — it's assertive without being reactive."
+      },
+      {
+        "id": "comp_d45_q12",
+        "prompt": "Being composed means suppressing your real opinion to keep the peace.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure is about how an opinion is expressed, not whether it's expressed at all — hiding your real view isn't a requirement of staying composed."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d46",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 3,
+    "prompt": "4-7-8 breathing before a hard conversation: using the slower, more demanding 4-7-8 pattern deliberately in the minutes before a conversation you've been dreading.",
+    "stimulusText": "Inhale quietly through your nose for a count of 4. Hold your breath for a count of 7. Exhale completely through your mouth, making a soft whoosh sound, for a count of 8. Repeat this cycle for the full timer, shortening the counts proportionally if the hold feels uncomfortable.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 120,
+    "questions": [
+      {
+        "id": "comp_d46_q1",
+        "prompt": "Imagining you did this right before walking into the conversation you've been dreading, do you think it would change how you opened the conversation? How?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest, specific reflection — many people report a slower opening pace and less urgency to fill silence after this kind of deliberate wind-down, though the exact effect varies person to person.",
+        "explanation": "Using a demanding pattern like 4-7-8 deliberately before a specific known stressor, rather than only after stress has already spiked, is one way to enter a hard conversation from a calmer starting point."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d47",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 4,
+    "prompt": "Rapid fire: for each pair, choose which response is more composed.",
+    "stimulusText": "Read each pair of possible responses to the same situation and choose the more composed one.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d47_q1",
+        "prompt": "Two people get the same rude comment from a stranger. Which response is more composed?",
+        "type": "multipleChoice",
+        "options": [
+          "Quietly saying 'that's not okay' and walking away",
+          "Shouting back an equally rude comment"
+        ],
+        "correctAnswer": "Quietly saying 'that's not okay' and walking away",
+        "explanation": "A brief, calm boundary followed by disengaging sets a limit without escalating, while matching rudeness tends to prolong and intensify the exchange."
+      },
+      {
+        "id": "comp_d47_q2",
+        "prompt": "You receive a frustrating email. Which reply approach is more composed?",
+        "type": "multipleChoice",
+        "options": [
+          "Replying within minutes while still angry",
+          "Waiting an hour, then replying"
+        ],
+        "correctAnswer": "Waiting an hour, then replying",
+        "explanation": "A short delay lets the initial heat pass, almost always producing a reply you're more comfortable having sent."
+      },
+      {
+        "id": "comp_d47_q3",
+        "prompt": "Which physical response is more associated with composure under pressure?",
+        "type": "multipleChoice",
+        "options": [
+          "Shallow, rapid chest breathing",
+          "Slow, controlled belly breathing"
+        ],
+        "correctAnswer": "Slow, controlled belly breathing",
+        "explanation": "Slow diaphragmatic breathing is associated with a calmer physiological state, while shallow chest breathing tends to accompany a more activated stress response."
+      },
+      {
+        "id": "comp_d47_q4",
+        "prompt": "Someone is speaking to you angrily and loudly. Which response is more composed?",
+        "type": "multipleChoice",
+        "options": [
+          "Matching the volume of the angry person",
+          "Speaking noticeably quieter and slower than them"
+        ],
+        "correctAnswer": "Speaking noticeably quieter and slower than them",
+        "explanation": "A quieter, slower pace can pull the whole exchange down rather than fueling it further, since people often unconsciously mirror tone."
+      },
+      {
+        "id": "comp_d47_q5",
+        "prompt": "In a tense negotiation, which is more composed?",
+        "type": "multipleChoice",
+        "options": [
+          "Filling every silence immediately to avoid discomfort",
+          "Allowing a brief silence after a key point before responding"
+        ],
+        "correctAnswer": "Allowing a brief silence after a key point before responding",
+        "explanation": "A brief silence often reads as confidence and gives both sides a moment to actually process what was said, rather than reacting on reflex."
+      },
+      {
+        "id": "comp_d47_q6",
+        "prompt": "Someone is mid-rant and made a small factual error. Which response is more composed?",
+        "type": "multipleChoice",
+        "options": [
+          "Interrupting to correct the small factual error mid-rant",
+          "Letting the person finish before addressing the error"
+        ],
+        "correctAnswer": "Letting the person finish before addressing the error",
+        "explanation": "Letting someone finish before correcting a minor point usually lands better than interrupting, which tends to add fuel rather than resolve anything."
+      },
+      {
+        "id": "comp_d47_q7",
+        "prompt": "Your manager makes a factual mistake in a meeting. Which response is more composed?",
+        "type": "multipleChoice",
+        "options": [
+          "Publicly correcting your manager's mistake sharply in the same meeting",
+          "Noting it briefly and calmly, or raising it privately afterward"
+        ],
+        "correctAnswer": "Noting it briefly and calmly, or raising it privately afterward",
+        "explanation": "A calm, brief note or a private follow-up preserves the relationship and the point equally well, without the public sharpness that can read as an attack."
+      },
+      {
+        "id": "comp_d47_q8",
+        "prompt": "You feel a strong emotion rising during a conversation. Which is more composed?",
+        "type": "multipleChoice",
+        "options": [
+          "Suppressing the emotion completely and pretending it isn't there",
+          "Acknowledging the emotion internally and choosing a measured response anyway"
+        ],
+        "correctAnswer": "Acknowledging the emotion internally and choosing a measured response anyway",
+        "explanation": "Acknowledgment-plus-measured-response is genuine composure, while flat suppression carries a hidden physiological cost even though it can look similar from the outside."
+      },
+      {
+        "id": "comp_d47_q9",
+        "prompt": "You get a hostile text message. Which response is more composed?",
+        "type": "multipleChoice",
+        "options": [
+          "Responding immediately to a hostile text message",
+          "Pausing, reading it twice, then deciding how urgent replying actually is"
+        ],
+        "correctAnswer": "Pausing, reading it twice, then deciding how urgent replying actually is",
+        "explanation": "A brief pause and a second read often reveal the message is less urgent or absolute than the first reaction to it suggested."
+      },
+      {
+        "id": "comp_d47_q10",
+        "prompt": "You have a hard talk coming up tomorrow. Which preparation is more composed?",
+        "type": "multipleChoice",
+        "options": [
+          "Rehearsing the worst-case outcome obsessively the night before",
+          "Preparing key points, then using a wind-down practice to rest before it"
+        ],
+        "correctAnswer": "Preparing key points, then using a wind-down practice to rest before it",
+        "explanation": "Reasonable preparation followed by genuine rest tends to leave you in better shape for the actual conversation than obsessive worst-case rehearsal, which mostly just extends the stress."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d48",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then write through your composed response.",
+    "stimulusText": "A friend cancels plans on you for the third time in a row, again at the last minute, with a vague excuse.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d48_q1",
+        "prompt": "What would you actually say to them, and what tone would you use to raise the pattern without turning it into an accusation?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A composed response names the pattern plainly and without heat — 'this is the third time in a row, and I wanted to check in about it rather than let it build up' — using a curious, direct tone rather than a sarcastic or accusatory one, and leaves room for them to explain.",
+        "explanation": "Naming a pattern calmly and early, rather than letting resentment build silently until it comes out sharply, tends to preserve the friendship while still addressing the real issue."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d49",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 3,
+    "prompt": "Alternate nostril breathing (Nadi Shodhana): a traditional yogic pattern that alternates which nostril you breathe through to encourage a balanced, calm state.",
+    "stimulusText": "Using your right thumb, gently close your right nostril and inhale slowly through your left nostril. Close your left nostril with your ring finger, release your thumb, and exhale slowly through your right nostril. Inhale through your right nostril, then close it and exhale through your left. Continue alternating in this way, one full cycle at a time, for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 150,
+    "questions": [
+      {
+        "id": "comp_d49_q1",
+        "prompt": "Did tracking which nostril to use next take enough concentration to crowd out other racing thoughts, compared to a simpler breathing pattern?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest reflection — many people find the extra coordination required does pull attention away from ruminating thoughts more than a simpler pattern would, simply because it demands more active tracking.",
+        "explanation": "This is a traditional yogic practice with a more limited controlled-trial evidence base than techniques like box breathing or the physiological sigh, but the coordination it requires is often reported as a useful side effect for interrupting racing thoughts."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d50",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 1,
+    "prompt": "Rapid fire: true or false, a final recap of composure fundamentals.",
+    "stimulusText": "Judge each recap statement quickly and honestly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d50_q1",
+        "prompt": "A longer exhale than inhale is generally associated with a calming effect on the nervous system.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Extending the exhale relative to the inhale leans into the parasympathetic side of the nervous system, supporting a calmer state."
+      },
+      {
+        "id": "comp_d50_q2",
+        "prompt": "Composure means eliminating emotion entirely.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure describes a measured response alongside genuine feeling, not the absence of feeling."
+      },
+      {
+        "id": "comp_d50_q3",
+        "prompt": "Reappraising nervous arousal as excitement can improve performance in high-pressure moments.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Research on arousal reappraisal found relabeling nervous energy as excitement outperformed trying to suppress or calm the feeling directly."
+      },
+      {
+        "id": "comp_d50_q4",
+        "prompt": "Matching an escalating person's volume is generally an effective de-escalation strategy.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Matching volume tends to intensify a tense exchange rather than calm it; staying lower and steadier is generally more effective."
+      },
+      {
+        "id": "comp_d50_q5",
+        "prompt": "Physical cues like an open stance and relaxed shoulders can influence how calm you actually feel, not just how you look.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Emotion and physical tension feed back into each other, so deliberately relaxing tense muscles can shift the internal state, not only the outward appearance."
+      },
+      {
+        "id": "comp_d50_q6",
+        "prompt": "Structural changes, like turning off notifications, tend to be more reliable than willpower alone for reducing reactive checking.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Because notification-driven checking is shaped by an engineered variable-reward system, removing the cue structurally tends to outperform relying on willpower alone."
+      },
+      {
+        "id": "comp_d50_q7",
+        "prompt": "A brief pause before responding to a provocation generally makes a response less composed, not more.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "A brief pause typically improves composure by giving the more deliberate part of your thinking time to weigh in before you respond."
+      },
+      {
+        "id": "comp_d50_q8",
+        "prompt": "Composure is a skill that can improve with deliberate practice over time.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Composure responds to deliberate practice like most regulation skills, rather than being a fixed trait some people simply have and others don't."
+      },
+      {
+        "id": "comp_d50_q9",
+        "prompt": "The core physiological stress response is fundamentally different for a physical threat versus a social one.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "A social threat, like a hostile comment, and a physical threat can trigger largely the same underlying fight-or-flight machinery."
+      },
+      {
+        "id": "comp_d50_q10",
+        "prompt": "Naming what you're feeling out loud, calmly, is generally incompatible with staying composed.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Calmly naming an emotion is itself a controlled, deliberate act, and is generally compatible with, not opposed to, composure."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

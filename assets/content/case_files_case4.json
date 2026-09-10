@@ -1,0 +1,80 @@
+[
+  {
+    "id": "case4",
+    "caseNumber": 4,
+    "title": "The Secret Recipe",
+    "briefing": "Rosa's Trattoria has survived three generations on the strength of one handwritten recipe card, locked away and guarded like scripture. Tonight, investors arrive to taste the signature dish before finalizing a franchise deal that could save the struggling restaurant — but the card has vanished from its box, and the sous chef has nothing to cook with. You've been asked in quietly, before the family airs its laundry to the police, to figure out who took it and why.",
+    "characters": [
+      {
+        "id": "case4_son",
+        "name": "Marco Rossi",
+        "role": "The Owner's Son",
+        "portraitEmoji": "👨‍🍳",
+        "isGuilty": true,
+        "dialogueTree": [
+          {"id": "case4_son_q1", "characterId": "case4_son", "prompt": "Where were you the night the recipe card disappeared?", "responseText": "I left around ten, same as always. I had a headache and went straight home.", "flags": ["contradiction"]},
+          {"id": "case4_son_q2", "characterId": "case4_son", "prompt": "How do you feel about the franchise deal with the investors?", "responseText": "Honestly? I hate it. Grandma Rosa built this place with her hands, not a spreadsheet. Turning her sauce into a factory recipe feels like a betrayal.", "flags": ["reveals_motive"]},
+          {"id": "case4_son_q3", "characterId": "case4_son", "prompt": "Who else has a key to the recipe box?", "responseText": "Just me, Elena, and my father — he's in Sicily until next week, so it wasn't him.", "flags": []},
+          {"id": "case4_son_q4", "characterId": "case4_son", "prompt": "Did you know Elena needed the card for tonight's tasting?", "responseText": "Of course. Everyone did. It's all anyone's talked about for weeks.", "flags": []}
+        ]
+      },
+      {
+        "id": "case4_sous_chef",
+        "name": "Elena Marsh",
+        "role": "The Sous Chef",
+        "portraitEmoji": "🔪",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case4_sous_chef_q1", "characterId": "case4_sous_chef", "prompt": "You found the recipe box empty — walk me through that morning.", "responseText": "I unlocked the box at six to start prep and the card was just gone. I checked the trash, the drawers, everywhere. I panicked.", "flags": []},
+          {"id": "case4_sous_chef_q2", "characterId": "case4_sous_chef", "prompt": "Has anyone asked you to share the recipe before?", "responseText": "Tony, more times than I can count. He's offered me a job with 'creative freedom' twice. I always said no — I'm loyal to this kitchen.", "flags": ["reveals_motive", "challenges:case4_rival"]},
+          {"id": "case4_sous_chef_q3", "characterId": "case4_sous_chef", "prompt": "Did you notice anything unusual in the office that morning?", "responseText": "The fireplace grate was open, which was strange — nobody lights it in September. There were ashes in it that weren't there the day before.", "flags": ["contradiction"]},
+          {"id": "case4_sous_chef_q4", "characterId": "case4_sous_chef", "prompt": "Were you at the restaurant late the night before?", "responseText": "No, I left at eight, well before Marco. He was still doing paperwork when I said goodnight.", "flags": ["challenges:case4_son"]}
+        ]
+      },
+      {
+        "id": "case4_rival",
+        "name": "Tony Calder",
+        "role": "The Rival Restaurateur",
+        "portraitEmoji": "🍝",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case4_rival_q1", "characterId": "case4_rival", "prompt": "You were seen outside Rosa's the night the recipe vanished. Explain.", "responseText": "Sure, I walked by around seven — I do most nights, it's on my way home. I even waved at Sofia through the window.", "flags": ["red_herring"]},
+          {"id": "case4_rival_q2", "characterId": "case4_rival", "prompt": "You've tried to buy that recipe before, haven't you?", "responseText": "Guilty as charged. I offered Rosa fifty grand for it years ago. She laughed in my face. No hard feelings — that's business.", "flags": ["reveals_motive"]},
+          {"id": "case4_rival_q3", "characterId": "case4_rival", "prompt": "Can anyone confirm where you were after nine that night?", "responseText": "My staff, my register receipts — I was slammed with a birthday party reservation until close, past midnight. Check the till records.", "flags": ["contradiction"]},
+          {"id": "case4_rival_q4", "characterId": "case4_rival", "prompt": "Did you ever try to poach Elena?", "responseText": "Twice. She's better than she knows. But no is no — I don't force these things.", "flags": []}
+        ]
+      },
+      {
+        "id": "case4_niece",
+        "name": "Sofia Rossi",
+        "role": "The Restaurant Manager",
+        "portraitEmoji": "📋",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case4_niece_q1", "characterId": "case4_niece", "prompt": "How badly does the restaurant need this investor deal?", "responseText": "Badly. We're two bad months from closing. I've begged Marco to see reason, but he's sentimental. I need this deal to work.", "flags": ["reveals_motive"]},
+          {"id": "case4_niece_q2", "characterId": "case4_niece", "prompt": "Did you see Tony outside that night?", "responseText": "Yes, around seven, like he said. He waved, I waved back, then I went to close out the register.", "flags": ["supports:case4_rival"]},
+          {"id": "case4_niece_q3", "characterId": "case4_niece", "prompt": "Were you the last to leave that night?", "responseText": "No — Marco was still in the office when I locked up front around nine-thirty. I assumed he'd lock the back himself.", "flags": ["challenges:case4_son"]},
+          {"id": "case4_niece_q4", "characterId": "case4_niece", "prompt": "Do you know the fireplace was used that night?", "responseText": "No, that's odd — we never use it. Nobody's touched that flue in months.", "flags": []}
+        ]
+      }
+    ],
+    "evidence": [
+      {"id": "case4_ev01", "title": "The Undamaged Lock", "description": "The recipe box's lock shows no scratches, picks, or forced-entry marks — whoever took the card used a key.", "subtle": false, "contradicts": [], "supportsCharacterId": null},
+      {"id": "case4_ev02", "title": "Fireplace Ash Fragments", "description": "Burnt fragments recovered from the office fireplace grate match the cardstock and ink used for Rosa's handwritten recipe cards.", "subtle": true, "contradicts": [], "supportsCharacterId": "case4_son"},
+      {"id": "case4_ev03", "title": "Marco's Timesheet Contradiction", "description": "Sofia states she locked the front at 9:30 with Marco still working in the office, but Marco told the family he left at ten and never corrected the discrepancy.", "subtle": false, "contradicts": [], "supportsCharacterId": "case4_son"},
+      {"id": "case4_ev04", "title": "Tony's Register Receipts", "description": "Time-stamped receipts from Tony's restaurant show a large party billed continuously from 8:47pm to 12:20am the night of the theft.", "subtle": false, "contradicts": ["case4_ev07"], "supportsCharacterId": "case4_rival"},
+      {"id": "case4_ev05", "title": "Family Group Chat Messages", "description": "Old messages recovered from Rosa's tablet show Marco repeatedly writing that he 'won't let strangers touch Nonna's sauce,' months before the deal was finalized.", "subtle": true, "contradicts": [], "supportsCharacterId": "case4_son"},
+      {"id": "case4_ev06", "title": "The Investor Contract Draft", "description": "The pending contract requires the exact recipe to be notarized and filed with the franchise group, meaning the deal collapses without the card.", "subtle": false, "contradicts": [], "supportsCharacterId": null},
+      {"id": "case4_ev07", "title": "Witness Sighting of Tony Outside", "description": "A neighboring shopkeeper's doorbell camera shows Tony pacing outside Rosa's around 7:00pm, checking his phone repeatedly.", "subtle": false, "contradicts": ["case4_ev04"], "supportsCharacterId": null},
+      {"id": "case4_ev08", "title": "Elena's Clean Alibi", "description": "Elena's rideshare log confirms she was dropped at her apartment at 8:12pm and never left until the next morning.", "subtle": false, "contradicts": [], "supportsCharacterId": "case4_sous_chef"},
+      {"id": "case4_ev09", "title": "Sofia's Register Log", "description": "The register closeout log timestamps Sofia finishing at 9:31pm, with a note that the office light was still on behind her.", "subtle": true, "contradicts": [], "supportsCharacterId": "case4_niece"}
+    ],
+    "solution": {
+      "correctCulpritId": "case4_son",
+      "keyEvidenceIds": ["case4_ev02", "case4_ev03", "case4_ev05", "case4_ev09"],
+      "explanation": "Desperate to stop his grandmother's legacy from being swallowed by a franchise deal, Marco used his spare key to remove the recipe card after everyone else had gone home, then burned it in the office fireplace rather than let it fall into anyone else's hands. The ash matches the cardstock exactly, and old messages show him vowing for months to protect the recipe from 'strangers.' His claim of leaving at ten is directly contradicted by Sofia's register log, which places him alone in a lit office at 9:31. Tony's presence outside earlier that evening was real but innocent — his own register receipts prove he was tied up with a private party across town during the actual theft window."
+    },
+    "biasesTracked": ["anchoring_bias", "premature_closure", "confirmation_bias", "belief_perseverance"],
+    "minQuestionsBeforeAccusation": 10
+  }
+]

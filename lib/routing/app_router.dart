@@ -9,11 +9,12 @@ import '../screens/cases/case_interview_screen.dart';
 import '../screens/cases/cases_home_screen.dart';
 import '../screens/learn/discipline_detail_screen.dart';
 import '../screens/learn/discipline_list_screen.dart';
-import '../screens/learn/knowledge_graph_topic_screen.dart';
 import '../screens/learn/learn_home_screen.dart';
 import '../screens/learn/lesson_complete_screen.dart';
 import '../screens/learn/lesson_reader_screen.dart';
 import '../screens/learn/saved_cards_screen.dart';
+import '../screens/library/library_discipline_screen.dart';
+import '../screens/library/library_home_screen.dart';
 import '../screens/onboarding/assessment_emotional_screen.dart';
 import '../screens/onboarding/assessment_intro_screen.dart';
 import '../screens/onboarding/assessment_memory_screen.dart';
@@ -148,13 +149,6 @@ GoRouter buildRouter({required bool onboardingCompleted}) {
                     ),
                   ),
                   GoRoute(
-                    path: 'topic/:disciplineId',
-                    parentNavigatorKey: rootNavigatorKey,
-                    builder: (context, state) => KnowledgeGraphTopicScreen(
-                      disciplineId: state.pathParameters['disciplineId']!,
-                    ),
-                  ),
-                  GoRoute(
                     path: 'saved',
                     parentNavigatorKey: rootNavigatorKey,
                     builder: (context, state) => const SavedCardsScreen(),
@@ -203,6 +197,23 @@ GoRouter buildRouter({required bool onboardingCompleted}) {
                     path: 'conversation/:scenarioId/result',
                     parentNavigatorKey: rootNavigatorKey,
                     builder: (context, state) => const ConversationResultScreen(),
+                  ),
+                ],
+              ),
+            ],
+          ),
+          StatefulShellBranch(
+            routes: [
+              GoRoute(
+                path: RoutePaths.library,
+                builder: (context, state) => const LibraryHomeScreen(),
+                routes: [
+                  GoRoute(
+                    path: ':disciplineId',
+                    parentNavigatorKey: rootNavigatorKey,
+                    builder: (context, state) => LibraryDisciplineScreen(
+                      disciplineId: state.pathParameters['disciplineId']!,
+                    ),
                   ),
                 ],
               ),

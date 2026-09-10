@@ -29,7 +29,7 @@ class TodayHomeScreen extends ConsumerWidget {
                   ? Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        const Text('🔥', style: TextStyle(fontSize: 16)),
+                        const Text('🔥', style: TextStyle(fontSize: PerceptGlyphSize.inline)),
                         const SizedBox(width: 2),
                         Text(
                           '${streak.currentStreak}',

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "lib_psy_book01",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "Thinking, Fast and Slow",
+    "subtitle": "Daniel Kahneman",
+    "description": "A synthesis of decades of research distinguishing fast, intuitive judgment (System 1) from slow, effortful reasoning (System 2), and cataloguing the systematic biases that arise when the fast system is relied on for judgments it isn't well-suited for.",
+    "tags": [
+      "heuristics",
+      "biases",
+      "dual-process theory"
+    ]
+  },
+  {
+    "id": "lib_psy_book02",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "Influence: The Psychology of Persuasion",
+    "subtitle": "Robert Cialdini",
+    "description": "Based on Cialdini's field research working undercover in sales and fundraising organizations, this book identifies six recurring principles (reciprocity, commitment, social proof, authority, liking, scarcity) that reliably move people toward compliance.",
+    "tags": [
+      "persuasion",
+      "compliance",
+      "social influence"
+    ]
+  },
+  {
+    "id": "lib_psy_book03",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "Predictably Irrational",
+    "subtitle": "Dan Ariely",
+    "description": "A behavioral economist presents original experiments showing that people's departures from rational choice, such as anchoring on arbitrary numbers or overvaluing free things, follow consistent, predictable patterns rather than being random noise.",
+    "tags": [
+      "behavioral economics",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "lib_psy_book04",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "Nudge",
+    "subtitle": "Richard Thaler & Cass Sunstein",
+    "description": "Argues that because choices are always presented within some 'choice architecture,' that architecture can be designed to help people act on their own long-term goals (such as saving for retirement) without restricting their options.",
+    "tags": [
+      "choice architecture",
+      "behavioral economics",
+      "framing"
+    ]
+  },
+  {
+    "id": "lib_psy_book05",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "The Person and the Situation",
+    "subtitle": "Lee Ross & Richard Nisbett",
+    "description": "A foundational social psychology text arguing, with extensive experimental evidence, that situational and social context predicts behavior far more strongly than most people intuitively credit, and that underestimating this (the fundamental attribution error) leads to persistent misjudgments of others.",
+    "tags": [
+      "social psychology",
+      "attribution",
+      "situational influence"
+    ]
+  },
+  {
+    "id": "lib_psy_book06",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "Mistakes Were Made (But Not by Me)",
+    "subtitle": "Carol Tavris & Elliot Aronson",
+    "description": "Explores how cognitive dissonance drives people, including experts and public officials, to unconsciously justify their own errors and bad decisions after the fact rather than admit fault, using real cases from politics, medicine, and criminal justice.",
+    "tags": [
+      "cognitive dissonance",
+      "self-justification"
+    ]
+  },
+  {
+    "id": "lib_psy_book07",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "The Social Animal",
+    "subtitle": "Elliot Aronson",
+    "description": "A long-standing introductory survey of social psychology's core findings on conformity, persuasion, prejudice, and self-justification, written for general readers by one of the field's most influential experimentalists.",
+    "tags": [
+      "social psychology",
+      "conformity",
+      "prejudice"
+    ]
+  },
+  {
+    "id": "lib_psy_book08",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "Judgment Under Uncertainty: Heuristics and Biases",
+    "subtitle": "Edited by Daniel Kahneman, Paul Slovic & Amos Tversky",
+    "description": "The original academic anthology that established the heuristics-and-biases research program, collecting the founding experimental papers on anchoring, availability, representativeness, and other mental shortcuts.",
+    "tags": [
+      "heuristics",
+      "biases",
+      "foundational research"
+    ]
+  },
+  {
+    "id": "lib_psy_book09",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "Sway: The Irresistible Pull of Irrational Behavior",
+    "subtitle": "Ori Brafman & Rom Brafman",
+    "description": "A popular-science survey of behavioral economics and social psychology phenomena, such as loss aversion and diagnosis bias, illustrated through real-world case studies including aviation accidents and business decisions.",
+    "tags": [
+      "irrational behavior",
+      "loss aversion",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "lib_psy_book10",
+    "disciplineId": "psychology",
+    "type": "book",
+    "title": "50 Great Myths of Popular Psychology",
+    "subtitle": "Scott O. Lilienfeld, Steven Jay Lynn, John Ruscio & Barry L. Beyerstein",
+    "description": "Written by research psychologists specifically to separate widely believed pop-psychology claims, such as the idea that we use only 10% of our brains, from what the actual research evidence supports, making it a useful corrective to the genre it belongs to.",
+    "tags": [
+      "pop psychology myths",
+      "scientific skepticism"
+    ]
+  },
+  {
+    "id": "lib_psy_expert01",
+    "disciplineId": "psychology",
+    "type": "expert",
+    "title": "Daniel Kahneman",
+    "subtitle": "Psychologist; co-developed prospect theory with Amos Tversky; 2002 Nobel laureate in Economic Sciences",
+    "description": "Kahneman's collaboration with Tversky founded modern behavioral economics by showing that human judgment under uncertainty systematically departs from classical rational-choice models in predictable ways.",
+    "tags": [
+      "prospect theory",
+      "behavioral economics"
+    ]
+  },
+  {
+    "id": "lib_psy_expert02",
+    "disciplineId": "psychology",
+    "type": "expert",
+    "title": "Amos Tversky",
+    "subtitle": "Cognitive psychologist; co-developed prospect theory and the heuristics-and-biases research program",
+    "description": "Tversky and Kahneman's joint experiments identified specific mental shortcuts, such as the availability and representativeness heuristics, that explain many everyday errors in probability judgment; Tversky died in 1996, before the Nobel Prize (which is not awarded posthumously) recognized the work.",
+    "tags": [
+      "heuristics",
+      "cognitive biases"
+    ]
+  },
+  {
+    "id": "lib_psy_expert03",
+    "disciplineId": "psychology",
+    "type": "expert",
+    "title": "Robert Cialdini",
+    "subtitle": "Regents' Professor Emeritus of Psychology and Marketing, Arizona State University",
+    "description": "Cialdini's field research, conducted by taking jobs inside sales, advertising, and fundraising organizations to observe persuasion tactics firsthand, produced the widely cited six principles of influence that remain a standard reference in both psychology and marketing.",
+    "tags": [
+      "persuasion",
+      "compliance research"
+    ]
+  },
+  {
+    "id": "lib_psy_expert04",
+    "disciplineId": "psychology",
+    "type": "expert",
+    "title": "Elliot Aronson",
+    "subtitle": "Social psychologist; developed the jigsaw classroom method",
+    "description": "Beyond his textbook writing, Aronson designed the 'jigsaw classroom,' a cooperative-learning technique shown to reduce intergroup prejudice among schoolchildren, and conducted some of the foundational experiments on cognitive dissonance alongside Leon Festinger's original theory.",
+    "tags": [
+      "prejudice reduction",
+      "cognitive dissonance"
+    ]
+  },
+  {
+    "id": "lib_psy_expert05",
+    "disciplineId": "psychology",
+    "type": "expert",
+    "title": "Leon Festinger",
+    "subtitle": "Social psychologist; originated cognitive dissonance theory",
+    "description": "Festinger's 1957 theory of cognitive dissonance, developed partly through his covert observation of a doomsday cult after its prophecy failed, remains one of the most influential and replicated frameworks in social psychology for explaining motivated reasoning.",
+    "tags": [
+      "cognitive dissonance",
+      "motivated reasoning"
+    ]
+  },
+  {
+    "id": "lib_psy_area01",
+    "disciplineId": "psychology",
+    "type": "researchArea",
+    "title": "Cognitive dissonance",
+    "subtitle": "",
+    "description": "The well-established finding that holding contradictory beliefs or acting against one's own stated values creates psychological discomfort, which people typically resolve by changing a belief, adding justifications, or discounting the conflicting evidence rather than changing the behavior.",
+    "tags": [
+      "self-justification",
+      "belief change"
+    ]
+  },
+  {
+    "id": "lib_psy_area02",
+    "disciplineId": "psychology",
+    "type": "researchArea",
+    "title": "Prospect theory",
+    "subtitle": "",
+    "description": "A well-supported descriptive model of decision-making under risk showing that people evaluate outcomes as gains or losses relative to a reference point, weigh losses roughly twice as heavily as equivalent gains, and treat probabilities non-linearly.",
+    "tags": [
+      "risk",
+      "loss aversion",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "lib_psy_area03",
+    "disciplineId": "psychology",
+    "type": "researchArea",
+    "title": "Confirmation bias",
+    "subtitle": "",
+    "description": "One of the most robustly replicated findings in cognitive psychology: people tend to search for, interpret, and recall information in ways that confirm what they already believe, while scrutinizing or discounting disconfirming evidence more harshly.",
+    "tags": [
+      "reasoning biases",
+      "belief maintenance"
+    ]
+  },
+  {
+    "id": "lib_psy_area04",
+    "disciplineId": "psychology",
+    "type": "researchArea",
+    "title": "Fundamental attribution error",
+    "subtitle": "",
+    "description": "A well-documented tendency to explain other people's behavior by appeal to their personality or character while underweighting the situational pressures they faced, even though people readily invoke situational excuses for their own behavior.",
+    "tags": [
+      "attribution",
+      "social judgment"
+    ]
+  },
+  {
+    "id": "lib_psy_area05",
+    "disciplineId": "psychology",
+    "type": "researchArea",
+    "title": "Replication crisis in psychology",
+    "subtitle": "",
+    "description": "Since around 2011, large multi-lab replication projects have found that a substantial share of published psychology findings, including some famous classic studies, do not reproduce reliably under close replication, prompting the field to adopt preregistration and larger sample sizes; this is a genuinely important reason to hold individual studies more tentatively than headlines suggest.",
+    "tags": [
+      "scientific rigor",
+      "epistemic humility"
+    ]
+  }
+]

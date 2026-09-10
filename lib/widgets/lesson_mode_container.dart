@@ -121,7 +121,7 @@ class LessonModeContainer extends StatelessWidget {
     return Row(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text(glyph, style: const TextStyle(fontSize: 15)),
+        Text(glyph, style: const TextStyle(fontSize: PerceptGlyphSize.inline)),
         const SizedBox(width: PerceptSpacing.sm),
         Expanded(
           child: Text(

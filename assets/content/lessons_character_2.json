@@ -1,0 +1,192 @@
+[
+  {
+    "id": "char_l09",
+    "disciplineId": "character",
+    "title": "The Debt You Keep Re-Billing",
+    "hook": "Forgiveness gets sold as something you do for the other person. It's actually a way of closing an account you've been paying interest on for years.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Forgiveness is one of the most misunderstood words in the character vocabulary, mostly because it gets confused with two things it isn't. It isn't condoning what happened — you can forgive something and still think it was wrong. And it isn't automatically reconciling — you can forgive someone and still decide not to let them back into your life the same way. What forgiveness actually is, stripped down, is a decision to stop re-billing yourself for a debt someone else incurred. The offense happened once. The replaying of it, the rehearsed arguments in the shower, the fresh anger every time their name comes up — that's a cost you keep choosing to pay, long after the original transaction closed."},
+      {"type": "paragraph", "text": "The mechanism is mostly about attention, not virtue. Unprocessed resentment isn't a static feeling sitting quietly in a drawer — it's an active loop that keeps pulling your attention back to the same scene, keeps your body in a low simmer of threat response, and keeps the other person renting free space in your daily thoughts. Studies on rumination consistently find that dwelling on a grievance doesn't resolve it or protect you from future harm the way it feels like it should; it mostly just extends the original injury's reach into today, and tomorrow, indefinitely."},
+      {"type": "keyPoint", "text": "The person who hurt you doesn't feel the grudge. You do, every single time you replay it."},
+      {"type": "paragraph", "text": "Here's a concrete version of the exercise, not just the idea of it. Pick one specific grudge you're still carrying — a friend who talked behind your back, a parent who missed something important, a coworker who took credit that was yours. Write down, in one honest sentence, exactly what happened, without softening it. Then write down what you've actually been extracting from replaying it — vindication, rehearsal for a confrontation that may never come, a story that keeps you the clear victim. Then ask directly: what would it cost you to close this account today, regardless of whether the other person ever apologizes or even knows you were keeping score?"},
+      {"type": "paragraph", "text": "Closing the account doesn't require a conversation with them, and it doesn't require you to trust them again if trust was the thing broken. Those are separate decisions, made on separate timelines, and sometimes never made at all if the relationship isn't safe to continue. Forgiveness only requires you to stop billing yourself. In practice this often looks anticlimactic: you notice the memory surface, you don't chase it down the usual path this time, and you let it pass through instead. Do that enough times and the loop gets shorter on its own."},
+      {"type": "keyPoint", "text": "Forgiveness isn't a favor to them. It's the paperwork you file to stop paying a bill they don't even know is still open."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["forgiveness", "letting go", "grudges"],
+    "relatedDrillIds": ["char_d11", "char_d41"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l10",
+    "disciplineId": "character",
+    "title": "The Version of You That Made the Mistake",
+    "hook": "You'd forgive a friend for the exact thing you can't stop punishing yourself for. Here's how to actually extend the same deal to yourself.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "Try this test the next time you catch yourself in a self-blame spiral: describe what you did, in plain factual terms, as if you were describing a friend's mistake instead of your own. Notice the tone shift. Most people can extend real understanding to a friend who missed a deadline, said something clumsy, or made a bad call under pressure — 'you were exhausted, you didn't have the full picture, anyone might have done that.' Turn the same event onto yourself and the tone usually goes harsh, permanent, and character-based instead of situation-based: 'I'm careless,' 'I always do this,' 'this is who I am.'"},
+      {"type": "paragraph", "text": "That asymmetry is the actual target here, not the mistake itself. Self-forgiveness isn't about deciding the mistake didn't matter or wasn't your responsibility — it's about applying the same situational, time-limited judgment to yourself that you'd naturally apply to someone else. The mistake happened at a specific time, under specific conditions, made by a specific version of you that had less information or less sleep or less patience than you have right now, looking back. Punishing today's version indefinitely for a decision made by that earlier version doesn't produce better decisions going forward — it mostly just produces a person too anxious about their own judgment to trust it."},
+      {"type": "keyPoint", "text": "Guilt says 'I did a bad thing.' Shame says 'I am a bad thing.' Only one of those is useful, and it isn't the one that lasts."},
+      {"type": "paragraph", "text": "The actual drill: take the mistake you're still replaying and write two short paragraphs. First, describe exactly what happened and what it cost, without minimizing it — full accountability, no excuses. Second, write what you'd say to a close friend who did the identical thing and came to you visibly ashamed. Read the second paragraph back to yourself, out loud if you can stand to. The gap between what you'd offer a friend and what you're offering yourself is usually the whole problem, laid out in your own handwriting."},
+      {"type": "paragraph", "text": "Self-forgiveness done honestly still includes repair where repair is possible — an apology, a changed behavior, restitution if something was taken. It just stops treating an infinite prison sentence as the price of admission for being allowed to move on. The mistake gets to be a fact about one moment in your history. It doesn't get to be the whole verdict on who you are."},
+      {"type": "keyPoint", "text": "You can't think your way past shame by proving you deserve forgiveness. You get there by deciding to extend the same terms you'd give anyone else."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["self-forgiveness", "shame vs guilt", "self-compassion"],
+    "relatedDrillIds": ["char_d21"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l11",
+    "disciplineId": "character",
+    "title": "What You'd Do If Nobody Ever Found Out",
+    "hook": "Values on a vision board are cheap. Here's a blunter way to find out what you actually value, using a question that doesn't let you flatter yourself.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "Ask most people what they value and you'll get a familiar list — family, honesty, growth, kindness — and most of it will be true in the abstract and nearly useless in practice, because it was generated by imagining how the answer sounds rather than by examining actual behavior. Stated values are cheap precisely because nothing is at stake in stating them. The far more revealing question, and a genuinely uncomfortable one, is: what would you still do if you were certain no one would ever find out, praise you for it, or judge you for skipping it?"},
+      {"type": "paragraph", "text": "That question strips away the two biggest contaminants in most values talk: reputation management and social reward. A value you'd only act on with an audience isn't really a value yet — it's a performance with good intentions attached. A value that survives complete privacy, where there's no one to impress and no one to disappoint, is one you actually hold. This is uncomfortable because most people discover the gap is bigger than they assumed. You might claim you value health and skip the workout the moment no one's tracking it. You might claim you value honesty and let a small self-serving exaggeration slide when there's zero chance of correction."},
+      {"type": "keyPoint", "text": "A value nobody's watching you keep isn't a value. It's a costume you wear for an audience."},
+      {"type": "paragraph", "text": "The practical version of this: pick three things you currently list as important to you, and for each one, identify one specific action from the last week that either did or didn't reflect it, done with no one watching and no record being kept — not a public post, not a conversation where you got credit, just a private choice. If you genuinely can't find an example either way for something you claim to value highly, that's information, not a moral failure — it's a values audit result, telling you where the gap between stated and lived actually sits."},
+      {"type": "paragraph", "text": "Purpose gets clarified the same way values do: not by writing a mission statement, but by noticing what you consistently return to and act on when nothing external is rewarding you for it. Today, do one thing that fits a value you claim, specifically because no one will ever know you did it — an anonymous kindness, an honest correction you could easily have skipped, an hour of real effort on something you care about that produces no visible credit. Notice how it feels different from doing the visible version."},
+      {"type": "keyPoint", "text": "The values that hold up in private are the only ones actually running your life. Everything else is just branding."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["values", "purpose", "integrity in private"],
+    "relatedDrillIds": ["char_d39", "char_d20"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l12",
+    "disciplineId": "character",
+    "title": "The Friend Whose Life Made You Feel Small",
+    "hook": "A short story about the specific, ordinary moment envy shows up uninvited — and what it's actually pointing at, if you're willing to look.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "He scrolled past a college friend's announcement — a promotion, a new apartment with good light, a trip that looked effortless — and felt something drop in his stomach that he didn't want to name. He told himself he was happy for her, and some part of him was. But underneath that was a flatter, less flattering feeling: why not me, what's she doing that I'm not, why does her life look like it's moving and mine feels like it's idling. He closed the app and felt worse than before he'd opened it, and worse still for feeling that way about someone he actually liked."},
+      {"type": "paragraph", "text": "Envy gets treated as pure vice, something to be ashamed of and suppress, and that's exactly the response that keeps it useless. Envy is uncomfortable, but it isn't random — it only fires toward things you actually want for yourself. Nobody envies a stranger's root canal. The specific target of your envy is a surprisingly reliable map of what you actually value, filtered through what you're not currently pursuing. The discomfort isn't the problem to manage. It's a signal, badly dressed, that's easy to mistake for the problem itself."},
+      {"type": "keyPoint", "text": "You don't envy things you don't want. Envy is jealousy's more useful cousin — it's pointing at your own unmet want, not at the other person's flaw."},
+      {"type": "paragraph", "text": "He sat with it longer than he wanted to that night, and asked the plainer question: what specifically was he envying — the job title, or the sense of forward motion it represented? He landed on the second one. He hadn't taken a real risk on anything in over a year, not because he lacked the ability, but because he'd let comfort quietly become the default. Her post hadn't caused that. It had just made it visible."},
+      {"type": "paragraph", "text": "The next morning he did one concrete thing: he applied for the internal transfer he'd been sitting on for four months, the one that scared him slightly and that he kept telling himself he'd get to eventually. It had nothing to do with her. It was the actual action his envy had been quietly pointing toward the whole time, if he'd been willing to read the signal instead of just feeling ashamed of having it."},
+      {"type": "keyPoint", "text": "The fastest way to disarm envy isn't to suppress it or perform happiness for the other person. It's to ask what it's pointing at, and go do that thing."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["envy", "comparison", "social media"],
+    "relatedDrillIds": ["char_d14", "char_d31"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l13",
+    "disciplineId": "character",
+    "title": "Owning It Without Drowning In It",
+    "hook": "Some questions worth asking the next time you've made a real mistake and notice the self-blame starting to spiral past the point of being useful.",
+    "mode": "socratic",
+    "blocks": [
+      {"type": "paragraph", "text": "There's a narrow, genuinely useful window between denying a mistake and drowning in it, and most people struggle to find it in either direction. Some people reflexively minimize — 'it wasn't that big a deal,' 'anyone would have done the same' — and never get to the accountability that would actually change anything. Others swing hard the other way, taking one real mistake and turning it into a referendum on their entire worth, which produces plenty of suffering and almost no useful correction. Responsibility without spiraling means holding both things at once: this happened, I own it, and I am also not required to punish myself indefinitely to prove I've understood that."},
+      {"type": "question", "text": "What specifically did you do or fail to do — described as an action, not a character trait?"},
+      {"type": "question", "text": "What part of what happened was genuinely outside your control, and are you including that honestly, or erasing it out of guilt?"},
+      {"type": "question", "text": "What is the one concrete repair available to you right now — an apology, a fix, a changed process — versus what is just more rehearsing of how bad you feel?"},
+      {"type": "keyPoint", "text": "Accountability answers 'what do I do about this.' Spiraling only ever answers 'how bad do I feel about this' — and the second one has no finish line."},
+      {"type": "paragraph", "text": "The tell that you've crossed from responsibility into spiraling is usually simple: the thinking stops producing any new information or any next action, and just loops. If you've already identified what happened, why it happened, and what you'd do differently, and you're still running the same self-criticism an hour later with nothing new added, that's not conscience working — that's a habit that formed because it once felt like doing something, even though it wasn't. The actual discipline is noticing that shift and redirecting: do the one repair action available, and then treat the account as closed for today, even if the discomfort hasn't fully faded yet."},
+      {"type": "paragraph", "text": "This isn't a permission slip to skip real accountability, and people prone to under-owning their mistakes should be suspicious of how easily this advice could be misused that way. The test is whether you did the concrete thing — the apology actually said, the process actually fixed, the person actually told the truth. Once that's done, more self-punishment isn't extra virtue. It's just extra weight, carried for no one's benefit, least of all the person you may have wronged."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["responsibility", "self-blame", "accountability"],
+    "relatedDrillIds": ["char_d17", "char_d38"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l14",
+    "disciplineId": "character",
+    "title": "The Gift Nobody Photographed",
+    "hook": "A case worth studying: two people did roughly the same generous thing, one of them for an audience and one of them without one, and only one of them was actually practicing the virtue.",
+    "mode": "caseStudy",
+    "blocks": [
+      {"type": "paragraph", "text": "Two coworkers each learned that a colleague's family was quietly struggling financially after a medical emergency. The first organized a fundraiser, sent a company-wide email, posted about it afterward with a photo of the check being handed over, and mentioned it twice more in the following weeks. The second transferred money directly and privately, told no one, and never brought it up again — the colleague only found out who'd sent it because she happened to recognize the account name months later, by accident."},
+      {"type": "paragraph", "text": "Both actions helped the same person by a similar amount. Only one of them was structured to generate anything for the giver besides the good done. That's the actual test for whether generosity is performative, and it has nothing to do with whether the act happens to become visible — sometimes visibility is unavoidable or even useful for rallying others. The test is whether visibility was a design requirement of the act. Would it have still happened, in the same form, with the same effort, if there were no way for anyone to ever know?"},
+      {"type": "keyPoint", "text": "Performative generosity needs an audience to feel worth doing. Real generosity just needs a need."},
+      {"type": "paragraph", "text": "This isn't an argument that public generosity is fake or that organizing visible group efforts is wrong — public fundraisers genuinely help people and mobilize resources private giving can't. The distinction is about your own motive tracking, not about condemning any particular form the giving takes. Notice, honestly, whether you're drawn toward the visible version of generosity specifically because it's visible, and whether you find yourself quietly deflated when a generous act you did goes completely unnoticed. That deflation is diagnostic. It means part of the transaction you were expecting was recognition, not just the help itself."},
+      {"type": "paragraph", "text": "The concrete action: this week, do one genuinely generous thing — money, time, effort, a real favor — and deliberately arrange for no one to know it was you. Not a humblebrag disclosed later, not a story you tell at dinner. Actually anonymous, actually untraceable if you can manage it. Notice what it feels like to not get credit for something that cost you something real. That feeling, examined honestly, tells you more about your relationship to generosity than any amount of visible giving ever will."},
+      {"type": "keyPoint", "text": "If you'd feel cheated by nobody ever finding out, you weren't giving. You were investing in your own reputation and calling it generosity."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["generosity", "performative giving", "motive"],
+    "relatedDrillIds": ["char_d13", "char_d34"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l15",
+    "disciplineId": "character",
+    "title": "The Secret That Was Never Yours to Spend",
+    "hook": "Trustworthiness isn't tested by the big betrayals you'd never commit. It's tested by the small, easy, low-stakes moment when a secret would make a great story.",
+    "mode": "quickBrief",
+    "blocks": [
+      {"type": "paragraph", "text": "Almost nobody sets out to be untrustworthy. The actual failures mostly happen in a specific, low-stakes moment: a conversation is dragging, someone else shares something juicy about a third person, and you have information that would make an excellent contribution — true, interesting, and not technically your secret to spend, since you're the one who received it, not the one it's about. The temptation isn't malice. It's the ordinary pull of wanting to be interesting in a conversation, using currency that isn't yours."},
+      {"type": "paragraph", "text": "Keeping a confidence is one of the cheapest-looking, highest-value acts of character available, precisely because it's invisible when done right and only ever visible when broken. Nobody thanks you for the secrets you never told, because they never find out there was a moment you could have told them. The entire test happens inside your own head, with no audience and no credit — which is exactly why it's a genuine measure of character rather than a performance of one."},
+      {"type": "keyPoint", "text": "Trustworthiness is invisible when it's working. You only ever get caught, never praised, which is exactly why most people underrate how much it matters."},
+      {"type": "paragraph", "text": "The practical rule worth adopting: before repeating anything someone told you in confidence, or even something they told you that wasn't explicitly marked private but clearly wasn't meant for general circulation, ask one question — would they want me to be the one telling this, right now, to this specific person? If the honest answer is no, or even uncertain, that's your answer regardless of how good the story is or how naturally it fits the conversation. A default of 'when in doubt, don't' costs you nothing but a slightly less interesting sentence."},
+      {"type": "paragraph", "text": "This matters for a plain, self-interested reason too, not just a moral one: people can feel, over time, whether you're a place information goes to die or a place it goes to spread. That reputation forms slowly and from small moments, not from one dramatic betrayal, and it determines who tells you the truth about anything that matters. Today, notice the next small opportunity to share something that isn't yours to share, and just don't."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["trustworthiness", "confidentiality", "integrity"],
+    "relatedDrillIds": ["char_d15", "char_d37"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l16",
+    "disciplineId": "character",
+    "title": "The Win That Almost Went to Your Head",
+    "hook": "Success doesn't usually reveal character. It removes the usual pressure to fake having any — which is exactly why it's such a reliable test of what was actually there.",
+    "mode": "coach",
+    "blocks": [
+      {"type": "paragraph", "text": "Here's the drill, and it's meant to be used specifically in the days right after a real win — a promotion, a public success, praise that felt earned. Before you tell the story of how it happened even once more, write down, honestly, every person and piece of luck that contributed to it besides your own effort: the mentor who opened a door, the timing that happened to work, the team that did the parts you don't usually mention, the years someone else spent building the thing you just improved on. Not to diminish your own work — it was real too — but to get the full ledger in front of you before the story calcifies into a cleaner, more flattering version."},
+      {"type": "paragraph", "text": "This matters because success is oddly dangerous for character in a way failure usually isn't. Failure tends to produce humility whether you want it or not — it's hard to feel superior while things are visibly going wrong. Success removes that check. It's the moment you're most tempted to believe the flattering, simplified version where your talent and effort explain everything, and least likely to be corrected by anyone, because people rarely volunteer to complicate someone else's good news."},
+      {"type": "keyPoint", "text": "Failure teaches humility whether you ask for the lesson or not. Success only teaches it if you go looking."},
+      {"type": "paragraph", "text": "Humility after success doesn't mean performing false modesty or refusing to acknowledge your part — that's its own kind of dishonesty, and it can read as fishing for reassurance. It means an accurate accounting, held privately if not always said aloud: yes, I worked for this, and also, it did not happen in a vacuum. The concrete action is specific and doable today — pick one person whose contribution to a recent success of yours has gone unacknowledged, and tell them directly, plainly, what part they played."},
+      {"type": "paragraph", "text": "The version of humility worth practicing isn't self-deprecation. It's accuracy under conditions that reward exaggeration. The people who stay grounded after real success generally aren't the ones who feel less proud of it — they're the ones who kept an honest ledger of everyone else's line item in it, on purpose, before pride had a chance to edit the record."},
+      {"type": "keyPoint", "text": "Nobody succeeds alone. Humility after a win is just refusing to quietly rewrite the story where you did."}
+    ],
+    "estimatedMinutes": 5,
+    "tags": ["humility", "success", "credit"],
+    "relatedDrillIds": ["char_d16", "char_d40"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l17",
+    "disciplineId": "character",
+    "title": "The Person Who Tests You On Purpose (Or Doesn't Mean To)",
+    "hook": "Patience isn't the absence of irritation. It's what you do in the specific seconds you're most annoyed by someone you can't just walk away from.",
+    "mode": "deepDive",
+    "blocks": [
+      {"type": "paragraph", "text": "Everyone has at least one person who reliably tests their patience — a relative who repeats the same story, a coworker who asks the question you just answered, a friend whose slowness to make a decision drives you quietly up the wall. The instinct is to treat this as a character flaw in the other person, something they should fix so you'd stop being irritated. That framing feels satisfying and almost never produces anything useful, because it puts the fix entirely outside your control and leaves you waiting on someone else's change for your own composure."},
+      {"type": "paragraph", "text": "A more useful frame: patience with a specific frustrating person is a skill you're building on hard mode, not a referendum on whether they deserve your goodwill. The friend who repeats the same story isn't doing it to annoy you; they're doing it because it matters to them, or because they've forgotten they told you, and neither of those things is a character indictment. The coworker asking the repeated question might be anxious, might learn differently than you do, might simply be less far along a learning curve you cleared a while ago. None of this requires you to enjoy the interaction. It requires you to notice that your irritation is a fact about your own limited patience, not proof of their deficiency."},
+      {"type": "keyPoint", "text": "The people who frustrate you most are usually the ones giving you the most practice — you just weren't asking to enroll."},
+      {"type": "paragraph", "text": "The practical move, tried the next time this specific person triggers the familiar irritation: before reacting, silently name what you actually want from the interaction — to be heard, to move the conversation along, to simply get through it without snapping — and ask what response actually gets you that, versus what response just discharges the irritation. Often those are different answers. Snapping discharges irritation and usually gets you a worse version of the exact interaction next time."},
+      {"type": "paragraph", "text": "None of this requires infinite tolerance or pretending a genuinely harmful pattern is fine — patience isn't a virtue when it's protecting someone's mistreatment of you, and boundaries still apply. But for the ordinary, low-stakes friction of people who are simply slower, more repetitive, or more anxious than you'd prefer, patience is trainable the same way any composure skill is: notice the trigger, name what you actually want, and choose the response that gets it instead of the one that just vents."},
+      {"type": "keyPoint", "text": "Patience isn't about liking the frustration less. It's about letting the frustration exist without it choosing your next sentence for you."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["patience", "frustration", "interpersonal"],
+    "relatedDrillIds": ["char_d18", "char_d33"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "char_l18",
+    "disciplineId": "character",
+    "title": "The Layoff That Didn't End the Story",
+    "hook": "A story about the weeks right after losing a job — not the triumphant comeback part, but the unglamorous middle where character actually gets built.",
+    "mode": "story",
+    "blocks": [
+      {"type": "paragraph", "text": "He got the call on a Tuesday — restructuring, no fault of his own, effective in two weeks. He'd heard the phrase 'nothing personal' used about the most personal thing that had happened to him in years. The first days were the expected mix: disbelief, anger at a company he'd given real effort to, a specific dread about the mortgage due in three weeks and the conversation he'd need to have with his partner that night."},
+      {"type": "paragraph", "text": "What surprised him wasn't the shock. It was how long the temptation lasted to treat the layoff as a verdict on his own worth rather than a fact about a company's headcount decision — two very different claims that his mind kept quietly merging into one. Some mornings he woke up already rehearsing a story where he'd somehow deserved it, where the layoff was proof of something wrong with him rather than a business decision made in a spreadsheet he never saw."},
+      {"type": "keyPoint", "text": "Job loss is a fact about a company's decision. What it means about you is a separate question — and it's the one your mind will try to answer wrong first."},
+      {"type": "paragraph", "text": "The turning point wasn't a triumphant insight. It was smaller and more boring than that: he set a rule that he'd do exactly one concrete job-search action every weekday — one application, one outreach message to a former colleague, one skill brushed up — no more, no fewer, regardless of how the day felt. On the bad days this felt like nothing. On reflection later, it was the entire mechanism that got him through eleven weeks without collapsing into either frantic overwork or complete shutdown. Resilience, in practice, looked like a checklist, not a mood."},
+      {"type": "paragraph", "text": "He didn't get his next job through the flashiest application he sent. He got it through the former colleague he'd messaged in week four, almost out of habit by then, not expecting much. What actually carried him wasn't optimism he'd faked convincingly — some weeks he didn't have any. It was the daily minimum that didn't depend on optimism being present to still get done."},
+      {"type": "keyPoint", "text": "Resilience after a real setback rarely looks like confidence. It looks like a small, boring action repeated on the days you have zero confidence to spare."}
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["resilience", "job loss", "setback"],
+    "relatedDrillIds": ["char_d19"],
+    "relatedCardIds": []
+  }
+]

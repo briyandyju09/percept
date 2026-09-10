@@ -14,6 +14,7 @@ import '../services/case_reasoning/rule_based_case_reasoning_analyzer.dart';
 import '../services/conversation/conversation_scorer.dart';
 import '../services/conversation/rule_based_conversation_scorer.dart';
 import '../services/daily_mission_generator.dart';
+import '../services/notification_service.dart';
 import '../services/streak_service.dart';
 
 /// Every repository/service is provided as a plain singleton `Provider` —
@@ -53,4 +54,8 @@ final conversationScorerProvider = Provider<ConversationScorer>(
 
 final caseReasoningAnalyzerProvider = Provider<CaseReasoningAnalyzer>(
   (ref) => RuleBasedCaseReasoningAnalyzer(ref.watch(contentRepositoryProvider)),
+);
+
+final notificationServiceProvider = Provider(
+  (ref) => NotificationService.instance,
 );

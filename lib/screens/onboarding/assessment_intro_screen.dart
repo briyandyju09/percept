@@ -70,7 +70,7 @@ class _TestRow extends StatelessWidget {
       padding: const EdgeInsets.symmetric(vertical: PerceptSpacing.sm),
       child: Row(
         children: [
-          Text(glyph, style: const TextStyle(fontSize: 22)),
+          Text(glyph, style: const TextStyle(fontSize: PerceptGlyphSize.row)),
           const SizedBox(width: PerceptSpacing.md),
           Expanded(
             child: Column(

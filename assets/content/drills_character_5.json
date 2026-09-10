@@ -1,0 +1,254 @@
+[
+  {
+    "id": "char_d41",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You lend a friend a meaningful amount of money for a short-term emergency. Two months pass with no mention of repayment. You need the money back soon but feel awkward bringing it up, worried it will seem like you care more about money than the friendship.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d41_q1",
+        "prompt": "What would a direct, honest approach to raising this actually sound like, and why is avoiding it not really protecting the friendship?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Something like: 'Hey, I need to bring up the loan from a couple months ago — I could really use it back in the next few weeks, is that doable for you?' Avoiding it doesn't protect the friendship; it just lets quiet resentment build on your side, which usually damages the relationship more slowly and more permanently than one direct, slightly uncomfortable conversation would.",
+        "explanation": "Avoiding a necessary but awkward conversation to preserve short-term comfort usually costs more long-term goodwill than it saves."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d42",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Read the short scenario and identify which virtue is most clearly being demonstrated.",
+    "stimulusText": "Even though no one would ever find out, Wren returns the extra $40 a cashier accidentally gave back in change, driving back to the store on her lunch break to do it.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d42_q1",
+        "prompt": "Which virtue is Wren most clearly demonstrating?",
+        "type": "multipleChoice",
+        "options": ["Honesty", "Ambition", "Curiosity", "Patience"],
+        "correctAnswer": "Honesty",
+        "explanation": "She acts correctly even though there's zero chance of being caught, which is the clearest test of honesty as an internal standard rather than a fear of consequences."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "char_d43",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "Your manager publicly praises you in a meeting for a project outcome that was actually saved by a junior teammate's last-minute catch of a major error. Your manager doesn't know this detail.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d43_q1",
+        "prompt": "What would integrity require you to do here, and by when?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Integrity requires following up with your manager, ideally soon after the meeting, to make sure the junior teammate's contribution is known and credited — either in the moment if it feels natural, or in a follow-up message shortly after. Letting the misattributed praise stand indefinitely, even passively, means benefiting from a false impression you know is false.",
+        "explanation": "Silence in the face of undeserved credit is a form of dishonesty even when you didn't create the false impression yourself."
+      },
+      {
+        "id": "char_d43_q2",
+        "prompt": "Why might it feel harder to correct praise you didn't ask for than to correct a lie you told yourself?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "It feels harder because correcting it means giving up something you passively received and enjoyed, and there's a temptation to reason 'I didn't lie, so I'm not responsible for fixing it.' But responsibility for a false impression doesn't require having created it — only benefiting from it while staying silent is enough to implicate you.",
+        "explanation": "Passive dishonesty (letting a false belief stand) requires the same correction as active dishonesty (stating one), even though it feels more excusable."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d44",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're asked to give feedback on a friend's business plan before they pitch it to investors next week. You genuinely believe the core idea has a fatal flaw, but they've already quit their job and invested emotionally and financially in this direction.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d44_q1",
+        "prompt": "What does honest feedback look like here that's still delivered with care, and what would dishonest kindness look like by contrast?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Honest feedback names the specific flaw clearly, backed by concrete reasoning, framed around helping them strengthen the pitch or catch the issue before investors do, and acknowledges the real stakes they've already taken on. Dishonest kindness would be softening it into vague encouragement ('looks great, maybe tweak a few things') to avoid an uncomfortable conversation, which leaves them walking into the pitch unprepared.",
+        "explanation": "Real kindness toward someone who has already taken a big risk means giving them the clearest possible picture, not the most comfortable one."
+      },
+      {
+        "id": "char_d44_q2",
+        "prompt": "How do you handle the fact that they may not be able to undo their decision even if your feedback is right — does that change what you should say?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "It doesn't change whether you should be honest about the flaw, but it should shape how you frame it: pairing the concern with concrete ideas for mitigating or working around it, since they need a path forward, not just a verdict. The goal shifts from 'should you do this' to 'given that you're doing this, here's what needs to change.'",
+        "explanation": "Honesty about a problem and usefulness about what to do next aren't in conflict — the second just requires more effort than the first."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "char_d45",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read the short scenario and identify which virtue is most clearly being demonstrated.",
+    "stimulusText": "Despite being three years into training for a promotion that just went to someone else, Alicia asks to meet with that person to genuinely learn what they did well, rather than avoiding them.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d45_q1",
+        "prompt": "Which virtue is Alicia most clearly demonstrating?",
+        "type": "multipleChoice",
+        "options": ["Resilience", "Charisma", "Frugality", "Secrecy"],
+        "correctAnswer": "Resilience",
+        "explanation": "She converts a personal setback into a source of information and growth rather than withdrawing from it or letting it curdle into bitterness."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "char_d46",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A parent who was frequently absent during your childhood, and whom you've had a distant relationship with for years, reaches out saying they're unwell and want to reconnect. Part of you wants to reconcile; part of you still feels the old resentment is justified and unresolved.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d46_q1",
+        "prompt": "What's the difference between forgiving someone and pretending the original harm didn't matter, in a situation like this?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Forgiving means choosing to release the grip the resentment has on you going forward, without requiring that the harm be erased or unacknowledged. Pretending it didn't matter would mean suppressing the fact that real damage was done, engaging as if nothing happened, and likely feeling the resentment resurface later because it was never actually processed, only buried.",
+        "explanation": "Genuine forgiveness usually requires naming the harm honestly first — skipping that step tends to produce a fragile truce, not real resolution."
+      },
+      {
+        "id": "char_d46_q2",
+        "prompt": "Is it possible to act with compassion toward them right now without fully resolving your own feelings about the past — what would that look like practically?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Yes — you can respond to their illness with basic compassion (visiting, being present, offering practical help) while being honest with yourself and possibly with them that full emotional reconciliation is a separate, slower process that this moment doesn't automatically resolve. Practically, that might mean showing up without pretending the past is settled, and being clear that your presence now isn't erasing what came before.",
+        "explanation": "Compassion in the present and unresolved history don't cancel each other out — you're allowed to hold both honestly at once."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "char_d47",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read the short scenario and identify which virtue is most clearly being demonstrated.",
+    "stimulusText": "Before criticizing a report her team produced, Renata first lists three things it does well and specifically names the tradeoffs the author was likely navigating, before raising her concerns.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d47_q1",
+        "prompt": "Which virtue is Renata most clearly demonstrating?",
+        "type": "multipleChoice",
+        "options": ["Fairness", "Efficiency", "Boldness", "Frugality"],
+        "correctAnswer": "Fairness",
+        "explanation": "She works to accurately represent the full picture, including constraints and strengths, before offering criticism, rather than only spotlighting the flaws."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "char_d48",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're the only person in a group project who consistently notices when a quieter teammate's ideas get talked over. Pointing it out in real time feels disruptive to the meeting's flow, but staying quiet means it keeps happening every week.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d48_q1",
+        "prompt": "What's a low-disruption way to act on this that still counts as actually doing something, rather than just noticing?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A simple in-the-moment move like 'I don't think we heard the rest of what [name] was saying, can we go back to that' redirects attention without accusing anyone or derailing the meeting. Noticing the pattern every week without ever intervening isn't neutral — it's a choice to let it continue.",
+        "explanation": "Small, repeatable interventions are usually more sustainable and more effective than waiting for a big moment to address a pattern directly."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d49",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You find out a mentor you deeply respect and who helped shape your career made a serious ethical misstep at a previous job, one that hurt people who trusted them. They've never publicly acknowledged it, and you're not sure how it changes what you owe them.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d49_q1",
+        "prompt": "How do you hold gratitude for what they gave you alongside clear-eyed acknowledgment of what they did wrong, without either one erasing the other?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Both things can be true without canceling out: you can be genuinely grateful for specific things they taught you or did for you, while also holding an honest, unflinching view that the ethical misstep was real and serious and doesn't get an exemption because they were otherwise helpful to you. The mistake is letting gratitude launder the wrongdoing, or letting the wrongdoing retroactively erase real good they did.",
+        "explanation": "Mature character means resisting the pull to collapse a person into either 'good' or 'bad' and instead holding the specific, sometimes contradictory facts."
+      },
+      {
+        "id": "char_d49_q2",
+        "prompt": "Does this change how you'd speak about them to others, even if you don't cut off the relationship?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "It likely means you stop describing them in unqualified glowing terms to others, and are willing to acknowledge the fuller picture if it's relevant or asked about, rather than either staying silent to protect their reputation or going out of your way to condemn them publicly. What you owe others is accuracy, not a verdict on the relationship you personally choose to keep.",
+        "explanation": "Being honest about someone in public doesn't require severing a private relationship with them, but it does require not misrepresenting them to protect your own association."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "char_d50",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read the short scenario and identify which virtue is most clearly being demonstrated.",
+    "stimulusText": "Instead of scheduling every minute of a group hiking trip, Devon deliberately leaves one afternoon open, telling the group 'let's just see what we feel like doing once we're there.'",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d50_q1",
+        "prompt": "Which virtue is Devon most clearly demonstrating?",
+        "type": "multipleChoice",
+        "options": ["Flexibility", "Ambition", "Vigilance", "Frugality"],
+        "correctAnswer": "Flexibility",
+        "explanation": "He deliberately leaves room for the group's actual mood and circumstances to shape the plan, rather than forcing a rigid schedule to hold regardless of how things go."
+      }
+    ],
+    "estimatedMinutes": 2
+  }
+]

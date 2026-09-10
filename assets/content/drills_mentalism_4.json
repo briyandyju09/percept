@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ment_d31",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Identify the classic switching method in this slate routine.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d31_q1",
+        "prompt": "A performer shows both sides of a small chalkboard blank, has a spectator whisper a word, then reveals the word already written on the board. What's the most likely honest method?",
+        "type": "multipleChoice",
+        "options": ["A slate switch — swapping the blank board for a secretly pre-written duplicate before or during the reveal", "Genuine precognition of the spectator's word", "The chalk itself is enchanted", "The spectator secretly wrote the word themselves earlier"],
+        "correctAnswer": "A slate switch — swapping the blank board for a secretly pre-written duplicate before or during the reveal",
+        "explanation": "Slate and blackboard effects almost universally rely on a switch — the 'blank' board shown early isn't the one ultimately revealed — timed so the exchange happens during a moment of misdirection, not on real prediction of an unknown word."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d32",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Evaluate claims about reading facial micro-expressions.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d32_q1",
+        "prompt": "A performer claims they can tell with certainty whether someone is lying by watching a single facial twitch. Is this an honest performance-craft claim?",
+        "type": "multipleChoice",
+        "options": ["No — real micro-expression research shows these cues correlate loosely with emotion, not lying, and no single tell reliably proves deception", "Yes — trained mentalists can detect lies with total accuracy from one twitch", "Yes, but only under stage lighting", "No — facial expressions carry no information at all"],
+        "correctAnswer": "No — real micro-expression research shows these cues correlate loosely with emotion, not lying, and no single tell reliably proves deception",
+        "explanation": "Micro-expressions are a real, studied phenomenon linked to felt emotion, but the research does not support any single reliable 'lie detector' cue — a performer can honestly use facial cues as one soft input among many, but claiming certain lie detection from one twitch overstates the science."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d33",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You're opening a private one-on-one reading for a client who arrives nervous and unsure what to expect from a 'mentalism' session.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d33_q1",
+        "prompt": "Write the first 30 seconds of patter you'd use to build rapport and set honest expectations before any technique begins.",
+        "type": "textInput",
+        "correctAnswer": "e.g. 'Hi, thanks for coming — before we start, I want to be upfront: what I do is a performance built on psychology, attention, and observation, not real psychic power. My goal is just to give you a genuinely fun, surprising experience for the next twenty minutes. Sound good?' This sets warmth, honest framing, and a clear time boundary all in the opening moments.",
+        "explanation": "Strong opening rapport combines warmth with an honest, upfront frame — telling the client plainly that the experience is a crafted performance actually increases trust and comfort rather than undermining the mystery, since it removes any anxiety about being deceived about the nature of the service."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d34",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Distinguish a genuinely skill-based 'transmission' bit from one relying on a confederate.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d34_q1",
+        "prompt": "In a 'thought transmission' demonstration, a performer accurately draws a shape a spectator is 'sending' telepathically from across the room. Which explanation reflects an honest, disclosed method rather than a false claim?",
+        "type": "multipleChoice",
+        "options": ["The shape was forced earlier, or the spectator is a pre-arranged confederate, both revealed if the performer is asked directly", "The spectator's brainwaves were literally received by the performer", "It works because both people were thinking the same thing by pure coincidence every time", "The shape was chosen using quantum entanglement"],
+        "correctAnswer": "The shape was forced earlier, or the spectator is a pre-arranged confederate, both revealed if the performer is asked directly",
+        "explanation": "Every honest version of a 'transmission' effect reduces to a mundane method — a force, a peek, or a confederate — and stays ethical specifically because the performer is willing to explain the mechanism if genuinely asked, unlike a fraudulent claim of literal brainwave reception."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d35",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "Before a private party gig, you look up the guest of honor on social media and learn she recently lost her father. You plan to weave this into your reading as if you 'sensed' it.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d35_q1",
+        "prompt": "Identify the ethical tags at play, and describe one guardrail that keeps this specific use of research respectful rather than exploitative.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Tags: Manipulation risk, Performance. Guardrail: I'd handle a genuinely sensitive loss like this with restraint — acknowledging it gently rather than performing a dramatic 'reveal' around someone's grief for entertainment, and I'd never claim I sensed it through supernatural means rather than simply being observant and prepared.",
+        "explanation": "Researching a client beforehand is standard mentalism craft, but grief is exactly the kind of information that can tip a routine from clever showmanship into exploiting someone's vulnerability — the guardrail is treating painful facts with restraint and never dressing up preparation as literal supernatural perception."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d36",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Identify the purpose of a 'convincer' moment in a mentalism routine.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d36_q1",
+        "prompt": "Midway through a longer routine, a performer correctly and verifiably reveals a small, checkable detail (like a spectator's exact birth month) before attempting a bigger, more ambiguous reveal. What is this small accurate detail called?",
+        "type": "multipleChoice",
+        "options": ["A convincer — a verifiable hit that builds credibility for what follows", "A Barnum statement", "A rainbow ruse", "A statistical force"],
+        "correctAnswer": "A convincer — a verifiable hit that builds credibility for what follows",
+        "explanation": "A convincer is a deliberately placed, checkable success early in a routine that builds the audience's confidence in the performer's 'ability,' making them more receptive and generous when interpreting vaguer statements later in the same routine."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d37",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Identify the standard structural arc of a mentalism stage act.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d37_q1",
+        "prompt": "Which sequence best describes a typical mentalism act's dramatic structure?",
+        "type": "multipleChoice",
+        "options": ["Open with a strong hook, build through escalating smaller effects, climax with the most impossible-feeling reveal, then close warmly", "Open with the biggest trick first, then fill remaining time with filler", "Perform every effect in a random order with no build", "Open and close with the same trick repeated"],
+        "correctAnswer": "Open with a strong hook, build through escalating smaller effects, climax with the most impossible-feeling reveal, then close warmly",
+        "explanation": "A well-built act, like most live entertainment, escalates in impact — a strong opening hook earns attention, a middle section builds stakes and rapport, a climax delivers the most astonishing moment, and a warm close leaves the audience with goodwill rather than just shock."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "ment_d38",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You've built up a big public prediction reveal all show, but the sealed envelope, when opened, doesn't match what the spectator actually said.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d38_q1",
+        "prompt": "Script the recovery line you'd use in the moment, and explain why acknowledging a miss gracefully is better for long-term credibility than pretending it was correct.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Recovery line: 'Well, that's the first time that's happened in a while — turns out even a mentalist has an off night! Let's see what happens with the next one.' Owning a miss with humor protects long-term credibility because insisting a clear miss was actually correct comes across as either dishonest or deluded, and audiences respect a performer more for handling failure gracefully than for a forced, unbelievable save.",
+        "explanation": "How a performer handles a genuine failure is one of the clearest signals of whether they're an honest entertainer or a manipulative one — graceful acknowledgment keeps trust with the room, while insisting a miss was a hit is exactly the kind of denial used by fraudulent psychics."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d39",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Evaluate a claim about 'neurolinguistic' rapport techniques.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d39_q1",
+        "prompt": "A performer claims that subtly mirroring a spectator's posture and breathing rate creates unbreakable, involuntary trust that can be used to control their decisions. Is this an honest description of the technique?",
+        "type": "multipleChoice",
+        "options": ["No — mirroring can build modest rapport and comfort, but 'unbreakable, involuntary control' overstates what the evidence supports", "Yes — mirroring gives total behavioral control", "No — mirroring has zero effect on rapport", "Yes, but only if the performer is also touching the spectator"],
+        "correctAnswer": "No — mirroring can build modest rapport and comfort, but 'unbreakable, involuntary control' overstates what the evidence supports",
+        "explanation": "Mirroring body language has some real, modest support as a rapport-building behavior in social psychology, but claims of 'unbreakable' influence or decision control vastly overstate the evidence — honest mentalism uses rapport techniques as one small tool among many, not a mind-control claim."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d40",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "A corporate client booking you for an event asks you to bill the show as 'a real psychic experience' in their marketing materials, since it will supposedly sell more tickets.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d40_q1",
+        "prompt": "Draft the response you'd send the client explaining why you won't bill it that way, and what honest framing you'd propose instead.",
+        "type": "textInput",
+        "correctAnswer": "e.g. 'I really appreciate the enthusiasm, but I only bill my shows honestly as mentalism and mind-reading-style entertainment — psychology, memory, and performance skill, not literal psychic ability. I've found that framing still sells great, and it protects both of us from misleading guests. How about we bill it as \"An Evening of Mind Reading & Mentalism\"?' This keeps the marketing exciting while staying truthful about what the audience will actually see.",
+        "explanation": "Professional mentalists routinely push back on marketing language that oversells their work as literally supernatural, both because it's dishonest and because it can mislead an audience member into real-world beliefs or decisions based on a false premise — a habit worth protecting even under commercial pressure."
+      }
+    ],
+    "estimatedMinutes": 6
+  }
+]

@@ -5,7 +5,18 @@
     "type": "memoryRecall",
     "prompt": "Study this list of 10 everyday objects for 30 seconds. When you're ready, look away and write down as many as you can recall, in any order.",
     "stimulus": "",
-    "stimulusList": ["red umbrella", "brass key", "wool scarf", "ceramic mug", "silver whistle", "leather wallet", "green kite", "wooden spoon", "glass marble", "canvas backpack"],
+    "stimulusList": [
+      "red umbrella",
+      "brass key",
+      "wool scarf",
+      "ceramic mug",
+      "silver whistle",
+      "leather wallet",
+      "green kite",
+      "wooden spoon",
+      "glass marble",
+      "canvas backpack"
+    ],
     "options": [],
     "correctAnswer": "red umbrella, brass key, wool scarf, ceramic mug, silver whistle, leather wallet, green kite, wooden spoon, glass marble, canvas backpack (partial recall is scored proportionally; order does not matter)",
     "scoringWeight": 1
@@ -16,7 +27,20 @@
     "type": "memoryRecall",
     "prompt": "Study this list of 12 words for 30 seconds, paying attention to the order. Then look away and answer: what was the 5th word in the list?",
     "stimulus": "",
-    "stimulusList": ["lantern", "river", "pencil", "tiger", "anchor", "violin", "pepper", "compass", "ladder", "frost", "turtle", "copper"],
+    "stimulusList": [
+      "lantern",
+      "river",
+      "pencil",
+      "tiger",
+      "anchor",
+      "violin",
+      "pepper",
+      "compass",
+      "ladder",
+      "frost",
+      "turtle",
+      "copper"
+    ],
     "options": [],
     "correctAnswer": "anchor",
     "scoringWeight": 1
@@ -27,7 +51,17 @@
     "type": "memoryRecall",
     "prompt": "Study this list of 9 grocery items for 30 seconds. Then, without looking back, count backward from 20 to 1 in your head, and only after that try to recall the list.",
     "stimulus": "",
-    "stimulusList": ["oat milk", "cinnamon", "garlic", "spinach", "salmon", "walnuts", "yogurt", "basil", "lemons"],
+    "stimulusList": [
+      "oat milk",
+      "cinnamon",
+      "garlic",
+      "spinach",
+      "salmon",
+      "walnuts",
+      "yogurt",
+      "basil",
+      "lemons"
+    ],
     "options": [],
     "correctAnswer": "oat milk, cinnamon, garlic, spinach, salmon, walnuts, yogurt, basil, lemons (partial recall after the distractor task is scored proportionally)",
     "scoringWeight": 1
@@ -51,8 +85,9 @@
     "stimulus": "A jogger runs past a parked delivery van with its hazard lights blinking. The van's back doors are open, and a stack of unmarked boxes sits on the curb. Fifteen feet away, a parking meter reads 'EXPIRED' in red, though a ticket is tucked under the van's wiper. A store window behind the van advertises '50% off winter coats,' though the mannequins in the window are dressed in short sleeves. A cyclist waits at the crosswalk, one earbud in, checking his watch.",
     "stimulusList": [],
     "options": [],
-    "correctAnswer": "The store advertises a winter coat sale, but the mannequins in the display window are dressed in short sleeves — a seasonal mismatch.",
-    "scoringWeight": 1
+    "correctAnswer": "mannequins in short sleeves despite the winter coat sale sign",
+    "scoringWeight": 1,
+    "explanation": "The store advertises a winter coat sale, but the mannequins in the display window are dressed in short sleeves — a seasonal mismatch that doesn't fit with the rest of the scene."
   },
   {
     "id": "assess_obs03",
@@ -138,9 +173,15 @@
     "prompt": "Read the two facts below and determine which single meeting time can be assigned with certainty, and to whom.",
     "stimulus": "Three colleagues, Priya, Marcus, and Wren, each prefer a different meeting time: morning, midday, or evening. Fact 1: Priya refuses anything before noon. Fact 2: Marcus always meets earlier in the day than Wren.",
     "stimulusList": [],
-    "options": ["Priya meets in the morning", "Marcus meets in the morning", "Wren meets in the morning", "Cannot be determined from these facts"],
-    "correctAnswer": "Marcus meets in the morning. Priya can't take morning (she refuses anything before noon), and Wren can't take morning either, since Marcus must be earlier than Wren, and morning is the earliest slot available. By elimination, Marcus must be the one meeting in the morning.",
-    "scoringWeight": 1
+    "options": [
+      "Priya meets in the morning",
+      "Marcus meets in the morning",
+      "Wren meets in the morning",
+      "Cannot be determined from these facts"
+    ],
+    "correctAnswer": "Marcus meets in the morning",
+    "scoringWeight": 1,
+    "explanation": "Priya can't take morning (she refuses anything before noon), and Wren can't take morning either, since Marcus must be earlier in the day than Wren, and morning is the earliest slot available. By elimination, Marcus must be the one meeting in the morning."
   },
   {
     "id": "assess_rsn02",
@@ -150,8 +191,9 @@
     "stimulus": "You have 8 identical-looking coins. Exactly one is counterfeit and slightly lighter than the rest. You have a balance scale with no weights, only two pans.",
     "stimulusList": [],
     "options": [],
-    "correctAnswer": "2 weighings. First, weigh 3 coins against 3 coins, setting the remaining 2 aside. If the two sides balance, the counterfeit is one of the 2 set-aside coins; weigh those two against each other to find the lighter one. If one side is lighter, the counterfeit is among that group of 3; weigh any 2 of those 3 against each other (if they balance, the third coin is the counterfeit; if not, the lighter one is).",
-    "scoringWeight": 1
+    "correctAnswer": "2 weighings, splitting the coins into groups of 3, 3, and 2",
+    "scoringWeight": 1,
+    "explanation": "First, weigh 3 coins against 3 coins, setting the remaining 2 aside. If the two sides balance, the counterfeit is one of the 2 set-aside coins; weigh those two against each other to find the lighter one. If one side is lighter, the counterfeit is among that group of 3; weigh any 2 of those 3 against each other (if they balance, the third coin is the counterfeit; if not, the lighter one is)."
   },
   {
     "id": "assess_rsn03",
@@ -160,8 +202,14 @@
     "prompt": "Solve the puzzle below.",
     "stimulus": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?",
     "stimulusList": [],
-    "options": ["$0.05", "$0.10", "$1.00", "$0.55"],
-    "correctAnswer": "$0.05. If the ball costs x, the bat costs x + $1.00, and together they total 2x + $1.00 = $1.10, so x = $0.05. (The common but incorrect intuitive answer is $0.10.)",
-    "scoringWeight": 1
+    "options": [
+      "$0.05",
+      "$0.10",
+      "$1.00",
+      "$0.55"
+    ],
+    "correctAnswer": "$0.05",
+    "scoringWeight": 1,
+    "explanation": "If the ball costs x, the bat costs x + $1.00, and together they total 2x + $1.00 = $1.10, so x = $0.05. (The common but incorrect intuitive answer is $0.10.)"
   }
 ]

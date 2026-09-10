@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dunning_kruger_effect",
+    "name": "Dunning-Kruger Effect",
+    "myth": "People who are bad at something usually know it, so confident, outspoken people are probably the most competent ones in the room.",
+    "fact": "People with low skill or knowledge in a domain often lack the very ability needed to recognize their own gaps, which can leave them more confident, not less, than people who actually know the subject well.",
+    "explanation": "The skills required to perform well at a task substantially overlap with the skills required to judge your own performance at it, so a novice is often missing the exact yardstick they'd need to see how much they don't know. Genuine experts, by contrast, tend to have a clearer view of the field's real complexity, which often makes them more cautious and qualified in how they state their conclusions."
+  },
+  {
+    "id": "bystander_effect",
+    "name": "Bystander Effect",
+    "myth": "The more people who witness someone in trouble, the more likely it is that someone will step in to help.",
+    "fact": "The presence of more witnesses often makes any single person less likely to help, because each individual can assume someone else will take responsibility.",
+    "explanation": "Responsibility for acting gets diffused across everyone present, so a larger crowd can paradoxically produce a slower or absent response than a single witness would. This is why emergency training emphasizes directly assigning a task to one specific named bystander, which removes the ambiguity that lets responsibility get diffused."
+  },
+  {
+    "id": "self_serving_bias",
+    "name": "Self-Serving Bias",
+    "myth": "People generally explain their successes and failures the same way, giving both roughly equal weight to their own actions and to outside circumstances.",
+    "fact": "People tend to credit their successes to their own skill and effort, while attributing their failures to external circumstances beyond their control.",
+    "explanation": "This asymmetry helps protect self-esteem in the moment, but it comes at a real cost: it makes it harder to learn from failure, since the very analysis that would reveal a controllable, fixable cause is the one self-serving bias tends to suppress."
+  },
+  {
+    "id": "illusion_of_control",
+    "name": "Illusion of Control",
+    "myth": "People generally have an accurate sense of how much influence they actually have over chance-driven outcomes, like a coin flip or a lottery draw.",
+    "fact": "People often overestimate their personal influence over outcomes that are actually determined by pure chance, especially when they get to take some physical action, like throwing dice or picking their own numbers.",
+    "explanation": "Actively participating in a chance event — choosing your own numbers instead of getting a random assignment, or physically rolling dice yourself — creates a felt sense of causal control that has no real bearing on a genuinely random outcome, a pattern demonstrated directly in studies of lottery ticket pricing."
+  },
+  {
+    "id": "planning_fallacy",
+    "name": "Planning Fallacy",
+    "myth": "When people plan a project carefully and account for known risks, their time and cost estimates are usually reasonably accurate.",
+    "fact": "People systematically underestimate how long a task will take or how much it will cost, even when they have direct evidence that similar past projects ran over.",
+    "explanation": "Planners tend to focus on their own specific, optimistic scenario for how the project will unfold (the 'inside view') rather than weighting the broader track record of how comparable projects have actually gone (the 'outside view'), which is why even people who know most similar projects run long still expect their own to be the exception."
+  },
+  {
+    "id": "just_world_fallacy",
+    "name": "Just-World Fallacy",
+    "myth": "Bad things that happen to people are usually random and unrelated to anything about the person's own character or choices.",
+    "fact": "People often assume, with little or no actual evidence, that someone who suffers misfortune must have done something to deserve it, simply because believing the world is fair feels more comfortable.",
+    "explanation": "Random, undeserved misfortune threatens the comforting belief that the world is orderly and that people generally get what they deserve, so observers sometimes resolve that discomfort by assuming the victim must share some of the blame — a pattern documented across contexts from workplace layoffs to jury reasoning about crime victims."
+  },
+  {
+    "id": "loss_aversion",
+    "name": "Loss Aversion",
+    "myth": "A gain and an equivalent loss of the same size — like winning $50 versus losing $50 — feel roughly the same to most people, just in opposite directions.",
+    "fact": "Losses are typically felt roughly twice as intensely as equivalent gains, which makes people risk-averse when protecting a sure gain but often risk-seeking when trying to avoid a sure loss.",
+    "explanation": "This asymmetry, central to prospect theory, explains many everyday patterns: why a 'lost discount' feels worse than an equivalent 'added fee,' and why investors sometimes hold onto a losing position too long while gambling to avoid locking in a loss, even when the expected value favors selling."
+  },
+  {
+    "id": "motivated_reasoning",
+    "name": "Motivated Reasoning",
+    "myth": "People who reach a conclusion that conveniently supports their prior beliefs or interests are usually doing so deliberately and knowingly, essentially lying to themselves or others.",
+    "fact": "Much of this pattern happens without conscious awareness: people genuinely, sincerely find reasons to discount evidence that threatens a belief they're motivated to hold, while believing their evaluation is objective.",
+    "explanation": "Because motivated reasoning operates below conscious awareness, it's distinct from deliberate deception — the person may honestly believe their selectively critical evaluation of unwelcome evidence is fair, which is exactly why pre-committing to evaluation standards before seeing a result is one of the few practices shown to reduce it."
+  }
+]

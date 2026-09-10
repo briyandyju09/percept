@@ -1,0 +1,270 @@
+[
+  {
+    "id": "char_d31",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A coworker takes credit in a team meeting for an idea you originally suggested to them privately last week. No one else in the room knows the idea was yours. You feel a hot flash of anger but also notice you're unsure whether it's worth saying anything.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d31_q1",
+        "prompt": "What would an honest, self-respecting response look like in the moment versus after the meeting, and why might timing matter?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "In the moment, a calm addition like 'building on what I mentioned to you last week...' asserts the fact without accusation. After the meeting, a private, direct conversation with the coworker gives them a chance to correct the record without public embarrassment. Timing matters because a private approach first assumes good faith and preserves the relationship, while going straight to public confrontation escalates unnecessarily.",
+        "explanation": "Integrity doesn't require humiliating someone publicly; it requires not letting a false impression stand uncorrected."
+      },
+      {
+        "id": "char_d31_q2",
+        "prompt": "What's the difference between staying silent out of generosity and staying silent out of conflict-avoidance here?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Generosity would mean genuinely not minding, having weighed it and deciding the credit doesn't matter to you. Conflict-avoidance means you do mind, feel wronged, but suppress it because raising it feels uncomfortable. The test is whether the resentment fades or lingers and resurfaces later.",
+        "explanation": "Silence is only virtuous when it reflects an honest weighing of the stakes, not a fear of discomfort."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "char_d32",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You promised a friend you'd help them move apartments this Saturday. On Wednesday, a once-in-a-year opportunity comes up: a close former mentor is in town for one day only and offered you a slot to catch up, which could matter for your career. Your friend has no one else lined up to help.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d32_q1",
+        "prompt": "What would keeping your word actually require here, and is there a version that honors both commitments?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Keeping your word means either following through on the move or renegotiating it directly with your friend well before Saturday, not just not showing up. A version honoring both might be: call the friend now, explain honestly, offer to help find another person or cover a moving-help cost, or come for part of the day around the mentor meeting. What it can't be is silently hoping it works out.",
+        "explanation": "A commitment made to a specific person is a promise, not a placeholder to be dropped when something better appears — it can be renegotiated, but only openly."
+      },
+      {
+        "id": "char_d32_q2",
+        "prompt": "If you do decide the mentor meeting takes priority, what makes that a defensible choice versus a self-serving one?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "It's defensible if you tell your friend as soon as you know, take real responsibility for the inconvenience, and actively help solve the problem you're creating (finding replacement help, paying for movers, showing up early). It's self-serving if you minimize their inconvenience, wait to tell them, or expect them to simply understand without you doing anything to offset the cost to them.",
+        "explanation": "The same decision can be either respectful or careless depending entirely on how transparently and actively you handle its fallout."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d33",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Read the short scenario and identify which virtue is most clearly being demonstrated.",
+    "stimulusText": "After winning a company award that three people contributed to equally, Dana stands up and names her two collaborators by name, describing exactly what each of them did, before saying anything about her own part.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d33_q1",
+        "prompt": "Which virtue is Dana most clearly demonstrating?",
+        "type": "multipleChoice",
+        "options": ["Humility", "Patience", "Courage", "Frugality"],
+        "correctAnswer": "Humility",
+        "explanation": "Humility here shows up as accurately crediting others' contributions rather than absorbing recognition that isn't solely hers."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "char_d34",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "During a heated family dinner, your uncle makes a comment that's subtly demeaning toward your partner, framed as a joke. Everyone laughs politely and moves on. Your partner seems fine on the surface but goes quiet for the rest of the night.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d34_q1",
+        "prompt": "What does loyalty to your partner require in that exact moment at the table, versus what it might require later that night?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "In the moment, it may require a light but clear redirect ('I don't think that landed the way you meant it') without turning dinner into a confrontation, or simply not laughing along. Later that night, it requires actually checking in with your partner directly, naming what you noticed, and validating that it wasn't nothing, rather than assuming silence meant it was fine.",
+        "explanation": "Loyalty isn't only about public defense in the heat of the moment — it's often more visibly tested in the quiet follow-up afterward."
+      },
+      {
+        "id": "char_d34_q2",
+        "prompt": "How would you distinguish protecting family harmony from tolerating disrespect toward someone you love?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Protecting harmony means choosing your moment and tone so the relationship with your uncle isn't needlessly torched over one comment. Tolerating disrespect means the pattern repeats and you never address it because avoiding an awkward evening matters more to you than your partner's dignity. The line is whether you ever address it at all, even privately and later.",
+        "explanation": "Keeping the peace and enabling disrespect look identical in the moment and only differ based on what happens afterward."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d35",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read the short scenario and identify which virtue is most clearly being demonstrated.",
+    "stimulusText": "Marcus's flight is delayed six hours because of a mechanical issue. Rather than snapping at the gate agent, he asks her, by name, how her day has been going given how many angry passengers she's probably dealt with already.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d35_q1",
+        "prompt": "Which virtue is Marcus most clearly demonstrating?",
+        "type": "multipleChoice",
+        "options": ["Empathy", "Ambition", "Thrift", "Curiosity"],
+        "correctAnswer": "Empathy",
+        "explanation": "He's actively imagining her situation and responding to her as a person absorbing frustration all day, not just as an obstacle to his own plans."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "char_d36",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're reviewing a teammate's work before it goes to a client and find a factual error that could embarrass them if it's caught later. Pointing it out means admitting you noticed it late, since the deadline to flag changes was technically yesterday.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d36_q1",
+        "prompt": "What does responsibility look like here, weighed against the discomfort of admitting you're raising it past the deadline?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Responsibility means flagging the error immediately regardless of the deadline technicality, and being upfront that you noticed it late rather than pretending you just found it. The embarrassment of admitting lateness is smaller and shorter-lived than the cost of a client-facing factual error going out uncorrected.",
+        "explanation": "Protecting the outcome matters more than protecting your own timeline record — a late flag is still far better than no flag."
+      },
+      {
+        "id": "char_d36_q2",
+        "prompt": "How would you raise it in a way that respects your teammate rather than just covering yourself?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Go to them directly and privately first, framing it as 'I caught something, sorry it's past the line, wanted you to have the chance to fix it before it goes out' rather than looping in a manager immediately to show you spotted it. The goal is helping them avoid embarrassment, not documenting that you were the one who noticed.",
+        "explanation": "The same correct action can either support a teammate or throw them under the bus depending on who you tell first and how."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d37",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A close friend confides that they cheated on their partner once, a year ago, and never told them. They ask you not to say anything, but you're also friends with the partner and have been growing closer to them lately, occasionally talking about the relationship.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d37_q1",
+        "prompt": "What competing obligations are actually in tension here, and is there a genuinely clean answer or only a least-bad one?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "The tensions are: confidentiality owed to the friend who trusted you, honesty owed to the partner you're also close to, and your own integrity in continuing to be a sounding board for a relationship you know is built on a hidden fact. There's likely no clean answer — telling the partner betrays a confidence you were explicitly given, staying silent means actively participating in a deception toward someone you also care about. The least-bad path usually involves pushing the friend hard to tell their partner themselves, on a real timeline, rather than you making the disclosure decision for them.",
+        "explanation": "Some situations don't have a right answer, only a more honest process for arriving at the least-wrong one — naming that plainly is itself a mark of character."
+      },
+      {
+        "id": "char_d37_q2",
+        "prompt": "What would you say to your friend directly, and what would you do if they refuse to ever tell their partner?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Tell them plainly that you're uncomfortable holding this, that you think their partner deserves to know and make their own choice, and give them a real but bounded amount of time to tell them themselves. If they refuse indefinitely, you may need to step back from being a close confidant to the partner about the relationship, or be honest with your friend that you can't keep operating as if you know nothing — without necessarily disclosing it yourself.",
+        "explanation": "You can honor a confidence without becoming complicit in it forever; setting a boundary on how long you'll carry it is itself a legitimate response."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "char_d38",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read the short scenario and identify which virtue is most clearly being demonstrated.",
+    "stimulusText": "Priya's proposal at work is rejected in favor of a colleague's simpler version. She spends ten minutes afterward asking her manager specific questions about why the other approach was stronger, and takes notes without arguing back.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d38_q1",
+        "prompt": "Which virtue is Priya most clearly demonstrating?",
+        "type": "multipleChoice",
+        "options": ["Open-mindedness", "Generosity", "Loyalty", "Boldness"],
+        "correctAnswer": "Open-mindedness",
+        "explanation": "She treats the rejection as information to learn from rather than a verdict to defend against, genuinely seeking to understand rather than to win."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "char_d39",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You notice a new employee at your company consistently being left out of lunch invitations and side conversations by your usual friend group, seemingly without malice, just habit. Inviting them means slightly disrupting the easy rhythm your group already has.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d39_q1",
+        "prompt": "What small, concrete action would kindness actually require here, distinct from just feeling bad about the situation?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Kindness requires actually inviting them by name to the next lunch, not just noting the exclusion and hoping someone else addresses it. A concrete action might be texting them directly the morning of, or introducing them to one other person in the group first so the invitation feels less exposed.",
+        "explanation": "Noticing an injustice and feeling sympathy for it isn't the same as acting on it — the virtue lives in the small, specific follow-through."
+      },
+      {
+        "id": "char_d39_q2",
+        "prompt": "Why might it be harder to include someone out of habit-based exclusion than out of active dislike, and what does that suggest about how to approach your friend group?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Habit-based exclusion is harder to interrupt precisely because no one intends harm, so there's no obvious moment to object to — it just requires someone to break a comfortable pattern for no dramatic reason. Approaching the group gently, by simply including the new person yourself rather than accusing anyone of excluding them, sidesteps defensiveness while still fixing the behavior.",
+        "explanation": "Most everyday unkindness is a failure of attention rather than intent, which means the fix is usually a quiet correction, not a confrontation."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "char_d40",
+    "disciplineId": "character",
+    "labCategory": "Character Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read the short scenario and identify which virtue is most clearly being demonstrated.",
+    "stimulusText": "After a heated disagreement where he was proven wrong in front of his team, Tomas messages the colleague he argued with: 'You were right and I was more attached to my idea than to getting this correct. Thanks for pushing back.'",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "char_d40_q1",
+        "prompt": "Which virtue is Tomas most clearly demonstrating?",
+        "type": "multipleChoice",
+        "options": ["Intellectual honesty", "Ambition", "Diplomacy", "Caution"],
+        "correctAnswer": "Intellectual honesty",
+        "explanation": "He names the actual reason he resisted (attachment to being right) rather than the more flattering explanation, which is the core of intellectual honesty."
+      }
+    ],
+    "estimatedMinutes": 2
+  }
+]

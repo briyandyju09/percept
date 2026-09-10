@@ -1,0 +1,172 @@
+[
+  {
+    "id": "rp_d11",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're interviewing a candidate for a project-management role. She's answered every question fluidly so far. When you ask about a six-month gap in her resume, she pauses noticeably longer than before, her voice drops slightly, and she gives a shorter answer than her usual style, then moves on quickly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d11_q1", "prompt": "What did you actually observe, described only in concrete, non-interpretive terms?", "type": "textInput", "correctAnswer": "A longer-than-usual pause, a drop in voice volume, and a shorter answer than her established pattern, all occurring specifically on the resume-gap question.", "explanation": "Naming the exact behavior and its exact trigger, without a cause attached yet, keeps the observation clean and reusable for whatever hypothesis comes next."},
+      {"id": "rp_d11_q2", "prompt": "Name one reasonable hypothesis and one equally plausible alternative explanation for this shift.", "type": "textInput", "correctAnswer": "Hypothesis: the gap involved something uncomfortable to discuss, like a layoff or a health issue. Alternative: she simply hadn't rehearsed an answer for this specific question the way she had for the expected ones, or the topic is sensitive but entirely unrelated to job performance, such as a family caregiving period.", "explanation": "Both explanations account for the same three observed shifts equally well; neither should be assumed without more information."},
+      {"id": "rp_d11_q3", "prompt": "How confident should a careful interviewer be that this hesitation reflects something disqualifying about the candidate, and what would a well-calibrated range look like?", "type": "textInput", "correctAnswer": "Very low confidence that it's disqualifying — a well-calibrated range would sit closer to 10-20 percent, since employment gaps have many ordinary explanations and hesitation alone says nothing about the reason behind it. The gap is worth a gentle, non-judgmental follow-up question, not a private conclusion.", "explanation": "A single hesitation on a sensitive topic is common and rarely disqualifying; confidence should reflect how weak this one cue actually is on its own."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d12",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're negotiating a contract renewal. When you name your target price, the other side leans back in their chair, folds their arms, and takes about four seconds before responding with a counteroffer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d12_q1", "prompt": "What are the concrete, observable facts here, stated without any interpretation of what they mean?", "type": "textInput", "correctAnswer": "A change in posture (leaning back, arms folded) and a roughly four-second pause occurred immediately after the price was named, followed by a counteroffer.", "explanation": "This describes exactly what happened and when, without yet claiming it means discomfort, calculation, or tactic."},
+      {"id": "rp_d12_q2", "prompt": "Offer one hypothesis about what this posture-and-pause combination might indicate, and one genuinely different alternative.", "type": "textInput", "correctAnswer": "Hypothesis: the price genuinely surprised them and they needed a moment to recalculate. Alternative: this is a rehearsed negotiating tactic meant to make the number look too high regardless of their actual assessment, or simply their habitual way of pausing before any counteroffer, unrelated to this specific number.", "explanation": "Negotiators often perform a reaction deliberately, so a felt-surprise hypothesis and a tactical or habitual alternative both deserve equal weight without more evidence."},
+      {"id": "rp_d12_q3", "prompt": "How confident should you be that this specific reaction reveals their true walk-away price, and what would a well-calibrated confidence range look like?", "type": "textInput", "correctAnswer": "Low confidence, likely in the 15-25 percent range, since a single reaction to a single number provides very little information about an internal limit that the other party has every incentive to obscure.", "explanation": "Treating one posture shift as a window into someone's real limit is a common negotiation mistake; real information comes from patterns across multiple exchanges, not one moment."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d13",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "At a farewell party, a departing coworker smiles at nearly everyone who approaches to say goodbye. With one particular close friend, her smile lasts a bit longer, the corners of her eyes crinkle noticeably, and she laughs before the friend even finishes a sentence.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d13_q1", "prompt": "What is the specific, observable difference between her general smiles and the smile with the close friend?", "type": "textInput", "correctAnswer": "The smile with the close friend lasted longer, involved visible eye-corner crinkling (consistent with the orbicularis oculi engagement often called a Duchenne marker), and was accompanied by laughter starting before the sentence finished.", "explanation": "This is purely descriptive — noting the eye involvement and timing without yet claiming what feeling produced them."},
+      {"id": "rp_d13_q2", "prompt": "What's a reasonable hypothesis about the difference in warmth here, and what's an honest alternative explanation?", "type": "textInput", "correctAnswer": "Hypothesis: she feels more genuine warmth or relief with this specific close friend than with more casual acquaintances at the party. Alternative: she is simply more relaxed and less socially effortful with someone she knows well, which could look like more warmth without necessarily being a bigger difference in underlying feeling — or the earlier laugh was in anticipation of a shared joke, not a reaction to this particular sentence.", "explanation": "More visible ease can reflect genuine closeness, but it can also just reflect lower social effort with a familiar person rather than a larger felt-emotion gap."},
+      {"id": "rp_d13_q3", "prompt": "How confident can you be that the eye-crinkle marker here proves deeper genuine feeling toward this one friend specifically, and what confidence range is appropriate?", "type": "textInput", "correctAnswer": "Moderate at best, roughly 40-55 percent — the marker is a real, documented pattern associated with felt positive emotion, but it isn't proof for any single instance, and other smiles at the party not showing the marker weren't necessarily less genuine underneath.", "explanation": "The Duchenne marker is a genuine research finding with real limitations: it can be produced voluntarily by some people, and its absence doesn't prove an absence of feeling."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d14",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Each scenario describes someone reasoning from a single nonverbal cue. Identify what's wrong with the reasoning.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d14_q1", "prompt": "\"He crossed his arms the moment I brought up the budget, so he must be defensive and closed off to the idea.\" What's the core error in this reasoning?", "type": "multipleChoice", "options": ["Treating one gesture with many possible causes (including simply being cold or comfortable) as a confirmed emotional state", "Correctly identifying a universal signal of defensiveness", "Failing to notice the gesture at all", "Overestimating how long the conversation lasted"], "correctAnswer": "Treating one gesture with many possible causes (including simply being cold or comfortable) as a confirmed emotional state", "explanation": "Crossed arms have no single reliable meaning — comfort, cold, habit, and defensiveness can all produce the same posture, so treating it as confirmed defensiveness skips the alternative-explanation step entirely."},
+      {"id": "rp_d14_q2", "prompt": "A manager says, \"She won't make eye contact with me during reviews, so she must be hiding something.\" What is the strongest single-cue mistake here?", "type": "multipleChoice", "options": ["Assuming a universal meaning for a behavior that varies by culture, personality, and individual discomfort with authority", "Correctly applying a well-validated universal cue for deception", "Failing to notice the behavior consistently", "Overweighting vocal cues instead of visual ones"], "correctAnswer": "Assuming a universal meaning for a behavior that varies by culture, personality, and individual discomfort with authority", "explanation": "Eye contact norms vary enormously by culture and by individual comfort with authority figures; gaze avoidance has not held up in controlled research as a reliable deception marker."},
+      {"id": "rp_d14_q3", "prompt": "\"His voice got higher-pitched when I asked about the missing inventory — that proves he's lying.\" Why is this conclusion unsound?", "type": "multipleChoice", "options": ["Vocal pitch rise reflects general arousal, which has many causes besides lying, so it can't prove deception on its own", "Pitch never changes under stress, so the observation itself must be wrong", "Voice stress is only relevant on recorded calls, not live conversation", "This is actually a valid and fully proven method for detecting lies"], "correctAnswer": "Vocal pitch rise reflects general arousal, which has many causes besides lying, so it can't prove deception on its own", "explanation": "Pitch changes track physiological arousal, which accompanies fear, embarrassment, frustration, and innocent anxiety just as readily as it accompanies deception — the leap from arousal to lying is unsupported."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d15",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "During a casual catch-up call, a friend has been speaking in a relaxed, even tone. When you ask what they did over the weekend, their pitch rises noticeably and they speak faster for a few sentences before returning to their normal tone.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d15_q1", "prompt": "Describe exactly what changed vocally, and exactly when, without guessing why yet.", "type": "textInput", "correctAnswer": "Pitch rose and speaking pace increased for a few sentences specifically in response to the weekend question, then returned to the earlier relaxed baseline.", "explanation": "Anchoring the shift to the specific question and noting that it was temporary (not a lasting change) are both useful, purely descriptive details."},
+      {"id": "rp_d15_q2", "prompt": "What's one hypothesis for this vocal shift, and one honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: something about the weekend was emotionally significant, positive or negative, and talking about it produced real arousal. Alternative: they simply have something exciting to share and the pitch rise reflects enthusiasm rather than concealment, or they're recalling details quickly and speech naturally sped up while retrieving them.", "explanation": "A rise in arousal-linked vocal markers is compatible with excitement, discomfort, or simply active recall — all very different internal states producing the same surface pattern."},
+      {"id": "rp_d15_q3", "prompt": "How confident should you be that this shift signals something being hidden about the weekend, and what's a reasonable confidence range?", "type": "textInput", "correctAnswer": "Low, around 10-20 percent, since a temporary pitch and pace change is common whenever a topic carries some emotional charge, and most such topics are ordinary rather than concealed.", "explanation": "The base rate of innocent explanations for a brief vocal shift is high; treating it as concealment by default would produce far more false positives than accurate reads."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d16",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're greeting a new international business partner. During the handshake and introduction, he keeps his gaze lowered rather than meeting your eyes directly, and he stands a bit farther back than you expected during the conversation that follows.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d16_q1", "prompt": "What did you observe, described only in behavioral terms without a cultural or emotional interpretation yet?", "type": "textInput", "correctAnswer": "Lowered gaze during the handshake and greeting, and a greater-than-expected conversational distance maintained throughout the exchange.", "explanation": "This states the behavior without yet assuming it means disrespect, discomfort, or anything else — the necessary first step before considering cultural context."},
+      {"id": "rp_d16_q2", "prompt": "What's a hypothesis rooted in your own cultural expectations, and what's an alternative rooted in the possibility of a different display-rule background?", "type": "textInput", "correctAnswer": "Hypothesis (culturally-biased default): he seems disengaged or uncomfortable with the meeting. Alternative: in his cultural or professional background, lowered gaze toward a new acquaintance and a larger conversational distance may signal respect and professionalism rather than discomfort, and reading it as disengagement would be applying the wrong rulebook.", "explanation": "Comfortable eye contact distance and gaze norms are documented to vary substantially across cultures (see Edward Hall's proxemics research); a behavior read as cold in one norm set can be entirely respectful in another."},
+      {"id": "rp_d16_q3", "prompt": "How confident should you be that this behavior reflects disengagement rather than a different cultural norm, and what's a well-calibrated range?", "type": "textInput", "correctAnswer": "Very low, likely under 20 percent, specifically because you are reading someone outside your own cultural frame — confidence should drop, not stay neutral, whenever a shared baseline can't be assumed.", "explanation": "Cross-cultural readings carry extra uncertainty by default; the appropriate response is holding the interpretation loosely and, where relevant, asking rather than assuming."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d17",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Test your understanding of what deception research actually shows.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d17_q1", "prompt": "Across a large body of controlled research summarizing tens of thousands of judgments, average human accuracy at distinguishing truths from lies from demeanor alone is closest to which figure?", "type": "multipleChoice", "options": ["About 54 percent, barely above chance", "About 85 percent", "About 95 percent for trained professionals", "About 30 percent, meaningfully worse than chance"], "correctAnswer": "About 54 percent, barely above chance", "explanation": "This figure comes from meta-analytic work (notably by Bond and DePaulo) summarizing a large number of studies, and it holds up strikingly consistently across many different tested populations."},
+      {"id": "rp_d17_q2", "prompt": "In studies comparing professionals with job-relevant experience (police, customs officers, judges) against untrained members of the public on lie-detection tasks, what's the most accurate summary of the findings?", "type": "multipleChoice", "options": ["Most professional groups perform close to the same low accuracy as untrained people, despite reporting higher confidence", "Professionals consistently outperform untrained people by a wide margin", "Untrained people consistently outperform professionals", "Experience reliably predicts accuracy in direct proportion to years on the job"], "correctAnswer": "Most professional groups perform close to the same low accuracy as untrained people, despite reporting higher confidence", "explanation": "This is one of the most replicated and important findings in the field: professional experience correlates much more strongly with confidence than with actual accuracy."},
+      {"id": "rp_d17_q3", "prompt": "Why have many popular 'tell' checklists (avoiding eye contact, touching the face, crossed arms) failed to reliably predict deception in controlled studies?", "type": "multipleChoice", "options": ["Because lying is not one uniform psychological state, and different people under different pressures produce different or no distinctive behavior", "Because researchers have never actually tested these specific cues", "Because these cues only fail in laboratory settings but work reliably in the real world", "Because deception is impossible to study ethically"], "correctAnswer": "Because lying is not one uniform psychological state, and different people under different pressures produce different or no distinctive behavior", "explanation": "A habitual liar, someone lying under acute duress, and someone lying to spare another person's feelings can look completely different from each other, which undermines any single universal checklist."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d18",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're at a concert when the sound system cuts out mid-song. Within a few seconds, a low murmur spreads through the crowd, a scattering of people near the front start looking at their phones, and a few near you start chanting rhythmically to fill the silence.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d18_q1", "prompt": "What are the concrete, aggregate-level observations here, without yet naming an overall crowd 'mood'?", "type": "textInput", "correctAnswer": "A rising murmur of conversation, phone-checking concentrated near the front, and rhythmic chanting starting among a nearby subgroup, all beginning within seconds of the sound cutting out.", "explanation": "Different parts of the crowd are doing different things simultaneously, which is itself worth noting rather than collapsing into one single mood label too early."},
+      {"id": "rp_d18_q2", "prompt": "What's one hypothesis about the crowd's overall state, and one honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: the crowd is growing impatient and mildly frustrated by the delay. Alternative: this is a fairly typical, low-stakes technical pause that the crowd is filling with normal chatter and playful chanting rather than genuine frustration, and the phone-checking may just be people passing time rather than a sign of anyone wanting to leave.", "explanation": "Rising noise and phone use during a pause are also fully consistent with a relaxed, unbothered crowd simply occupying a break, not necessarily frustration building toward anything."},
+      {"id": "rp_d18_q3", "prompt": "How confident should you be, from this alone, that the crowd is turning negative toward the show, and what's a well-calibrated range?", "type": "textInput", "correctAnswer": "Low to moderate, roughly 20-35 percent, since brief technical pauses at concerts are common and mixed reactions (some impatience, some playful filling of the gap) are the normal pattern rather than a reliable sign of a souring mood.", "explanation": "A short pause producing a range of behaviors, some more positive than others, is ordinary; treating it as a clear negative signal would be overreading a routine moment."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d19",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "During school picture day, a seven-year-old fidgets in line, avoids the photographer's eye contact, and gives one-word answers when asked if he's excited.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d19_q1", "prompt": "What is observable here, described without assuming an emotional cause yet?", "type": "textInput", "correctAnswer": "Fidgeting while waiting in line, reduced eye contact with an unfamiliar adult (the photographer), and short, one-word verbal responses to a direct question.", "explanation": "These are the raw behaviors; the next step is generating hypotheses appropriate to a seven-year-old's developmental stage rather than an adult's."},
+      {"id": "rp_d19_q2", "prompt": "What's a hypothesis about this child's state, and what's an equally plausible, age-appropriate alternative?", "type": "textInput", "correctAnswer": "Hypothesis: he's shy or uncomfortable around the unfamiliar photographer. Alternative: this behavior is simply typical of many seven-year-olds waiting in a long, unstimulating line, driven by boredom or restlessness rather than any discomfort with being photographed specifically, and one-word answers to adults are common at this age regardless of mood.", "explanation": "Fidgeting and short answers are close to baseline behavior for many children this age in a waiting-line context, not necessarily evidence of distress about the specific event."},
+      {"id": "rp_d19_q3", "prompt": "How confident should an adult be that this reflects genuine distress about picture day specifically, and what's a reasonable confidence range?", "type": "textInput", "correctAnswer": "Low, around 15-25 percent, since these behaviors overlap heavily with ordinary age-typical restlessness and shyness around unfamiliar adults, which are far more common explanations than genuine distress.", "explanation": "Applying an adult-calibrated 'discomfort' reading to a child without accounting for age-typical baseline behavior is a common source of overreading."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d20",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "On a video call, you ask a colleague an important question about a project timeline. Right as you finish speaking, his video freezes for about three seconds before catching up, and by the time it does, he's already answering with a slight delay.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d20_q1", "prompt": "What exactly happened here, described in terms of the technical event and the timing, without assuming anything about his engagement yet?", "type": "textInput", "correctAnswer": "His video froze for about three seconds immediately after the question was asked, and his verbal answer arrived with a slight delay relative to when you finished speaking.", "explanation": "Freezing and delay are being described as events in the call, not yet interpreted as avoidance or hesitation on his part."},
+      {"id": "rp_d20_q2", "prompt": "What's a hypothesis that assumes this reflects something about him, and an alternative that assumes it reflects the medium instead?", "type": "textInput", "correctAnswer": "Hypothesis: he hesitated briefly before answering an important or uncomfortable question. Alternative: this is a routine connectivity artifact — the freeze and delay are consistent with normal video-call lag and say nothing about his internal state at all.", "explanation": "Video calls introduce technical artifacts that can closely mimic behavioral hesitation; the alternative here is at least as likely as the behavioral hypothesis without more information, such as whether his answer content itself sounded uncertain."},
+      {"id": "rp_d20_q3", "prompt": "How confident should you be that this moment reflects genuine hesitation about the timeline question, and what's a well-calibrated confidence range?", "type": "textInput", "correctAnswer": "Low, roughly 15-25 percent, since a freeze-then-delay pattern is extremely common on video calls for purely technical reasons, and a well-calibrated reader should always keep 'this could just be the connection' as a live, high-weight alternative on video specifically.", "explanation": "Video call artifacts frequently produce patterns that look like hesitation or avoidance; confidence in a behavioral read should be discounted specifically because of the medium."}
+    ],
+    "estimatedMinutes": 4
+  }
+]

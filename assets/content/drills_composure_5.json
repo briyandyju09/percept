@@ -1,0 +1,430 @@
+[
+  {
+    "id": "comp_d35",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 3,
+    "prompt": "Box breathing, extended count: the same four-part rhythm as basic box breathing, stretched to a slower count of 5 for a deeper reset.",
+    "stimulusText": "Inhale through your nose for a count of 5. Hold gently for a count of 5. Exhale through your mouth for a count of 5. Hold at the bottom, lungs empty, for a count of 5. Repeat this slower box pattern for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 140,
+    "questions": [
+      {
+        "id": "comp_d35_q1",
+        "prompt": "Did the extra second per phase change how demanding the pattern felt compared to a standard 4-count box breath, particularly during the holds?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest comparison — the holds are usually where the extra second is felt most, since sitting with empty or full lungs a beat longer tends to be more noticeable than a slightly longer inhale or exhale.",
+        "explanation": "Lengthening each phase of box breathing increases the demand on breath control, which is why it's often introduced only after the standard 4-count version feels comfortable."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d36",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 2,
+    "prompt": "Rapid fire: true or false, on de-escalation tactics.",
+    "stimulusText": "Judge each claim about de-escalating a tense interaction quickly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d36_q1",
+        "prompt": "Lowering your own voice volume when someone else is shouting can sometimes cause them to unconsciously lower theirs too.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "People often unconsciously mirror the volume and pace of the person they're talking to, so a calmer, quieter voice can pull the whole exchange down with it."
+      },
+      {
+        "id": "comp_d36_q2",
+        "prompt": "Standing directly in someone's personal space is generally an effective way to de-escalate their anger.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Closing personal space tends to feel confrontational and can heighten a person's sense of threat, which usually raises tension rather than lowering it."
+      },
+      {
+        "id": "comp_d36_q3",
+        "prompt": "Reflecting back what someone said in your own words, like 'so you're saying...', before responding is a recognized de-escalation technique.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Reflective listening signals that the person has actually been heard, which reduces the need to escalate further to get a point across."
+      },
+      {
+        "id": "comp_d36_q4",
+        "prompt": "Interrupting someone mid-rant to correct a factual error is generally the fastest way to calm them down.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Interrupting someone who's still venting usually adds fuel rather than resolving anything; letting them finish first tends to work better."
+      },
+      {
+        "id": "comp_d36_q5",
+        "prompt": "Open, relaxed body language, like uncrossed arms and visible hands, tends to read as less threatening than a rigid, closed stance.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Open posture signals non-threat at a level most people register instinctively, which can lower a tense person's own guardedness in turn."
+      },
+      {
+        "id": "comp_d36_q6",
+        "prompt": "De-escalation requires agreeing with everything the other person says, even claims you know are false.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "De-escalation is about tone and pacing, not about abandoning the facts — you can acknowledge someone's emotion while still disagreeing with their claims."
+      },
+      {
+        "id": "comp_d36_q7",
+        "prompt": "Giving someone space to finish venting before you speak is a common and effective de-escalation step.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Letting the initial burst of emotion run its course before responding often leaves a person more receptive to what you say next."
+      },
+      {
+        "id": "comp_d36_q8",
+        "prompt": "A flat, monotone voice is generally the most effective tone for de-escalating a highly emotional person.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "A tone that's calm but still warm tends to work better than a flat, robotic one, which can read as dismissive rather than steadying."
+      },
+      {
+        "id": "comp_d36_q9",
+        "prompt": "Acknowledging a person's underlying emotion, even if you disagree with their conclusion, can lower defensiveness.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Separating 'I hear that you're frustrated' from 'I agree with your conclusion' lets you validate the feeling without conceding the point, which often reduces defensiveness on both sides."
+      },
+      {
+        "id": "comp_d36_q10",
+        "prompt": "De-escalation techniques are really only useful for professionals like police or crisis counselors, not everyday conflicts.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "The same basic principles — pacing, tone, reflective listening, giving space — apply just as much to a tense dinner conversation as to a professional crisis situation."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "comp_d37",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write through how you'd actually respond.",
+    "stimulusText": "Partway through a quiet dinner, your partner brings up an old resentment you thought had been resolved, and their voice starts to shake with frustration as they speak.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d37_q1",
+        "prompt": "What would you say in the first minute, and what would you deliberately hold back even if it's true?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A composed response might start by setting down your fork, giving full attention, and saying something like 'I didn't realize this was still sitting with you — tell me more.' What you'd hold back is any defensive tally of your own grievances or a dismissive 'I thought we were past this,' which would shut the conversation down rather than open it.",
+        "explanation": "A shaking voice usually signals real vulnerability rather than an attack; meeting it with full attention rather than defensiveness tends to keep the conversation from escalating into a bigger fight."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d38",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 1,
+    "prompt": "Cyclic sighing: a short, structured set of double-inhale physiological sighs, repeated deliberately rather than done just once.",
+    "stimulusText": "Take a deep inhale through your nose. Before exhaling, sip in one more short extra inhale on top of it to fully top off your lungs. Then exhale slowly and completely through your mouth. Repeat this double-inhale, long-exhale cycle five to eight times across the full timer, pacing yourself rather than rushing.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 60,
+    "questions": [
+      {
+        "id": "comp_d38_q1",
+        "prompt": "How many cycles did you actually get through in the timer, and did the later cycles feel different from the first one or two?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest count and comparison — later cycles often feel smoother and less effortful than the first one or two, as the double-inhale motion becomes familiar.",
+        "explanation": "A controlled study on brief structured breathing practices found this repeated double-inhale, long-exhale pattern, done deliberately in a short set, was especially effective at improving mood and lowering physiological arousal compared with some other daily practices tested."
+      }
+    ],
+    "estimatedMinutes": 1
+  },
+  {
+    "id": "comp_d39",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 5,
+    "prompt": "Rapid fire: harder judgment calls on what composure actually is and isn't.",
+    "stimulusText": "Judge each claim or scenario quickly — some of these are more nuanced than they first appear.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d39_q1",
+        "prompt": "In a genuine emergency, taking time to breathe and think before acting is always the correct priority over immediate action.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure is contextual — in a true emergency requiring immediate physical action, hesitation can be costly; composure there looks like fast, clear-headed action, not a deliberate pause."
+      },
+      {
+        "id": "comp_d39_q2",
+        "prompt": "Composure and passivity are the same thing.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure is compatible with firm, even assertive action — it describes how you carry yourself while acting, not whether you act at all."
+      },
+      {
+        "id": "comp_d39_q3",
+        "prompt": "A composed person never feels anger — they've simply eliminated the emotion entirely.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Composure involves feeling an emotion like anger and still choosing a measured response, not having no emotional reaction at all."
+      },
+      {
+        "id": "comp_d39_q4",
+        "prompt": "You're falsely accused of something serious in front of people whose opinion matters to you. Most composed first move?",
+        "type": "multipleChoice",
+        "options": [
+          "Deny loudly and repeatedly until they believe you",
+          "State the facts calmly and ask what evidence led to the accusation",
+          "Say nothing and walk away immediately",
+          "Match their accusatory tone back at them"
+        ],
+        "correctAnswer": "State the facts calmly and ask what evidence led to the accusation",
+        "explanation": "Calmly asking about the evidence both grounds the conversation in facts and often reveals a misunderstanding that loud denial alone wouldn't surface."
+      },
+      {
+        "id": "comp_d39_q5",
+        "prompt": "Genuine composure sometimes still includes a visible, appropriate expression of anger or frustration, just a controlled one.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "A measured, deliberate expression of frustration is still composure — the distinction is control and intent, not the total absence of visible emotion."
+      },
+      {
+        "id": "comp_d39_q6",
+        "prompt": "Mid-negotiation, the other party makes a personal jab clearly meant to throw you off. Most composed response?",
+        "type": "multipleChoice",
+        "options": [
+          "Return an equally personal jab",
+          "Let the jab pass without engaging it and redirect to the substance of the negotiation",
+          "End the negotiation immediately",
+          "Go silent for the rest of the meeting"
+        ],
+        "correctAnswer": "Let the jab pass without engaging it and redirect to the substance of the negotiation",
+        "explanation": "Personal jabs in a negotiation are often designed to derail you; declining to engage and steering back to substance removes the payoff for the tactic."
+      },
+      {
+        "id": "comp_d39_q7",
+        "prompt": "Suppressing an emotion by pushing it down without processing it is functionally the same thing as composure.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Suppression without processing is linked to higher internal physiological stress even when it looks calm; composure involves acknowledging the feeling, not just hiding it."
+      },
+      {
+        "id": "comp_d39_q8",
+        "prompt": "It's possible to be visibly calm on the outside while your body is still highly physiologically activated on the inside.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Outward calm and internal arousal can diverge — a racing heart and elevated cortisol can sit underneath a steady voice and still face."
+      },
+      {
+        "id": "comp_d39_q9",
+        "prompt": "You realize mid-meeting that a decision you championed publicly was actually wrong. Most composed move?",
+        "type": "multipleChoice",
+        "options": [
+          "Defend it anyway to avoid looking bad",
+          "Acknowledge the new information plainly and say you'd revise your view",
+          "Blame whoever gave you the original information",
+          "Stay silent and let someone else catch the error later"
+        ],
+        "correctAnswer": "Acknowledge the new information plainly and say you'd revise your view",
+        "explanation": "Plainly revising a view in light of new information generally reads as more credible over time than defending a position you privately know is wrong."
+      },
+      {
+        "id": "comp_d39_q10",
+        "prompt": "A single lapse in composure during an otherwise measured conversation generally undoes all the credibility built up before it.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "A single lapse is usually weighed against the broader pattern of how someone typically handles themselves, not treated as erasing everything that came before it."
+      },
+      {
+        "id": "comp_d39_q11",
+        "prompt": "Composure under real pressure is a skill that improves with deliberate practice, not just a fixed trait some people have and others don't.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Like most regulation skills, composure responds to deliberate practice — rehearsing pauses, breathing techniques, and measured responses under lower-stakes pressure builds capacity for higher-stakes moments."
+      },
+      {
+        "id": "comp_d39_q12",
+        "prompt": "Someone you respect delivers harsh criticism of your work in front of others. Most composed immediate reaction?",
+        "type": "multipleChoice",
+        "options": [
+          "Argue point by point on the spot to defend every detail",
+          "Thank them for the specific points, note you'll think it over, and follow up later once you've processed it",
+          "Visibly shut down and stop participating",
+          "Publicly criticize their work in return"
+        ],
+        "correctAnswer": "Thank them for the specific points, note you'll think it over, and follow up later once you've processed it",
+        "explanation": "Taking the criticism in without an immediate point-by-point defense gives you room to actually evaluate it, and a later follow-up conversation is usually more productive than an on-the-spot argument."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "comp_d40",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then write through your composed response in real time.",
+    "stimulusText": "Midway through an important talk, someone in the audience begins loudly interrupting and heckling, clearly trying to throw you off in front of everyone else in the room.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d40_q1",
+        "prompt": "What would you say directly to the heckler, if anything, and how would you handle the rest of the room while doing it?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "A composed response might briefly and calmly acknowledge the interruption once ('I want to get through this point, and I'm happy to take your question after'), set a clear boundary without matching their energy, and then deliberately return attention to the rest of the room rather than getting drawn into a back-and-forth with just the heckler.",
+        "explanation": "Hecklers are often specifically looking for a reaction; a brief, calm boundary followed by a return to the material removes most of the incentive to continue, while a prolonged argument gives them exactly the stage they wanted."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "comp_d41",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "breathingTimer",
+    "difficulty": 2,
+    "prompt": "Extended exhale breathing, gentler ratio: inhaling for a count of 5 and exhaling for a count of 7, a milder version of the extended-exhale pattern for when a steeper 1:2 ratio feels like too much.",
+    "stimulusText": "Inhale through your nose for a count of 5. Exhale slowly through your nose or slightly parted lips for a count of 7, letting the breath trail out evenly. Repeat this gentler ratio for the full timer.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 100,
+    "questions": [
+      {
+        "id": "comp_d41_q1",
+        "prompt": "Compared to a steeper extended-exhale ratio, did this milder 5:7 pace feel easier to sustain without straining?",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "Any honest comparison — the milder ratio is generally easier to sustain for longer periods without running out of breath or feeling rushed, which is exactly why it's a useful stepping stone toward steeper ratios.",
+        "explanation": "The exact ratio matters less than simply keeping the exhale meaningfully longer than the inhale; a gentler ratio still activates the same calming mechanism while being easier to sustain."
+      }
+    ],
+    "estimatedMinutes": 2
+  },
+  {
+    "id": "comp_d42",
+    "disciplineId": "composure",
+    "labCategory": "Composure Lab",
+    "type": "timedPressure",
+    "difficulty": 2,
+    "prompt": "Rapid fire: true or false, on the physiology of the stress response.",
+    "stimulusText": "Judge each factual claim about the body's stress response quickly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "comp_d42_q1",
+        "prompt": "Cortisol and adrenaline are both released as part of the body's acute stress response.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Adrenaline drives the fast, immediate physical changes, while cortisol supports a longer, more sustained mobilization of energy during and after a stressful event."
+      },
+      {
+        "id": "comp_d42_q2",
+        "prompt": "Heart rate variability tends to be higher, meaning more variable beat-to-beat timing, in calmer, more regulated states.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Higher heart rate variability reflects a nervous system flexibly shifting between activation and calm, which is associated with better regulated, less chronically stressed states."
+      },
+      {
+        "id": "comp_d42_q3",
+        "prompt": "The vagus nerve plays no meaningful role in the body's ability to calm down after stress.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "The vagus nerve is the primary pathway of the parasympathetic 'rest and digest' system and is central to how the body downshifts out of a stress response."
+      },
+      {
+        "id": "comp_d42_q4",
+        "prompt": "Under acute stress, blood flow is generally redirected away from digestion and toward large muscle groups.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "This redirection supports the classic fight-or-flight response, prioritizing the muscles needed to act over digestive processes that can wait."
+      },
+      {
+        "id": "comp_d42_q5",
+        "prompt": "The acute physiological arousal of a stress response, like elevated heart rate and quick breathing, can begin settling within minutes once the trigger passes, even though hormone levels take longer to fully normalize.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Heart rate and breathing can start coming down fairly quickly once the immediate trigger is gone, while circulating stress hormones like cortisol typically take longer to fully clear."
+      },
+      {
+        "id": "comp_d42_q6",
+        "prompt": "Chronic activation of the stress response, without adequate recovery, is linked to a range of negative health outcomes.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Sustained, poorly recovered stress activation is associated with elevated risk across cardiovascular, immune, and metabolic systems, among others."
+      },
+      {
+        "id": "comp_d42_q7",
+        "prompt": "The stress response is controlled entirely by conscious, voluntary decision-making rather than the autonomic nervous system.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "The stress response is largely automatic and governed by the autonomic nervous system, which is part of why it can feel hard to simply 'decide' your way out of it."
+      },
+      {
+        "id": "comp_d42_q8",
+        "prompt": "Slow, deliberate breathing is one of the few ways to consciously influence the otherwise largely involuntary autonomic nervous system.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Breathing is unusual in that it runs automatically but can also be taken over voluntarily, making it one of the most direct manual levers into the autonomic system."
+      },
+      {
+        "id": "comp_d42_q9",
+        "prompt": "Once your heart rate has spiked from stress, there's no reliable way to bring it back down faster than just waiting it out passively.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Techniques like extended-exhale breathing and physiological sighs have measurable effects on bringing heart rate and arousal down faster than passive waiting alone."
+      },
+      {
+        "id": "comp_d42_q10",
+        "prompt": "The same physiological stress response that evolved to handle physical threats also activates for purely psychological or social threats.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "A hostile email and a physical threat can trigger largely the same fight-or-flight machinery, even though only one involves any actual physical danger."
+      }
+    ],
+    "estimatedMinutes": 3
+  }
+]

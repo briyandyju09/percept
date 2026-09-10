@@ -1,0 +1,80 @@
+[
+  {
+    "id": "case6",
+    "caseNumber": 6,
+    "title": "The Vanished Codicil",
+    "briefing": "The family has gathered at Franklin Voss's law office for the reading of Edmund Hail's will, but the codicil Edmund signed weeks before his death — the one redistributing the estate — is missing from the home safe, replaced by an old unsigned draft. Two children stand to gain if it never surfaces. You've been asked to sit in on the family's accounts before anyone calls this a crime.",
+    "characters": [
+      {
+        "id": "case6_lawyer",
+        "name": "Franklin Voss",
+        "role": "The Family Lawyer",
+        "portraitEmoji": "⚖️",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case6_lawyer_q1", "characterId": "case6_lawyer", "prompt": "Was there ever more than one copy of the codicil?", "responseText": "Yes — standard practice for anything over a certain value. My office scanned and filed a certified copy off-site the same week Edmund signed it. Destroying the original wouldn't undo it legally.", "flags": ["contradiction"]},
+          {"id": "case6_lawyer_q2", "characterId": "case6_lawyer", "prompt": "What did the codicil actually say?", "responseText": "It left sixty percent of the estate to Ilsa, with the remainder split between Renata and Callum, favoring Renata slightly. A significant departure from the original will.", "flags": ["reveals_motive"]},
+          {"id": "case6_lawyer_q3", "characterId": "case6_lawyer", "prompt": "Did Edmund seem pressured when he signed it?", "responseText": "Not at all. He was quite firm about it — said Ilsa had cared for him for eleven years and his children had 'made their own way.'", "flags": []},
+          {"id": "case6_lawyer_q4", "characterId": "case6_lawyer", "prompt": "Who knew about the codicil's contents before tonight?", "responseText": "Only myself and Edmund, by design. I didn't even tell my own assistant the specifics.", "flags": []}
+        ]
+      },
+      {
+        "id": "case6_stepson",
+        "name": "Callum Hail",
+        "role": "The Stepson",
+        "portraitEmoji": "🕴️",
+        "isGuilty": true,
+        "dialogueTree": [
+          {"id": "case6_stepson_q1", "characterId": "case6_stepson", "prompt": "Where were you the night before the reading?", "responseText": "Asleep at home the whole night, alone. I had an early morning the next day.", "flags": ["contradiction"]},
+          {"id": "case6_stepson_q2", "characterId": "case6_stepson", "prompt": "Did you know the safe's combination?", "responseText": "I installed that safe myself as a gift years ago, so yes, obviously I know the code. So does anyone who watched Edmund closely, I suppose.", "flags": ["reveals_motive"]},
+          {"id": "case6_stepson_q3", "characterId": "case6_stepson", "prompt": "How do you feel about Ilsa being included in the will?", "responseText": "She's been paid a salary for eleven years. A codicil like that isn't gratitude, it's a rewrite of the family.", "flags": ["reveals_motive"]},
+          {"id": "case6_stepson_q4", "characterId": "case6_stepson", "prompt": "Your toll transponder shows your car left the estate at 1am and returned at 2:15am that night. Care to explain?", "responseText": "...Fine. I drove home for a document I thought I needed. It has nothing to do with any codicil.", "flags": ["contradiction"]}
+        ]
+      },
+      {
+        "id": "case6_daughter",
+        "name": "Renata Hail",
+        "role": "The Daughter",
+        "portraitEmoji": "👩",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case6_daughter_q1", "characterId": "case6_daughter", "prompt": "You're the estate's executor — did you have safe access?", "responseText": "Yes, Edmund had me help him organize the safe's contents just last week. My fingerprints are all over it, and I'm not ashamed of that.", "flags": ["red_herring"]},
+          {"id": "case6_daughter_q2", "characterId": "case6_daughter", "prompt": "How do you feel about the codicil, now that you know its contents?", "responseText": "Relieved, honestly. I thought I'd lose everything to Ilsa. Twenty-five percent and my father's peace of mind is more than fair.", "flags": ["contradiction"]},
+          {"id": "case6_daughter_q3", "characterId": "case6_daughter", "prompt": "Did you speak to Callum that night?", "responseText": "Briefly, around midnight. He seemed anxious, kept checking his phone. I assumed it was work.", "flags": ["challenges:case6_stepson"]},
+          {"id": "case6_daughter_q4", "characterId": "case6_daughter", "prompt": "Were you surprised by Ilsa's share?", "responseText": "A little, but not shocked. She practically raised me after my mother passed. It makes a strange kind of sense.", "flags": []}
+        ]
+      },
+      {
+        "id": "case6_caretaker",
+        "name": "Ilsa Novak",
+        "role": "The Caretaker",
+        "portraitEmoji": "🧹",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case6_caretaker_q1", "characterId": "case6_caretaker", "prompt": "Did you know about the codicil before tonight?", "responseText": "No, not the specifics. Edmund told me only that he'd 'taken care of things,' which frankly worried me more than it comforted me.", "flags": []},
+          {"id": "case6_caretaker_q2", "characterId": "case6_caretaker", "prompt": "Where were you the night before the reading?", "responseText": "In my quarters on the property, same as always. I heard a car in the drive late, but didn't think much of it — the family comes and goes.", "flags": ["contradiction"]},
+          {"id": "case6_caretaker_q3", "characterId": "case6_caretaker", "prompt": "Would you have benefited from destroying the codicil?", "responseText": "Not at all — I'd lose everything. Whoever did this certainly wasn't protecting my interests.", "flags": []},
+          {"id": "case6_caretaker_q4", "characterId": "case6_caretaker", "prompt": "How long did you care for Edmund?", "responseText": "Eleven years, since his first stroke. I was there for the small moments nobody else had time for.", "flags": ["reveals_motive"]}
+        ]
+      }
+    ],
+    "evidence": [
+      {"id": "case6_ev01", "title": "The Certified Off-Site Copy", "description": "The lawyer's office confirms a certified scanned copy of the codicil was filed off-site the week it was signed, legally valid even without the original.", "subtle": false, "contradicts": [], "supportsCharacterId": null},
+      {"id": "case6_ev02", "title": "Fireplace Ash with Blue Ink", "description": "Burnt paper fragments recovered from the study fireplace show traces of blue fountain-pen ink consistent with Edmund's handwriting, on paper stock matching the lawyer's stationery.", "subtle": true, "contradicts": [], "supportsCharacterId": "case6_stepson"},
+      {"id": "case6_ev03", "title": "The Replaced Document", "description": "The paper found in the safe where the codicil should have been is an earlier, unsigned draft of the will, not the final codicil Edmund actually signed.", "subtle": false, "contradicts": [], "supportsCharacterId": null},
+      {"id": "case6_ev04", "title": "Safe Installation Records", "description": "Receipts show Callum personally purchased and installed the study safe six years ago, and only two people ever knew its combination: Edmund and Callum.", "subtle": false, "contradicts": [], "supportsCharacterId": "case6_stepson"},
+      {"id": "case6_ev05", "title": "Toll Transponder Log", "description": "Callum's car left the estate at 1:04am and returned at 2:15am the night before the reading, despite his claim he was asleep at home all night.", "subtle": false, "contradicts": ["case6_ev09"], "supportsCharacterId": "case6_stepson"},
+      {"id": "case6_ev06", "title": "Renata's Safe Access Note", "description": "A dated note in Edmund's own hand asks Renata to help him 'sort the safe' the week before he died, explaining her fingerprints on the mechanism.", "subtle": true, "contradicts": [], "supportsCharacterId": "case6_daughter"},
+      {"id": "case6_ev07", "title": "Ilsa's Overheard Car", "description": "Ilsa recalls hearing a car in the drive after midnight, consistent with the toll log's timing of Callum's departure and return.", "subtle": false, "contradicts": [], "supportsCharacterId": "case6_stepson"},
+      {"id": "case6_ev08", "title": "Codicil Content Summary", "description": "The certified copy reveals the codicil left sixty percent to Ilsa, twenty-five to Renata, and fifteen to Callum, down from the even forty-five percent split he expected under the old will.", "subtle": false, "contradicts": [], "supportsCharacterId": "case6_stepson"},
+      {"id": "case6_ev09", "title": "Callum's Written Statement", "description": "Callum's signed statement to the lawyer claims he 'never left the house' the night before the reading.", "subtle": false, "contradicts": ["case6_ev05"], "supportsCharacterId": null}
+    ],
+    "solution": {
+      "correctCulpritId": "case6_stepson",
+      "keyEvidenceIds": ["case6_ev01", "case6_ev02", "case6_ev05", "case6_ev08"],
+      "explanation": "Facing a codicil that would slash his inheritance from an even forty-five percent to just fifteen, Callum used his knowledge of the safe he had installed years earlier to swap Edmund's signed codicil for an old unsigned draft, then burned the original in the study fireplace — ash fragments there match the lawyer's stationery and Edmund's blue ink exactly. His toll transponder places his car away from the estate between 1:04 and 2:15am that night, directly contradicting his written claim that he never left the house. What Callum didn't know was that the lawyer's office had already filed a certified copy off-site as routine practice, meaning his destruction of the original changed nothing legally. Renata's fingerprints on the safe and her obvious motive made her a natural early suspect, but a note in Edmund's own hand explains her legitimate access days earlier, and she has no matching alibi gap."
+    },
+    "biasesTracked": ["anchoring_bias", "premature_closure", "confirmation_bias", "belief_perseverance"],
+    "minQuestionsBeforeAccusation": 10
+  }
+]

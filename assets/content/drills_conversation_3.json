@@ -1,0 +1,398 @@
+[
+  {
+    "id": "conv_d21",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write a message that names the misunderstanding as a guess rather than a demand for explanation.",
+    "stimulusText": "Your friend sent a one-word text reply, 'k,' to a longer message you sent yesterday, and you've been wondering all day if they're annoyed with you.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d21_q1",
+        "prompt": "Write a short message that names your interpretation as a guess and invites correction.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. Hey, I think I read that text wrong — I thought you might be annoyed with me, were you?",
+        "explanation": "A strong answer states the interpretation as a guess, not a fact, and invites correction instead of demanding an explanation."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d22",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the response that correctly accounts for a cross-cultural communication style mismatch.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d22_q1",
+        "prompt": "A colleague from a more indirect communication culture says 'that might be difficult' about your request. What's the best interpretation to check for?",
+        "type": "multipleChoice",
+        "options": ["They probably mean a polite no and you should check gently.", "They're definitely still deciding, keep pushing.", "They're being evasive on purpose.", "It has no real meaning either way."],
+        "correctAnswer": "They probably mean a polite no and you should check gently.",
+        "explanation": "In more indirect communication norms, a softened phrase like that often functions as a clear no, worth confirming gently."
+      },
+      {
+        "id": "conv_d22_q2",
+        "prompt": "A conversation with someone from a different communication culture feels confusing. What should be your first hypothesis?",
+        "type": "multipleChoice",
+        "options": ["They're intentionally being difficult.", "You're both operating with different norms, not that either person is being unreasonable.", "They dislike you personally.", "The conversation is a lost cause."],
+        "correctAnswer": "You're both operating with different norms, not that either person is being unreasonable.",
+        "explanation": "Most cross-cultural friction comes from mismatched defaults, not bad intentions, so 'different norms' is the better first read."
+      },
+      {
+        "id": "conv_d22_q3",
+        "prompt": "What's the best way to check whether you've correctly read someone's indirect signal?",
+        "type": "multipleChoice",
+        "options": ["Ask plainly: 'I want to make sure I understood — was that a no?'", "Assume your own culture's default reading is universal.", "Avoid the topic entirely from then on.", "Complain to a mutual colleague about the confusion."],
+        "correctAnswer": "Ask plainly: 'I want to make sure I understood — was that a no?'",
+        "explanation": "A direct, low-cost check confirms the meaning without accusing anyone of being unclear on purpose."
+      },
+      {
+        "id": "conv_d22_q4",
+        "prompt": "Someone from a silence-tolerant culture pauses for several seconds before answering. Best interpretation?",
+        "type": "multipleChoice",
+        "options": ["This is likely a normal, comfortable pause for them, not necessarily awkwardness.", "They are definitely offended.", "You should immediately fill the silence for them.", "The conversation has ended."],
+        "correctAnswer": "This is likely a normal, comfortable pause for them, not necessarily awkwardness.",
+        "explanation": "Comfort with silence varies by culture; a pause that feels awkward to you may be entirely normal for them."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d23",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Choose the texting habit that reduces the odds of being misread.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d23_q1",
+        "prompt": "You need to reply briefly to a friend's message but can't write a full reply yet. Best move?",
+        "type": "multipleChoice",
+        "options": ["Say nothing until you have time to reply properly.", "Send a two-second placeholder: 'saw this, want to reply properly later today.'", "Send a single period as a reply.", "Reply with just 'k' for now."],
+        "correctAnswer": "Send a two-second placeholder: 'saw this, want to reply properly later today.'",
+        "explanation": "A placeholder prevents a long silence from being misread as a cold shoulder, without requiring a rushed full reply."
+      },
+      {
+        "id": "conv_d23_q2",
+        "prompt": "Which topic is best moved off of text entirely?",
+        "type": "multipleChoice",
+        "options": ["Confirming a lunch time.", "A meaningful disagreement or apology.", "Sending directions to an address.", "A quick thumbs-up on a plan."],
+        "correctAnswer": "A meaningful disagreement or apology.",
+        "explanation": "High-stakes emotional content degrades badly over text because the medium strips out tone, making misreads more costly."
+      },
+      {
+        "id": "conv_d23_q3",
+        "prompt": "Why does a brief text reply often get read more negatively than the sender intended?",
+        "type": "multipleChoice",
+        "options": ["Text strips out tone of voice, and readers tend to fill that gap with a negative guess.", "People are naturally suspicious of short messages.", "Most people type in all caps by accident.", "Texting always implies anger."],
+        "correctAnswer": "Text strips out tone of voice, and readers tend to fill that gap with a negative guess.",
+        "explanation": "Without tone cues, ambiguous text tends to get filled in by the reader's imagination, usually toward the negative."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d24",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the response that disagrees with the idea without attacking the person.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d24_q1",
+        "prompt": "A coworker proposes a plan you think ignores the budget. Best way to disagree?",
+        "type": "multipleChoice",
+        "options": ["You never think about the budget.", "I don't think that plan accounts for the budget — can we look at that together?", "This is a bad idea, obviously.", "Typical, you always do this."],
+        "correctAnswer": "I don't think that plan accounts for the budget — can we look at that together?",
+        "explanation": "It stays focused on the specific plan rather than making a sweeping claim about the person's character or habits."
+      },
+      {
+        "id": "conv_d24_q2",
+        "prompt": "Before countering someone's argument, what's a useful step that often narrows the actual disagreement?",
+        "type": "multipleChoice",
+        "options": ["Restate their position accurately first to check you understood it.", "Interrupt as soon as you spot a flaw.", "Wait for them to finish and immediately list every flaw.", "Assume you already know what they mean."],
+        "correctAnswer": "Restate their position accurately first to check you understood it.",
+        "explanation": "Steelmanning their point first often reveals your disagreement is narrower than it seemed, and proves you were listening."
+      },
+      {
+        "id": "conv_d24_q3",
+        "prompt": "Which tone is most likely to keep a disagreement productive?",
+        "type": "multipleChoice",
+        "options": ["Curiosity: 'help me understand why you'd go that route.'", "Contempt: 'I don't get how anyone would think that.'", "Sarcasm about the idea.", "Silence followed by a dismissive eye-roll."],
+        "correctAnswer": "Curiosity: 'help me understand why you'd go that route.'",
+        "explanation": "The same disagreement lands completely differently depending on tone; curiosity keeps people able to hear you."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d25",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Choose the exit line that ends a conversation cleanly and warmly.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d25_q1",
+        "prompt": "You need to leave a conversation at a party to go say hi to others. Best exit line?",
+        "type": "multipleChoice",
+        "options": ["This has been great — I'm going to go find a few more people before this wraps up, let's grab coffee sometime.", "Well, anyway... yeah... okay...", "I have to go, bye.", "Sorry, sorry, I really have to go, sorry, this was so nice, sorry."],
+        "correctAnswer": "This has been great — I'm going to go find a few more people before this wraps up, let's grab coffee sometime.",
+        "explanation": "It combines a warm close, a believable reason, and a genuine forward step, without over-apologizing or trailing off."
+      },
+      {
+        "id": "conv_d25_q2",
+        "prompt": "What's the best moment to use as your exit ramp in a conversation?",
+        "type": "multipleChoice",
+        "options": ["A natural lull after a topic has wrapped up.", "The middle of someone's story.", "Right after they've shared something vulnerable.", "Whenever you personally feel bored."],
+        "correctAnswer": "A natural lull after a topic has wrapped up.",
+        "explanation": "Ending during a lull feels natural, while cutting across momentum or a vulnerable moment can feel like a rejection."
+      },
+      {
+        "id": "conv_d25_q3",
+        "prompt": "You want to leave but continue the conversation later. Best addition to your exit?",
+        "type": "multipleChoice",
+        "options": ["I want to hear the rest of that later, can we pick this up?", "Say nothing extra and just walk away.", "Promise vaguely to talk again sometime with no specifics.", "Apologize repeatedly for having to go."],
+        "correctAnswer": "I want to hear the rest of that later, can we pick this up?",
+        "explanation": "Naming the pause explicitly turns the ending into a promise rather than something that feels like being cut off."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d26",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then describe what you would do instead of filling the silence.",
+    "stimulusText": "You just asked a friend a real question about how they're actually doing after a hard breakup. They go quiet, looking down, clearly thinking. Every instinct tells you to say something to fill the gap.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d26_q1",
+        "prompt": "Describe what you would actually do in that silence, and why.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. I'd stay quiet and let them think, resisting the urge to rephrase or guess, because the pause is where their real answer is forming.",
+        "explanation": "A strong answer recognizes the pause as productive thinking rather than a problem, and tolerates it rather than rescuing it."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d27",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the response that holds a boundary in the moment without over-justifying it.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d27_q1",
+        "prompt": "A relative keeps pressing you about your salary at dinner. Best boundary response?",
+        "type": "multipleChoice",
+        "options": ["I'm not comfortable discussing my salary at dinner.", "Well, it's complicated, because of taxes, and also my company policy, and also...", "Just quietly answer to avoid conflict.", "Snap and leave the table."],
+        "correctAnswer": "I'm not comfortable discussing my salary at dinner.",
+        "explanation": "It's a short, complete statement that doesn't invite debate the way a list of justifications would."
+      },
+      {
+        "id": "conv_d27_q2",
+        "prompt": "Why do short, rehearsed boundary phrases work better in the moment?",
+        "type": "multipleChoice",
+        "options": ["They remove the need to compose something new under time pressure.", "They sound more impressive.", "They're required for a boundary to be valid.", "They avoid the topic being noticed at all."],
+        "correctAnswer": "They remove the need to compose something new under time pressure.",
+        "explanation": "You typically have only a few seconds before the moment passes, so a ready phrase is easier to actually use."
+      },
+      {
+        "id": "conv_d27_q3",
+        "prompt": "After you hold a boundary for the first time with someone, there's a brief awkward pause. What does that most likely mean?",
+        "type": "multipleChoice",
+        "options": ["You did something wrong.", "An old pattern is being interrupted, which is normal at first.", "The relationship is over.", "You should apologize for the boundary."],
+        "correctAnswer": "An old pattern is being interrupted, which is normal at first.",
+        "explanation": "Interrupting an established pattern is always a little uncomfortable at first before it becomes the new normal."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d28",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write how you would raise a concern with someone who has power over your outcomes.",
+    "stimulusText": "Your professor, who will be writing your grad school recommendation, just proposed a research approach you think has a real flaw. You want to raise it without damaging the relationship.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d28_q1",
+        "prompt": "Write what you would say to raise the concern, calibrated for the power difference.",
+        "type": "textInput",
+        "options": [],
+        "correctAnswer": "e.g. I want to flag a concern about this approach, would it be okay if I shared it? I noticed the sample size might be too small to draw a firm conclusion.",
+        "explanation": "A strong answer invites the disagreement rather than declaring it bluntly, while still getting real substance across honestly."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "conv_d29",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Choose the move that best manages a group conversation of four or five people.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d29_q1",
+        "prompt": "You notice one person in the group hasn't spoken in ten minutes. Best move?",
+        "type": "multipleChoice",
+        "options": ["What do you think, though — you've dealt with this before?", "Ignore it, they'll join in when ready.", "Ask them directly why they're so quiet.", "Keep talking to the same two people."],
+        "correctAnswer": "What do you think, though — you've dealt with this before?",
+        "explanation": "A deliberate handoff actively counters the tendency for the loudest voices to slowly absorb all the airtime."
+      },
+      {
+        "id": "conv_d29_q2",
+        "prompt": "Two people in the group have drifted into their own back-and-forth for a while. Best way to widen it back out?",
+        "type": "multipleChoice",
+        "options": ["Sorry to jump in — does anyone else have a take on this?", "Let it continue indefinitely.", "Talk louder to compete for attention.", "Leave the conversation."],
+        "correctAnswer": "Sorry to jump in — does anyone else have a take on this?",
+        "explanation": "A gentle redirect brings the group back together without shutting down the sub-conversation abruptly or rudely."
+      },
+      {
+        "id": "conv_d29_q3",
+        "prompt": "What's the overall goal of a good group conversationalist?",
+        "type": "multipleChoice",
+        "options": ["Being the most memorable individual voice in the room.", "Acting like a good conversational host who distributes turns and notices energy.", "Speaking the most out of anyone present.", "Asking the cleverest single question of the night."],
+        "correctAnswer": "Acting like a good conversational host who distributes turns and notices energy.",
+        "explanation": "Group skill is closer to hosting well than to dominating — noticing energy and distributing turns matters more than any one line."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "conv_d30",
+    "disciplineId": "conversation",
+    "labCategory": "Conversation Lab",
+    "type": "timedPressure",
+    "difficulty": 4,
+    "prompt": "Rapid fire: judge each claim about repair, culture, texting, and group dynamics as true or false, fast.",
+    "stimulusText": "A series of quick claims about conversational repair, cross-cultural norms, texting, and groups. Judge each fast.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "conv_d30_q1",
+        "prompt": "Ignoring a misunderstanding and hoping it fades usually resolves it faster than naming it.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Unaddressed misunderstandings usually go underground and quietly color future interactions rather than resolving on their own."
+      },
+      {
+        "id": "conv_d30_q2",
+        "prompt": "Stating your read of a mix-up as a guess, not a fact, invites correction better than stating it as certain.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Framing it as a guess keeps the other person able to correct you without feeling accused of anything."
+      },
+      {
+        "id": "conv_d30_q3",
+        "prompt": "A direct 'no' is considered polite and expected in every culture in the same way.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Directness norms vary widely; in some cultures a plain no is normal, while in others a softer, indirect signal is expected."
+      },
+      {
+        "id": "conv_d30_q4",
+        "prompt": "A long silence in conversation always means the same thing across every culture.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Comfort with silence varies significantly by culture, so the same pause can mean very different things to different people."
+      },
+      {
+        "id": "conv_d30_q5",
+        "prompt": "A short placeholder text like 'saw this, will reply properly later' can prevent a delay from being misread as a cold shoulder.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "It closes the gap that silence would otherwise leave open to a negative interpretation."
+      },
+      {
+        "id": "conv_d30_q6",
+        "prompt": "High-stakes emotional conversations, like a real apology, are generally fine to have entirely over text.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Text strips out tone, which makes it a risky medium for emotionally weighty conversations that need nuance."
+      },
+      {
+        "id": "conv_d30_q7",
+        "prompt": "In a group of five, the same long pauses that work well one-on-one work just as well without adjustment.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Group conversations run on scarcer turn-taking, so a long pause can accidentally cost you the floor entirely."
+      },
+      {
+        "id": "conv_d30_q8",
+        "prompt": "Deliberately handing the floor to a quiet person is one of the most valuable group conversation moves available.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "It actively counters the natural tendency of the most talkative people to absorb all the airtime."
+      },
+      {
+        "id": "conv_d30_q9",
+        "prompt": "It's fine to end a disagreement without full resolution as long as the relationship stays respected.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Not every disagreement needs a declared winner; preserving the relationship can matter more than settling the point."
+      },
+      {
+        "id": "conv_d30_q10",
+        "prompt": "Steelmanning someone's argument before disagreeing with it often reveals the disagreement was narrower than it first seemed.",
+        "type": "trueFalse",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": "Accurately restating their position often shows you were arguing against an exaggerated version of it."
+      }
+    ],
+    "estimatedMinutes": 4
+  }
+]

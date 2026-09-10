@@ -1,0 +1,242 @@
+[
+  {
+    "id": "lib_rp_book01",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "Emotions Revealed",
+    "subtitle": "Paul Ekman",
+    "description": "A guide to the muscle movements underlying each of the basic emotions Ekman studied cross-culturally, intended to help readers recognize brief, involuntary facial signals, while stressing that a signal indicates the presence of an emotion, not its cause.",
+    "tags": [
+      "facial expression",
+      "emotion recognition"
+    ]
+  },
+  {
+    "id": "lib_rp_book02",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "Telling Lies",
+    "subtitle": "Paul Ekman",
+    "description": "Ekman's core academic work on deception, examining which facial and vocal cues actually correlate with lying versus popular myths about eye contact and fidgeting, and emphasizing how easily individual cues are misread without a known behavioral baseline.",
+    "tags": [
+      "deception detection",
+      "microexpressions"
+    ]
+  },
+  {
+    "id": "lib_rp_book03",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "Spy the Lie",
+    "subtitle": "Philip Houston, Susan Carnicero & Don Tennant",
+    "description": "Written by former CIA interrogators, this book presents a structured method for noticing verbal and behavioral deception indicators in real conversations, framed around clusters of cues rather than any single 'tell.'",
+    "tags": [
+      "deception detection",
+      "interviewing"
+    ]
+  },
+  {
+    "id": "lib_rp_book04",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "What Every BODY Is Saying",
+    "subtitle": "Joe Navarro & Marvin Karlins",
+    "description": "A former FBI counterintelligence agent's practical catalogue of nonverbal behaviors, organized around the idea that the limbic brain leaks discomfort and confidence through the feet, torso, and hands well before it shows on the face.",
+    "tags": [
+      "body language",
+      "nonverbal cues"
+    ]
+  },
+  {
+    "id": "lib_rp_book05",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "The Definitive Book of Body Language",
+    "subtitle": "Allan Pease & Barbara Pease",
+    "description": "A widely read popular survey of gestures and postures across everyday and professional contexts; useful as an accessible entry point, though several of its more specific claims (like fixed meanings for individual gestures) go beyond what controlled research actually supports.",
+    "tags": [
+      "body language",
+      "popular reference"
+    ]
+  },
+  {
+    "id": "lib_rp_book06",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "Talking to Strangers",
+    "subtitle": "Malcolm Gladwell",
+    "description": "Uses high-profile real-world misjudgments to argue that humans are wired to default to believing others (truth-default theory) and are much worse at detecting deception from strangers than they assume, making overconfidence in reading unfamiliar people a bigger risk than most people realize.",
+    "tags": [
+      "truth-default theory",
+      "misjudging strangers"
+    ]
+  },
+  {
+    "id": "lib_rp_book07",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "Liespotting",
+    "subtitle": "Pamela Meyer",
+    "description": "A certified fraud examiner's field guide to detecting deception in workplace and negotiation settings, emphasizing that reliable deception detection depends on noticing deviations from a person's established baseline rather than universal 'tells.'",
+    "tags": [
+      "deception detection",
+      "baseline behavior"
+    ]
+  },
+  {
+    "id": "lib_rp_book08",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "How to Read a Person Like a Book",
+    "subtitle": "Gerard I. Nierenberg & Henry H. Calero",
+    "description": "An early, influential popular text on reading gestures during negotiation, notable for framing body-language reading around clusters and context rather than isolated signals, decades before that became standard advice.",
+    "tags": [
+      "body language",
+      "negotiation"
+    ]
+  },
+  {
+    "id": "lib_rp_book09",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "Nonverbal Communication in Human Interaction",
+    "subtitle": "Mark L. Knapp & Judith A. Hall",
+    "description": "A long-standing academic textbook covering the research literature on facial expression, gesture, proxemics, and vocal cues, offering a more cautious, evidence-graded counterpart to the popular body-language genre.",
+    "tags": [
+      "academic reference",
+      "nonverbal communication"
+    ]
+  },
+  {
+    "id": "lib_rp_book10",
+    "disciplineId": "reading_people",
+    "type": "book",
+    "title": "Louder Than Words",
+    "subtitle": "Joe Navarro",
+    "description": "A follow-up to What Every BODY Is Saying focused on how a person's own nonverbal habits can undermine them professionally, and on training deliberate awareness of one's own signals in addition to reading others.",
+    "tags": [
+      "body language",
+      "self-presentation"
+    ]
+  },
+  {
+    "id": "lib_rp_expert01",
+    "disciplineId": "reading_people",
+    "type": "expert",
+    "title": "Paul Ekman",
+    "subtitle": "Psychologist; developed the Facial Action Coding System (FACS)",
+    "description": "Ekman's cross-cultural fieldwork, including with an isolated group in Papua New Guinea, provided the original evidence that a small set of facial expressions are recognized across cultures, and his FACS system remains the standard method researchers use to code facial movement objectively.",
+    "tags": [
+      "facial coding",
+      "cross-cultural emotion"
+    ]
+  },
+  {
+    "id": "lib_rp_expert02",
+    "disciplineId": "reading_people",
+    "type": "expert",
+    "title": "Joe Navarro",
+    "subtitle": "Former FBI counterintelligence agent and nonverbal behavior consultant",
+    "description": "Navarro spent 25 years using nonverbal analysis in FBI interviews and now teaches that reliable reading of body language requires establishing a person's baseline behavior first and watching for change from it, rather than reading gestures in isolation.",
+    "tags": [
+      "nonverbal behavior",
+      "interviewing"
+    ]
+  },
+  {
+    "id": "lib_rp_expert03",
+    "disciplineId": "reading_people",
+    "type": "expert",
+    "title": "Maureen O'Sullivan",
+    "subtitle": "Psychologist, University of San Francisco; co-led the Diogenes Project with Paul Ekman",
+    "description": "O'Sullivan's research identified a very small number of people ('truth wizards') who can detect deception at well above chance accuracy, while also documenting that the vast majority of people, including most professionals, perform only marginally better than guessing.",
+    "tags": [
+      "deception detection accuracy",
+      "truth wizards"
+    ]
+  },
+  {
+    "id": "lib_rp_expert04",
+    "disciplineId": "reading_people",
+    "type": "expert",
+    "title": "Judee Burgoon",
+    "subtitle": "Communication scholar, University of Arizona; developed Interpersonal Deception Theory",
+    "description": "Burgoon's research models deception detection as a dynamic, interactive process between two people rather than a one-way reading of static cues, and has shaped how nonverbal communication research treats real conversations versus staged clips.",
+    "tags": [
+      "interpersonal deception theory",
+      "nonverbal communication"
+    ]
+  },
+  {
+    "id": "lib_rp_expert05",
+    "disciplineId": "reading_people",
+    "type": "expert",
+    "title": "Mark Frank",
+    "subtitle": "Psychologist, University at Buffalo; studies facial expression and deception",
+    "description": "A former student of Ekman's, Frank has run experimental studies on high-stakes lying and consulted for U.S. federal agencies on behavioral screening programs, while publicly cautioning that no single cue reliably signals deception in real-world settings.",
+    "tags": [
+      "microexpressions",
+      "high-stakes deception"
+    ]
+  },
+  {
+    "id": "lib_rp_area01",
+    "disciplineId": "reading_people",
+    "type": "researchArea",
+    "title": "Microexpressions",
+    "subtitle": "",
+    "description": "Brief, involuntary facial expressions lasting a fraction of a second that can leak an emotion a person is trying to suppress; they are real and have been documented in controlled studies, but they indicate a felt emotion, not its cause, and reliably spotting them in the wild takes trained slow-motion review, not casual observation.",
+    "tags": [
+      "facial expression",
+      "concealed emotion"
+    ]
+  },
+  {
+    "id": "lib_rp_area02",
+    "disciplineId": "reading_people",
+    "type": "researchArea",
+    "title": "Baseline behavioral analysis",
+    "subtitle": "",
+    "description": "The practice of first observing how a specific person normally speaks, gestures, and holds themselves in a low-stress moment, so that later deviations from that individual baseline can be noticed; this is broadly endorsed by practitioners specifically because isolated gestures, without a comparison point, are not reliable evidence of anything.",
+    "tags": [
+      "baseline",
+      "individual variation"
+    ]
+  },
+  {
+    "id": "lib_rp_area03",
+    "disciplineId": "reading_people",
+    "type": "researchArea",
+    "title": "Truth-default theory",
+    "subtitle": "",
+    "description": "A research framework proposing that humans are evolutionarily biased to assume others are telling the truth by default, since a functioning society requires most communication to be trusted, which explains why even trained professionals struggle to detect deception from strangers at rates much better than chance.",
+    "tags": [
+      "deception detection",
+      "trust"
+    ]
+  },
+  {
+    "id": "lib_rp_area04",
+    "disciplineId": "reading_people",
+    "type": "researchArea",
+    "title": "Universality of facial expressions",
+    "subtitle": "",
+    "description": "Ekman's original claim that a handful of emotions produce recognizable facial expressions across all cultures is well supported for high-agreement cases, but it remains genuinely contested in parts: researchers such as Lisa Feldman Barrett have argued that context, culture, and individual variation shape emotional expression more than a small fixed set of 'basic emotions' allows.",
+    "tags": [
+      "basic emotions",
+      "contested science"
+    ]
+  },
+  {
+    "id": "lib_rp_area05",
+    "disciplineId": "reading_people",
+    "type": "researchArea",
+    "title": "Deception detection accuracy",
+    "subtitle": "",
+    "description": "A large body of research finds that both ordinary people and trained professionals (including police and customs officers) typically detect lies at rates only slightly above chance, roughly 54% accuracy on average across meta-analyses, which is the central reason any single cue or gut read should be treated with real caution rather than as proof.",
+    "tags": [
+      "deception detection",
+      "epistemic humility"
+    ]
+  }
+]

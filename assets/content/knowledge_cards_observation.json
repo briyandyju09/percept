@@ -1,0 +1,152 @@
+[
+  {
+    "id": "card_obs_101",
+    "disciplineId": "observation",
+    "hook": "Your eyes move about three times a second, whether or not you're aware of it.",
+    "concept": "Vision isn't a smooth video feed — it's a series of quick jumps called saccades, separated by brief pauses where the brain actually gathers information. Between those pauses, you're effectively blind but don't notice it.",
+    "tryIt": "Watch someone else's eyes while they read or scan a room, and notice how their gaze jumps in small jerks rather than gliding smoothly.",
+    "whyExplanation": "The brain suppresses visual input during the jump itself to avoid a blurry smear, then stitches the still frames together into what feels like continuous sight. This is why a quick glance genuinely samples less than it feels like it does.",
+    "sourceCitation": null,
+    "tags": ["attention", "perception"]
+  },
+  {
+    "id": "card_obs_102",
+    "disciplineId": "observation",
+    "hook": "Naming what you see out loud makes it stick.",
+    "concept": "Silently labeling an object or detail as you notice it — 'red mug,' 'left hand trembling' — engages verbal memory alongside visual memory, giving you two retrieval paths instead of one.",
+    "tryIt": "Next time you scan a room, quietly narrate three details to yourself in a full sentence rather than just looking at them.",
+    "whyExplanation": "Dual coding, storing information both as an image and as words, makes recall more robust because either channel can trigger the other later, even if one fades.",
+    "sourceCitation": null,
+    "tags": ["memory", "technique"]
+  },
+  {
+    "id": "card_obs_103",
+    "disciplineId": "observation",
+    "hook": "The first and last things you notice stick — everything in between is a fight.",
+    "concept": "Memory for a sequence is strongest at its beginning and end, a pattern called the serial position effect. Middle items are more easily lost unless you deliberately anchor them.",
+    "tryIt": "When memorizing a list or scanning a row of objects, pick one item from the middle and consciously tie it to a neighbor before moving on.",
+    "whyExplanation": "Early items get more rehearsal time before new information arrives, and late items are still fresh in short-term memory at recall — middle items get neither advantage.",
+    "sourceCitation": null,
+    "tags": ["memory", "attention"]
+  },
+  {
+    "id": "card_obs_104",
+    "disciplineId": "observation",
+    "hook": "You can only hold about four things in mind at once.",
+    "concept": "Working memory capacity is limited to roughly three to four chunks of information at a time, not the dozens of details a scene actually contains. Everything beyond that gets dropped unless it's grouped.",
+    "tryIt": "When facing a cluttered scene, group related details into a single chunk — 'three books, all paperback' — instead of tracking each one separately.",
+    "whyExplanation": "Chunking trades quantity for structure: four chunks of grouped information hold far more raw detail than four ungrouped facts, without exceeding the mind's actual capacity.",
+    "sourceCitation": null,
+    "tags": ["memory", "technique"]
+  },
+  {
+    "id": "card_obs_105",
+    "disciplineId": "observation",
+    "hook": "What's missing is a detail too, and it's the one people skip.",
+    "concept": "Observers are far better at noticing what's present than what's absent — an empty hook, an unlit lamp, a name never mentioned. Absence requires knowing what should be there in the first place.",
+    "tryIt": "Before entering a familiar space today, predict three things you'd expect to see, then check whether all three are actually present.",
+    "whyExplanation": "Detecting absence requires comparing the scene against an expectation held in memory, which is a slower, more deliberate process than simply registering what's in front of you.",
+    "sourceCitation": null,
+    "tags": ["baseline", "attention"]
+  },
+  {
+    "id": "card_obs_106",
+    "disciplineId": "observation",
+    "hook": "A single odd detail anchors an entire scene in memory.",
+    "concept": "An item that breaks a pattern — a mismatched color, a torn label, a missing piece — is disproportionately easy to recall because it violates expectation, which is exactly what memory is tuned to flag.",
+    "tryIt": "When you spot something out of place today, don't just note it — use it as a reference point to recall two ordinary details near it.",
+    "whyExplanation": "The brain allocates more processing to unexpected stimuli than to expected ones, a bias that helped ancestors detect threats quickly, and now doubles as a free memory anchor.",
+    "sourceCitation": null,
+    "tags": ["memory", "pattern"]
+  },
+  {
+    "id": "card_obs_107",
+    "disciplineId": "observation",
+    "hook": "Counting under six seconds is closer to estimating than measuring.",
+    "concept": "The mind can precisely track about three or four identical objects at a glance; beyond that, exact counts under time pressure become approximations, even when they feel certain.",
+    "tryIt": "Next time you glance at a small cluster of objects, notice whether you actually counted them or just estimated — then check your estimate against a real count.",
+    "whyExplanation": "Precise counting requires sequential attention to each item, which takes measurable time; a fast glance instead relies on a rougher, parallel sense of quantity called subitizing.",
+    "sourceCitation": null,
+    "tags": ["attention", "detail"]
+  },
+  {
+    "id": "card_obs_108",
+    "disciplineId": "observation",
+    "hook": "Left and right are the easiest details to flip without noticing.",
+    "concept": "Because left-right orientation requires an extra mental translation step, it's one of the most commonly reversed details in memory — more so than color, size, or shape.",
+    "tryIt": "When you note a left-right detail today — which hand, which side of a shelf — repeat it back to yourself once before moving your attention elsewhere.",
+    "whyExplanation": "Unlike up-down or color, left-right judgments depend on a frame of reference that can shift depending on whether you're picturing the object from your own view or from someone else's, creating room for error.",
+    "sourceCitation": null,
+    "tags": ["memory", "detail"]
+  },
+  {
+    "id": "card_obs_109",
+    "disciplineId": "observation",
+    "hook": "A wide, soft gaze catches more than a hard stare.",
+    "concept": "Fixating intensely on one point narrows peripheral awareness, while a relaxed, wide gaze takes in more of the surrounding scene, even if each individual detail feels less sharp.",
+    "tryIt": "Practice softening your focus for ten seconds in a room today — let your eyes rest on the middle distance and notice what appears at the edges.",
+    "whyExplanation": "Foveal vision is sharp but narrow, while peripheral vision is broad but low-resolution; deliberately balancing the two lets you register more of a scene without missing its center.",
+    "sourceCitation": null,
+    "tags": ["attention", "technique"]
+  },
+  {
+    "id": "card_obs_110",
+    "disciplineId": "observation",
+    "hook": "Text is one of the first things a rushed glance drops.",
+    "concept": "Reading small printed text, prices, timestamps, labels, requires more processing time than recognizing a shape or color, so it's disproportionately lost when observation time is short.",
+    "tryIt": "In your next quick scan of a room, deliberately search for one piece of small text — a label, a sign, a receipt — before looking away.",
+    "whyExplanation": "Letter recognition and word decoding happen sequentially rather than all at once, so text competes poorly against faster, parallel visual cues like color and motion.",
+    "sourceCitation": null,
+    "tags": ["detail", "attention"]
+  },
+  {
+    "id": "card_obs_111",
+    "disciplineId": "observation",
+    "hook": "A scene tells you more about state than appearance ever will.",
+    "concept": "How an object is positioned or used, a chair pushed in too far, a drawer left open, often reveals more useful information than the object's static features like color or brand.",
+    "tryIt": "Next time you enter a room, pick one object and ask not what it looks like, but what its current state suggests about what recently happened.",
+    "whyExplanation": "Static features are stable and expected, so they add little new information; state changes are recent and variable, which is exactly the kind of information worth updating your model on.",
+    "sourceCitation": null,
+    "tags": ["baseline", "pattern"]
+  },
+  {
+    "id": "card_obs_112",
+    "disciplineId": "observation",
+    "hook": "Recalling what came right before something is often easier than recalling its exact position.",
+    "concept": "Adjacency memory, what came just before or after a distinctive item, tends to be more reliable than absolute position memory, especially in longer sequences.",
+    "tryIt": "When trying to remember where something was in a sequence, first recall its neighbor, then work out the position from there.",
+    "whyExplanation": "Absolute position requires counting, an effortful and error-prone process, while adjacency is stored as a direct link between two items, which survives better under imperfect recall.",
+    "sourceCitation": null,
+    "tags": ["memory", "technique"]
+  },
+  {
+    "id": "card_obs_113",
+    "disciplineId": "observation",
+    "hook": "Repeated small actions are undercounted almost every time.",
+    "concept": "When someone repeats a small gesture, checking a watch, tapping a foot, observers reliably underestimate how many times it happened unless they consciously tally each occurrence.",
+    "tryIt": "The next time you notice someone repeating a small habitual action, count it silently on your fingers instead of trusting your impression of 'a few times.'",
+    "whyExplanation": "Repeated identical actions don't generate new memorable moments the way varied ones do, so the mind compresses them into a vague sense of 'several' rather than an exact count.",
+    "sourceCitation": null,
+    "tags": ["attention", "detail"]
+  },
+  {
+    "id": "card_obs_114",
+    "disciplineId": "observation",
+    "hook": "Two mismatched sources of the same information are a discrepancy worth chasing.",
+    "concept": "When two clocks, two signs, or two accounts of the same fact disagree, the disagreement itself is meaningful data, not noise to average away.",
+    "tryIt": "Today, find two sources that should agree, two clocks, two labels, two receipts, and check them against each other rather than assuming consistency.",
+    "whyExplanation": "People default to assuming consistency because checking takes effort, but a mismatch usually points to something real: an error, a recent change, or an overlooked update.",
+    "sourceCitation": null,
+    "tags": ["pattern", "baseline"]
+  },
+  {
+    "id": "card_obs_115",
+    "disciplineId": "observation",
+    "hook": "Every correct guess under pressure is still a guess worth checking.",
+    "concept": "Under time pressure, the mind fills gaps with plausible assumptions that feel like direct observation. Distinguishing what you actually saw from what you inferred is a skill in itself.",
+    "tryIt": "After a quick glance at something today, ask yourself which details you actually saw and which you filled in because they seemed likely.",
+    "whyExplanation": "Perception and inference happen so quickly and seamlessly that they feel identical in the moment; separating them afterward is the only way to know how much of what you 'saw' was really there.",
+    "sourceCitation": null,
+    "tags": ["attention", "perception"]
+  }
+]

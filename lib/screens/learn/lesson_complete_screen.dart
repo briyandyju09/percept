@@ -52,7 +52,7 @@ class _LessonCompleteScreenState extends ConsumerState<LessonCompleteScreen> {
           child: Column(
             children: [
               const Spacer(),
-              const Text('✓', style: TextStyle(fontSize: 48)),
+              const Text('✓', style: TextStyle(fontSize: PerceptGlyphSize.hero)),
               const SizedBox(height: PerceptSpacing.lg),
               Text('Lesson complete', style: PerceptTypography.title1(context.textPrimary)),
               const SizedBox(height: PerceptSpacing.sm),

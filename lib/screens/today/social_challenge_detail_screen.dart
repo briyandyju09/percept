@@ -25,7 +25,7 @@ class SocialChallengeDetailScreen extends ConsumerWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const SizedBox(height: PerceptSpacing.xl),
-              const Text('🗣', style: TextStyle(fontSize: 40)),
+              const Text('🗣', style: TextStyle(fontSize: PerceptGlyphSize.hero)),
               const SizedBox(height: PerceptSpacing.lg),
               Text(
                 'Today\'s challenge',

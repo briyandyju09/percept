@@ -1,0 +1,172 @@
+[
+  {
+    "id": "rp_d41",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A coworker who used to join everyone in the break room at lunch has been eating at her desk alone for the past week and a half.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d41_q1", "prompt": "What is the specific, observable change here, measured against her own prior routine?", "type": "textInput", "correctAnswer": "A shift from regularly eating lunch in the break room with others to eating alone at her desk, consistently for roughly a week and a half.", "explanation": "Anchoring to her own established pattern, and noting the duration, is more useful than a vague sense that 'something is off.'"},
+      {"id": "rp_d41_q2", "prompt": "What's a hypothesis about the change, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: something at work, like a conflict with a colleague or an unpleasant break-room dynamic, is making her avoid the group. Alternative: she could be catching up on a personal project, a deadline, a book, or simply going through a stretch where she wants quiet time at lunch, none of which need involve the group at all.", "explanation": "A desire for solitude or a temporary workload spike is at least as common an explanation for withdrawn lunch habits as interpersonal conflict, and neither requires anything being 'wrong.'"},
+      {"id": "rp_d41_q3", "prompt": "On a scale of 0-100, how confident are you that this reflects a conflict with the group specifically, and why?", "type": "textInput", "correctAnswer": "there is no single correct number — a well-calibrated answer stays low, roughly 15-25, since a week and a half of solo lunches is common for many mundane reasons and there is no direct evidence yet pointing to conflict specifically", "explanation": "Duration alone (a week and a half) isn't unusual enough to privilege the conflict hypothesis over ordinary explanations like workload or a preference for quiet."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d42",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "During a serious company-wide announcement about layoffs, one employee lets out a short, sharp laugh, then quickly covers her mouth and looks down.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d42_q1", "prompt": "What is the exact sequence of observable behavior here, in order?", "type": "textInput", "correctAnswer": "A short, sharp laugh occurred during a serious announcement, immediately followed by her covering her mouth with her hand and looking down.", "explanation": "Capturing the order (laugh, then cover, then look down) matters, since the self-correcting sequence is itself informative and shouldn't be collapsed into just 'she laughed.'"},
+      {"id": "rp_d42_q2", "prompt": "What's a hypothesis for the laugh, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: the laugh reflects an inappropriate reaction, such as relief that she personally wasn't affected, or nervous amusement at the situation. Alternative: sharp, involuntary laughter is also a well-documented physiological response to sudden stress or shock in some people, essentially an anxious reflex rather than a reflection of relief or amusement, and the immediate embarrassed cover-up suggests she herself didn't intend or endorse the reaction.", "explanation": "Nervous-laughter-as-stress-reflex is a well-documented alternative that fits the immediate embarrassed self-correction better than a hypothesis assuming she meant something callous by it."},
+      {"id": "rp_d42_q3", "prompt": "On a scale of 0-100, how confident are you that the laugh reflects genuine relief or amusement about the layoffs specifically, and why?", "type": "textInput", "correctAnswer": "there is no single correct number — a well-calibrated answer stays low, roughly 10-20, given how strongly the immediate embarrassed reaction (covering her mouth, looking down) argues against the laugh being an endorsed, meaningful reaction", "explanation": "Her own immediate corrective response is direct evidence against reading the laugh as a considered or genuine reaction to the news."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d43",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Each scenario shows single-cue reasoning. Identify the flaw.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d43_q1", "prompt": "\"He crossed his arms the moment I brought up the budget — he's clearly being defensive about it.\" What's the problem with this reasoning?", "type": "multipleChoice", "options": ["Crossed arms have many mundane explanations, including being cold, comfort, or simple habit, none of which are specific to defensiveness", "Crossed arms are a scientifically validated universal sign of defensiveness in every context", "This reasoning becomes valid as long as the room is warm", "Crossing one's arms is physically impossible unless the person feels defensive"], "correctAnswer": "Crossed arms have many mundane explanations, including being cold, comfort, or simple habit, none of which are specific to defensiveness", "explanation": "Arm-crossing is one of the most commonly overinterpreted gestures precisely because it's such an ordinary, comfortable resting posture for many people regardless of emotional state."},
+      {"id": "rp_d43_q2", "prompt": "\"She checked her phone twice during our conversation — she must not care about what I'm saying.\" What's the risk in this conclusion?", "type": "multipleChoice", "options": ["Checking a phone during a conversation is common for many unrelated reasons, such as an expected message or a habitual reflex, and doesn't reliably indicate disinterest in the conversation itself", "Phone-checking during conversation has been scientifically proven to always indicate disinterest", "This concern is only valid if she checked her phone more than five times", "People physically cannot check their phones unless they've lost interest in the conversation"], "correctAnswer": "Checking a phone during a conversation is common for many unrelated reasons, such as an expected message or a habitual reflex, and doesn't reliably indicate disinterest in the conversation itself", "explanation": "Phone-checking has become such a widespread habitual behavior that its base rate among engaged and disengaged listeners alike is high, weakening its value as a standalone signal."},
+      {"id": "rp_d43_q3", "prompt": "\"My roommate hasn't texted back in three hours — she must be mad at me.\" What's the flaw here?", "type": "multipleChoice", "options": ["A delayed reply has many ordinary explanations (being busy, asleep, or simply not near her phone) that are far more common than anger", "Silence for exactly three hours has been proven to always indicate anger", "This reasoning only fails if the roommate has never been late to reply before", "Response time is irrelevant to any interpersonal reading whatsoever"], "correctAnswer": "A delayed reply has many ordinary explanations (being busy, asleep, or simply not near her phone) that are far more common than anger", "explanation": "Response latency is heavily influenced by mundane logistics like being at work, driving, or asleep, which collectively make it a weak default signal for someone's emotional state."}
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "rp_d44",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A friend who usually replies to texts with several sentences and exclamation points has, for the last few days, been replying with single words like \"ok\" and \"sure.\"",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d44_q1", "prompt": "What is the specific, observable shift here, measured against this friend's own typical texting style?", "type": "textInput", "correctAnswer": "A change from multi-sentence replies with exclamation points to short, single-word replies like \"ok\" and \"sure,\" sustained over several days.", "explanation": "Comparing against this specific friend's own baseline texting style, rather than a generic idea of what a 'normal' text looks like, is the right comparison here."},
+      {"id": "rp_d44_q2", "prompt": "What's a hypothesis for the shorter replies, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: something is bothering them about you or the relationship, and the terse replies reflect withdrawal or annoyance. Alternative: they could be going through a busy, tiring, or stressful stretch unrelated to you at all — work deadlines, poor sleep, travel, or a personal issue — any of which commonly flattens someone's texting style across all their conversations, not just yours.", "explanation": "A change driven by the friend's own life circumstances would typically show up across most or all of their conversations, not just the one with you, which is a useful distinguishing detail to look for."},
+      {"id": "rp_d44_q3", "prompt": "On a scale of 0-100, how confident are you that the shorter replies specifically reflect something wrong in your relationship with them, and why?", "type": "textInput", "correctAnswer": "there is no single correct number — a well-calibrated answer stays moderate-low, roughly 20-35, since a general life stressor is at least as plausible as a relationship-specific issue, and confidence should only rise if the terseness appears uniquely in your conversations rather than across the board", "explanation": "Without checking whether the change is specific to your conversations or general across their texting, the relationship-specific hypothesis shouldn't be favored by default."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d45",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "Your usually chatty 10-year-old comes home from school, gives a one-word answer when asked how the day went, and goes straight to their room.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d45_q1", "prompt": "What is the observable pattern here, compared to this child's usual after-school behavior?", "type": "textInput", "correctAnswer": "A shift from typically detailed, chatty recaps of the school day to a single-word answer and immediately going to their room.", "explanation": "Framing this against the child's own established after-school pattern, rather than a generic idea of a 'normal' kid, keeps the observation specific and useful."},
+      {"id": "rp_d45_q2", "prompt": "What's a hypothesis about the withdrawal, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: something upsetting happened at school today, like a conflict with a friend or a difficult test, that they don't want to talk about yet. Alternative: they could simply be tired, hungry, or need some quiet decompression time after a full day, which is a common and ordinary need at this age and doesn't require anything upsetting to have happened.", "explanation": "A need for quiet decompression time after a long school day is common at this age and produces a very similar outward pattern to genuine distress, which is why it deserves equal initial weight."},
+      {"id": "rp_d45_q3", "prompt": "On a scale of 0-100, how confident are you that something specifically upsetting happened at school today, and why?", "type": "textInput", "correctAnswer": "there is no single correct number — a well-calibrated answer stays moderate-low, roughly 20-30, since one instance of a quiet, closed-off afternoon is common enough on its own, and confidence should rise mainly if the pattern repeats over several days or comes with other changes like appetite or sleep", "explanation": "A single occurrence of this pattern is well within the range of ordinary variation for a child this age, and shouldn't be treated as a strong signal without repetition or other converging evidence."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d46",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Each scenario shows single-cue reasoning. Identify the flaw.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d46_q1", "prompt": "\"The witness looked away while answering the question — that's a classic sign he's lying.\" What's the problem with this reasoning?", "type": "multipleChoice", "options": ["Gaze direction during recall varies enormously by individual and culture, and controlled research finds it does not reliably distinguish truth-tellers from liars", "Looking away while speaking has been proven in every study to indicate deception", "This reasoning is only flawed if the witness looked away for less than one second", "Eye contact patterns are identical across all cultures and individuals, making this a safe universal cue"], "correctAnswer": "Gaze direction during recall varies enormously by individual and culture, and controlled research finds it does not reliably distinguish truth-tellers from liars", "explanation": "Eye-contact-as-deception-tell is one of the most widely believed but poorly supported claims in this area; many honest people look away while recalling details, and many practiced liars maintain steady eye contact."},
+      {"id": "rp_d46_q2", "prompt": "\"My date paused for a second before answering my question about her ex — she must still have feelings for him.\" What's the risk in this specific conclusion?", "type": "multipleChoice", "options": ["A brief pause is also consistent with simply organizing a thoughtful answer to a personal question, which is a more mundane and at least equally likely explanation", "Pausing before answering has been scientifically proven to always indicate lingering romantic feelings", "This conclusion is only wrong if the pause lasted under half a second", "Any hesitation before speaking definitively reveals a person's true emotional state"], "correctAnswer": "A brief pause is also consistent with simply organizing a thoughtful answer to a personal question, which is a more mundane and at least equally likely explanation", "explanation": "Personal, sensitive questions naturally invite a moment of thought before answering carefully, regardless of the underlying emotional truth, which makes pause length a weak standalone cue."},
+      {"id": "rp_d46_q3", "prompt": "\"He didn't ask any questions after my presentation — he must think it was a waste of time.\" What's the flaw in this reasoning?", "type": "multipleChoice", "options": ["Silence after a presentation has several common explanations, including having no questions because the material was already clear, needing time to process, or simply not being the type to speak up in a group", "Asking zero questions has been proven to always indicate a negative judgment of the material", "This reasoning only fails in presentations shorter than ten minutes", "The number of questions asked is a scientifically validated measure of audience approval"], "correctAnswer": "Silence after a presentation has several common explanations, including having no questions because the material was already clear, needing time to process, or simply not being the type to speak up in a group", "explanation": "Clarity of the material and individual willingness to speak up in a group both strongly affect question-asking, independent of how favorably someone judged the content."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d47",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A coworker was passed over for a promotion that went to someone else on the team. In the weeks since, he has said nothing about it to anyone, continues to attend team events, and volunteers for a new cross-team project.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d47_q1", "prompt": "What are the separate, concrete observations here, without yet combining them into one conclusion about how he feels?", "type": "textInput", "correctAnswer": "He has not brought up the promotion decision to anyone; he has continued attending team events at his usual rate; and he volunteered for a new cross-team project in the weeks since.", "explanation": "Listing these three facts separately avoids collapsing them prematurely into a single story, since they could support more than one honest interpretation together."},
+      {"id": "rp_d47_q2", "prompt": "What's a hypothesis that he's masking disappointment, and an honest alternative that takes the same facts at face value?", "type": "textInput", "correctAnswer": "Hypothesis: he is genuinely disappointed or resentful but is deliberately suppressing it and overcompensating with visible engagement to appear unaffected and professional. Alternative: he may have genuinely made peace with the decision relatively quickly, understood the reasoning behind it, and is sincerely redirecting his energy toward the new project as a real next step rather than a mask for hidden feelings — continued normal engagement is exactly what we'd expect from someone who has processed disappointment in a healthy way, not only from someone suppressing it.", "explanation": "The 'silent mask' hypothesis and the 'genuine resilience' hypothesis produce identical observable behavior here, which is precisely why outward behavior alone can't distinguish suppressed emotion from authentically processed emotion."},
+      {"id": "rp_d47_q3", "prompt": "On a scale of 0-100, how confident are you that his continued engagement is masking real resentment rather than reflecting genuine acceptance, and why?", "type": "textInput", "correctAnswer": "there is no single correct number — a well-calibrated answer stays near the middle, roughly 40-50, honestly acknowledging that these two explanations are close to equally likely from behavior alone, and that resolving it responsibly would require something more direct, like an honest private conversation, rather than more behavioral inference", "explanation": "This is a case where a well-calibrated answer should explicitly resist forcing false certainty in either direction, since the behavioral evidence genuinely underdetermines which internal state is present."}
+    ],
+    "estimatedMinutes": 6
+  },
+  {
+    "id": "rp_d48",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A family dog, normally calm around visitors, barks repeatedly and backs away when a new guest reaches out to pet it.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d48_q1", "prompt": "What is the specific, observable behavior here, compared to the dog's usual behavior around visitors?", "type": "textInput", "correctAnswer": "A shift from the dog's typically calm behavior with visitors to repeated barking and backing away specifically when this new guest reached out to pet it.", "explanation": "Noting both the baseline (usually calm) and the specific trigger (reaching out to pet it) keeps the observation precise rather than a vague 'the dog didn't like him.'"},
+      {"id": "rp_d48_q2", "prompt": "What's a hypothesis about the dog's reaction, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: the dog is picking up on something specifically unsettling about this particular guest, such as unfamiliar scent, nervous energy, or a threatening quality in how they approached. Alternative: the dog may simply be reacting to the manner of the approach itself — a fast, direct hand reaching toward its head, which many dogs find startling regardless of who is doing it — rather than anything specific about this particular guest as a person.", "explanation": "Approach style (speed, directness, reaching over the head) is a well-documented trigger for defensive dog behavior independent of anything specific about the individual approaching, which makes it a strong competing explanation."},
+      {"id": "rp_d48_q3", "prompt": "On a scale of 0-100, how confident are you that the dog's reaction reflects something specifically concerning about this guest as a person, and why?", "type": "textInput", "correctAnswer": "there is no single correct number — a well-calibrated answer stays low, roughly 15-25, since the manner-of-approach explanation is at least as well-supported and doesn't require anything unusual about the guest at all", "explanation": "Without seeing whether the dog reacts similarly to other people approaching the same way, the guest-specific hypothesis isn't yet supported over the simpler approach-style explanation."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d49",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Each scenario shows single-cue reasoning. Identify the flaw.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d49_q1", "prompt": "\"I asked my manager directly if there were layoffs coming and she went quiet for a moment before changing the subject — that confirms it's happening.\" What's the flaw in this reasoning?", "type": "multipleChoice", "options": ["Silence and a subject change have several plausible causes, including simply not being authorized to discuss unconfirmed personnel matters, which doesn't require the layoffs to actually be happening", "A pause before answering has been scientifically proven to always confirm the exact content of the unspoken answer", "This reasoning is only flawed if the manager changed the subject within one second", "Silence in response to a direct question is always equivalent to a confirmed 'yes'"], "correctAnswer": "Silence and a subject change have several plausible causes, including simply not being authorized to discuss unconfirmed personnel matters, which doesn't require the layoffs to actually be happening", "explanation": "Managers are frequently bound by confidentiality regardless of what is or isn't happening, so a deflection is consistent with many situations, not just a confirmed but hidden truth."},
+      {"id": "rp_d49_q2", "prompt": "\"My partner didn't laugh at my joke tonight — something is clearly wrong between us.\" What's the risk in this conclusion?", "type": "multipleChoice", "options": ["Not laughing at one joke has many mundane explanations, such as being tired, distracted, or simply not finding that particular joke funny, none of which require relationship trouble", "Failing to laugh at a joke has been proven in controlled studies to always reflect relationship distress", "This reasoning only fails if the joke was told more than once", "A single missed laugh is a scientifically validated predictor of relationship breakdown"], "correctAnswer": "Not laughing at one joke has many mundane explanations, such as being tired, distracted, or simply not finding that particular joke funny, none of which require relationship trouble", "explanation": "A single non-reaction to a single joke is an extremely small sample size to draw a conclusion about the health of an entire relationship from."},
+      {"id": "rp_d49_q3", "prompt": "\"The new employee didn't make eye contact during introductions — she's probably going to be difficult to work with.\" What's the flaw here?", "type": "multipleChoice", "options": ["Reduced eye contact during introductions is common for reasons like first-day nervousness, shyness, or cultural background, none of which predict future collaboration difficulty", "Eye contact during introductions is a scientifically validated predictor of future teamwork problems", "This reasoning is only flawed if the introductions lasted under a minute", "Every person who avoids eye contact during introductions turns out to be difficult to work with"], "correctAnswer": "Reduced eye contact during introductions is common for reasons like first-day nervousness, shyness, or cultural background, none of which predict future collaboration difficulty", "explanation": "First-day nerves alone plausibly explain reduced eye contact for many new employees, and eye-contact style has no established predictive link to collaborative ability."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d50",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A friend has canceled plans with you three times in the last month, each time citing a different reason (work, illness, a family matter), while still posting on social media about other outings during that same period.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d50_q1", "prompt": "What are the specific, observable facts here, listed separately before drawing any conclusion?", "type": "textInput", "correctAnswer": "Three canceled plans in the last month, each with a different stated reason; during the same period, social media posts show the friend attending other outings.", "explanation": "Separating the cancellation pattern from the social media pattern keeps both pieces of evidence visible instead of blending them into one impression."},
+      {"id": "rp_d50_q2", "prompt": "What's a hypothesis that the friend is deliberately avoiding you, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: the friend is specifically deprioritizing or avoiding plans with you while still making time for other people, suggesting a change in how they view the friendship. Alternative: the social media posts may capture only a small, visible slice of a genuinely busy or overwhelmed month, and lower-effort or shorter outings captured for a post are not necessarily comparable in planning effort to the plans made with you, meaning the pattern could reflect general overcommitment rather than a specific choice about this friendship.", "explanation": "Social media visibility is a biased sample of someone's overall time and energy, since posted outings are often lower-effort or spontaneous compared to more involved plans, which weakens the direct comparison being drawn."},
+      {"id": "rp_d50_q3", "prompt": "On a scale of 0-100, how confident are you that this pattern reflects a deliberate deprioritizing of your specific friendship, and why?", "type": "textInput", "correctAnswer": "there is no single correct number — a well-calibrated answer stays moderate, roughly 35-45, treating this as a real pattern worth a direct, honest conversation rather than either dismissing it entirely or treating it as confirmed, since three cancellations plus visible social outings is suggestive but not conclusive on its own", "explanation": "Three data points over a month is enough of a pattern to take seriously and worth raising directly, while still falling short of the kind of evidence that would justify high confidence without hearing the friend's own account."}
+    ],
+    "estimatedMinutes": 6
+  }
+]

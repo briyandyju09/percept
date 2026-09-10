@@ -1,0 +1,172 @@
+[
+  {
+    "id": "rp_d31",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 2,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "During a job interview, the candidate keeps his hands below the table for most of the conversation, only bringing them up briefly to gesture when describing a project he's proud of.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d31_q1", "prompt": "What is the concrete, observable pattern here regarding his hands?", "type": "textInput", "correctAnswer": "His hands stay below the table for most of the interview, appearing only briefly during the portion where he describes a project he's proud of.", "explanation": "This notes both the default state (hidden) and the specific exception (visible during a particular topic), which is more useful than a single blanket description."},
+      {"id": "rp_d31_q2", "prompt": "What's a hypothesis about the hidden-hands pattern, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: he's generally nervous or guarded through most of the interview, and the project he's proud of relaxes him enough to gesture naturally. Alternative: this may simply be his normal resting posture at a table, and the increased gesturing during the project story reflects ordinary enthusiasm about a topic he enjoys discussing, without implying guardedness beforehand.", "explanation": "A default resting posture with hands out of sight is common and not inherently meaningful; the alternative explains the same pattern without assuming a baseline of nervousness."},
+      {"id": "rp_d31_q3", "prompt": "How confident should an interviewer be that the hidden-hands pattern reflects general discomfort with the interview, and what's a well-calibrated confidence range?", "type": "textInput", "correctAnswer": "Low, around 15-25 percent, since resting posture varies enormously between individuals and the presence of natural, enthusiastic gesturing during at least one topic suggests he's capable of relaxed body language rather than being uniformly guarded.", "explanation": "The single most useful counter-evidence here is that he does gesture naturally at least once, which weakens a blanket 'nervous throughout' hypothesis."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d32",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Each scenario shows single-cue reasoning. Identify the flaw.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d32_q1", "prompt": "\"He was sweating during the meeting when I asked about the numbers — he must feel guilty about something.\" What's the problem with this reasoning?", "type": "multipleChoice", "options": ["Sweating reflects physiological arousal or simple room temperature, neither of which is specific to guilt", "Sweating is a scientifically confirmed universal indicator of guilt", "This reasoning is valid as long as it's combined with one other cue", "People physically cannot sweat unless they are experiencing guilt"], "correctAnswer": "Sweating reflects physiological arousal or simple room temperature, neither of which is specific to guilt", "explanation": "Sweating can be caused by heat, general anxiety, medical conditions, or simply a warm room — treating it as a guilt-specific signal ignores a long list of more common explanations."},
+      {"id": "rp_d32_q2", "prompt": "\"She fidgets with her ring whenever we talk about her job — that's her tell for being unhappy there.\" What's the risk in this specific conclusion?", "type": "multipleChoice", "options": ["A single repeated habit could just as easily be an unrelated nervous habit that happens to coincide with a topic requiring more thought, not necessarily unhappiness", "Fidgeting with jewelry has been scientifically proven to always indicate job dissatisfaction", "This is not actually a single-cue observation, so no caution is needed", "Ring-fidgeting is only meaningful if it happens during salary discussions specifically"], "correctAnswer": "A single repeated habit could just as easily be an unrelated nervous habit that happens to coincide with a topic requiring more thought, not necessarily unhappiness", "explanation": "A habitual gesture tied to one topic could reflect the topic requiring more careful thought or being simply less rehearsed to discuss, not necessarily unhappiness — more evidence, like her own words, would be needed to separate these."},
+      {"id": "rp_d32_q3", "prompt": "\"He didn't smile once during the whole meeting — he's clearly upset with the team.\" What's the flaw here?", "type": "multipleChoice", "options": ["Absence of smiling has many explanations (task focus, personal style, tiredness, cultural norms around workplace expressiveness) beyond being upset", "Not smiling during a meeting is a fully validated indicator of anger", "This conclusion only fails if the meeting was shorter than 30 minutes", "Smiling frequency is irrelevant to reading anyone's emotional state"], "correctAnswer": "Absence of smiling has many explanations (task focus, personal style, tiredness, cultural norms around workplace expressiveness) beyond being upset", "explanation": "Baseline expressiveness varies hugely between individuals and contexts; a task-focused meeting naturally produces less smiling from most people regardless of mood."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d33",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're negotiating the price of a used car. When you make a deliberately low opening offer, the seller breaks into a broad smile and says, \"Well, I appreciate the offer, but let's talk.\"",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d33_q1", "prompt": "What is the specific, observable reaction here, described without interpreting the smile yet?", "type": "textInput", "correctAnswer": "A broad smile appeared immediately after hearing the low offer, followed by the phrase \"Well, I appreciate the offer, but let's talk.\"", "explanation": "This isolates the exact facial reaction and the exact verbal response, which together give more to work with than either alone."},
+      {"id": "rp_d33_q2", "prompt": "What's a hypothesis about the broad smile, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: the smile reflects genuine amusement or relief that the offer is lower than his actual floor, meaning there's real room to negotiate upward from here. Alternative: the smile is a deliberate, practiced reaction meant to make the buyer feel the offer was too low regardless of the seller's true floor, or it's simply a friendly, professional social smile meant to keep the interaction pleasant rather than a genuine emotional reaction to the number itself.", "explanation": "A broad smile in response to a lowball offer is exactly the kind of reaction sellers often cultivate deliberately as a soft negotiating tactic, which makes it a poor standalone signal of the seller's true position."},
+      {"id": "rp_d33_q3", "prompt": "How confident should the buyer be that this smile reveals genuine relief about a low offer, and what's a well-calibrated confidence range?", "type": "textInput", "correctAnswer": "Low, around 15-25 percent, since a broad smile in response to a lowball offer is a common performed reaction in sales and negotiation contexts, not a reliable window into the seller's actual assessment of the number.", "explanation": "Reactions in negotiation contexts specifically deserve lower default confidence, since both parties know they're being watched and often perform reactions deliberately."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d34",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Test your understanding of the Duchenne marker and its real limitations.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d34_q1", "prompt": "What physical feature distinguishes a smile with the so-called Duchenne marker from a smile using only the mouth muscles?", "type": "multipleChoice", "options": ["Engagement of the orbicularis oculi, producing visible crinkling at the outer corners of the eyes", "A wider mouth opening measured in millimeters", "A longer duration held for at least five full seconds", "A smile that appears only when no one else is watching"], "correctAnswer": "Engagement of the orbicularis oculi, producing visible crinkling at the outer corners of the eyes", "explanation": "This muscle, distinct from the zygomatic major that raises the mouth corners, is the specific feature described in Duchenne's original observations and Ekman's later research."},
+      {"id": "rp_d34_q2", "prompt": "Which of the following is an accurate limitation of using the Duchenne marker to judge genuine feeling in real-world settings?", "type": "multipleChoice", "options": ["Some people can voluntarily contract the orbicularis oculi at will, and research support comes mostly from posed, controlled smiles rather than messy real-world ones", "The marker has been proven to be completely unfakeable by every person tested", "The marker only applies to smiles lasting under one second", "This marker has no documented basis in any published research"], "correctAnswer": "Some people can voluntarily contract the orbicularis oculi at will, and research support comes mostly from posed, controlled smiles rather than messy real-world ones", "explanation": "Both limitations are well documented: voluntary control varies by individual, and most supporting studies used posed rather than naturalistic smiles, which limits how confidently the marker generalizes to everyday reading."},
+      {"id": "rp_d34_q3", "prompt": "What is the most responsible way to use the Duchenne marker when reading someone's smile in conversation?", "type": "multipleChoice", "options": ["Treat it as one low-to-moderate-confidence data point among several, not a standalone proof of genuine feeling", "Treat its presence as definitive proof the person is being sincere", "Ignore it entirely since it has no scientific basis whatsoever", "Use it only to detect lying, since that's its primary documented application"], "correctAnswer": "Treat it as one low-to-moderate-confidence data point among several, not a standalone proof of genuine feeling", "explanation": "The marker is a real, documented pattern worth noticing, but its individual variability and its use are exactly why it should be folded into a broader hypothesis rather than trusted alone."}
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "rp_d35",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A friend is telling you a story about a recent trip. Partway through describing one particular day, their speaking pace slows dramatically and they seem to choose their words more carefully, before picking back up to their normal pace for the rest of the story.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d35_q1", "prompt": "What is the specific, observable vocal change here, and where in the story did it occur?", "type": "textInput", "correctAnswer": "Speaking pace slowed noticeably and word choice appeared more deliberate specifically during the description of one particular day, with normal pace resuming afterward.", "explanation": "Anchoring the slowdown to one specific part of a longer story, rather than describing the whole story as 'slow,' preserves the useful detail of exactly where the shift happened."},
+      {"id": "rp_d35_q2", "prompt": "What's a hypothesis for the slowdown, and an honest alternative?", "type": "textInput", "correctAnswer": "Hypothesis: that particular day involved something emotionally complicated or difficult to describe accurately, prompting more careful word choice. Alternative: they're simply recalling more specific, harder-to-remember details for that day (exact places, names, timing) and the slower pace reflects active memory retrieval rather than any emotional difficulty.", "explanation": "Slower, more careful speech is a common feature of active recall of specific details, entirely apart from any emotional complexity in the content being recalled."},
+      {"id": "rp_d35_q3", "prompt": "How confident should you be that the slowdown signals something emotionally difficult about that day specifically, and what's a reasonable confidence range?", "type": "textInput", "correctAnswer": "Low to moderate, roughly 25-35 percent, since careful word choice is at least as consistent with effortful memory retrieval as with emotional difficulty, and nothing else in the story points clearly to distress.", "explanation": "Without additional convergent evidence (word content, facial expression, follow-up reaction), the memory-retrieval explanation should be treated as at least as likely as the emotional one."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d36",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "During a business meeting with a visiting partner from a culture with different personal-space norms than your own, he stands noticeably closer to you than colleagues from your office typically do, and touches your forearm briefly while making a point.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d36_q1", "prompt": "What is observable here, described purely in terms of physical distance and contact, without judging it as appropriate or inappropriate yet?", "type": "textInput", "correctAnswer": "He stood at a closer physical distance than your usual office colleagues do, and briefly touched your forearm while emphasizing a point during the conversation.", "explanation": "This states the behavior neutrally, which matters here specifically because the next step depends on not pre-judging it against your own office's norms."},
+      {"id": "rp_d36_q2", "prompt": "What's a hypothesis rooted in your own office's norms, and an alternative rooted in his possibly different cultural norms around proxemics and touch?", "type": "textInput", "correctAnswer": "Hypothesis (risk of misreading): this closeness and touch feels overly familiar or is a subtle attempt to pressure you during the discussion. Alternative: in his cultural background, this distance and brief touch are simply normal markers of warmth and engaged conversation, well documented as varying by culture (see Edward Hall's proxemics research), and carry no special intent toward pressure or overfamiliarity at all.", "explanation": "Comfortable conversational distance and normal touch during conversation are two of the most well-documented culturally variable behaviors, making the cultural-norm alternative genuinely strong here."},
+      {"id": "rp_d36_q3", "prompt": "How confident should you be that this behavior reflects an attempt to pressure or unsettle you rather than an ordinary cultural norm, and what's a well-calibrated confidence range?", "type": "textInput", "correctAnswer": "Very low, likely under 20 percent, precisely because this is a cross-cultural interaction where your own norms are not a reliable baseline for interpreting his behavior.", "explanation": "As with other cross-cultural readings, the correct response to uncertainty about a different display-rule background is lower confidence, not a neutral default."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d37",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Test your understanding of deception cue research findings.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d37_q1", "prompt": "A well-known interrogation training program teaches investigators to watch for gaze aversion, fidgeting, and crossed arms as deception indicators. What does controlled research say about this checklist approach?", "type": "multipleChoice", "options": ["These specific cues have been tested against verified truth-tellers and liars and have not reliably distinguished the two", "This checklist has been independently validated with over 90 percent accuracy across many studies", "This checklist only fails when used by inexperienced interrogators", "No research has ever attempted to test cue-based interrogation training"], "correctAnswer": "These specific cues have been tested against verified truth-tellers and liars and have not reliably distinguished the two", "explanation": "Multiple independent evaluations of behavior-based deception checklists, including some used in professional interrogation and screening training, have found accuracy no better than chance."},
+      {"id": "rp_d37_q2", "prompt": "Formal evaluations of microexpression-based training used in some airport security screening contexts found what result?", "type": "multipleChoice", "options": ["Performance not meaningfully better than chance at identifying people with hostile intent", "Near-perfect identification of security threats", "Consistent improvement of at least 40 percentage points over untrained screening", "The training was never actually evaluated in any real-world setting"], "correctAnswer": "Performance not meaningfully better than chance at identifying people with hostile intent", "explanation": "This is a documented, sobering finding that has fueled ongoing debate about behavior-detection programs used in security contexts."},
+      {"id": "rp_d37_q3", "prompt": "Which statement best reflects what deception research supports about voice, face, and posture cues in general?", "type": "multipleChoice", "options": ["These channels can be genuinely informative about arousal or discomfort, but are unreliable as direct, standalone indicators of deception specifically", "These channels are completely uninformative about anything, including arousal or engagement", "These channels reliably indicate deception only when observed by trained law enforcement", "Voice cues are reliable for deception even though facial and postural cues are not"], "correctAnswer": "These channels can be genuinely informative about arousal or discomfort, but are unreliable as direct, standalone indicators of deception specifically", "explanation": "The research draws a clear line: these channels track general psychological states like arousal reasonably well, but the specific leap to 'deception' is where the reliability breaks down."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d38",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "At a packed stadium, a loud bang echoes from one section. Within seconds, people in that section stand up quickly, some shout, and a wave of movement spreads outward through nearby sections as more people stand and turn to look.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d38_q1", "prompt": "What are the concrete, observable facts about the crowd's behavior here, without yet labeling the crowd's emotion?", "type": "textInput", "correctAnswer": "A loud bang occurred in one section; people there stood quickly and some shouted; a wave of standing and turning to look spread outward to nearby sections within seconds.", "explanation": "This describes the sequence and its spread without yet committing to 'panic' or 'excitement' as the label, since both could produce a broadly similar initial pattern."},
+      {"id": "rp_d38_q2", "prompt": "What's a hypothesis consistent with alarm, and an alternative consistent with excitement, that both fit this same observed pattern?", "type": "textInput", "correctAnswer": "Hypothesis: the bang was perceived as a threat and the standing, shouting, and spreading movement reflect alarm propagating through the crowd via emotional contagion. Alternative: the bang was something like a firework, an amplifier pop, or a big scoreboard moment, and the standing and shouting reflect excitement or startled amusement spreading the same way alarm would, since sudden loud noises produce a similar initial startle response regardless of the eventual emotional interpretation.", "explanation": "Emotional contagion spreads outward behavior quickly regardless of whether the underlying emotion is fear or excitement, which is exactly why the early seconds of both look so similar from a distance."},
+      {"id": "rp_d38_q3", "prompt": "How confident can you be, from the crowd's movement pattern alone in these first few seconds, about which emotion is actually driving it, and what's a well-calibrated confidence range?", "type": "textInput", "correctAnswer": "Low, likely 20-30 percent for either specific hypothesis, since movement pattern and volume alone don't reliably distinguish alarm from excitement in the first few seconds — an independent source, like what actually caused the bang or which direction people are moving relative to it, is needed to responsibly raise confidence.", "explanation": "This is a case where crowd behavior is a fast, real signal that something happened, but a genuinely poor standalone signal for which emotion is driving it, especially in the earliest seconds before movement direction clarifies."}
+    ],
+    "estimatedMinutes": 6
+  },
+  {
+    "id": "rp_d39",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "A 15-year-old who used to talk openly at family dinners now gives one-word answers, avoids eye contact, and spends most of the meal looking at their phone under the table.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d39_q1", "prompt": "What is the observable change here, compared specifically against this teenager's own earlier baseline?", "type": "textInput", "correctAnswer": "A shift from previously open, talkative dinner conversation to one-word answers, reduced eye contact, and frequent phone-checking under the table.", "explanation": "Comparing against this specific teenager's own prior behavior, rather than a generic idea of what teenagers 'should' be like, is the correct baseline here."},
+      {"id": "rp_d39_q2", "prompt": "What's a hypothesis that something concerning is going on, and an honest alternative rooted in typical adolescent development?", "type": "textInput", "correctAnswer": "Hypothesis: something specific — a social conflict, academic stress, or a personal struggle — is weighing on them and showing up as withdrawal. Alternative: this pattern is close to the well-documented typical developmental shift for many teenagers, who commonly pull back from family conversation and increase phone use as a normal part of adolescent individuation, without necessarily reflecting anything acutely wrong.", "explanation": "Increased withdrawal and phone focus at this age range is common enough as ordinary development that it shouldn't automatically be read as a warning sign on its own."},
+      {"id": "rp_d39_q3", "prompt": "How confident should a parent be that this specific shift reflects something acutely concerning versus typical teenage development, and what's a reasonable confidence range?", "type": "textInput", "correctAnswer": "Low to moderate, roughly 25-40 percent for something acutely concerning, since this pattern overlaps heavily with ordinary adolescent behavior — confidence should rise mainly if the withdrawal is unusually sudden, severe, or paired with other specific changes like sleep, appetite, or grades, rather than from this single dinner-table pattern alone.", "explanation": "Age-typical baseline behavior for teenagers looks a great deal like this description; a parent should watch for additional convergent signals before treating it as more than ordinary development."}
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "rp_d40",
+    "disciplineId": "reading_people",
+    "labCategory": "Reading People Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "On a six-person video call, you ask a direct question to one participant. There's a two-second delay before she responds with \"sorry, can you repeat that?\" while two other participants keep their video tiles static with only slight, occasional head movement throughout the call.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {"id": "rp_d40_q1", "prompt": "What are the separate, concrete observations here for each of the three participants mentioned?", "type": "textInput", "correctAnswer": "One participant had a roughly two-second delay before asking you to repeat the question; two other participants showed largely static video tiles with only occasional slight head movement throughout the call.", "explanation": "Treating each participant's pattern separately avoids collapsing three different pieces of evidence into one vague impression of 'people seem checked out.'"},
+      {"id": "rp_d40_q2", "prompt": "What's a hypothesis assuming disengagement across the group, and an honest alternative for each pattern?", "type": "textInput", "correctAnswer": "Hypothesis: all three were distracted or multitasking rather than following the call closely. Alternative: the delayed responder may have had audio lag or was simply taking a moment to process the question fully before answering, and static video tiles with minimal movement are a normal appearance for people who are listening attentively without needing to gesture, especially on a call with six participants where most people aren't speaking.", "explanation": "Minimal movement is the expected appearance of quiet, attentive listening on a group call, not necessarily evidence of disengagement — movement isn't a requirement for attention."},
+      {"id": "rp_d40_q3", "prompt": "How confident should you be that these three participants were meaningfully disengaged from the discussion, and what's a well-calibrated confidence range?", "type": "textInput", "correctAnswer": "Low, roughly 20-30 percent, since a brief 'can you repeat that' and generally still video tiles are both common among fully attentive participants on a multi-person call, and the base rate of some divided attention on group video calls is high enough that it shouldn't be read as meaningful without more direct evidence, such as a pattern of consistently vague or off-topic responses.", "explanation": "On a six-person call specifically, quiet stillness from non-speaking participants is the expected default, which should lower rather than raise suspicion of disengagement from this evidence alone."}
+    ],
+    "estimatedMinutes": 5
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "psy_d31",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify whether the reasoning is based only on cases that 'survived' some selection process, while ignoring the ones that didn't.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d31_q1",
+        "prompt": "A magazine article profiles five college dropouts who became billionaires and concludes that dropping out of college is a smart path to success, without accounting for the vastly larger number of dropouts who did not become successful. What is this reasoning error called?",
+        "type": "multipleChoice",
+        "options": ["Survivorship bias", "Halo effect", "Hindsight bias", "Self-serving bias"],
+        "correctAnswer": "Survivorship bias",
+        "explanation": "Focusing only on the small number of highly visible successes, while ignoring the much larger, less visible population of failures who share the same starting characteristic, is the core error of survivorship bias."
+      },
+      {
+        "id": "psy_d31_q2",
+        "prompt": "In World War II, engineers initially proposed reinforcing the areas of returning aircraft with the most bullet holes, until a statistician pointed out that the planes being studied were the ones that survived — the areas with no bullet holes in surviving planes might mark the spots where a hit was fatal. What insight does this correct for?",
+        "type": "multipleChoice",
+        "options": ["Survivorship bias — the data only included planes that made it back, not the ones that didn't", "The framing effect in how damage was described", "Anchoring on the first plane examined", "The availability heuristic about combat stories"],
+        "correctAnswer": "Survivorship bias — the data only included planes that made it back, not the ones that didn't",
+        "explanation": "This is one of the most famous illustrations of survivorship bias: reasoning from a dataset that has already been filtered by the very outcome (survival) you're trying to study."
+      },
+      {
+        "id": "psy_d31_q3",
+        "prompt": "Which question best guards against survivorship bias when evaluating an inspiring 'success story'?",
+        "type": "multipleChoice",
+        "options": ["'How many people with a similar starting point tried the same approach and didn't succeed?'", "'How likable is the person telling the story?'", "'How recently did this success happen?'", "'How many details does the story include?'"],
+        "correctAnswer": "'How many people with a similar starting point tried the same approach and didn't succeed?'",
+        "explanation": "Deliberately asking about the invisible, unsuccessful cases that didn't make it into the story is the direct way to correct for a sample that's been filtered by survival or success."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d32",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify whether a person's expectation is actually helping cause the outcome they expected.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d32_q1",
+        "prompt": "A teacher is told (falsely) at the start of the year that certain students are 'late bloomers' who will show a big academic jump. She unconsciously gives those students more attention and encouragement, and by year's end, those students do show larger gains than their peers — not because of any real difference in ability, but because of how they were treated. What is this called?",
+        "type": "multipleChoice",
+        "options": ["Self-fulfilling prophecy", "Halo effect", "Confirmation bias", "Hindsight bias"],
+        "correctAnswer": "Self-fulfilling prophecy",
+        "explanation": "The teacher's false initial belief changed her behavior in ways that caused the very outcome the belief predicted — the hallmark of a self-fulfilling prophecy, as demonstrated in classic classroom studies on teacher expectations."
+      },
+      {
+        "id": "psy_d32_q2",
+        "prompt": "A manager who privately believes a new hire 'won't work out' gives them fewer growth opportunities and less feedback, and the new hire — receiving less support — does end up struggling and eventually resigns. What role did the manager's initial belief play?",
+        "type": "multipleChoice",
+        "options": ["The belief shaped behavior that helped cause the very outcome the manager expected", "The belief was an accurate prediction based on the new hire's actual ability", "The belief was unrelated to the eventual outcome", "The belief demonstrates the halo effect toward the new hire"],
+        "correctAnswer": "The belief shaped behavior that helped cause the very outcome the manager expected",
+        "explanation": "Rather than simply predicting an independent outcome, the manager's belief altered how they treated the new hire, which measurably contributed to producing the predicted failure."
+      },
+      {
+        "id": "psy_d32_q3",
+        "prompt": "What practice would help a manager avoid inadvertently creating a self-fulfilling prophecy around a new hire?",
+        "type": "multipleChoice",
+        "options": ["Deliberately applying the same level of support, feedback, and opportunity to every new hire regardless of initial gut impressions", "Trusting first impressions, since they're usually accurate", "Giving extra support only to hires the manager is already confident in", "Avoiding feedback altogether to prevent bias"],
+        "correctAnswer": "Deliberately applying the same level of support, feedback, and opportunity to every new hire regardless of initial gut impressions",
+        "explanation": "Since the mechanism runs through unequal treatment driven by an initial belief, standardizing treatment regardless of that belief directly interrupts the pathway that would otherwise make the belief self-fulfilling."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d33",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "Someone pays a very high price for a concert ticket to a show that, once they're actually there, turns out to be mediocre — poor sound, a lackluster performance. Rather than admitting they wasted their money, they find themselves telling friends afterward that the show was 'actually pretty great, you had to be there,' and they notice they genuinely start believing this more each time they say it.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d33_q1",
+        "prompt": "What psychological process is driving the shift in how this person describes and eventually remembers the show, and why would paying a high price make this shift more likely than if the ticket had been cheap or free?",
+        "type": "textInput",
+        "correctAnswer": "This reflects cognitive dissonance reduction: holding two conflicting cognitions at once ('I paid a lot of money' and 'the show was mediocre') creates psychological discomfort, and one of the easiest ways to resolve that discomfort is to revise the evaluation of the show upward, rather than admit the money was wasted. A higher price creates more dissonance to resolve, because the belief 'I made a bad decision paying this much' is more uncomfortable than the same belief would be for a cheap or free ticket, making the pressure to reevaluate the show favorably stronger.",
+        "explanation": "This mirrors classic cognitive dissonance research: the more a person invests (money, effort, public commitment) in a choice, the more strongly they tend to revise their evaluation of the choice's outcome to match, in order to reduce the discomfort of feeling they chose badly."
+      },
+      {
+        "id": "psy_d33_q2",
+        "prompt": "How could this person recognize, in the moment, that their improved opinion of the show might be dissonance reduction rather than a genuine reassessment?",
+        "type": "textInput",
+        "correctAnswer": "Examples: notice if the positive re-evaluation started only after realizing the show was mediocre and the money was already spent, rather than being an initial reaction; ask what they would think of an identical show if they'd gotten the ticket for free, to separate the show's actual quality from the sunk cost of the price; check whether their account of the show has been getting more positive each time they retell it, which would suggest ongoing dissonance reduction rather than a stable judgment.",
+        "explanation": "Isolating the actual quality of the experience from the size of the investment — by imagining the same experience without the sunk cost — is a standard way to detect when an evaluation has been distorted by dissonance reduction rather than reflecting a genuine assessment."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d34",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Read each scenario and identify how the peak-end rule — judging an experience mainly by its most intense moment and how it ended — is shaping a person's memory of the experience.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d34_q1",
+        "prompt": "Two patients undergo the same painful medical procedure, but one has the pain gradually reduced at the very end while the other has the procedure end abruptly at its most painful point. The first patient rates the overall experience as less unpleasant, even though they experienced the same total pain for longer. What explains this?",
+        "type": "multipleChoice",
+        "options": ["Peak-end rule", "Availability heuristic", "Anchoring", "Halo effect"],
+        "correctAnswer": "Peak-end rule",
+        "explanation": "People tend to judge an experience based mainly on its peak intensity and how it ended, largely disregarding total duration — which is why a gentler ending produced a less unpleasant memory despite more total time spent."
+      },
+      {
+        "id": "psy_d34_q2",
+        "prompt": "A vacationer remembers a ten-day trip mostly in terms of one incredible sunset hike and the slightly stressful last day scrambling to the airport, with the other eight fairly ordinary days barely factoring into how she describes the trip afterward. What does this best illustrate?",
+        "type": "multipleChoice",
+        "options": ["The peak-end rule shaping which moments dominate the memory of the whole experience", "The availability heuristic about vacation risks", "The halo effect toward the destination", "Loss aversion about the trip ending"],
+        "correctAnswer": "The peak-end rule shaping which moments dominate the memory of the whole experience",
+        "explanation": "The overall memory is dominated by the most intense moment (the sunset hike) and the ending (the stressful departure), rather than an average of all ten days, which is exactly the pattern the peak-end rule predicts."
+      },
+      {
+        "id": "psy_d34_q3",
+        "prompt": "A business wants customers to remember a service experience positively. Based on the peak-end rule, which change would likely matter most?",
+        "type": "multipleChoice",
+        "options": ["Ensuring the last interaction with the customer is a strong, positive one, even if it doesn't change the total service time", "Making the entire experience marginally better on average throughout", "Sending a follow-up survey immediately after service", "Advertising the business's overall average rating"],
+        "correctAnswer": "Ensuring the last interaction with the customer is a strong, positive one, even if it doesn't change the total service time",
+        "explanation": "Because overall memory is disproportionately shaped by the ending, improving the final moment of an experience tends to have outsized effects on how the whole experience is remembered, compared to small improvements spread evenly throughout."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d35",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify whether a person's own labor is inflating how much they value something, beyond its actual quality.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d35_q1",
+        "prompt": "A person who spends an evening assembling a basic bookshelf from a flat-pack kit ends up rating it as more valuable and attractive than an identical, pre-assembled bookshelf they didn't have to build. What is this pattern called?",
+        "type": "multipleChoice",
+        "options": ["IKEA effect", "Endowment effect", "Sunk cost fallacy", "Halo effect"],
+        "correctAnswer": "IKEA effect",
+        "explanation": "The IKEA effect describes how putting labor into creating something increases how much a person values it, independent of the finished product's objective quality."
+      },
+      {
+        "id": "psy_d35_q2",
+        "prompt": "A home cook who spent hours making a complicated dish from scratch rates it as more delicious than an objectively similar dish from a restaurant, even when a blind taste test shows little actual difference. What best explains the inflated rating?",
+        "type": "multipleChoice",
+        "options": ["The IKEA effect — personal effort invested in creating something increases its perceived value", "The halo effect from the cook's confidence", "Confirmation bias about their own cooking skill", "The framing effect of a home-cooked label"],
+        "correctAnswer": "The IKEA effect — personal effort invested in creating something increases its perceived value",
+        "explanation": "The blind taste test controlling for actual quality isolates the effect of the cook's own labor on their perceived enjoyment, which is the IKEA effect's defining signature."
+      },
+      {
+        "id": "psy_d35_q3",
+        "prompt": "How does the IKEA effect differ from simple pride in a job well done?",
+        "type": "multipleChoice",
+        "options": ["The IKEA effect specifically inflates the perceived value of the object itself, not just the person's feeling about their own effort", "They are exactly the same phenomenon under different names", "The IKEA effect only applies to furniture", "The IKEA effect requires the object to be objectively superior"],
+        "correctAnswer": "The IKEA effect specifically inflates the perceived value of the object itself, not just the person's feeling about their own effort",
+        "explanation": "Research on the IKEA effect specifically measures inflated valuation of the finished object (how much they'd sell it for, how attractive they find it), not just satisfaction with having completed the task."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "psy_d36",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "In a classroom experiment, half the students are given a coffee mug and told they can sell it; the other half are given cash and told they can buy an identical mug. The students who were given the mug demand, on average, roughly twice as much money to give it up as the amount the other students are willing to pay for it — even though the mugs are identical and were assigned randomly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d36_q1",
+        "prompt": "What is this gap between selling price and buying price called, and why is it puzzling from a standard economic perspective, given that the mugs were assigned randomly?",
+        "type": "textInput",
+        "correctAnswer": "This is the endowment effect: simply owning an object, even briefly and randomly, increases the value a person places on it, so owners demand more to give it up than non-owners are willing to pay for the identical item. It's puzzling economically because if the mug is worth the same to everyone and ownership was random, there's no rational reason the price to acquire it should differ from the price to give it up — a purely rational actor's willingness-to-pay and willingness-to-accept should be roughly equal for an identical good.",
+        "explanation": "The endowment effect, first demonstrated in classic mug experiments, is a well-replicated violation of the standard economic assumption that ownership shouldn't by itself change an object's value to a person."
+      },
+      {
+        "id": "psy_d36_q2",
+        "prompt": "Where might the endowment effect show up in a real decision, like negotiating the sale of a used car or a house, and how could a seller recognize when it's inflating their asking price beyond what the market actually supports?",
+        "type": "textInput",
+        "correctAnswer": "Examples: a home seller who has lived in a house for years may set an asking price well above comparable homes because of sentimental or ownership-driven attachment, not because of the home's actual market features; a car owner may reject a fair market offer because 'my car is worth more to me,' even though a buyer with no ownership history sees only the car's objective condition and mileage. A seller can recognize the effect by comparing their asking price to recent, comparable sales by uninvolved third parties, and by asking whether they would pay their own asking price if they were the buyer rather than the owner.",
+        "explanation": "Because the endowment effect specifically distorts a seller's valuation relative to what an equivalent buyer would pay, benchmarking against arm's-length comparable sales is the most direct way to detect and correct for it."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d37",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Read each scenario and identify whether the person is placing excessive value on eliminating a small risk entirely, rather than reducing a larger risk more.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d37_q1",
+        "prompt": "A public health budget could either reduce a common risk affecting 1,000 people per year by 50%, or completely eliminate a much rarer risk affecting only 10 people per year. Surveys find people often prefer to fully eliminate the rare risk, even though the first option would save far more lives. What bias does this reflect?",
+        "type": "multipleChoice",
+        "options": ["Zero-risk bias", "Availability heuristic", "Base rate neglect", "Framing effect"],
+        "correctAnswer": "Zero-risk bias",
+        "explanation": "Zero-risk bias is the tendency to place disproportionate value on reducing a risk all the way to zero, even when an alternative would reduce total harm by a much larger amount without eliminating any single risk completely."
+      },
+      {
+        "id": "psy_d37_q2",
+        "prompt": "A consumer will pay a large premium for a water filter that removes '100% of contaminant X' over one that removes '98% of contaminant X and 95% of contaminant Y,' even though the second filter results in a lower overall health risk. What is driving this preference?",
+        "type": "multipleChoice",
+        "options": ["Zero-risk bias — the psychological appeal of complete elimination outweighs a rational comparison of total risk reduction", "The halo effect toward the word '100%'", "Anchoring on the first filter examined", "Loss aversion about contaminant X specifically"],
+        "correctAnswer": "Zero-risk bias — the psychological appeal of complete elimination outweighs a rational comparison of total risk reduction",
+        "explanation": "The consumer is valuing the certainty of '100%' for one contaminant over a genuinely lower total risk that leaves small residual risks in place, which is the defining preference pattern of zero-risk bias."
+      },
+      {
+        "id": "psy_d37_q3",
+        "prompt": "Which approach would help a policymaker avoid zero-risk bias when allocating a limited safety budget across several risks?",
+        "type": "multipleChoice",
+        "options": ["Comparing the total expected harm reduced per dollar spent across all options, rather than favoring whichever option eliminates a risk completely", "Prioritizing whichever risk can be brought to exactly zero", "Focusing spending on the risk that feels most alarming to the public", "Splitting the budget equally across all risks regardless of their size"],
+        "correctAnswer": "Comparing the total expected harm reduced per dollar spent across all options, rather than favoring whichever option eliminates a risk completely",
+        "explanation": "Since zero-risk bias specifically distorts comparisons by overvaluing complete elimination, explicitly comparing total expected harm reduction per dollar removes that distortion from the decision."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "psy_d38",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "You're offered two urns to draw from for a cash prize. Urn A contains 50 red balls and 50 black balls — you know the exact odds. Urn B contains 100 balls in an unknown mix of red and black. Drawing a red ball wins the prize. Even though the actual odds of drawing red from Urn B could be anywhere from 0% to 100% (averaging to the same 50/50 as Urn A if you have no information either way), most people strongly prefer to bet on Urn A.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d38_q1",
+        "prompt": "What does this preference for the known-odds urn over the unknown-odds urn reveal, and why doesn't it necessarily mean people think Urn B has worse odds?",
+        "type": "textInput",
+        "correctAnswer": "This reflects ambiguity aversion: people prefer a known, quantified risk to an equally likely but unknown or ambiguous one, even when there's no actual reason to believe the ambiguous option is worse. It's not that people believe Urn B truly has worse odds — many will say they think the average odds are the same — but the mere uncertainty about the odds themselves, separate from the odds' actual value, is aversive and pushes the choice toward the option where the probability is explicitly known.",
+        "explanation": "This is the classic result behind the Ellsberg paradox, and it demonstrates that people don't just dislike risk (a known probability of loss) — they specifically dislike ambiguity (not knowing the probability at all), which standard expected-value reasoning doesn't fully explain."
+      },
+      {
+        "id": "psy_d38_q2",
+        "prompt": "Where might ambiguity aversion show up in a real financial or career decision, and how might recognizing it change what someone chooses?",
+        "type": "textInput",
+        "correctAnswer": "Examples: an investor sticking with a familiar, well-understood asset class over an unfamiliar one with genuinely comparable or better expected returns, simply because the unfamiliar option's odds feel less knowable; a job candidate choosing a known, established company over a promising but less-understood startup with a similar or better expected payoff, purely because the startup's outcome feels more ambiguous. Recognizing ambiguity aversion could prompt someone to ask whether they're avoiding an option because of genuinely worse expected value, or simply because it feels less knowable — and to seek out more information to convert ambiguity into a quantifiable (even if still uncertain) risk before deciding.",
+        "explanation": "Because ambiguity aversion is driven by the discomfort of not knowing the odds rather than by the odds themselves, actively researching to convert an ambiguous unknown into an estimated probability is the most direct way to make a decision on its actual merits."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d39",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Read each scenario and identify whether having too many options is making a decision harder or less satisfying, rather than easier.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d39_q1",
+        "prompt": "In a well-known study, a grocery store display offering 24 varieties of jam attracted more browsers but resulted in far fewer purchases than a smaller display offering just 6 varieties. What does this suggest about the effect of more choices?",
+        "type": "multipleChoice",
+        "options": ["Choice overload — more options can reduce both the likelihood of choosing and satisfaction with the choice made", "The availability heuristic about jam quality", "Anchoring on the first jam sampled", "The halo effect toward the larger display"],
+        "correctAnswer": "Choice overload — more options can reduce both the likelihood of choosing and satisfaction with the choice made",
+        "explanation": "Beyond a certain point, additional options can increase the cognitive and emotional burden of comparing them, which can paradoxically make people less likely to choose at all, or less satisfied with whichever choice they make."
+      },
+      {
+        "id": "psy_d39_q2",
+        "prompt": "A streaming service adds hundreds of new titles, and subscribers report spending more time browsing but watching less overall, often giving up and rewatching something familiar instead. What does this best illustrate?",
+        "type": "multipleChoice",
+        "options": ["Choice overload leading to decision fatigue and reduced follow-through", "The mere exposure effect toward familiar titles", "Status quo bias about their subscription", "The endowment effect toward the service"],
+        "correctAnswer": "Choice overload leading to decision fatigue and reduced follow-through",
+        "explanation": "Increased browsing time paired with less actual viewing is a common signature of choice overload, where too many options make committing to any one of them harder rather than easier."
+      },
+      {
+        "id": "psy_d39_q3",
+        "prompt": "Which design change would most directly help reduce choice overload for a customer facing a large product catalog?",
+        "type": "multipleChoice",
+        "options": ["Offering a smaller, curated set of recommended options based on the customer's stated preferences", "Displaying every available option on one page", "Sorting options alphabetically", "Requiring customers to compare every option before purchasing"],
+        "correctAnswer": "Offering a smaller, curated set of recommended options based on the customer's stated preferences",
+        "explanation": "Narrowing the effective choice set through curation directly addresses the cognitive burden that drives choice overload, without necessarily removing any option from the full catalog."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "psy_d40",
+    "disciplineId": "psychology",
+    "labCategory": "Psychology Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then answer the reflection questions in your own words.",
+    "stimulusText": "After a job interview involving five candidates interviewed back-to-back, the interviewer finds they remember the first candidate's answers and the last candidate's answers in vivid detail, but can barely recall specifics from the middle three candidates, even though they took similarly detailed notes on all five.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "psy_d40_q1",
+        "prompt": "What is this pattern of remembering the beginning and end of a sequence better than the middle called, and what are the two distinct mechanisms behind the two ends of the pattern?",
+        "type": "textInput",
+        "correctAnswer": "This is the serial position effect, made up of two distinct parts: the primacy effect (the first items in a sequence are remembered well because they had more time to be rehearsed and moved into longer-term memory before other information interfered) and the recency effect (the last items are remembered well because they're still fresh in short-term memory at the moment of recall). Together they explain why the interviewer recalls the first and last candidates clearly while the middle three, which received neither advantage, faded.",
+        "explanation": "The serial position effect is one of the most robust findings in memory research, and separating it into primacy (early rehearsal advantage) and recency (short-term freshness) explains why middle items in any sequence are typically recalled worst."
+      },
+      {
+        "id": "psy_d40_q2",
+        "prompt": "Knowing about the serial position effect, what could the interviewer do differently to make sure the middle candidates get a fair, accurate evaluation?",
+        "type": "textInput",
+        "correctAnswer": "Examples: write a detailed evaluation immediately after each interview, rather than relying on memory at the end of the day, so the middle candidates' evaluations don't rely on fading recall; deliberately schedule breaks between interviews to reduce interference and refresh attention before each new candidate; review written notes on all five candidates side by side before making a decision, rather than relying on which ones come to mind most easily.",
+        "explanation": "Because the serial position effect specifically distorts unaided recall at the end of a sequence, capturing evaluations immediately, rather than relying on memory later, is the most direct way to neutralize its effect on a final decision."
+      }
+    ],
+    "estimatedMinutes": 4
+  }
+]

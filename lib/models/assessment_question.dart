@@ -13,6 +13,7 @@ class AssessmentQuestion {
     this.options = const [],
     this.correctAnswer,
     this.scoringWeight = 1,
+    this.explanation,
   });
 
   final String id;
@@ -22,8 +23,18 @@ class AssessmentQuestion {
   final String? stimulus;
   final List<String> stimulusList;
   final List<String> options;
+
+  /// The short, exactly-gradable value — kept short and literal (matching
+  /// one of [options] where present) so `_scoreExactOrTokenMatch` in
+  /// `AssessmentScorer` can actually tell a right answer from a wrong one.
+  /// Longer reasoning/narrative belongs in [explanation], not here.
   final dynamic correctAnswer;
   final int scoringWeight;
+
+  /// Optional narrative explanation of why [correctAnswer] is correct —
+  /// display-only, never used for scoring, so it can be as long as it
+  /// needs to be without diluting the grader.
+  final String? explanation;
 
   factory AssessmentQuestion.fromJson(Map<String, dynamic> json) =>
       AssessmentQuestion(
@@ -37,5 +48,6 @@ class AssessmentQuestion {
         options: (json['options'] as List<dynamic>? ?? []).cast<String>(),
         correctAnswer: json['correctAnswer'],
         scoringWeight: json['scoringWeight'] as int? ?? 1,
+        explanation: json['explanation'] as String?,
       );
 }

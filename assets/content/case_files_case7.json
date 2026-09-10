@@ -1,0 +1,80 @@
+[
+  {
+    "id": "case7",
+    "caseNumber": 7,
+    "title": "The Trampled Garden",
+    "briefing": "The city community garden's annual competition is judged tomorrow morning, and Mrs. Alvarez's heirloom tomato bed — the plot everyone expected to finally dethrone six-time champion Grace Whitfield — has been trampled overnight, its rarest seedlings stolen or destroyed. The gate was found unlocked, and half the neighborhood has a reason to want the garden to lose. You've been asked to sort it out before the judges arrive.",
+    "characters": [
+      {
+        "id": "case7_president",
+        "name": "Grace Whitfield",
+        "role": "The Garden Club President",
+        "portraitEmoji": "🌻",
+        "isGuilty": true,
+        "dialogueTree": [
+          {"id": "case7_president_q1", "characterId": "case7_president", "prompt": "How long have you held the club's top plot ranking?", "responseText": "Six years running. It matters more to me than people probably realize — it's most of what people know me for around here.", "flags": ["reveals_motive"]},
+          {"id": "case7_president_q2", "characterId": "case7_president", "prompt": "Do you have a key to the garden after hours?", "responseText": "Of course, I'm the president. Myself and our groundskeeper are the only ones, for insurance reasons.", "flags": []},
+          {"id": "case7_president_q3", "characterId": "case7_president", "prompt": "What did you think of the new judge's scoring approach this year?", "responseText": "Different. More clinical, less about story and more about symmetry and yield. It changes who tends to place well.", "flags": ["reveals_motive"]},
+          {"id": "case7_president_q4", "characterId": "case7_president", "prompt": "Were you at the garden the night before judging?", "responseText": "Briefly, to check my own plot's stakes around nine. I went straight home after, nowhere near Mrs. Alvarez's side.", "flags": ["contradiction"]}
+        ]
+      },
+      {
+        "id": "case7_developer",
+        "name": "Desmond Finch",
+        "role": "The Land Developer",
+        "portraitEmoji": "🏗️",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case7_developer_q1", "characterId": "case7_developer", "prompt": "Your firm has pushed hard to reclaim this lot. Why?", "responseText": "It's underused land in a growing neighborhood. I've made a fair offer to the city twice. That's not a secret or a crime.", "flags": ["reveals_motive"]},
+          {"id": "case7_developer_q2", "characterId": "case7_developer", "prompt": "You sent a letter threatening the garden's lease. Explain.", "responseText": "A statement of fact, not a threat. Lease renewals depend on upkeep and community score. I'm simply making the city aware of the terms.", "flags": ["red_herring"]},
+          {"id": "case7_developer_q3", "characterId": "case7_developer", "prompt": "Where were you the night before the judging?", "responseText": "At my office until one in the morning, reviewing permit filings with two colleagues. My badge and their statements confirm it.", "flags": ["contradiction"]},
+          {"id": "case7_developer_q4", "characterId": "case7_developer", "prompt": "Would sabotage actually help your case with the city?", "responseText": "In theory, sure. But I don't need to sabotage anything — the numbers already favor redevelopment without any help.", "flags": []}
+        ]
+      },
+      {
+        "id": "case7_teen",
+        "name": "Jamal Reyes",
+        "role": "The Local Teenager",
+        "portraitEmoji": "🛹",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case7_teen_q1", "characterId": "case7_teen", "prompt": "You've had run-ins with the garden club before.", "responseText": "Once. I skated through and knocked over some tomato cages last spring. I apologized and did yard work to make up for it.", "flags": ["red_herring"]},
+          {"id": "case7_teen_q2", "characterId": "case7_teen", "prompt": "Where were you the night before the judging?", "responseText": "At the community center, finishing volunteer hours for school. I didn't leave until almost midnight — ask the front desk.", "flags": ["contradiction"]},
+          {"id": "case7_teen_q3", "characterId": "case7_teen", "prompt": "Do people assume things about you because of that skating incident?", "responseText": "Constantly. Oscar in particular. He glares at me every time something goes wrong over there, even when I wasn't anywhere near it.", "flags": ["challenges:case7_rival_gardener"]},
+          {"id": "case7_teen_q4", "characterId": "case7_teen", "prompt": "Did you know the competition was the next morning?", "responseText": "Everyone in the neighborhood knew. There were flyers up for weeks.", "flags": []}
+        ]
+      },
+      {
+        "id": "case7_rival_gardener",
+        "name": "Oscar Lindqvist",
+        "role": "The Neighboring Plot Holder",
+        "portraitEmoji": "🥕",
+        "isGuilty": false,
+        "dialogueTree": [
+          {"id": "case7_rival_gardener_q1", "characterId": "case7_rival_gardener", "prompt": "You discovered the damage. Walk me through it.", "responseText": "I came to water my own plot at six and found Alvarez's bed torn up, stakes snapped, her prize seedlings just gone. I called Grace immediately.", "flags": []},
+          {"id": "case7_rival_gardener_q2", "characterId": "case7_rival_gardener", "prompt": "You and Mrs. Alvarez have had disagreements before.", "responseText": "Over the shared watering schedule, mostly. Nothing that would make me destroy her plants. I actually like the woman.", "flags": ["red_herring"]},
+          {"id": "case7_rival_gardener_q3", "characterId": "case7_rival_gardener", "prompt": "Who do you suspect?", "responseText": "Honestly, I figured it was that skater kid, Jamal. He's done it before. But I'll admit, I never actually saw him there that night.", "flags": ["contradiction"]},
+          {"id": "case7_rival_gardener_q4", "characterId": "case7_rival_gardener", "prompt": "Did you notice anything about the shed or gate that morning?", "responseText": "The gate was unlocked when I arrived, which struck me odd since I thought Grace always double-checked it.", "flags": ["reveals_motive"]}
+        ]
+      }
+    ],
+    "evidence": [
+      {"id": "case7_ev01", "title": "Clog Print in Soil", "description": "A distinct waffle-soled garden clog print pressed into the mud near the destroyed bed matches a specific brand sold at only one local supplier.", "subtle": false, "contradicts": [], "supportsCharacterId": "case7_president"},
+      {"id": "case7_ev02", "title": "Motion Light Timestamp", "description": "The garden shed's motion-sensor light logs an activation at 11:47pm the night before judging, well after the gates are normally locked.", "subtle": false, "contradicts": [], "supportsCharacterId": null},
+      {"id": "case7_ev03", "title": "Shed Key Sign-Out Sheet", "description": "Only the club president and the groundskeeper hold keys to the tool shed and front gate after hours, per the sign-out sheet posted inside.", "subtle": true, "contradicts": [], "supportsCharacterId": "case7_president"},
+      {"id": "case7_ev04", "title": "Finch's Threatening Letter", "description": "A letter from Finch's development firm warns that 'continued neglect' of the garden lot could void the city's lease renewal, dated two weeks before the incident.", "subtle": false, "contradicts": ["case7_ev08"], "supportsCharacterId": null},
+      {"id": "case7_ev05", "title": "Jamal's Volunteer Log", "description": "The community center's sign-in sheet places Jamal logging volunteer hours until 11:30pm that night, with a staff supervisor's signature.", "subtle": false, "contradicts": ["case7_ev09"], "supportsCharacterId": "case7_teen"},
+      {"id": "case7_ev06", "title": "Missing Heirloom Seed Packet", "description": "A hand-labeled seed packet matching Mrs. Alvarez's rare heirloom tomato variety was found tucked inside a greenhouse tote belonging to Grace.", "subtle": true, "contradicts": [], "supportsCharacterId": "case7_president"},
+      {"id": "case7_ev07", "title": "Judging Rubric Leak", "description": "An early, informal copy of this year's scoring notes suggests the new judge planned to favor structural symmetry, a category where Alvarez's plot was expected to outscore Grace's for the first time.", "subtle": false, "contradicts": [], "supportsCharacterId": "case7_president"},
+      {"id": "case7_ev08", "title": "Finch's Verified Alibi", "description": "Security logs from Finch's downtown office show his badge swiped in until 1am that night, reviewing permit paperwork with two colleagues who confirm his presence.", "subtle": false, "contradicts": ["case7_ev04"], "supportsCharacterId": "case7_developer"},
+      {"id": "case7_ev09", "title": "Oscar's Suspicion of Jamal", "description": "Oscar tells investigators he 'always assumed' Jamal was behind past garden mischief, though he admits he never actually saw him near Alvarez's plot that night.", "subtle": false, "contradicts": ["case7_ev05"], "supportsCharacterId": null}
+    ],
+    "solution": {
+      "correctCulpritId": "case7_president",
+      "keyEvidenceIds": ["case7_ev01", "case7_ev03", "case7_ev06", "case7_ev07"],
+      "explanation": "With the competition's new judge expected to favor structural symmetry — a category where Mrs. Alvarez's plot was finally poised to end Grace's six-year winning streak — Grace used her after-hours key to slip into the garden and trample Alvarez's raised bed, taking the rare heirloom tomato seedlings herself. A seed packet matching Alvarez's exact heirloom variety turned up in Grace's own greenhouse tote, and a clog print at the scene matched her brand of gardening shoes. The motion light logged an 11:47pm entry, and only Grace and the groundskeeper hold keys after hours. Suspicion initially fell on Jamal, given his history of garden mischief, and on developer Finch, given his public push to reclaim the lot, but Jamal's volunteer log and Finch's office badge both place them elsewhere until well past the time of the incident."
+    },
+    "biasesTracked": ["anchoring_bias", "premature_closure", "confirmation_bias", "belief_perseverance"],
+    "minQuestionsBeforeAccusation": 10
+  }
+]

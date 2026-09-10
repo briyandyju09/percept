@@ -35,7 +35,7 @@ class KnowledgeCardView extends StatelessWidget {
         children: [
           Row(
             children: [
-              Text(discipline.icon, style: const TextStyle(fontSize: 18)),
+              Text(discipline.icon, style: const TextStyle(fontSize: PerceptGlyphSize.inline)),
               const SizedBox(width: PerceptSpacing.xs),
               Text(
                 discipline.name.toUpperCase(),

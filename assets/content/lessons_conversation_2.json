@@ -1,0 +1,372 @@
+[
+  {
+    "id": "conv_l09",
+    "disciplineId": "conversation",
+    "title": "Cooling a Conversation Down Instead of Heating It Up",
+    "hook": "Most arguments don't escalate because of what was said — they escalate because of what was said back, three seconds later, in the wrong tone.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Heated arguments have a physiology, not just a content. Once someone's heart rate climbs past a certain point, the part of the brain that handles nuance and perspective-taking goes offline, and what's left is a much blunter, more defensive version of them. This matters because it means the words you choose during a heated moment matter less than the temperature you're adding or removing from the room."
+      },
+      {
+        "type": "paragraph",
+        "text": "The single most reliable de-escalation move is to lower your own volume and speed when the other person raises theirs. It feels counterintuitive — matching their intensity feels like taking them seriously — but matching escalation almost always produces more escalation. A slower, quieter voice is not weakness; it's the only lever you actually control in the moment, and it tends to pull the other person's pace down with it, the same way one person walking slowly through a crowd subtly slows the people near them."
+      },
+      {
+        "type": "keyPoint",
+        "text": "You cannot out-argue someone whose nervous system is flooded. Your job in that moment isn't to win the point — it's to lower the temperature enough that a real conversation becomes possible again."
+      },
+      {
+        "type": "paragraph",
+        "text": "A second move: name what's happening instead of pretending it isn't. 'I can tell this matters a lot to you, and I want to actually hear it' does more de-escalating work than any counter-argument, because it answers the unspoken question underneath most heated moments — am I being taken seriously, or am I about to be argued with? People rarely calm down when they feel like they're losing a debate. They calm down when they feel heard."
+      },
+      {
+        "type": "paragraph",
+        "text": "Timing also matters more than people expect. If you sense someone is already flooded, this is not the moment for a fully reasoned rebuttal, even a correct one. It's the moment for a short, validating sentence and possibly a pause — 'let's both take five minutes and come back to this' is not avoidance, it's recognizing that no one thinks clearly at maximum heart rate. The conversation you have after the pause is almost always better than the one you were about to have."
+      },
+      {
+        "type": "paragraph",
+        "text": "Finally, watch your own contribution to the heat. Sarcasm, eye-rolls, and 'well actually' corrections all read as contempt even when you don't mean them that way, and contempt is the single fastest accelerant in an argument. If you can keep your face and tone neutral-to-warm while still holding your position, you keep the door open for repair. If you can't, it's better to pause than to let contempt slip out, because that particular ingredient is disproportionately hard to walk back once it lands."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["de-escalation", "conflict", "regulation"],
+    "relatedDrillIds": ["conv_d13", "conv_d09"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l10",
+    "disciplineId": "conversation",
+    "title": "Feedback That Actually Changes Behavior",
+    "hook": "Feedback that only makes you feel like you did your job — and doesn't change anything for the other person — isn't feedback. It's venting with extra steps.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Most feedback fails for one of two reasons: it's too vague to act on, or it's delivered in a way that triggers defensiveness before the content even registers. 'You need to communicate better' is technically feedback, but it gives the other person nothing to actually do differently. Good feedback is specific enough that someone could act on it tomorrow without having to guess what you meant."
+      },
+      {
+        "type": "paragraph",
+        "text": "The most useful structure is: the specific behavior, its concrete impact, and — where relevant — what you'd like to see instead. 'When the deck went out without a final numbers check, the client caught an error before we did, and that put us in a bad spot. Going forward, I'd like a second set of eyes on anything client-facing.' Compare that to 'you need to be more careful' — same underlying concern, vastly different usefulness."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Feedback is a gift you're handing someone, not a verdict you're delivering. The delivery determines whether they can actually pick it up."
+      },
+      {
+        "type": "paragraph",
+        "text": "Timing and privacy matter almost as much as content. Feedback given in front of others, even well-intentioned feedback, tends to be received as a public correction rather than private coaching, and people spend more energy managing the audience's perception of them than actually absorbing what you said. Pulling someone aside costs you nothing and multiplies the odds the feedback lands as intended."
+      },
+      {
+        "type": "paragraph",
+        "text": "It also helps to separate the behavior from the person's character. 'This particular email came across as curt' is about one instance; 'you're always so curt with people' is about identity, and almost nobody can hear an identity-level criticism without getting defensive, because it asks them to agree they're fundamentally the problem rather than that one thing they did needs adjusting."
+      },
+      {
+        "type": "paragraph",
+        "text": "One underused move: ask before you give unsolicited feedback, even briefly. 'Got a sec — I want to flag something from the meeting, is now okay?' takes two seconds and hands the other person a small amount of control over the moment, which measurably reduces defensiveness compared to feedback that arrives without warning. It also lets you check whether now is genuinely a bad time, in which case the feedback will land better an hour from now anyway."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["feedback", "management", "clarity"],
+    "relatedDrillIds": ["conv_d11", "conv_d34"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l11",
+    "disciplineId": "conversation",
+    "title": "Hearing Criticism Without Your Face Doing the Talking",
+    "hook": "The half-second after someone criticizes you is the most expensive half-second in the whole conversation — and almost nobody spends it well.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "When criticism lands, the body reacts before the mind catches up: jaw tightens, chest gets warm, a rebuttal starts assembling itself before the other person has even finished their sentence. That reaction isn't a character flaw — it's a fast, old threat response, and it fires whether the criticism is fair or not. The skill isn't eliminating the reaction; it's not letting it drive the next thing out of your mouth."
+      },
+      {
+        "type": "paragraph",
+        "text": "The single most useful habit here is a deliberate pause before responding — not for effect, but because the first words your body wants to say are usually defensive ones, and a three-second gap gives your slower, more accurate thinking a chance to catch up. In that gap, try to do one specific thing: find the one part of the criticism that's true, even if the delivery was clumsy or the overall claim feels exaggerated."
+      },
+      {
+        "type": "keyPoint",
+        "text": "Almost every piece of criticism, however badly delivered, has a kernel of something real in it. Your job is to find that kernel before you decide how much of the rest to argue with."
+      },
+      {
+        "type": "paragraph",
+        "text": "It helps enormously to separate two questions that get merged in the heat of the moment: 'is this fair?' and 'does this mean I'm bad at my job / a bad partner / a bad person?' Criticism usually only answers the first question, but our nervous system treats it as answering the second, which is why a small, specific critique can feel like a referendum on your whole worth. Naming that gap out loud, even just to yourself, takes a surprising amount of heat out of the moment."
+      },
+      {
+        "type": "paragraph",
+        "text": "A genuinely disarming response, when you can manage it, is 'that's fair, I hadn't thought about it that way' — even a partial version of that, applied to the one true part, tends to lower the other person's guard immediately, because they were braced for an argument and got curiosity instead. You can still push back on the parts that feel off-base, but doing it after acknowledging the fair part lands completely differently than doing it first."
+      },
+      {
+        "type": "paragraph",
+        "text": "If the criticism was delivered harshly or unfairly, it's fine to say so — 'I want to hear this, but the way that came out stung a bit' is honest without being defensive. The goal isn't to absorb every criticism silently; it's to separate absorbing the useful signal from reacting to the delivery, so you don't lose good feedback just because it arrived wrapped in a tone you didn't like."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["criticism", "defensiveness", "regulation"],
+    "relatedDrillIds": ["conv_d12"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l12",
+    "disciplineId": "conversation",
+    "title": "Small Talk Isn't the Problem — Staying in It Is",
+    "hook": "Small talk gets a bad reputation it doesn't fully deserve. The problem isn't the weather question. It's never leaving it.",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Ask yourself honestly: what exactly do you dislike about small talk? Most people, pressed on it, don't actually object to the opening exchange — 'how's your week going,' 'crazy weather' — they object to a conversation that stays at that surface for its entire duration. Small talk isn't shallow by nature. It's a ramp, and the complaint is really about conversations that never get off the ramp."
+      },
+      {
+        "type": "paragraph",
+        "text": "Why does the ramp exist at all, instead of everyone just diving into real topics? Because small talk does genuine social work before any information gets exchanged: it establishes tone, checks that both people are willing to engage, and signals basic goodwill. Skipping straight to something heavy with a stranger, without that groundwork, usually reads as intense or presumptuous rather than deep."
+      },
+      {
+        "type": "keyPoint",
+        "text": "The question isn't 'small talk or real talk' — it's how quickly and naturally you can move from one to the other, using something the other person just said as the bridge."
+      },
+      {
+        "type": "paragraph",
+        "text": "So what actually moves a conversation off the ramp? Usually it's one person taking a small risk — offering something slightly more specific or personal than the exchange technically required. 'How's work' answered with 'busy' keeps things on the ramp. Answered with 'busy, actually kind of a rough stretch, we lost a big client last week' hands the other person an opening to go further, if they choose to take it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Notice that this risk is voluntary and reciprocal — you're not interrogating someone into depth, you're offering a bit of your own and seeing if they meet you there. If they don't, that's useful information too, and it's fine to stay on the ramp with some people. Not every small-talk exchange needs to become a real conversation; some relationships are perfectly healthy staying light, and forcing depth where it isn't wanted creates its own kind of discomfort."
+      },
+      {
+        "type": "paragraph",
+        "text": "A practical habit: after the first exchange or two of pure ramp, try adding one sentence of genuine reaction or detail before asking your next question. It costs almost nothing and it's the single biggest lever for whether a conversation stays forgettable or becomes the kind you actually remember having."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["small talk", "depth", "rapport"],
+    "relatedDrillIds": ["conv_d17", "conv_d39"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l13",
+    "disciplineId": "conversation",
+    "title": "Remembering Names Without a Trick, Mostly",
+    "hook": "You're not bad with names. You're bad at the two seconds after you hear one, which is where almost all the forgetting actually happens.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Forgetting a name moments after hearing it isn't usually a memory problem — it's an attention problem. When someone says their name, you're typically busy doing something else: deciding how to greet them, noticing what they look like, thinking about what you'll say next. The name gets spoken while your attention is elsewhere, so it was never really encoded in the first place. You can't retrieve what you never stored."
+      },
+      {
+        "type": "paragraph",
+        "text": "The fix is almost embarrassingly simple and almost nobody does it: for the one second after someone says their name, do nothing else. Don't plan your greeting, don't glance away, don't start composing your next sentence. Just receive the name as the only piece of information happening right then. That single second of undivided attention does more than any mnemonic trick."
+      },
+      {
+        "type": "keyPoint",
+        "text": "You don't have a bad memory for names. You have a habit of not actually listening during the one moment the name is said. Fix the moment, and most of the 'forgetting' disappears."
+      },
+      {
+        "type": "paragraph",
+        "text": "After that, using the name once or twice in the next few minutes of conversation helps convert it from short-term to something more durable — not in an overdone, sales-training way ('great to meet you, Daniel, so Daniel, what do you do, Daniel'), just naturally, the way you'd use it if you already knew someone. 'Wait, did you say you're from Denver too, Daniel?' does the retrieval practice without sounding like a script."
+      },
+      {
+        "type": "paragraph",
+        "text": "The same principle extends to details beyond names — someone's kid's name, the project they're stressed about, the trip they mentioned. The moment they say it, mentally flag it as worth keeping rather than letting it slide by as background noise. You don't need a filing system; you need the habit of briefly tagging things as important while they're being said, instead of only afterward wishing you'd caught them."
+      },
+      {
+        "type": "paragraph",
+        "text": "When you do forget — and you will, sometimes — asking again isn't the social catastrophe people fear. 'I'm so sorry, remind me of your name?' costs almost nothing, especially early in a conversation. What actually damages rapport isn't forgetting; it's pretending you remember and getting caught, or never trying to remember at all."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["memory", "names", "attention"],
+    "relatedDrillIds": ["conv_d18", "conv_d44"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l14",
+    "disciplineId": "conversation",
+    "title": "Reading the Room Before You Open Your Mouth",
+    "hook": "The best comment in the world, said to the wrong room at the wrong moment, is still the wrong thing to say.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A team had just finished a brutal week — a launch had failed publicly, and everyone was exhausted and a little raw. One person walked into the debrief meeting, sat down, and immediately launched into an unrelated, cheerful story about their weekend. Nobody said anything unkind, but the room went quiet in a way that had nothing to do with politeness. The story wasn't bad. The timing was."
+      },
+      {
+        "type": "paragraph",
+        "text": "Reading the room means gathering a few seconds of information before you contribute anything, rather than arriving with your line already loaded. What's the energy level — high or low? Is there tension underneath the surface politeness? Has someone just said something vulnerable that the room hasn't fully absorbed yet? These read in body language, pacing, and volume long before anyone says anything explicit about the mood."
+      },
+      {
+        "type": "keyPoint",
+        "text": "You are never obligated to say the first thing that occurs to you the moment you enter a room. A few seconds of observation before you speak costs you nothing and saves you from most of your worst timing mistakes."
+      },
+      {
+        "type": "paragraph",
+        "text": "The practical habit is simple: pause at the threshold, literally or figuratively, and take in the room before contributing. If the energy is low and heavy, match it before trying to lighten it — a joke can absolutely help a tense room later, but landing it first, before anyone feels understood, usually reads as tone-deaf rather than welcome relief. Let the room feel matched before you try to move it anywhere."
+      },
+      {
+        "type": "paragraph",
+        "text": "This applies just as much to one-on-one conversations as to groups. Walking in with news, a request, or an opinion without first checking how the other person is doing right now assumes the room hasn't changed since you last checked — and it often has. A single sentence of check-in, 'hey, how are you doing today,' asked with real attention to the answer, buys you the information you need to calibrate everything that follows."
+      },
+      {
+        "type": "paragraph",
+        "text": "None of this means suppressing yourself indefinitely or never bringing energy into a flat room — sometimes that's exactly what's needed. It means the read comes first and the contribution comes second, not the other way around. The people who seem to have uncanny social timing usually aren't more clever than everyone else; they're just paying attention a few seconds longer before they open their mouth."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["timing", "awareness", "social calibration"],
+    "relatedDrillIds": ["conv_d19", "conv_d45"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l15",
+    "disciplineId": "conversation",
+    "title": "Saying No Without Torching the Relationship",
+    "hook": "The fear underneath most reluctant yeses isn't that no is rude — it's that no is a small withdrawal from a relationship you don't want to damage. It usually isn't.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Consider two versions of the same refusal. A friend asks you to help them move this weekend, and you already have plans you don't want to cancel. Version one: 'Ugh, I don't know, maybe, let me see' — followed three days later by a guilty, last-minute cancellation. Version two: 'I can't this weekend, I've already got plans I'm not going to move — but I hope it goes smoothly, let me know if you need anything for next time.' The second version costs you a moment of discomfort now. The first costs you more discomfort later, plus your friend's trust that your yes means anything."
+      },
+      {
+        "type": "paragraph",
+        "text": "The core insight is that a clear, early no is almost always kinder than a mushy maybe that turns into a late no. A mushy maybe keeps someone hoping and planning around you, then pulls the rug out later, often at a worse moment than if you'd just been direct the first time. Directness isn't the unkind option here — vagueness is."
+      },
+      {
+        "type": "keyPoint",
+        "text": "People rarely resent a clear no delivered with warmth. What damages relationships is the unclear, guilt-ridden non-answer that wastes their time and then disappoints them anyway."
+      },
+      {
+        "type": "paragraph",
+        "text": "The structure that tends to work well: acknowledge the request warmly, state the no plainly without over-explaining, and — where it's true — leave a door open for something else. Over-explaining is worth calling out specifically, because it's the most common way a clean no gets muddy. A long list of justifications for why you can't help moving furniture starts to sound like you're building a case, which invites the other person to argue with your reasons instead of just accepting the no."
+      },
+      {
+        "type": "paragraph",
+        "text": "It also matters to separate saying no to a request from rejecting the person. 'I can't take this on right now' is about your capacity; it says nothing about how much you value them. Most people can hear that distinction if you make it explicit rather than assuming they'll infer it — a brief 'I really wish I could, this timing just doesn't work' does that work in one sentence."
+      },
+      {
+        "type": "paragraph",
+        "text": "One more thing worth naming: the discomfort you feel saying no is mostly yours to sit with, not something to offload onto the other person by making your no sound tentative or half-hearted. A no delivered with confidence, even a gentle one, is easier for someone to accept gracefully than one that sounds like it's still up for negotiation."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["boundaries", "assertiveness", "relationships"],
+    "relatedDrillIds": ["conv_d15", "conv_d37"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l16",
+    "disciplineId": "conversation",
+    "title": "The Apology That Actually Repairs Something",
+    "hook": "Most bad apologies aren't dishonest — they're just built to make the apologizer feel better faster than the relationship actually heals.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "'I'm sorry you feel that way' is the single most-mocked apology structure for good reason: it locates the problem in the other person's feelings rather than in your own action. It technically contains the word 'sorry,' but it repairs nothing, because it never actually names what you did. A real apology requires naming the specific behavior, which is uncomfortable precisely because it means fully owning it instead of gesturing vaguely toward regret."
+      },
+      {
+        "type": "paragraph",
+        "text": "A useful structure: name what you did, acknowledge its impact without minimizing, and — where relevant — say what you'll do differently. 'I canceled on you last minute again, and I know that made you feel like your time doesn't matter to me. That's on me, and I'm going to text you the moment I know I can't make something instead of waiting.' Compare that to 'sorry, things came up' — same event, wildly different repair value."
+      },
+      {
+        "type": "keyPoint",
+        "text": "An apology's job isn't to make you feel less guilty. Its job is to make the other person feel genuinely understood and less alone with what happened. Those are different goals, and a good apology optimizes for the second one."
+      },
+      {
+        "type": "paragraph",
+        "text": "The word 'but' is worth watching closely, because it silently cancels everything before it. 'I'm sorry I snapped at you, but I was really stressed' lands as an excuse wearing an apology's clothes. If context matters, it can be offered separately, afterward, and only if the other person seems to want it — 'for what it's worth, I was pretty overwhelmed that day, though that doesn't excuse how I talked to you' keeps the ownership intact while still being honest."
+      },
+      {
+        "type": "paragraph",
+        "text": "Timing matters too. An apology delivered the instant something goes wrong, before the other person has finished processing what happened, can feel like it's rushing them toward forgiveness on your schedule rather than theirs. Sometimes the better move is a short acknowledgment now — 'I know I hurt you, and I want to really talk about this' — followed by the fuller apology once both people have had a moment to settle."
+      },
+      {
+        "type": "paragraph",
+        "text": "Finally, an apology without any change in behavior eventually reads as empty, no matter how well-worded it was the first three times. The words matter for the immediate repair, but what actually rebuilds trust over months is whether the specific thing you named actually stops happening. A short apology followed by real change beats an eloquent one followed by more of the same, every time."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["apology", "repair", "accountability"],
+    "relatedDrillIds": ["conv_d14", "conv_d47"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l17",
+    "disciplineId": "conversation",
+    "title": "Asking for What You Need Without Hinting at It",
+    "hook": "Hoping someone will notice what you need and offer it unprompted is a plan that fails silently, constantly, and it's rarely their fault when it does.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "There's a common, quietly self-defeating pattern: needing something from someone, but communicating it through sighs, hints, and hoping they'll pick up on the signal, rather than simply asking. It usually comes from a fear that a direct request sounds demanding, or a hope that a need noticed unprompted 'counts more' than one you had to ask for. In practice, hinting mostly just produces confusion, and often resentment when the other person — reasonably — doesn't read minds correctly."
+      },
+      {
+        "type": "paragraph",
+        "text": "A direct request is almost always kinder to everyone involved than an indirect one, because it gives the other person a real, actionable thing to respond to instead of a puzzle to solve. 'Could you take the trash out tonight, I'm underwater with work' is answerable. Heavy sighing near a full trash can is not — it just makes someone guess, and guessing wrong feels like failing a test they didn't know they were taking."
+      },
+      {
+        "type": "keyPoint",
+        "text": "A clearly stated need respects the other person's ability to actually help you. A hinted-at need mostly just tests whether they can read your mind, and then quietly resents them when they can't."
+      },
+      {
+        "type": "paragraph",
+        "text": "The structure that helps most: name the situation briefly, then state the specific request, rather than the need in the abstract. 'I've had a rough week and I could use some support' is honest, but it's still vague enough that the other person doesn't know what to actually do. 'I've had a rough week — could we just get dinner tonight instead of talking about the house stuff?' gives them something concrete to say yes to."
+      },
+      {
+        "type": "paragraph",
+        "text": "It helps to remember that a direct ask can be refused, and that's not a failure of the ask — it's the ask working correctly. Being able to say no is what makes someone's yes actually mean something. If you only ever hint, you never get a real yes, because you never actually asked; you just eventually got either lucky or disappointed."
+      },
+      {
+        "type": "paragraph",
+        "text": "This applies at work as much as at home. 'I need clearer priorities from you, this project has three conflicting deadlines' is a direct, professional request. Quietly working overtime while resenting the ambiguity is the workplace version of the sighing-near-the-trash-can move, and it produces the same result: nothing changes, because nothing was actually asked for."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["directness", "requests", "assertiveness"],
+    "relatedDrillIds": ["conv_d16", "conv_d49"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "conv_l18",
+    "disciplineId": "conversation",
+    "title": "Fixing It After the Wires Get Crossed",
+    "hook": "A misunderstanding isn't a crisis. Treating it like one — or ignoring it and hoping it fades — is usually what turns it into one.",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "What actually happens in the moment a misunderstanding is discovered? Usually a small window opens where both people realize something went sideways, and what each person does in that window decides whether it becomes a two-minute fix or a two-week cold patch. Most people either over-apologize into a spiral, get defensive about their original intent, or — most commonly — just quietly let it go unaddressed and hope the discomfort fades on its own."
+      },
+      {
+        "type": "paragraph",
+        "text": "Why does letting it go rarely work as well as people hope? Because the misunderstanding doesn't actually resolve just because nobody mentions it again — it usually just goes underground, subtly coloring the next several interactions with a residue neither person can quite name. Explicitly naming what happened, even briefly, tends to clear that residue far faster than time alone does."
+      },
+      {
+        "type": "keyPoint",
+        "text": "A misunderstanding named out loud, even clumsily, resolves faster than one left to dissolve on its own. Silence doesn't neutralize confusion — it just lets it quietly compound."
+      },
+      {
+        "type": "paragraph",
+        "text": "What does effective naming actually sound like? Usually something short and non-defensive: 'I think I read that text wrong — I thought you were annoyed with me, were you?' It states your interpretation as a guess, not a fact, and it invites correction rather than demanding one. This differs sharply from 'why didn't you just say what you meant,' which puts the blame entirely on the other person's communication rather than treating the mix-up as a shared, ordinary event."
+      },
+      {
+        "type": "paragraph",
+        "text": "What role does intent play here, and how much weight should it get? Intent matters for understanding what happened, but it matters less than most people think for repairing it — 'that's not what I meant' explains the mechanism but doesn't undo the impact the other person actually felt. Repair usually needs both: an honest account of what you meant, and a genuine acknowledgment of how it landed, in that order or the reverse depending on which the other person needs first."
+      },
+      {
+        "type": "paragraph",
+        "text": "Finally, ask yourself: how quickly are you addressing mix-ups once you notice them? The gap between noticing and naming is where most of the damage accumulates. A misunderstanding raised within the same conversation or the same day repairs easily. One left to sit for a week has usually grown a story around it — about what the silence meant — that has nothing to do with the original mix-up at all."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["repair", "misunderstanding", "clarity"],
+    "relatedDrillIds": ["conv_d21", "conv_d38"],
+    "relatedCardIds": []
+  }
+]

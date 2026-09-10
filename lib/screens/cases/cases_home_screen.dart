@@ -8,6 +8,7 @@ import '../../state/repository_providers.dart';
 import '../../theme/colors.dart';
 import '../../theme/spacing.dart';
 import '../../theme/typography.dart';
+import '../../widgets/percept_card.dart';
 
 class CasesHomeScreen extends ConsumerWidget {
   const CasesHomeScreen({super.key});
@@ -40,47 +41,39 @@ class CasesHomeScreen extends ConsumerWidget {
                               ? 'Solved'
                               : 'Closed — incorrect')
                           : (progress.questionsAsked.isEmpty ? 'Not started' : 'In progress');
-                      return GestureDetector(
+                      return PerceptCard(
+                        margin: const EdgeInsets.only(bottom: PerceptSpacing.sm),
                         onTap: () => context.push(
                           RoutePaths.withParam(RoutePaths.caseBriefing, 'caseId', caseFile.id),
                         ),
-                        child: Container(
-                          margin: const EdgeInsets.only(bottom: PerceptSpacing.sm),
-                          padding: const EdgeInsets.all(PerceptSpacing.cardPadding),
-                          decoration: BoxDecoration(
-                            color: context.perceptSurface,
-                            borderRadius: BorderRadius.circular(PerceptRadii.card),
-                            border: Border.all(color: context.perceptHairline),
-                          ),
-                          child: Row(
-                            children: [
-                              Text('🕵️', style: const TextStyle(fontSize: 24)),
-                              const SizedBox(width: PerceptSpacing.md),
-                              Expanded(
-                                child: Column(
-                                  crossAxisAlignment: CrossAxisAlignment.start,
-                                  children: [
-                                    Text(
-                                      'CASE #${caseFile.caseNumber.toString().padLeft(3, '0')}',
-                                      style: PerceptTypography.caption(context.textTertiary),
+                        child: Row(
+                          children: [
+                            const Text('🕵️', style: TextStyle(fontSize: PerceptGlyphSize.row)),
+                            const SizedBox(width: PerceptSpacing.md),
+                            Expanded(
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Text(
+                                    'CASE #${caseFile.caseNumber.toString().padLeft(3, '0')}',
+                                    style: PerceptTypography.caption(context.textTertiary),
+                                  ),
+                                  Text(
+                                    caseFile.title,
+                                    style: PerceptTypography.bodyEmphasis(context.textPrimary),
+                                  ),
+                                  const SizedBox(height: PerceptSpacing.xs),
+                                  Text(
+                                    status,
+                                    style: PerceptTypography.footnote(
+                                      progress.solved ? PerceptColors.success : context.textSecondary,
                                     ),
-                                    Text(
-                                      caseFile.title,
-                                      style: PerceptTypography.bodyEmphasis(context.textPrimary),
-                                    ),
-                                    const SizedBox(height: 4),
-                                    Text(
-                                      status,
-                                      style: PerceptTypography.footnote(
-                                        progress.solved ? PerceptColors.success : context.textSecondary,
-                                      ),
-                                    ),
-                                  ],
-                                ),
+                                  ),
+                                ],
                               ),
-                              Icon(CupertinoIcons.chevron_forward, color: context.textTertiary, size: 18),
-                            ],
-                          ),
+                            ),
+                            Icon(CupertinoIcons.chevron_forward, color: context.textTertiary, size: 18),
+                          ],
                         ),
                       );
                     }),

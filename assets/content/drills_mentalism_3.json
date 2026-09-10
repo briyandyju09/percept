@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ment_d21",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Identify the hidden writing gimmick being described.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d21_q1",
+        "prompt": "A performer appears to write a spectator's freely named word onto a card with an ordinary-looking pen, in full view, faster than should be possible for a 'spontaneous' prediction. Which classic gimmick likely explains this?",
+        "type": "multipleChoice",
+        "options": ["A swami gimmick — a tiny pencil tip worn on the finger to write before the pen is even used", "A nail writer hidden in the sole of a shoe", "A confederate secretly holding the card", "A muscle-reading device"],
+        "correctAnswer": "A swami gimmick — a tiny pencil tip worn on the finger to write before the pen is even used",
+        "explanation": "A swami gimmick is a tiny writing tip worn on the finger, letting a performer secretly pre-write information onto a surface before the 'official' pen ever touches it — a small mechanical prop that does the real work behind an apparently instant prediction."
+      },
+      {
+        "id": "ment_d21_q2",
+        "prompt": "Why do performers using gimmicks like this rehearse extensively before ever using them in front of an audience?",
+        "type": "multipleChoice",
+        "options": ["Because a visible fumble with the gimmick would expose the method and break the illusion of a spontaneous act", "Because the gimmick requires warming up to function", "Because it takes practice to read the spectator's mind", "Because gimmicks are illegal without a rehearsal permit"],
+        "correctAnswer": "Because a visible fumble with the gimmick would expose the method and break the illusion of a spontaneous act",
+        "explanation": "Any covert prop is only as good as the handling around it — rehearsal is what makes the secret motion invisible and natural, since a clumsy or hesitant movement is what actually gives a hidden gimmick away."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d22",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You're planning a routine where one 'random' audience volunteer is actually a confederate you arranged with beforehand, so a later 'impossible' reveal can happen smoothly.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d22_q1",
+        "prompt": "List the ethical tags this technique raises, and write one sentence describing a guardrail that would keep this practice fair to the rest of the audience.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Tags: Performance, Manipulation risk. Guardrail: I'd never claim the confederate was a random stranger if directly and sincerely asked afterward by another audience member trying to learn the method, and I'd avoid using confederates in ways that make other genuine volunteers look foolish or suspicious by comparison.",
+        "explanation": "Confederates are a legitimate, common mentalism tool, but the ethical risk is misleading the rest of the room about how 'random' the selection was — the guardrail is honesty about the method if genuinely pressed, and never using the technique to embarrass real volunteers."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d23",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Identify the honest method behind an object-reading ('psychometry') routine.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d23_q1",
+        "prompt": "Several spectators each place a personal object (a watch, keys, a ring) into identical bags. The performer holds each bag and 'reads' details about its owner. What's the most common honest method?",
+        "type": "multipleChoice",
+        "options": ["Careful pre-show observation of who owns which distinctive object, combined with cold-reading delivery during the reveal", "Genuinely sensing psychic energy stored in the object", "The bags are transparent to the performer only", "A hidden assistant tells the performer through an earpiece who owns what"],
+        "correctAnswer": "Careful pre-show observation of who owns which distinctive object, combined with cold-reading delivery during the reveal",
+        "explanation": "Object-reading routines typically rely on the performer discreetly noting distinctive items and their likely owners before or during collection, then using cold-reading technique during the reveal — attentive observation and scripting, not sensing energy in an object."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d24",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 2,
+    "prompt": "Distinguish contact mind reading technique from genuine telepathy.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d24_q1",
+        "prompt": "A performer presses a spectator's hand to their forehead and 'reads' a number the spectator is thinking of. What honest technique most plausibly explains a correct reveal?",
+        "type": "multipleChoice",
+        "options": ["The number was actually forced or peeked earlier through a written billet, not read through touch", "Direct neural transmission through skin contact", "The spectator's pulse literally spells out numbers", "A coincidence that happens reliably every show"],
+        "correctAnswer": "The number was actually forced or peeked earlier through a written billet, not read through touch",
+        "explanation": "The forehead-touch gesture is theatrical framing; the actual information almost always comes from an earlier force, a peek at written material, or an overheard clue — the touch itself carries no information, but it sells the moment as 'contact' mind reading."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d25",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 4,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You want to add a short stage-hypnosis-style suggestibility segment to your act, where a volunteer 'can't' unclasp their hands. You know not everyone responds the same way to suggestion, and a volunteer who doesn't respond could be embarrassed on stage.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d25_q1",
+        "prompt": "Describe the screening step you'd do before selecting a volunteer for this segment, and name the ethical tag most relevant to skipping it.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Tag: Manipulation risk. I'd run a quick, low-stakes suggestibility test with several volunteers privately or with simple crowd instructions first (like a simple hand-clasp test), and only invite on stage the ones who visibly respond well — skipping this risks putting an unresponsive, embarrassed volunteer in front of the whole room for a bit that quietly fails.",
+        "explanation": "Real suggestibility varies significantly between people, and responsible stage-suggestion performers always pre-screen for responsive volunteers rather than gambling on a stranger, both to protect the volunteer from public embarrassment and to keep the segment honest about how consistently it 'works.'"
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d26",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 3,
+    "prompt": "Identify the linguistic technique shaping the spectator's later answer.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d26_q1",
+        "prompt": "Early in a routine, a performer casually mentions a story involving the color blue and the number seven. Later, when asked to 'name any color and any number,' the spectator says blue and seven. What technique likely caused this?",
+        "type": "multipleChoice",
+        "options": ["Priming: earlier exposure to a concept subtly increases the likelihood of it being chosen later", "Hypnotic command that forces a specific answer", "A coincidence with no underlying mechanism", "Reading the spectator's mind directly"],
+        "correctAnswer": "Priming: earlier exposure to a concept subtly increases the likelihood of it being chosen later",
+        "explanation": "Priming is a well-documented cognitive effect where recent exposure to an idea makes it more mentally available, subtly nudging a later 'free' choice toward it — a real psychological tool for a performer to seed answers, not coercion or mind control."
+      }
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "ment_d27",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 1,
+    "prompt": "Spot the Barnum statement.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d27_q1",
+        "prompt": "Which of these statements is a classic Barnum statement — broad enough to feel personally accurate to almost anyone?",
+        "type": "multipleChoice",
+        "options": ["'You have a strong need for other people to like you, yet you can be critical of yourself.'", "'You were born on March 3rd, 1990.'", "'Your dog's name is Max.'", "'You currently live at 42 Oak Street.'"],
+        "correctAnswer": "'You have a strong need for other people to like you, yet you can be critical of yourself.'",
+        "explanation": "This is a textbook Barnum statement: a generalized claim about needing approval while being self-critical applies to the vast majority of people, which is exactly what makes it feel uncannily personal without containing any specific, checkable information."
+      }
+    ],
+    "estimatedMinutes": 3
+  },
+  {
+    "id": "ment_d28",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 3,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "You want to deliver a line that will feel like a direct hit whether the spectator is thinking about someone they've lost touch with, a past relationship, or an estranged family member.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d28_q1",
+        "prompt": "Write a single fork (multiple-out) statement covering all three possibilities, and name the technique.",
+        "type": "textInput",
+        "correctAnswer": "e.g. Technique: a fork / multiple-out statement. Line: 'I'm sensing someone from your past — it might not be someone you talk to anymore, whether that's by distance, a falling out, or just life pulling you apart.' This single sentence is worded to comfortably fit a lost friend, an ex-partner, or an estranged relative, so almost any answer the spectator gives afterward can be folded into it.",
+        "explanation": "A fork statement bundles several plausible interpretations into one line so that whichever one resonates can be picked up and developed while the others quietly disappear — the skill is in phrasing broadly enough to cover multiple 'outs' without sounding vague."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d29",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "multipleChoice",
+    "difficulty": 4,
+    "prompt": "Identify the classic two-person mentalism structure.",
+    "stimulusText": "",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d29_q1",
+        "prompt": "A blindfolded performer on stage correctly identifies objects that an assistant in the audience holds up, item by item, using ordinary-sounding phrases like 'Alright, what is this one now?' What is this classic structure called?",
+        "type": "multipleChoice",
+        "options": ["A verbal code act, where phrasing and word choice secretly encode information to the performer", "Direct telepathic communication between the pair", "A hidden camera feeding video to the performer", "Pure guessing that happens to be lucky"],
+        "correctAnswer": "A verbal code act, where phrasing and word choice secretly encode information to the performer",
+        "explanation": "Classic two-person code acts encode category and detail information into subtle variations of ordinary-sounding phrasing (word choice, order, or filler words), which the performer has memorized and rehearsed for months — a real, learnable communication system, not telepathy."
+      }
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "ment_d30",
+    "disciplineId": "mentalism",
+    "labCategory": "Performance Lab",
+    "type": "freeTextScenario",
+    "difficulty": 5,
+    "prompt": "Read the scenario, then write your response in the text box.",
+    "stimulusText": "During a cold-reading segment, your fork statement about 'someone you've lost touch with' visibly upsets a spectator — they tear up, clearly thinking of a specific person who has passed away. The rest of the audience is watching closely.",
+    "stimulusFacts": [],
+    "stimulusSeconds": 0,
+    "questions": [
+      {
+        "id": "ment_d30_q1",
+        "prompt": "Describe how you'd handle the moment in character, and explain when a performer should break the performance frame entirely to check on someone.",
+        "type": "textInput",
+        "correctAnswer": "e.g. I'd soften my tone immediately, acknowledge the emotion gently without pushing further specifics ('It sounds like that means a lot to you — thank you for sharing that with me'), and move the routine toward a warmer, less probing beat. If the spectator seems genuinely distressed rather than just moved, I'd break character entirely, check in privately, and offer them an easy way to step back from continuing on stage.",
+        "explanation": "Responsible mentalists treat a real emotional reaction as a signal to prioritize the person's wellbeing over the trick — softening the routine's next beat is usually enough, but genuine distress calls for breaking the performance frame outright, since no reveal is worth a spectator's real pain."
+      }
+    ],
+    "estimatedMinutes": 6
+  }
+]

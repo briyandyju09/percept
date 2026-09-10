@@ -108,7 +108,7 @@ class _GoalTile extends StatelessWidget {
         ),
         child: Row(
           children: [
-            Text(icon, style: const TextStyle(fontSize: 20)),
+            Text(icon, style: const TextStyle(fontSize: PerceptGlyphSize.row)),
             const SizedBox(width: PerceptSpacing.md),
             Expanded(
               child: Text(

@@ -1,0 +1,296 @@
+[
+  {
+    "id": "ment_l09",
+    "disciplineId": "mentalism",
+    "title": "The Illusion of a Free Choice",
+    "hook": "Ask someone to 'freely' choose between two envelopes, and a skilled performer can still land on the outcome they wanted — without ever touching a thing after the choice is made.",
+    "mode": "quickBrief",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Equivoque, sometimes called verbal magician's choice, is a scripting technique built entirely on wording rather than sleight of hand. The performer offers what looks like a genuinely open decision among several options — point to one of three envelopes, choose a pile, name a direction — but the follow-up phrasing quietly adjusts depending on which option the spectator selects, so every branch of the conversation funnels toward the same predetermined result. In its classic form, several folded slips are laid out and a spectator is asked to point to one; depending on which pile they land on, that pile gets called 'eliminated' or 'kept' after the fact by the performer's own framing, not by anything the spectator actually decided."
+      },
+      {
+        "type": "paragraph",
+        "text": "The skill isn't dexterity, it's preparation: having two or more scripted responses ready for either branch of a decision, delivered with identical, unhurried confidence so neither sounds like an improvised save. Because the audience only ever hears the one branch that was actually said out loud, the choice feels open in retrospect even though it was closed from the performer's side the entire time. A hesitation, a too-quick recovery, or a difference in tone between branches is usually the only thing that gives the technique away."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle · ⚠️ Manipulation risk — equivoque relies on retroactively reinterpreting a spectator's own words to manufacture an outcome, which is powerful scripting craft but edges close to real deception the moment it's used outside a disclosed performance frame."
+      },
+      {
+        "type": "paragraph",
+        "text": "Equivoque belongs entirely inside a clearly-framed performance, used to create astonishment for people who know they're watching a demonstration of skill, not to convince anyone that an actual mind-reading event took place. A practical rehearsal habit: practice both branches of every scripted equivoque out loud, back to back, until each sounds equally natural — matching cadence across branches is what makes the illusion of a free choice hold up under scrutiny."
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["equivoque", "forcing", "scripting", "verbal technique"],
+    "relatedDrillIds": ["ment_d11", "ment_d12"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l10",
+    "disciplineId": "mentalism",
+    "title": "Working a Step Ahead",
+    "hook": "The most 'impossible' moment in a routine might already have happened — one full step before the audience thinks it did.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The one-ahead principle is a structural technique in which the information revealed for effect number one is actually gathered during the handling of effect number two, so the performer is always narrating something already collected rather than something happening live in front of the audience. A classic use appears in Q&A-style acts: the audience writes questions or facts on billets before the show, but the item read aloud and answered in vivid detail is from a previous item already opened, while the current item is quietly noted for use in the next reveal. The audience assumes the reveal timeline is synchronous with the handling timeline; the entire effect depends on that assumption never being questioned."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is why one-ahead structuring feels impossible rather than merely clever: the sleight isn't hiding an object, it's hiding a timeline. Building a convincing one-ahead act requires a plausible, natural-looking reason to handle multiple items in sequence — collecting several envelopes into a bowl, shuffling a stack of cards — so the one-step lag between gathering and revealing never reads as a structural gap. Without that cover activity, the mismatch between what's being handled and what's being described would be far easier to notice."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle · ⚠️ Manipulation risk — the entire technique depends on the audience never reconstructing the true order of events, so its honesty exists only at the level of the disclosed entertainment frame, not within the performance's internal logic, which is worth taking seriously."
+      },
+      {
+        "type": "paragraph",
+        "text": "What separates confident one-ahead work from a mess is redundancy management: never referencing the same person's item twice in a way that could expose the offset between when it was gathered and when it was described, and building in a natural 'loose end' — one item deliberately left unread, framed as a bonus or a keepsake — to account for the fact that one final piece of information never actually gets revealed in a chain that's always running one step behind."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["one-ahead", "structure", "prediction", "scripting"],
+    "relatedDrillIds": ["ment_d13", "ment_d14"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l11",
+    "disciplineId": "mentalism",
+    "title": "Why Paper Never Gets a Second Look",
+    "hook": "The audience watched every fold. They just weren't watching the moment it mattered.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Picture a classic parlor scene: a performer collects several folded billets — small slips of paper with names or questions written on them by the audience — drops them into a bowl, and a moment later unfolds one and describes its contents in vivid, unmistakable detail. Historically, this is one of the oldest structures in mentalism, and its reliability doesn't come from especially fast hands. It comes from the fact that paper handled the same way, over and over, in a natural, repeated action stops getting individually tracked by the people watching it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Conceptually, a billet switch lets a performer work from genuine information while the audience believes they're watching a blind, honest read of an item that never left their sight. In an honestly staged routine, the item does leave sustained attention briefly, during an action that looks procedurally identical to everything around it — a fold, a toss into a bowl, a shuffle — so the moment is never marked as significant while it's happening."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle · ⚠️ Manipulation risk · 🤝 Ethical use — the switch itself is a genuine, deliberate deception of attention, so ethical practice keeps it strictly inside a disclosed entertainment frame and never implies real access to someone's private information outside the show."
+      },
+      {
+        "type": "paragraph",
+        "text": "Why does it work so reliably? Attention research on repeated, template-like actions shows that once an observer's brain classifies a movement as 'the same thing happening again,' it allocates less individual scrutiny to each repetition — which is exactly what a billet switch depends on. The craft isn't speed; it's making every handling of every billet look identical enough that none of them earns a second look."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["billet switch", "misdirection", "props", "scripting"],
+    "relatedDrillIds": ["ment_d15", "ment_d16"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l12",
+    "disciplineId": "mentalism",
+    "title": "One Voice, Many Eyes",
+    "hook": "The exact same routine, performed the exact same way, can land completely differently in front of one person than in front of a hundred.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Performing mentalism for a single person — up close at a table, walking a corporate reception — is a different discipline than performing for a seated group or a stage audience, even when the underlying effect is identical. With one person, every ounce of calibration is on a single set of reactions, and pacing can adapt sentence by sentence. The intimacy also raises the stakes on stillness: every gesture reads as potentially significant when someone's entire attention is on you, so extraneous movement should nearly disappear from your handling."
+      },
+      {
+        "type": "paragraph",
+        "text": "With a group, the requirements flip. You need broadcast-style clarity: restating a volunteer's quiet response so people ten rows back can hear it, projecting reactions rather than reading them individually, and choosing one clear 'representative' volunteer so the rest of the room feels included in a single exchange rather than watching passively. The room's collective reaction also becomes a tool in its own right — laughter or a gasp from the crowd primes the expectation of the room before the featured volunteer even responds, something a one-on-one setting simply doesn't have available."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance — choosing pacing and blocking for a group versus an individual is pure stagecraft, comparable to choosing lighting or blocking for a scene, and carries no manipulation risk of its own."
+      },
+      {
+        "type": "paragraph",
+        "text": "Practice exercise: rehearse the same short routine twice — once addressed to a single practice partner sitting across a table, and once performed toward an empty room as if broadcasting to fifty people. Notice exactly how much of your script needs restating, slowing, or repeating for the group version to land with the same clarity as the intimate one."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["audience management", "staging", "group performance", "one-on-one"],
+    "relatedDrillIds": ["ment_d17", "ment_d18"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l13",
+    "disciplineId": "mentalism",
+    "title": "Writing the Reveal",
+    "hook": "The single most important sentence in any mentalism routine is also the one performers most often leave unscripted.",
+    "mode": "caseStudy",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Compare two versions of the same reveal. In the first, the performer rushes the final line the moment the answer is confirmed, faces breaking into a grin a half-second early, the line itself tumbling out flat. In the second, there's a deliberate pause before the reveal, a brief restatement of the 'impossible' constraint just before naming the answer — reminding the audience exactly what would have to be true for this to be mere coincidence — and the reveal line itself is stated plainly rather than shouted. Underplaying a genuinely surprising fact almost always reads as more confident, and more convincing, than overselling it."
+      },
+      {
+        "type": "paragraph",
+        "text": "A related structural tool is the double reveal: giving the easier, more expected part of the answer first (a color, a category) and the harder, more specific detail last (an exact word, a precise number), so tension builds across two beats instead of collapsing all at once. Done well, the audience's strongest reaction — the applause, the gasp — lands on the hardest part of the reveal rather than being spent on the whole thing at the same moment."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle — pacing a reveal draws on real principles of anticipation and how memory weighs the ending of an experience, without involving any deception about what kind of event the audience is watching."
+      },
+      {
+        "type": "paragraph",
+        "text": "The practical takeaway: write your reveal line word for word, and memorize it exactly. Ad-libbing the single highest-leverage sentence in an otherwise strong routine is one of the most common and most avoidable ways performers undersell an effect they spent real effort building."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["scripting", "reveal", "pacing", "structure"],
+    "relatedDrillIds": ["ment_d19", "ment_d20"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l14",
+    "disciplineId": "mentalism",
+    "title": "Why 'Impossible' Feels Different From 'Surprising'",
+    "hook": "An unpredictable outcome and an impossible one can look identical from the outside — but they're built out of completely different parts.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "There's a meaningful psychological difference between surprise — an outcome you didn't predict, but can immediately explain — and the feeling of impossibility, where an outcome appears to violate a rule you were confident was true, like 'I never let go of this card' or 'no one could have known what I was thinking about.' Mentalism effects are engineered to attack a specific, believed constraint, not simply to be unpredictable, and that distinction is what separates a routine that gets a shrug from one that gets a genuine gasp."
+      },
+      {
+        "type": "paragraph",
+        "text": "Building that feeling requires first strongly establishing the constraint — making sure the audience consciously registers 'I could have picked any card' or 'no one could see my paper' — before breaking it. A violated rule the audience never noticed as a rule in the first place doesn't register as impossible; it just reads as vaguely odd, and the effect underperforms no matter how technically difficult the method behind it was."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle — this describes genuine perceptual and cognitive psychology about how constraint and violation are experienced, with no manipulation risk since it concerns structuring perception inside a known entertainment context."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is the real function of a 'convincer' beat placed earlier in a routine — a small moment that seems to serve one purpose (letting a volunteer freely shuffle, or genuinely think of anything at all) but actually pre-establishes a fact the audience will need to feel amazed later. Most of a mentalist's real craft happens well before the reveal, in planting the constraint clearly enough that breaking it afterward reads as impossible rather than merely sloppy or lucky."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["psychology of magic", "impossibility", "expectation"],
+    "relatedDrillIds": ["ment_d21", "ment_d22"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l15",
+    "disciplineId": "mentalism",
+    "title": "Reading the Room, Performer's Version",
+    "hook": "When the room's energy drops mid-routine, what actually changed — the trick, or your handling of it?",
+    "mode": "socratic",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Here's a question worth sitting with: mid-routine, side conversations start and phones come out. What is that telling you? Performers who 'read the room' this way aren't decoding anyone's hidden thoughts — that's a different skill taught elsewhere in this app, under a different discipline entirely. They're tracking collective attention and pacing, the same way a public speaker tracks whether a joke needs another beat of silence before the punchline, or needs cutting altogether."
+      },
+      {
+        "type": "paragraph",
+        "text": "A second question: how do you tell a slow section that's 'building tension' apart from one that's 'losing the audience'? The signals are distinguishable. Forward lean and quieting focus tend to mean tension is building productively. Fidgeting, glancing between each other, or checking phones tends to mean attention is draining out of the room. A performer's job is to have a pre-planned acceleration option ready for the second case — a way to shorten a demonstration or cut straight to the reveal — rather than improvising a fix in the moment."
+      },
+      {
+        "type": "paragraph",
+        "text": "A third, harder question: should a mentalist ever break from a fully rehearsed script mid-show because the room's energy demands it? Most experienced performers say yes, within limits — the connective material (small talk, transitions, pacing of demonstrations) should flex to the room, while load-bearing lines like reveals and forcing branches stay locked exactly as rehearsed."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance — this is pacing and attention management as a stagecraft skill, entirely distinct from the interpersonal reading taught in this app's Reading People discipline, and it carries no manipulation risk of its own."
+      },
+      {
+        "type": "paragraph",
+        "text": "The habit worth building is treating every audience as a live variable rather than a fixed backdrop for a memorized script — noticing its state continuously, and having pre-rehearsed options ready rather than discovering in the moment that you have none."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["pacing", "attention", "stagecraft"],
+    "relatedDrillIds": ["ment_d23", "ment_d24"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l16",
+    "disciplineId": "mentalism",
+    "title": "The Skeptic in the Third Row",
+    "hook": "'I bet you have a plant in the audience.' The words themselves aren't the problem — how you answer them is.",
+    "mode": "story",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "It happens in almost every performing career eventually: someone folds their arms and announces, loudly enough for the room to hear, 'I don't believe in this,' or 'I bet you have a plant.' Performers who handle this well aren't improvising a defense on the spot — they've built a small toolkit of graceful responses in advance, because arguing with a skeptic in front of an audience rarely goes well for anyone."
+      },
+      {
+        "type": "paragraph",
+        "text": "The strongest response usually agrees with the skepticism openly: 'You shouldn't believe it — that's the point. I'm not claiming to read minds, I'm demonstrating a skill.' This disarms confrontation by removing the very thing being argued about. The next move is to redirect the energy productively: invite the skeptic into the routine as the next volunteer. A skeptic who becomes part of the demonstration usually turns into its most convincing advocate, because their objection has been folded into the show rather than fought against."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance · 🧠 Psychological principle — de-escalating through agreement and reframing is genuine audience-management psychology, and it carries no manipulation risk precisely because it stays transparent about the performance frame rather than trying to win the argument."
+      },
+      {
+        "type": "paragraph",
+        "text": "The worse alternative is arguing with a skeptic, or — worse still — trying to 'win' by asserting a stronger claim of genuine ability. That's both a weaker performance choice and edges directly toward the overclaiming this discipline explicitly rejects. The honest, sturdier answer is always some version of 'you're right to be skeptical of anyone claiming real psychic powers — I'm not one of them.'"
+      }
+    ],
+    "estimatedMinutes": 6,
+    "tags": ["skeptics", "audience management", "improvisation"],
+    "relatedDrillIds": ["ment_d25", "ment_d26"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l17",
+    "disciplineId": "mentalism",
+    "title": "The Business of 'Psychic' Readings",
+    "hook": "The same techniques taught in this discipline can become genuinely harmful the moment the word 'performance' quietly disappears.",
+    "mode": "deepDive",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "There is a paid 'psychic reading' industry that markets the exact same underlying techniques taught elsewhere in this discipline — cold reading, forcing, one-ahead structuring, equivoque — as genuine supernatural ability, rather than as disclosed performance skill. It frequently targets people who are grieving, anxious, or facing a major decision, and charges ongoing fees for continued 'guidance' rather than a single, bounded consultation."
+      },
+      {
+        "type": "paragraph",
+        "text": "Even performed with real technical skill, this is harmful for a specific, structural reason: it substitutes a scripted illusion of insight for a person's own judgment at exactly the moments — bereavement, a major health scare, a big decision — where the cost of being steered wrong is highest. And because repeat sessions generate repeat revenue, the business incentive rewards keeping a client uncertain and returning, rather than giving them a clean, useful answer and letting them move on."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: ⚠️ Manipulation risk · 🤝 Ethical use — this lesson exists to draw a bright line: the skills taught throughout this discipline become genuinely harmful the moment the entertainment frame is dropped and a real supernatural claim replaces it, and this app explicitly does not teach or endorse that use."
+      },
+      {
+        "type": "paragraph",
+        "text": "Everything else in this course assumes an audience that knows it's watching a demonstration of skill. A performer's honest, disclosed framing — 'this is a performance of technique, not a genuine supernatural claim' — is the single line separating legitimate mentalism from consumer harm. Any use of these techniques that erases that disclosure for profit is a line this app will not help anyone cross."
+      }
+    ],
+    "estimatedMinutes": 8,
+    "tags": ["ethics", "cold reading", "psychic services", "consumer protection"],
+    "relatedDrillIds": ["ment_d27", "ment_d28"],
+    "relatedCardIds": []
+  },
+  {
+    "id": "ment_l18",
+    "disciplineId": "mentalism",
+    "title": "Building Your Signature Routine",
+    "hook": "Plenty of performers use the same underlying technique. Almost none of them make it feel like theirs.",
+    "mode": "coach",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "What makes a mentalism routine 'signature' isn't usually the underlying structural principle — many performers rely on the same core techniques, like equivoque or one-ahead structuring. It's the specific script, persona, and staging choices wrapped around that technique, plus a personal reason for performing it that comes through in how you talk about it. Two performers can run the identical structural method and produce completely different experiences for an audience."
+      },
+      {
+        "type": "paragraph",
+        "text": "Practical building blocks for a signature routine: pick one core structural principle you can perform reliably under pressure rather than trying to combine several unfamiliar ones at once; write a full script that includes your outs for at least two ways the routine could go differently than expected; and choose a persona framing — playful skeptic, calm observer, warm showman — that's consistent with how you actually behave off-stage. A mismatched persona reads as inauthentic faster than any technical slip in the method itself."
+      },
+      {
+        "type": "keyPoint",
+        "text": "TAGS: 🎭 Performance — this is craft-building for a disclosed entertainment routine and carries no manipulation risk of its own, since a signature routine is still performed inside a frame the audience understands."
+      },
+      {
+        "type": "paragraph",
+        "text": "Practice suggestion: perform your developing routine for at least five different informal audiences before treating it as finished. Script problems — an unclear line, a beat that runs too long, a transition that falls flat — only surface reliably against real reactions, never in solo rehearsal alone."
+      }
+    ],
+    "estimatedMinutes": 7,
+    "tags": ["routine building", "structure", "personal style"],
+    "relatedDrillIds": ["ment_d29", "ment_d30"],
+    "relatedCardIds": []
+  }
+]

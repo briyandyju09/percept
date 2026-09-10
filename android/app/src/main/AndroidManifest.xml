@@ -1,4 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Required on Android 13+ (API 33) to post local notifications, e.g.
+         the daily reminder in Settings. flutter_local_notifications also
+         declares this in its own manifest (merged automatically), but
+         it's declared here too so the app's own permission needs are
+         self-documenting. -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
     <application
         android:label="untitled"
         android:name="${applicationName}"

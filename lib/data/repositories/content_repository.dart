@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:flutter/services.dart' show rootBundle;
+import 'package:flutter/services.dart' show AssetManifest, rootBundle;
 import 'package:flutter/foundation.dart' show kDebugMode;
 
 import '../../models/assessment_question.dart';
@@ -12,10 +12,23 @@ import '../../models/drill.dart';
 import '../../models/knowledge_card.dart';
 import '../../models/lesson.dart';
 import '../../models/onboarding_goal.dart';
+import '../../models/library_resource.dart';
+import '../content_validation.dart';
 
 /// Loads every hand-authored JSON content file once at startup and indexes
 /// it in memory. All screens read content through this repository rather
 /// than touching `rootBundle` directly.
+///
+/// Content is loaded by PREFIX, not by a single hardcoded filename per
+/// category — see [_loadShardedJsonList]. A single content JSON file over
+/// ~45KB was empirically found to hang indefinitely when loaded via
+/// `rootBundle.loadString` in this environment (see
+/// `tool/validate_content.dart`'s size-limit check), so every category
+/// that grows past that size is split into multiple numbered shard files
+/// (`lessons_composure.json`, `lessons_composure_2.json`, ...) that all
+/// share a prefix and get discovered via the asset manifest at load time.
+/// This means adding more content is just "add another shard file with a
+/// unique suffix" — no code change needed here.
 class ContentRepository {
   late final List<Lesson> lessons;
   late final List<Drill> drills;
@@ -26,12 +39,15 @@ class ContentRepository {
   late final List<CharacterChallenge> dailyChallenges;
   late final List<BiasDefinition> biasDefinitions;
   late final List<ConversationScenario> conversationScenarios;
+  late final List<LibraryResource> libraryResources;
 
   late final Map<String, Lesson> _lessonById;
   late final Map<String, Drill> _drillById;
   late final Map<String, KnowledgeCard> _cardById;
   late final Map<String, CaseFile> _caseById;
   late final Map<String, BiasDefinition> _biasById;
+
+  AssetManifest? _manifest;
 
   static const List<String> _disciplineIds = [
     'observation',
@@ -43,12 +59,28 @@ class ContentRepository {
     'character',
   ];
 
+  static const List<String> _libraryGroupIds = [
+    'observation',
+    'psychology',
+    'reading_people',
+    'conversation',
+    'mentalism',
+    'composure',
+    'character',
+    'general',
+  ];
+
   Future<void> load() async {
+    _manifest = await AssetManifest.loadFromAssetBundle(rootBundle);
+
     final lessonLists = await Future.wait(
-      _disciplineIds.map((d) => _loadJsonList('assets/content/lessons_$d.json')),
+      _disciplineIds.map((d) => _loadShardedJsonList('lessons_$d')),
     );
     final drillLists = await Future.wait(
-      _disciplineIds.map((d) => _loadJsonList('assets/content/drills_$d.json')),
+      _disciplineIds.map((d) => _loadShardedJsonList('drills_$d')),
+    );
+    final libraryLists = await Future.wait(
+      _libraryGroupIds.map((d) => _loadShardedJsonList('library_resources_$d')),
     );
 
     lessons = [
@@ -59,29 +91,31 @@ class ContentRepository {
       for (final list in drillLists)
         for (final item in list) Drill.fromJson(item),
     ];
+    libraryResources = [
+      for (final list in libraryLists)
+        for (final item in list) LibraryResource.fromJson(item),
+    ];
 
-    knowledgeCards = (await _loadJsonList('assets/content/knowledge_cards.json'))
+    knowledgeCards = (await _loadShardedJsonList('knowledge_cards'))
         .map(KnowledgeCard.fromJson)
         .toList();
-    caseFiles = (await _loadJsonList('assets/content/case_files.json'))
+    caseFiles = (await _loadShardedJsonList('case_files'))
         .map(CaseFile.fromJson)
         .toList();
-    assessmentQuestions =
-        (await _loadJsonList('assets/content/assessment_questions.json'))
-            .map(AssessmentQuestion.fromJson)
-            .toList();
-    onboardingGoals = (await _loadJsonList('assets/content/onboarding_goals.json'))
+    assessmentQuestions = (await _loadShardedJsonList('assessment_questions'))
+        .map(AssessmentQuestion.fromJson)
+        .toList();
+    onboardingGoals = (await _loadShardedJsonList('onboarding_goals'))
         .map(OnboardingGoal.fromJson)
         .toList();
-    dailyChallenges =
-        (await _loadJsonList('assets/content/daily_challenge_bank.json'))
-            .map(CharacterChallenge.fromJson)
-            .toList();
-    biasDefinitions = (await _loadJsonList('assets/content/bias_definitions.json'))
+    dailyChallenges = (await _loadShardedJsonList('daily_challenge_bank'))
+        .map(CharacterChallenge.fromJson)
+        .toList();
+    biasDefinitions = (await _loadShardedJsonList('bias_definitions'))
         .map(BiasDefinition.fromJson)
         .toList();
     conversationScenarios =
-        (await _loadJsonList('assets/content/conversation_scenarios.json'))
+        (await _loadShardedJsonList('conversation_scenarios'))
             .map(ConversationScenario.fromJson)
             .toList();
 
@@ -91,53 +125,45 @@ class ContentRepository {
     _caseById = {for (final c in caseFiles) c.id: c};
     _biasById = {for (final b in biasDefinitions) b.id: b};
 
-    assert(_checkReferentialIntegrity());
+    assert(() {
+      if (!kDebugMode) return true;
+      final issues = validateContent(
+        lessons: lessons,
+        drills: drills,
+        knowledgeCards: knowledgeCards,
+        caseFiles: caseFiles,
+        assessmentQuestions: assessmentQuestions,
+      );
+      if (issues.isNotEmpty) {
+        // ignore: avoid_print
+        print('ContentRepository validation problems:\n${issues.join('\n')}');
+      }
+      return true;
+    }());
+  }
+
+  /// Finds every bundled asset under `assets/content/` whose key starts
+  /// with [prefix] and ends in `.json` (e.g. prefix `lessons_composure`
+  /// matches both `lessons_composure.json` and any `lessons_composure_2
+  /// .json`, `_3.json`, ... shard that's been added since), loads them
+  /// all, and concatenates their contents in sorted (stable) order.
+  Future<List<Map<String, dynamic>>> _loadShardedJsonList(
+    String prefix,
+  ) async {
+    final fullPrefix = 'assets/content/$prefix';
+    final keys =
+        _manifest!.listAssets()
+            .where((k) => k.startsWith(fullPrefix) && k.endsWith('.json'))
+            .toList()
+          ..sort();
+    final lists = await Future.wait(keys.map(_loadJsonList));
+    return [for (final l in lists) ...l];
   }
 
   Future<List<Map<String, dynamic>>> _loadJsonList(String assetPath) async {
     final raw = await rootBundle.loadString(assetPath);
     final decoded = jsonDecode(raw) as List<dynamic>;
     return decoded.cast<Map<String, dynamic>>();
-  }
-
-  bool _checkReferentialIntegrity() {
-    if (!kDebugMode) return true;
-    final problems = <String>[];
-    for (final lesson in lessons) {
-      for (final id in lesson.relatedDrillIds) {
-        if (!_drillById.containsKey(id)) {
-          problems.add('Lesson ${lesson.id} references missing drill $id');
-        }
-      }
-      for (final id in lesson.relatedCardIds) {
-        if (!_cardById.containsKey(id)) {
-          problems.add('Lesson ${lesson.id} references missing card $id');
-        }
-      }
-    }
-    for (final caseFile in caseFiles) {
-      final characterIds = caseFile.characters.map((c) => c.id).toSet();
-      if (!characterIds.contains(caseFile.solution.correctCulpritId)) {
-        problems.add(
-          'Case ${caseFile.id} solution culprit not among characters',
-        );
-      }
-      for (final ev in caseFile.evidence) {
-        for (final contradictedId in ev.contradicts) {
-          if (!caseFile.evidence.any((e) => e.id == contradictedId)) {
-            problems.add(
-              'Case ${caseFile.id} evidence ${ev.id} contradicts missing $contradictedId',
-            );
-          }
-        }
-      }
-    }
-    if (problems.isNotEmpty) {
-      // ignore: avoid_print
-      print('ContentRepository referential integrity problems:\n'
-          '${problems.join('\n')}');
-    }
-    return true;
   }
 
   // --- Lookups ---
@@ -159,6 +185,12 @@ class ContentRepository {
 
   List<KnowledgeCard> cardsFor(String disciplineId) =>
       knowledgeCards.where((c) => c.disciplineId == disciplineId).toList();
+
+  List<LibraryResource> libraryResourcesFor(String disciplineId) =>
+      libraryResources.where((r) => r.disciplineId == disciplineId).toList();
+
+  List<LibraryResource> get generalLibraryResources =>
+      libraryResources.where((r) => r.disciplineId == 'general').toList();
 
   List<Discipline> get disciplines => Discipline.all;
 }
