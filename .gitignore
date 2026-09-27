@@ -5,3 +5,8 @@ build/
 .idea/
 *.iml
 local.properties
+
+# Flutter tool caches (added during cleanup)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
